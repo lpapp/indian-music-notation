@@ -1,0 +1,175 @@
+========== Part 1 ==========
+
+C#'        Bb   G#
+hare kṛṣṇa hare kṛṣṇa
+
+Bb G#  F D# Bb,D# C#
+kṛṣṇa kṛṣṇa ha re hare
+
+C#'       Bb   G#
+hare rāma hare rāma
+
+BbG#  FD# Bb,D# C#
+rāma rāma ha re hare
+
+========== Part 2 ==========
+
+ F      G# D#
+hare kṛṣṇa hare kṛṣṇa
+
+D#    Bb,D# C#
+kṛṣṇa kṛṣṇa hare hare
+
+ F     G# D#
+hare rāma hare rāma
+
+D#   Bb,D# C#
+rāma rā ma hare hare
+
+========== Part 3 ==========
+
+C#   Bb,   D#
+hare kṛṣṇa hare kṛṣṇa
+
+ F Bb  G# F D# F D#C#
+kṛṣṇa kṛṣṇa hare hare
+
+C#   Bb,  D#
+hare rāma hare rāma
+
+ FBb G# F D# F D#C#
+rāma rāma hare hare
+
+========== Part 4 ==========
+
+ F    G#   Bb
+hare kṛṣṇa hare kṛṣṇa
+
+C#'         BbD#'C#'
+kṛṣṇa kṛṣṇa hare hare
+
+ F   G#   Bb
+hare rāma hare rāma
+
+C#'       BbD#'C#'
+rāma rāma hare hare
+
+========== Part 5 ==========
+
+ F    G#   Bb
+hare kṛṣṇa hare kṛṣṇa
+
+C#'         F'D#'C#'
+kṛṣṇa kṛṣṇa hare hare
+
+ F   G#   Bb
+hare rāma hare rāma
+
+C#'       F'D#'C#'
+rāma rāma hare hare
+
+========== Part 6 ==========
+
+F'         D#'  C#'
+hare kṛṣṇa hare kṛṣṇa
+
+D#'C#' BbG#  F   D#C#
+kṛṣṇa kṛṣṇa hare hare
+
+F'        D#'  C#'
+hare rāma hare rāma
+
+D#'C#'BbG#  F   D#C#
+rā ma rāma hare hare
+
+
+Then again: 2-4-5-1
+
+Now instead of chopping style, go smooth: 1-2-3-4-5-6
+
+
+========== Double time - Part 1 ==========
+
+C#'
+hare kṛṣṇa hare kṛṣṇa
+
+Bb          G#
+kṛṣṇa kṛṣṇa hare hare
+
+Bb   G#    F   D#
+hare rāma hare rāma
+
+Bb   D#   C#
+rāma rāma hare hare
+
+========== Double time - Part 2 ==========
+
+ F                 G#
+hare kṛṣṇa hare kṛṣṇa
+
+ D#
+kṛṣṇa kṛṣṇa hare hare
+
+          Bb,    D#
+hare rāma hare rāma
+
+C#
+rāma rāma hare hare
+
+========== Double time - Part 3 ==========
+
+C#         Bb,     D#
+hare kṛṣṇa hare kṛṣṇa
+
+ D#
+kṛṣṇa kṛṣṇa hare hare
+
+ F        BbG#  F
+hare rāma hare rāma
+
+D#    FD# C#
+rāma rāma hare hare
+
+========== Double time - Part 4 ==========
+
+ F         G#      Bb
+hare kṛṣṇa hare kṛṣṇa
+
+                   C#'
+kṛṣṇa kṛṣṇa hare hare
+
+C#'
+hare rāma hare rāma
+
+Bb   D#'  C#'
+rāma rāma hare hare
+
+========== Double time - Part 5 ==========
+
+ F         G#      Bb
+hare kṛṣṇa hare kṛṣṇa
+
+                   C#'
+kṛṣṇa kṛṣṇa hare hare
+
+C#'
+hare rāma hare rāma
+
+F'   D#'  C#'
+rāma rāma hare hare
+
+========== Double time - Part 6 ==========
+
+F'
+hare kṛṣṇa hare kṛṣṇa
+
+D#'         C#'
+kṛṣṇa kṛṣṇa hare hare
+
+Bb        G#
+hare rāma hare rāma
+
+ F        D#   C#
+rāma rāma hare hare
+
+Then: first part in slow motion

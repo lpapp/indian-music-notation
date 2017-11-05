@@ -1,0 +1,27 @@
+========== Part 1 ==========
+
+(A,/)D     FE D    A,/D     D  ED C    Bb, F,/Bb,
+ha     re kṛṣ   ṇa       hare kṛṣ   ṇa
+
+   Bb,C   C/F  ED   C G,/C     D  FED    A,/D
+kṛ    ṣṇa     kṛṣṇa         hare ha   re
+
+ D    FED    A,/D       EDC    Bb, F,/Bb,
+hare rā   ma      hare rā   ma
+ 
+   Bb,C    C/F F  ED    C G,/C    D  FED    A,/D (or D/A instead of "A,/D" when going to Part 2)
+rā      ma       rā  ma        hare ha   re
+
+========== Part 2 ==========
+
+ D/A   G D/G DEF    G      F C/F CDE    D
+ha  re      kṛṣ  ṇa   hare      kṛṣ  ṇa
+
+    F   E D C G,/C    D  FED    A,/D D D/A
+kṛṣṇa kṛṣṇa        hare ha   re
+
+     G D/G  DEF    G       F C/F  CDE    D
+hare       rā   ma    hare       rā   ma
+
+   F    ED    C G,/C    D  FED    A,/D D D/A
+rāma rā   ma         hare ha   re

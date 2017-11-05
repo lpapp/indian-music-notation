@@ -1,0 +1,154 @@
+========== Part 1 ==========
+
+C#D# F#G# A      G# F#D# (D#/G#) G# F#
+hare kṛṣ ṇa hare    kṛṣ          ṇa
+
+F#A G#  F#    D#C# D# (D#/F#) F#  C#/F#
+kṛ  ṣṇa kṛṣṇa hare ha         re
+
+C#D# F#G# A      G# F#D# (D#/G#) G# F#
+hare rā  ma hare    rā           ma
+
+F#A G# F#   D#C# D# (D#/F#) F# C#/F#
+rā  ma rāma hare ha         re
+
+============================
+         Double-time
+========== Part 2 ==========
+
+C#         D#   F# G#
+hare kṛṣṇa hare kṛṣṇa
+
+ A
+kṛṣṇa kṛṣṇa hare hare
+
+G#        F#   D#
+hare rāma hare rāma
+
+ A   G#   F#        C#/F#
+rāma rāma hare hare
+
+============================
+         Single-time
+========== Part 3 ==========
+
+C#D#    F# G#       A    G#F#
+hare kṛṣṇa    hare kṛṣṇa
+
+ A    G# F# D#    AG# F# C#/F#
+kṛṣṇa kṛṣṇa hare ha   re
+
+C#D#   F# G#       A   G#F#
+hare rāma    hare rāma
+
+ A   G#F# D#    AG# F# C#/F#
+rāma rāma hare ha   re
+
+========== Part 4 ==========
+
+F#G#F# G#A A/C#' C#' BD#'   C#'  B C#' BA
+hare   kṛṣ ṇa             hare  kṛṣṇa
+
+   G#F#    G# F#D#       AG# F#
+kṛṣṇa   kṛṣṇa      hare ha   re
+
+F#G#F# G# A A/C#' C#' B D#'   C#' BC#' BA
+hare   rā   ma              hare rāma
+
+  G#F#   G# F#D#       AG# F#
+rāma   rāma      hare ha   re
+
+============================
+         Double-time
+========== Part 5 ==========
+
+F#         G#F# G#  A A/C#'
+hare kṛṣṇa hare kṛṣṇa
+
+      C#'          B    B/D#'
+kṛṣṇa kṛ ṣṇa hare hare
+
+D#'       C#'   B
+hare rāma hare rāma
+
+     C#'B  A   G#F#
+rāma rāma hare hare
+
+============================
+         Single-time
+========== Part 6 ==========
+
+F#G# F# G#  A   A/C#' C#'    BD#'
+hare kṛṣṇa hare       kṛ ṣṇa
+
+         C#'  B     C#'BAG#F#
+kṛṣṇa kṛṣṇa  hare hare
+
+F#G# F#G#  A   A/C#'   C#' BD#'
+hare rāma hare       rāma
+
+     C#'   B     C#'BAG#F#
+rāma rāma hare hare
+
+========== Part 7 (Variation of first double-time) ==========
+
+F#/C#'     C#'
+hare kṛṣṇa hare kṛṣṇa
+
+D#'    C#'  B  A
+kṛ ṣṇa kṛ ṣṇa hare hare
+
+G#        F#   D#
+hare rāma hare rāma
+
+      AG# F#        F#/C#'
+rāma rāma hare hare
+
+Play this above after the first double-time
+
+============================
+Transitions are up in the air, so there can be a few variationS
+========== Part 8 ==========
+
+F#/C#'C#'   D#'    C#'  BA
+hare  kṛṣṇa hare   kṛ ṣṇa
+
+         G# F# D#  AG#F# F#/C#'
+kṛṣṇa kṛṣṇa hare  ha  re
+
+          C#'    D#'C#'B A
+hare rāma ha re  rā     ma
+
+     G#F# D#    AG#F# F#/C#'
+rāma rāma hare ha  re
+
+========== Part 8v2 ==========
+
+F#/C#'      C#'  D#'   C#' BA
+hare  kṛṣṇa hare    kṛ ṣ  ṇa
+
+         G#F# D#     AG#F# F#/C#'
+kṛṣṇa kṛṣṇa   hare  ha  re
+
+          C#'   D#' C#'B A
+hare rāma ha re     rā  ma
+
+G#   F#   D#    AG#F#
+rāma rāma hare ha  re
+
+========== Part 8v3 (This sounds the best, Govinda Prabhu says) ==========
+
+F#/C#'      D#'C#'B    A G#F#
+hare  kṛṣṇa ha re  kṛṣṇa
+
+ A       G#F# D#     AG#F# F#/C#'
+kṛṣṇa kṛṣṇa   hare  ha  re
+
+          D#'C#'B    A G#F#
+hare rāma ha re   rāma
+
+ A   G#F# D#    AG#F#
+rāma rāma hare ha  re
+
+Double-times can be played in a chopping style as well; the mrdanga player might
+even know how to play jumping beats!

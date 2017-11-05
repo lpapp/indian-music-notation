@@ -1,0 +1,89 @@
+========== Part 1 ==========
+
+ C D#    D#/G   G F    D# D   D# D#/G   G F    F/Bb
+ha    re      kṛṣ   ṇa      hare      kṛṣ   ṇa
+
+   Bb       A   G F       G F D#
+kṛ    ṣṇa kṛṣṇa     hare ha      re
+
+   D#/G       G     (A G) F    F/A        A    F/A F
+ha      re rā    ma         ha     re  rā   ma
+
+ F F/A  A A/C' C'    C'/F' F' D'/F' D'    C'    Bb      F/Bb F G F D# D
+rā     ma rā      ma                   ha   re     hare
+
+
+========== Part 2 ==========
+
+D'     C' D' C' Bb G/Bb G   G/Bb Bb Bb/D#' D#'D'D#' 
+hare kṛṣ  ṇa              hare             kṛ ṣ ṇa
+
+  D'   C'Bb A   G F F/A  A Bb Bb/C' C' A/C' A Bb G/Bb G F F/D'
+kṛṣ ṇa kṛ   ṣṇa         ha re ha              re
+
+D'      C' D' C' Bb G/Bb G   G/Bb Bb Bb/D#' D#'D'D#'
+hare rā    ma              hare             rā   ma
+
+  D'    C'Bb A    G F F/A  A Bb Bb/C' C' A/C' A Bb G/Bb G F F/D'
+rā   ma rā     ma         ha re ha              re
+
+=> D/F
+
+Repeat Part 1
+
+============================
+         Double-time
+========== Part 3 ==========
+
+ DD# D#/G G    F   D#/F D#  D
+hare kṛ   ṣṇa hare      kṛṣṇa
+
+  D#    D#/G G    F         F/Bb
+kṛṣ  ṇa kṛ   ṣṇa hare hare
+
+     Bb    A   G    F
+hare rāma hare   rā   ma
+
+ G    F   D#    D
+rāma rāma hare    hare
+
+
+========== Part 4 ==========
+
+D# D#/G   G               F
+ha re   kṛṣṇa hare kṛṣṇa
+
+  F/A        A           F/A
+kṛṣ   ṇa kṛṣṇa hare hare
+
+ F   F/A A   A/C'  C'       C'/F'
+hare    rāma     hare rāma
+
+F' D'/F' D'    C'    Bb   G/Bb  G F D#/F D#
+rā       ma rā    ma hare      hare
+
+========== Part 5 ==========
+
+F/D'  D'   C'   D'C' BbG
+ha    re kṛṣ ṇa hare kṛṣṇa
+
+  Bb    Bb/D#'    D#'D'   D#'
+kṛṣ  ṇa        kṛ    ṣ ṇa ha re hare
+
+  D' C' Bb A          G F F/A
+hare rā      ma hare rā   ma
+
+ ABb C' A/C' A    Bb   G/Bb  G F F/D'
+rāma rā        ma hare      hare
+
+========== Repeat Part 3 ==========
+
+========== Repeat Part 4 ==========
+
+========== Repeat Part 3 ==========
+
+========== Repeat Part 4 ==========
+
+========== Repeat Part 1 ==========
+
+Finish with A,/D

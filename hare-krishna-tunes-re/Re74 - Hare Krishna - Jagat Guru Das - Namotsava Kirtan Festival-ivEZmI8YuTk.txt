@@ -1,0 +1,137 @@
+========== Part 1 ==========
+
+C#D# D#/F  F    F/G# G# Bb    G#    G#/C#' C#' C' Bb/C' Bb G# F/G# F    D#/F D# C#
+hare         kṛ         ṣ  ṇa    ha            re kṛ          ṣ      ṇa
+
+C#/F F   D#F   D#C#   Bb, Bb,/D# D# C#
+kṛ   ṣṇa kṛṣṇa      hare  ha           re
+
+  D# D#/F F     F/G# G# Bb    G#    G#/C#' C#' C' Bb/C' Bb G# F/G#  F D#/F D# C#
+hare         rā            ma    ha            re rā               ma
+
+C#/F F    D# F D# C#Bb, Bb,/D# D# C#
+rā     ma rāma    hare  ha           re
+
+=> C#/C#'
+
+========== Part 2 ==========
+
+C#'         G#/C#' G#    Bb    G#  
+ha re kṛṣṇa           ha    re    kṛṣṇa
+
+   Bb   G# F/G# F    D#   C# D# D#/G# G# F/G# F F/G# G# Bb Bb/C#' C#'
+kṛ ṣ ṇa kṛ      ṣ ṇa    hare ha       re
+ 
+          G#/C#' G#    Bb    G#
+hare rāma           ha    re    rāma
+
+  Bb G# F/G# F D#   C# D# D#/G# G# F/G# F F/G# G# Bb Bb/C#' C#'
+rāma rā     ma    hare ha       re
+
+========== Repeat Part 1 ==========
+
+========== Part 3 ==========
+
+C#'/F' F'    D#'F'D#'C#'    Bb    Bb/D#' D#'  C#'
+ha        re kṛ ṣ ṇa     ha    re kṛ        ṣ      ṇa
+
+  C#'/F' F'   D#'F'   D#'C#'    Bb    Bb/D#'    D#'C#'
+kṛ       ṣ ṇa kṛ ṣ ṇa        ha    re        ha       re
+
+C#'/F' F'    D#'F' D#' C#'    Bb    Bb/D#' D#'C#'
+ha        re rā ma         ha    re rā            ma
+
+   C#'/F' F'   D#'F' D#'C#'    Bb    Bb/D#'    D#'C#'
+rā          ma rā ma        ha    re        ha       re
+
+============================
+         Double-time
+========== Part 4 ==========
+
+C#'   F'D#'   F'D#' C#'Bb Bb/D#'
+ha re kṛṣ  ṇa hare  kṛ ṣ  ṇa
+
+   D#'         C#'
+kṛ ṣ  ṇa kṛṣṇa ha re hare
+
+     F'D#'   F'D#' C#' Bb Bb/D#'
+hare rā   ma hare  rā     ma
+
+   D#'       C#'
+rā     ma rā     ma hare hare
+
+========== Part 5 ==========
+
+C#'                 G#/C#'
+ha re kṛṣṇa hare kṛṣṇa
+
+G#    Bb    G#
+kṛṣṇa kṛṣṇa hare hare
+
+     BbG# F/G# F      D#C#
+hare rā       ma hare rā   ma
+
+D#   D#/G# G# F/G#  F      G#Bb C#'
+rāma rā            ma hare hare
+
+========== Part 5 ==========
+
+C#'                 G#/C#' G#
+ha re kṛṣṇa hare kṛṣṇa
+
+   Bb    G#
+kṛṣṇa kṛṣṇa hare hare
+
+     BbG# F/G# F      D#C#
+hare rā       ma hare rā   ma
+
+D#   D#/G# G# F/G#  F      G#Bb C#'
+rāma rā            ma hare hare
+
+========== Part 6 ==========
+
+C#   D#     F   F/G# G# Bb
+hare kṛṣṇa hare      kṛṣṇa
+
+            C#'C' BbG# F/G# F C/F#
+kṛṣṇa kṛṣṇa ha re hare 
+
+C#    FD#     FD# C#Bb, Bb,/D#
+hare rā   ma hare rā    ma
+
+D#      C#
+rāma rā    ma hare hare
+
+========== Repeat Part 4 ==========
+
+========== Part 7 ==========
+
+F'     D#'    F'   D#'C#'
+hare kṛṣ   ṇa hare kṛ ṣ   ṇa
+
+D#'      C#'    D#'        Bb/D#'
+kṛ ṣṇa kṛṣ   ṇa ha re hare
+
+Bb   Bb/D#' D#' Bb/D#' Bb Bb/D#' D#'
+hare rā     ma  ha     re rā         ma
+
+F'D#'    C#'Bb    C#'        C#'/F'
+rā    ma rā    ma ha re hare
+ 
+========== Part 8 ==========
+
+C#'                    G#/C#'
+ha re kṛṣṇa hare kṛṣṇa
+
+G#    Bb    G#
+kṛṣṇa kṛṣṇa hare hare
+
+     BbG# F/G#  F      D#C#
+hare rā        ma hare rā   ma
+
+D#   D#/G# G# F/G# F 
+rāma rā           ma hare hare
+
+========== Repeat Part 1 ==========
+
+=> Finish with G#,/C#
