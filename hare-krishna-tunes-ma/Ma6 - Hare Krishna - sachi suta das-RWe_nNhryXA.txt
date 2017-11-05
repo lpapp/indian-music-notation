@@ -1,0 +1,41 @@
+================= Part 1 =================
+
+ F     E   D  C Bb C   E
+Hare Krishna Hare    Krishna
+
+  E   F   E   D  C Bb C     E D
+Krishna Krishna Ha      re Hare
+
+ F    E D  C Bb C  E
+Hare Rama Hare    Rama
+
+ E F  E D  C Bb C     E D
+Rama Rama Ha      re Hare
+
+================= Part 2 =================
+
+ D  F  G   D F  A  G A A#    G F E
+Ha    re Krish na Ha   re  Krishna
+
+  D F G   D F A  G A A#  G F  E 
+Krishna Krishna Ha   re Ha   re
+
+ D F  G  D F  A  G A A#  G F E
+Ha   re Ra   ma Ha   re Ra  ma
+
+ D F G  G D F  G A A#  G F E 
+Ra  ma Ra  ma Ha   re Ha  re
+
+================= Part 3  =================
+
+ D     C   A  C     A G  E G E G E G E D C
+Hare Krishna Hare Krish na
+
+  C   D   E   D
+Krishna Krishna Hare Hare
+
+ D    C A  C    A G  E G E G E G E D C
+Hare Rama Hare Ra   ma
+
+ C D  E D
+Rama Rama Hare Hare

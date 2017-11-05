@@ -1,0 +1,67 @@
+========== Part 1 ==========
+
+ FG#  G G#  FF#  F F#
+hare kṛṣṇa hare kṛṣṇa
+
+ D# F  C#D#  FG# F# F
+kṛṣṇa kṛṣṇa hare hare
+
+ FG#  GG#  FF#  FF#
+hare rāma hare rāma
+
+D# F C#D#  FG# F# F
+rāma rāma hare hare
+
+========== Part 2 ==========
+
+C'         C#'C'  BbG#
+hare kṛṣṇa ha re kṛṣṇa
+
+ F F#  G#Bb G#F#  F
+kṛṣṇa kṛṣṇa hare hare
+
+C'        C#'C' BbG#
+hare rāma ha re rāma
+
+ FF# G#Bb G#F#  F
+rāma rāma hare hare
+
+========== Part 3 ==========
+
+D#          F
+hare kṛṣṇa hare kṛṣṇa
+
+ G#    F#    F
+kṛṣṇa kṛṣṇa hare hare
+
+D#         F
+hare rāma hare rāma
+
+G#   F#    F
+rāma rāma hare hare
+
+========== End ==========
+
+F/Bb                  A G   A
+Jaya Krishna Balaram Jaya Krishna Balaram
+
+ G F   G             Bb A   G      F
+Jaya Krishna Balaram Jaya Krishna Balaram
+
+F/Bb             A G   A
+Jaya Prabhupada Jaya Prabhupada
+
+ G F   G        Bb A   G  F
+Jaya Prabhupada Jaya Prabhupada
+
+F/Bb              A G  A
+Jaya Gaura Nitai Jaya Gaura Nitai
+
+ G F  G          Bb A  G  F
+Jaya Gaura Nitai Jaya Gaura Nitai
+
+F/Bb                 A G A
+Nitai Gaura Haribol Haribol
+
+ G F G         Bb A  G   F
+Haribol Nitai Gaura Haribol 

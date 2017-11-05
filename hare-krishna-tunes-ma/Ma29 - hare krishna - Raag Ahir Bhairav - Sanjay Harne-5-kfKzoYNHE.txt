@@ -1,0 +1,42 @@
+========== Part 1 ==========
+
+F#    FD     C#B,     C#
+hare kṛ  ṣṇa ha   re kṛṣṇa
+
+ C# D D/F# F#        B    Bb
+kṛṣṇa kṛ      ṣṇa ha   re hare
+
+ BBb Bb/D'D'   C#'B   C#'
+hare rā     ma ha  re rāma
+
+ B   BbF#  DB,   C#
+rāma rāma ha  re hare
+
+========== Part 2 ==========
+
+Bb B C#'    BBb  B C#'
+hare kṛṣṇa ha   re kṛṣṇa
+
+      D'    D'/F# F#'F' D'C#'
+kṛṣṇa kṛṣṇa ha       re hare
+
+Bb B C#'   BBb  B C#'
+hare rāma ha   re rāma
+
+     D'   D'/F# F#'F' D'C#'
+rāma rāma ha       re hare
+
+========== Part 3 ==========
+
+Bb B C#'    BBb B C#'
+hare kṛṣṇa ha  re kṛṣṇa
+
+ B     BbF#      DB,    C#   C#/Bb
+kṛṣṇa kṛ    ṣṇa ha   re hare
+
+Bb B C#'   BBb B C#'
+hare rāma ha  re rāma
+
+ B   BbF#     DB,    C#   C#/Bb
+rāma rā   ma ha   re hare
+
