@@ -1,0 +1,27 @@
+========== Part 1 ==========
+
+ E           C/E C       D   A,/D A, A,/C C    C/E E
+Govinda Bolo       Hari Gopa      la Bo     lo
+
+ E           C/E C       D   A,/D A, A,/C C    C/E E
+Govinda Bolo       Hari Gopa      la Bo     lo
+
+   E/G   G            A     E/A E E/G G    E/G E
+Ra     dha Raman Hari   Govin   d Bo    lo
+
+   E/G   G            A     E/A E E/G G    E/G E
+Ra     dha Raman Hari   Govin   d Bo    lo
+
+========== Part 2 ==========
+
+ E E/G G A     A/C'    C'           D   A,/D A, A,/C' C'   E/C' E
+Go         vin     da    Bolo Hari Gopa      la       Bolo
+
+ E E/G G A     A/C'    C'          D      A,/D A, A,/C' C'   E/C' E
+Go         vin     da    Bolo Hari   Gopa      la       Bolo
+
+C' A/C'  A  G E/G  E       E/A  AG E/G  E  D    C   C/C'
+Ra     dha Ra     man Hari     Go      vin   d Bolo
+
+C' A/C'  A  G E/G  E       E/A  AG E/G  E  D    C
+Ra     dha Ra     man Hari     Go      vin   d Bolo
