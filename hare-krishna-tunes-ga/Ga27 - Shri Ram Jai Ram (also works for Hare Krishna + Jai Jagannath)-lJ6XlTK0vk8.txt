@@ -1,0 +1,15 @@
+========== Part 1 ==========
+
+   E       F  E   D
+Shri Ram Jai Ram Jai Jai Ram
+
+   F       E  D   C
+Shri Ram Jai Ram Jai Jai Ram
+
+========== Part 2 ==========
+
+ G               F E D         
+Sitaram sitaram sitaram sitaram
+
+   E F       E   D   C
+sitaram sitaram sitaram sitaram

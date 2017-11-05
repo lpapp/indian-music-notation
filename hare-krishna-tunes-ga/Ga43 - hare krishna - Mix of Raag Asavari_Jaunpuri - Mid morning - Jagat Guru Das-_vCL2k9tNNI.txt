@@ -1,0 +1,115 @@
+========== Part 1 ==========
+
+D#F# F#/Bb Bb B  Bb F/Bb F   F# G#Bb  G# D#/G#
+hare kṛ         ṣṇa        hare kṛ   ṣṇa
+
+D#  F F# G# Bb D#/Bb D#    F F#FF#F D#
+kṛṣṇa kṛ   ṣṇa          hare ha     re
+
+D#F# F#/Bb Bb B Bb F/Bb F   F# G#Bb G# D#/G#
+hare rā         ma        hare rā   ma
+
+D# F F#G# Bb D#/Bb D#    F F#FF#F D#
+rāma rā   ma          hare ha     re
+
+========== Part 2 ==========
+
+Bb B B/D#' D#'D'D#' F'   D#'D'D#'
+hare       kṛ ṣ ṇa  hare kṛ ṣ ṇa
+
+F' D#' C#'C'  BbG#   Bb  BC#'B Bb
+kṛṣṇa  kṛ    ṣṇa   hare ha     re
+
+Bb B B/D#' D#'D'D#' F'   D#'D'D#'
+hare       rā   ma  hare rā   ma
+
+F'D#' C#'C'BbG#   Bb  BC#'BBb
+rāma  rā   ma   hare ha    re
+
+========== Part 3 ==========
+
+D#'  D'    F'   D#'   
+hare kṛṣṇa hare kṛ ṣṇa
+
+C#'   C'    D#'  C#'
+kṛṣṇa kṛṣṇa hare hare
+
+     C'Bb      G#
+hare rāma hare rāma
+
+Bb   B C#' B   Bb   Bb/D#'
+rāma rāma hare hare
+
+========== Part 4 ==========
+
+D#'  D'    F'D#'       C#'
+hare kṛṣṇa hare kṛ ṣṇa
+
+      C'    D#'  C#'
+kṛṣṇa kṛṣṇa hare hare
+
+     C'Bb      G#
+hare rāma hare rāma
+
+BbG# F# F D#        D#/D#'
+rāma rāma hare hare
+
+========== Part 5 ==========
+
+Bb   G#     B   Bb       G#
+hare kṛṣṇa hare    kṛṣṇa
+
+       G    Bb   G#
+kṛṣṇa kṛṣṇa hare hare
+
+F#    F   G#   F#
+hare rāma hare rāma
+
+ F   G#F#  F   D#   D#/Bb
+rāma rāma hare hare
+
+============================
+         Double-time
+========== Part 6 ==========
+
+D#F# F# Bb  B   Bb       F/Bb
+hare kṛṣṇa hare    kṛṣṇa
+
+ F F# G#    Bb   G#   D#/G# D#
+kṛṣṇa kṛṣṇa hare hare
+
+   F F#G#      Bb   D#/Bb
+hare rāma hare rāma
+
+D# F F#    F   D#
+rāma rāma hare hare
+
+========== Part 7 ==========
+
+Bb B  B/D#'D#' D' D#'
+hare kṛ       ṣṇa hare kṛṣṇa
+
+F'    D#' D' D#'        C#'
+kṛṣṇa kṛ ṣṇa hare hare
+
+  '       C'   Bb   G#
+hare rāma hare rāma
+
+Bb    BC#' B   Bb
+rāma rāma hare hare
+
+========== Part 8 ==========
+
+Bb   G#  B Bb         G#
+hare kṛṣṇa hare kṛṣṇa
+
+       G    Bb   G#   F#
+kṛṣṇa kṛṣṇa hare hare
+
+      F   G#   F#  
+hare rāma hare rāma
+
+ FG# F# F      D#
+rāma rāma hare hare
+
+Then Part 1, end with Bb,/D#

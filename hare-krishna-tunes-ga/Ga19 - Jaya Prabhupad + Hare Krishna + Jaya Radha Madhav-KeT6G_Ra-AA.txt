@@ -1,0 +1,59 @@
+==================== Part 1 ====================
+
+ E     D    C          B  C D C  B        A
+Jaya Prabhupada Jaya Prabhupada    Prabhupada
+
+ B     D    E    G     E D   E  D C
+Jaya Prabhupada Jaya Srila Prabhupada
+
+==================== Part 2 ====================
+
+ G                     F# G A G     F#    E
+Jaya Prabhupada Jaya Prabhupa   da Prabhupada
+
+ B     D    E    G     E D   E  D C
+Jaya Prabhupada Jaya Srila Prabhupada
+
+==================== Part 3 ====================
+
+ E D  E D C          B C  D C   B   A
+Ha   re     Krishna Ha   re   Krishna
+
+  B   D   E   G  E D  E  D C
+Krishna Krishna Ha   re Hare
+
+ E D  E D  C    B C  D C  B A
+Ha   re   Rama Ha   re   Rama
+
+ B D  E G  E D  E  D  C
+Rama Rama Ha   re  Hare
+
+==================== Part 4 ====================
+
+ G           F# G A G  F#   E 
+Hare Krishna Ha  re   Krishna
+
+  B   D   E   G  E D E  D C
+Krishna Krishna Ha  re Hare
+
+ G             F# G A G F# E 
+Ha   re   Rama Ha  re   Rama
+
+ B D  E G  E D E  D C
+Rama Rama Ha  re Hare
+
+==================== Part 5 ====================
+
+ E D  E  D  C       B C  D  C B A
+Jaya Radha Madhava Kun  ja Bihari
+
+ B    D    E  G     E D  E D   C
+Gopi Jana Vallabha Giri Vara Dhari
+
+==================== Part 6 ====================
+
+ G               F# G  A G F#  E
+Yashoda Nandana Braja Jana Ranjana
+
+ B   D  E    G    E D E D C
+Yamuna Tira Vana Ca      ri

@@ -1,0 +1,22 @@
+=============== Part 1 ===============
+
+ E             FE   D
+jaya jagannath,    jaya jagannatha, 
+
+ F        ED    C
+jaya baladeva, jaya subhadra,
+ 
+=============== Part 2 ===============
+
+ G             F  E D             E  F         E     D     C
+jagannatha svami nayana patha gami     nayana patha gami bhavatu me
+
+
+ G               F E  D             EF              E  D    C
+Nilachale swami tumi jaya jagannath    mayapure swami tumi jaya jagannath
+
+( G              F E  D             EF               E  D    C
+ mayapure swami tumi jaya jagannath    Nilachale swami tumi jaya jagannath)
+^^^ fun ^^^
+ 
+================= End =================
