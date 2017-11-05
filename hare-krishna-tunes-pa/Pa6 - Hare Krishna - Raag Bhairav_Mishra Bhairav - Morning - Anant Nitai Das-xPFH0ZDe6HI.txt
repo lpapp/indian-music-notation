@@ -1,0 +1,140 @@
+========== Part 1 ==========
+
+C/G G  E  F G#   G
+ha re kṛṣṇa hare   kṛṣṇa
+
+ E        F C#    C
+kṛṣṇa kṛṣṇa hare hare
+
+C/G G  E F G#   G
+ha re rāma hare   rāma
+
+ E      F C#    C
+rāma rāma hare hare
+
+========== Part 2 ==========
+
+ C         C'   B C#  C
+hare kṛṣṇa hare   kṛṣṇa
+
+       B C' G#    G
+kṛṣṇa kṛṣṇa hare hare
+
+ C        C'   B C# C
+hare rāma hare   rāma
+
+      BC' G#    G
+rāma rāma hare hare
+
+========== Part 3 ==========
+
+ C   G#       G F  EF G  FE
+hare kṛṣṇa hare   kṛṣṇa
+
+C#     E    C# FE C# C
+kṛṣṇa kṛṣṇa hare  hare
+
+ C   G#      GF  EF G FE
+hare rāma hare   rā ma
+
+C#    E   C# FE C# C
+rāma rāma hare  hare
+
+========== Part 4 ==========
+
+ C   C'         C#'BbC'
+hare kṛṣṇa hare kṛṣ  ṇa
+
+Bb G#  G    G#BbG# GF G C/G
+kṛṣṇa kṛṣṇa hare  ha re
+
+ C   C'        C#'BbC'
+hare rāma hare rā   ma
+
+BbG#  G   G#BbG# GF G C/G
+rāma rāma hare  ha re
+
+========== Part 5 (Part 3 with different start) ==========
+
+ A   G#       GF  EF G FE
+hare kṛṣṇa hare  kṛṣṇa
+
+C#     E    C# FE C# C
+kṛṣṇa kṛṣṇa hare  hare
+
+ F   G#      GF EF G
+hare rāma hare rā ma
+
+C#    E   C# FE C# C
+rāma rāma hare  hare
+
+Jump to Part 4
+
+========== Part 6 ==========
+
+C#'                
+hare kṛṣṇa hare kṛṣṇa
+
+C' C#' D' C#' C'
+kṛ ṣṇa kṛ ṣṇa hare hare
+
+C#'            
+hare rāma hare rāma
+
+C'C#' D'C#' C'
+rāma  rāma  hare hare
+
+========== Part 7 ==========
+
+C#'
+hare kṛṣṇa hare kṛṣṇa
+
+D'    C#'    C'
+kṛṣṇa kṛ ṣṇa hare hare
+
+C#'
+hare rāma hare rāma
+
+D'   C#'  C'
+rāma rāma hare hare
+
+========== Part 8 ==========
+
+C#'
+hare kṛṣṇa hare kṛṣṇa
+
+C'  C#' D' C#'C'
+kṛ ṣṇa  kṛṣṇa hare hare
+
+C#'
+hare rāma hare rāma
+
+D'   C#'  C'
+rāma rāma hare hare
+
+========== End ==========
+
+C'                     B A   B	
+Jaya Krishna Balarama Jaya Krishna Balarama
+
+ A G   A              C' B   A      G       G/C'
+Jaya Krishna Balarama Jaya Krishna Balarama
+
+C'                B A  B	
+Jaya Gaura Nitai Jaya Gaura Nitai
+
+ A G  A          C' B  A  G       G/C'
+Jaya Gaura Nitai Jaya Gaura Nitai
+
+C'               B A   B	
+Jaya Prabhupada Jaya Prabhupada
+
+ A G   A        C' B   A  G     G/C'
+Jaya Prabhupada Jaya Prabhupada
+
+
+G/C'                C'  B A B
+Nitai Gaura Haribol    Haribol
+
+ A G A        C'  B  A   G
+Haribol Nitai Gaura Haribol

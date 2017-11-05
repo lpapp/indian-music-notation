@@ -1,0 +1,45 @@
+========== Part 1 ==========
+
+ GF#  E  D    E  F  E
+hare kṛṣṇa hare kṛṣṇa
+
+    F  E  D B, DF  E D D/G
+kṛṣṇa kṛṣṇa hare  hare
+
+ GF#  E D    E  F E
+hare rāma hare rāma
+
+   F  E D B, DF  E D D/G
+rāma rāma hare  hare
+
+========== Part 2 ==========
+
+ G         F#   E     D EF E
+hare kṛṣṇa hare   kṛṣṇa
+
+    F  E  D B, DFE  D   D/G
+kṛṣṇa kṛṣṇa hare   hare
+
+ G        F#   E    D EF E
+hare rāma hare   rāma
+
+   F  E D B, DFE  D   D/G
+rāma rāma hare   hare
+
+========== Part 3 ==========
+
+ D E E/G  G  A   G  A    E/A E
+hare kṛ ṣṇa hare   kṛṣṇa
+
+    G G/B   B      C'  B A F#
+kṛṣṇa kṛ  ṣṇa hare    hare 
+
+           E    D   EFE
+hare rāma hare rāma
+
+   F  E D B,   DFE  D
+rāma rāma hare     hare
+
+============================
+
+This is also applicable to the maha prasada govinde prayer
