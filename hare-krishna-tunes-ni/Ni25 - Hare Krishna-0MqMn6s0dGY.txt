@@ -1,0 +1,62 @@
+========== Part 1 ==========
+
+ B   G   F#  E   F#E  DEF# D/F# D/F#/A D/A
+hare   kṛṣ  ṇa hare  kṛṣṇa
+
+ A     G F#  GF#  E   (B,/E) E/B
+kṛṣṇa kṛṣṇa hare hare
+
+ B   G    F# E   F#E  DE F# D/F# D/A
+hare   rā   ma hare  rā  ma
+
+   A     GF#  GF#  E   (B,/E) E/B
+rā   ma rāma hare hare
+
+
+========== Part 2 ==========
+
+ B   C'D'C'  B A  BC' B A G G/B
+hare kṛṣ ṇa hare kṛṣ ṇa
+
+  B A  G F#  GF#  E   E/B
+kṛṣṇa kṛṣṇa   hare hare
+
+ B   C'D'C'  B A  BC' B A G G/B
+hare rā  ma hare rā  ma
+
+   B  A  GF#  GF#  E   E/B
+rā   ma rāma hare hare
+
+
+============================
+         Double-time
+========== Part 3 ==========
+
+ B    G    F#   E
+hare kṛṣṇa hare   kṛṣṇa
+
+F#  E  D  E F#  D/F#      D/F#/A D/A
+kṛṣṇa kṛṣṇa ha re    hare
+
+   A    G F#    GF#
+hare rāma hare rāma
+
+ E                  D/B
+rāma rāma hare hare
+
+========== Part 4 ==========
+
+ B   C' D' C'       B A
+hare kṛṣṇa hare kṛṣṇa
+ 
+       B C'  B    A G G/B
+kṛṣṇa kṛṣṇa hare hare
+
+ B    AG    F#    GF#
+hare rā  ma hare rā   ma
+
+ E                  E/B
+rāma rāma hare hare
+
+
+Then repeat Part 1 and finish with B,/E

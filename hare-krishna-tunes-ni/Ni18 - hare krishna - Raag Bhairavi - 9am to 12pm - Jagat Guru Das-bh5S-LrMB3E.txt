@@ -1,0 +1,70 @@
+========== Part 1 ==========
+
+Bb            B  Bb
+hare kṛṣṇa hare kṛṣṇa
+
+    B C#'D#' Bb/D#' Bb B BbG#F#
+kṛṣṇa kṛṣṇa         hare hare
+
+      FD#    F D#C#
+hare rāma hare rāma
+
+D# F F#G# F#  D#  ED# D#/Bb
+rāma rāma hare   hare
+
+========== Part 2 ==========
+
+F#    F D#    F  D#C#
+hare kṛṣṇa hare kṛṣṇa
+
+ D# F  F#G# F#  D#  ED#
+kṛṣṇa kṛṣṇa hare   hare
+
+F#    DD#    F D#C#
+hare rāma hare rāma
+
+D# F F#G# F#  D#  ED#
+rāma rāma hare   hare
+
+========== Part 3 ==========
+
+F#G#  B C#' D#'  C#' E' D#'
+hare kṛṣṇa  hare     kṛṣṇa
+
+C#'   D#'   C#' ED#'C#' Bb B
+kṛṣṇa kṛṣṇa ha re       hare
+
+F#G#  BC#' D#'  C#'E'D#'
+hare rāma  hare    rāma
+
+C#'  D#'  C#' ED#'C#' Bb B
+rāma rāma ha re       hare
+
+========== Part 4 ==========
+
+Bb          BC#'  BbG#F#   
+hare kṛṣṇa hare  kṛṣṇa
+
+ D#F#  B Bb G#   D#  ED#
+kṛṣṇa kṛṣṇa hare    hare
+
+F#/Bb Bb        BC#'B BbG#F#
+ha    re rāma  hare   rāma
+
+D#F#  BBb G#    D#  ED#
+rāma rāma ha re    hare
+
+========== Part 5 (Part 2 one scale/saptak up ==========
+
+F#'  F' D#'  F' D#' C#'
+hare kṛṣṇa hare kṛṣ ṇa
+
+D#'F' F#'G#' F#'   D#'E'D#'
+kṛṣṇa kṛṣṇa  ha re    hare
+
+F#'  F'D#'   F' D#'C#'
+hare rāma  hare rā ma
+
+D#'F' F#'G#' F#'  D#' E'D#'
+rā ma rā ma  hare     hare
+
