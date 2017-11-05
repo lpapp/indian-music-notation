@@ -1,0 +1,42 @@
+========== Part 1 ==========
+
+ C     D FED    ED  FE DE DC C/G
+hare kṛṣṇa   ha    re kṛṣṇa
+
+    G    A  BbA  GFE D DEDFE  DE  DC
+kṛṣṇa kṛ   ṣṇa  ha  re       ha  re
+
+ C      D  FED    ED  FE  DE DC C/G
+hare rā   ma   ha    re  rā ma
+
+   G    A  BbA  GFE  D DEDFE  DE  DC
+rāma rā   ma   ha   re       ha  re
+
+========== Part 2 ==========
+
+C/G G   ABb AC'BbAG G/C' C'BbC' BbAG (D/G D/G D/G) G/Bb Bb    A  G (D/G D/G D/G)
+ha re kṛṣṇa                                        ha     re kṛṣṇa
+
+        ABb A  GFE D (A,/D A,/D A,/D) DEDFE DE  DC (G,/C G,/C G,/C)
+kṛṣṇa kṛṣṇa   ha  re                       ha  re
+
+C/G G    ABb AC'BbAG G/C' C'BbC' BbAG (D/G D/G D/G) G/Bb Bb    A G (D/G D/G D/G)
+ha re rā  ma                                        ha     re rāma
+
+       A BbA    GFE D (A,/D A,/D A,/D) DEDFE  DE DC (G,/C G,/C G,/C)
+rāma rā  ma    ha  re                        ha re
+
+========== Part 3 ==========
+
+ C     D FED A,/DA,/DA,/D (kartal style) A,/DA,/DA,/D A,/DA,/DA,/D  DED FE DE DC G,/C G,/C G,/C
+hare kṛṣṇa                                                         ha  re kṛṣṇa
+
+C/G G   ABbA  GFE  D A,/DA,/DA,/D A,/DA,/DA,/D   DED FEDEDC G,/C G,/C G,/C
+kṛṣṇa kṛṣṇa  ha   re                            ha  re
+
+G, C    D FED A,/D A,/D A,/D A,/D A,/D A,/D A,/D A,/D A,/D  DED  FE DE  DC G,/C G,/C G,/C
+hare rā  ma                                                ha   re rā  ma
+
+C/G G   A BbAG  FE  D A,/D A,/D A,/D A,/D A,/D A,/D  DED FEDEDC G,/C G,/C G,/C
+rā ma rā  ma   ha  re                               ha  re
+

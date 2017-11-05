@@ -1,0 +1,115 @@
+========== Part 1 ==========
+
+ CB,  C C/E E     F   Bb  A G F E D D/G
+hare kṛ ṣṇa    hare kṛṣ  ṇa
+
+    G  F  ED (D/F)  F E  D C
+kṛṣṇa kṛṣṇa        hare hare
+
+ CB,  C C/E    E    F    Bb  A G F E D D/G
+hare rā     ma   hare rā    ma
+
+   G  F ED (D/F) F E  D C
+rāma rāma       hare hare
+
+========== Part 2 ==========
+
+This can be started from either Ni or Sa.
+
+C'    B C'       BD'C' BAGFE
+hare kṛṣṇa hare kṛṣ ṇa
+
+----
+(or:
+ B      C'       BD'C' BAGFE
+hare kṛṣṇa hare kṛṣ ṇa)
+----
+
+       F  GA (A/C') C' B  A G G/C' (or G/B with Ni start)
+kṛṣṇa kṛṣṇa  ha       re hare
+
+C'    BC'       BD'C' BAGFE
+hare rāma hare rā  ma
+
+      F GA (A/C') C' B  A G G/C'
+rāma rāma   ha      re hare
+
+========== Part 3 ==========
+
+E'   D' E'      D'F'E' D'C'BAG	
+hare kṛṣṇa hare kṛṣ ṇa
+
+(this could have been, but not... in the audio reverse-engineered)
+       B C' E'   D'C'
+kṛṣṇa kṛṣṇa hare hare)
+
+E(/G E)   F  G A A/C'C' B  A G G/E'
+kṛ   ṣṇa kṛṣṇa   ha    re hare
+ 
+E'   D'E'      D'F'E' D'C'BAG
+hare rāma hare rā  ma
+
+E(/G E)  F G A A/C'C' B  A G G/E'
+rā ma   rāma   ha    re hare
+
+========== Part 4 ==========
+
+E'   D' E' D'   C' D' B/D'
+hare kṛṣṇa hare kṛṣṇa
+
+ B    C' D'C' C'/F'E' D'C' C'/E'
+kṛṣṇa kṛṣṇa   ha   re hare
+
+E'   D'E' D'   C'D' B/D'
+hare rāma hare rāma
+
+ B   C'D'C' C'/F'E' D'C' C'/E'
+rāma rāma   ha   re hare
+
+Then play Part 2.
+
+========== Part 5 ==========
+
+ A    G  A       GBb A GFED D/G
+hare kṛṣṇa hare kṛṣ ṇa
+
+    G  F  E D  F E  D C C/A  
+kṛṣṇa kṛṣṇa   hare hare
+
+ A    G A       GBb A GFED D/G
+hare rāma hare rā  ma
+
+   G  F E D  F E  D C C/A
+rāma rāma   hare hare
+
+========== Part 6 (Variation of Part 2) ==========
+
+C'    B C'       BD'C' BAGFE
+hare kṛṣṇa hare kṛṣ ṇa
+
+E/G G    F  E  D D/F  E  D C
+kṛ  ṣṇa kṛṣṇa ha     re hare
+
+C'    BC'       BD'C' BAGFE
+hare rāma hare rā  ma
+
+E/G G     F E  D D/F E  D C
+rā    ma rāma ha    re hare
+
+Then do Part 2, then back to this Part 6, then Part 3, then Part 4.
+
+========== Part 7 (Variation of Part 4) ==========
+
+E'   D'    C' B C'
+hare kṛṣṇa hare kṛṣṇa
+
+ B    C' D'C' C'/F'F'E' D'C' C'/E'
+kṛṣṇa kṛṣṇa   ha     re hare
+
+E'   D'E' D'   C'D' B/D'
+hare rāma hare rāma
+
+ B   C'D'C' C'/F'E' D'C' C'/E'
+rāma rāma   ha   re hare
+
+Then Part 6, then Part 5, then Part 1.

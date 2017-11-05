@@ -1,0 +1,121 @@
+========== Part 1 ==========
+
+ C D D#G      A   C'  A  G D#
+hare kṛ  ṣṇa hare    kṛṣṇa
+
+    G D#D   C  D   D#  D C
+kṛṣṇa kṛ  ṣṇa hare    hare
+
+ C D D#G    AC'  A G D#
+hare rā ma hare rāma
+
+   G D#D  C  D   D#  D C
+rāma rā  ma hare    hare
+
+========== Part 2 ==========
+
+ G A C'  A C'         AG
+hare kṛṣṇa hare kṛṣṇa
+
+    A D#' D' C' AC'      AG
+kṛṣṇa kṛ ṣṇa hare   hare
+
+ G A C' A C'        AG
+hare rāma hare rāma
+
+   A D#'D' C' AC'      AG
+rāma rā ma hare   hare
+
+========== Part 3 ==========
+
+D#'        D'D#' D' D#' D'C'
+hare kṛṣṇa hare  kṛṣṇa
+
+              D#'D'C'   C'/D#'
+kṛṣṇa kṛṣṇa hare   hare
+
+D#'       D'D#' D'D#' D'C'
+hare rāma hare  rāma
+
+            D#'D'C'     C'/D#'
+rāma rāma hare     hare
+
+============================
+         Double-time
+========== Part 4 ==========
+
+C'          A    G
+hare kṛṣṇa hare kṛṣṇa
+
+       A  G D#
+kṛṣṇa kṛṣṇa hare hare
+
+ A         G   D#
+hare rāma hare rāma
+
+ D   D# D  C        C/C'
+rāma rāma hare hare
+
+============================
+         Single-time
+========== Part 5 ==========
+
+C'    A  G    AG D#
+hare kṛṣṇa hare  kṛṣṇa
+
+ A     G D#  DD#D  C   C/C'
+kṛṣṇa kṛṣṇa hare  hare
+
+C'    A G    AG D#
+hare rāma hare  rāma
+
+ A    GD#  DD#D  C   C/C'
+rāma rāma hare  hare
+
+========== Part 6 ==========
+
+ C    D D# D#/G G
+hare kṛṣṇa     hare  kṛṣṇa
+
+       A C' D'
+kṛṣṇa kṛṣṇa hare hare
+
+D#'       D'   C'
+hare rāma hare rāma
+
+     D#'D' C'         C/C'
+rāma rā ma hare  hare
+
+========== Part 7 ==========
+
+D#'
+hare kṛṣṇa hare kṛṣṇa
+
+D'          D#'
+kṛṣṇa kṛṣṇa hare hare
+
+D'        C'
+hare rāma hare rāma
+
+     D#'D' C'
+rāma rā ma hare hare
+
+Then Part 4
+
+========== Part 8 ==========
+
+ C D D#G    AC'  D' D#' D'E'  D#'
+hare kṛṣṇa hare  kṛṣṇa
+
+   D'C'A/C'A            D#'D'C'A/C'AC'       C/C'
+kṛṣṇa           kṛṣṇa hare             hare
+
+ C D D#G     AC'  D'D#' D'E'  D#'
+hare rā  ma hare  rāma
+
+  D'C' A/C' A        D#'D'C' A/C' AC'      C/C'
+rāma          rāma hare               hare
+
+Then Part 4 to come down
+
+Then conclude with Part 1

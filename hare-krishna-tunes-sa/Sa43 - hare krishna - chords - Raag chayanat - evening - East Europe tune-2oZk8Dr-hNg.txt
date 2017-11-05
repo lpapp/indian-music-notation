@@ -1,0 +1,71 @@
+========= Part 1 ==========
+
+C/F     C/G C/E C/F C/F     C/G C/E C/F
+hare kṛṣṇa          hare kṛṣṇa
+
+C/F      D/F Bb/D/F   C/E/G C/F
+kṛṣṇa kṛṣṇa  hare   hare
+
+C/F    C/G C/E C/F C/F    C/G C/E C/F 
+hare rāma          hare rāma
+
+C/F    D/F Bb/D/F   C/E/G C/F
+rāma rāma  hare   hare
+
+========= Part 2 ==========
+
+C/F  C/E/G          D/F
+hare kṛṣ ṇa    hare kṛṣṇa
+
+      Bb/D/F      C/F
+kṛṣṇa kṛṣṇa  hare hare
+
+     C/E/G      D/F
+hare rāma  hare rāma
+
+     Bb/D/F      C/F
+rāma rāma   hare hare
+
+========= Part 3 (Different singing) ==========
+
+C/F  C/E/G       D/F
+hare kṛṣ ṇa hare kṛṣṇa
+
+      Bb/D/F                C/F
+kṛṣṇa         kṛṣṇa  hare hare
+
+     C/E/G      D/F
+hare rāma  hare rāma
+
+     Bb/D/F      C/F
+rāma rāma   hare hare
+
+========= Part 4 ==========
+
+C/F
+hare kṛṣ ṇa    hare kṛṣṇa
+
+C/E/G
+kṛṣṇa kṛṣṇa  hare hare
+
+D/F
+hare rāma  hare rāma
+
+Bb/D/F
+rāma rāma   hare hare
+
+========= Part 5 (Different singing, little bit higher in-between) ==========
+
+C/F
+hare kṛṣ ṇa    hare kṛṣṇa
+
+C/E/G
+kṛṣṇa kṛṣṇa  hare hare
+
+D/F
+hare rāma  hare rāma
+
+Bb/D/F
+rāma rāma   hare hare
+
+=========  End   ==========

@@ -1,0 +1,242 @@
+========== Part 1 ==========
+
+ C C/F        F      E G       G/B
+ha     re kṛṣṇa hare     kṛṣṇa
+
+  B C' A  G F#G A GF      C/F
+kṛṣṇa kṛṣṇa ha re    hare
+
+ C C/F     F        E G      G/B
+ha     re rāma hare     rāma
+
+ BC'  A G F#G  A GF      C/F
+rāma rāma ha  re    hare
+
+========== Part 1v2 ==========
+
+ C C/F        F      E G 
+ha     re kṛṣṇa hare     kṛṣṇa
+
+F#     G    F#G  A GF      C/F
+kṛṣṇa kṛṣṇa ha  re    hare
+
+ C C/F     F        E G
+ha     re rāma hare     rāma
+
+F#    G   F#G A GF      C/F
+rāma rāma ha re    hare
+
+========== Part 1v3 ==========
+
+ C C/F     F         E G       G/B
+ha     re kṛṣṇa hare     kṛṣṇa
+
+  BC'  A  G  F C  D C
+kṛṣṇa kṛṣṇa hare hare
+
+ C C/F       F      E G      G/B
+ha     re rāma hare     rāma
+
+   B C'  A G  F C  D C
+rā   ma rāma hare hare
+
+========== Part 1v4 ==========
+
+ C C/F        F    EG
+ha     re kṛṣṇa ha    re kṛṣṇa
+
+F#     G    F    C  D C
+kṛṣṇa kṛṣṇa   hare hare
+
+ C C/F       F    EG
+ha     re rāma ha   re rāma
+
+F#    G   F    C  D C
+rāma rāma   hare hare
+
+========== Part 2 ==========
+
+ G G/C'         C'  ABbA  G
+ha      re kṛ  ṣṇa hare  kṛṣṇa
+
+F#     G    F#G A GF
+kṛṣṇa kṛṣṇa ha re    hare
+
+ G G/C'     C'  ABbA G
+ha     re rāma hare rāma
+
+F#    G   F#G A GF
+rāma rāma ha re    hare
+
+========== Part 3 ==========
+
+ G G/C'       C'  ABbA G
+ha      re kṛṣṇa hare kṛṣṇa
+
+F#     G     F C  D C
+kṛṣṇa kṛṣṇa hare hare
+
+ G G/C'      C'  ABbA G
+ha      re rāma hare rāma
+
+F#    G    F C  D C
+rāma rāma hare hare
+
+========== Part 4 ==========
+
+ G G/C'       C'  BC'BA
+ha      re kṛṣṇa hare   kṛṣṇa
+
+    B C' D' B   C' A    G
+kṛṣṇa kṛṣṇa   hare   hare
+
+ G G/C'      C'  BC'BA
+ha      re rāma hare   rāma
+
+   B C'D' B   C' A    G
+rāma rāma   hare   hare
+
+============================
+         Double-time
+========== Part 7 ==========
+
+ B   C'     A    G
+hare kṛṣṇa hare kṛṣṇa
+
+F#  G  A  G  F        F/B
+kṛṣṇa kṛṣṇa hare hare
+
+   B C' A    G
+hare rāma hare rāma
+
+F#  G  A   G F
+rā ma rāma     hare hare
+
+============================
+         Single-time
+========== Part 8 ==========
+
+ BC'  A  G F# G F# GAGF     CD C C/B
+hare kṛṣṇa hare kṛ      ṣṇa
+
+ B C'  A  G F# G F# GAGF    CD C C/F
+kṛṣṇa kṛṣṇa hare ha      re
+
+        F         E E/G G    G/B
+hare rāma hare rā         ma
+
+ BC'  A G F# G F#GAGF    CD C C/B
+rāma rāma hare ha     re
+
+========== Part 9 ==========
+
+ G   G/C'C'    B  A
+hare kṛṣ ṇa hare kṛṣṇa
+
+    B C' D'  BC'  A G
+kṛṣṇa kṛṣṇa hare hare
+
+ G G/C'C'      B  A
+ha re  rāma hare rāma
+
+   B C'D'  BC'  A G
+rāma rāma hare hare
+
+========== Part 10 ==========
+
+ G G/C' A BbAG     F#G A GF
+ha     re kṛ   ṣṇa ha re    kṛṣṇa
+
+   D/F D     C C/F  F E E/G   G
+kṛṣṇa    kṛṣṇa     hare      hare
+
+ G G/C' A BbAG    F#G A GF
+ha     re rā   ma ha re    rāma
+
+  D/F D    C C/F  F E E/G G
+rāma    rāma     hare    hare
+
+========== Part 11 ==========
+
+G/C'C'  A    Bb A  G
+ha  re kṛṣṇa hare kṛṣṇa
+
+F#  G  A  G  F
+kṛṣṇa kṛṣṇa hare hare
+
+           D    C   C/F
+hare rāma hare rāma
+
+ F    E    G
+rāma rāma hare hare
+
+========== Part 12 ==========
+
+ C   C/F  F  
+hare kṛ ṣṇa hare kṛṣṇa
+
+      E E/G  G           G/B
+kṛṣṇa   kṛ ṣṇa hare hare
+
+ B   C' B  A    G
+hare rāma hare rāma
+
+F# G  A G  F        C/F
+rāma rāma hare hare
+
+========== Part 13 ==========
+
+ C   C/F   F
+hare kṛ  ṣṇa hare kṛṣṇa
+
+       E    E/G G
+kṛṣṇa kṛṣṇa    hare hare
+
+F#         G
+hare rāma hare rāma
+
+F# G  A G  F
+rāma rāma hare hare
+
+========== Part 14 ==========
+
+C    C/F    F
+hare kṛṣṇa hare kṛṣṇa
+
+          E E/G G
+kṛṣṇa kṛṣṇa ha re hare
+
+F#         G    F
+hare rāma hare rāma
+
+      C    D    C
+rāma rāma hare hare
+
+========== Part 15 ==========
+
+C    C/F    F
+hare kṛṣṇa hare kṛṣṇa
+
+          E E/G G      G/B
+kṛṣṇa kṛṣṇa ha re hare
+
+    B C'    A    G
+ha re rāma hare rāma
+
+ F C/F C    D    C
+rā ma rāma hare hare
+
+========== Part 16 ==========
+
+ GG/C'     C'         A
+hare kṛṣṇa hare kṛṣṇa
+
+      Bb  A  G
+kṛṣṇa kṛṣṇa hare hare
+
+F#         G
+hare rāma hare rāma
+
+F# G  A G F#
+rāma rāma hare hare
+

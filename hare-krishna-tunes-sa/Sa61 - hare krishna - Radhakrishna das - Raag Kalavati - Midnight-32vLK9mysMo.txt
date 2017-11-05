@@ -1,0 +1,71 @@
+========== Part 1 ==========
+
+ C ED  F  EDC  C ED  FE  
+hare  kṛṣṇa   hare  kṛṣṇa
+
+ G  F  E  D  C    ED  CBb,F/Bb,
+kṛṣṇa kṛṣṇa hare ha  re
+
+Bb,   C E  F E  D C Bb, F/Bb,
+hare rāma hare rāma
+
+  Bb, C E  F E  D C
+rāma rāma hare hare
+
+========== Part 2 ==========
+
+ GA G  F  E  D C C/E ED C Bb,
+ha re kṛṣṇa hare    kṛṣṇa
+
+       C  E  F E  D C C/G
+kṛṣṇa kṛṣṇa hare hare
+
+ GA G  F E  D C C/E  ED C Bb,
+ha re rāma hare     rā ma
+
+      C E  F E  D C C/G
+rāma rāma hare hare
+
+============================
+         Double-time
+========== Part 3 ==========
+
+ C E  D  F  E
+hare kṛṣṇa hare kṛṣṇa
+
+ C  E  D  F  E
+kṛṣṇa kṛṣṇa hare hare
+
+ G    F E       D C
+hare rāma hare rāma
+
+ E    D C Bb,
+rāma rāma hare hare
+
+========== Part 4 ==========
+
+Bb,         C    E
+hare kṛṣṇa hare kṛṣṇa
+
+ F  E  D     C
+kṛṣṇa kṛṣṇa hare hare
+
+Bb,        C    E
+hare rāma hare rāma
+
+ F E  D    C
+rāma rāma hare hare
+
+========== Part 5 ==========
+
+ G A  G  F  E D  C    C/E
+hare kṛṣṇa hare kṛṣṇa
+
+ E        D  C   Bb,
+kṛṣṇa kṛṣṇa hare hare
+
+Bb,        C    E
+hare rāma hare rāma
+
+ F E  D    C
+rāma rāma hare hare
