@@ -8,87 +8,87 @@ LYRICS:
 
 (1)
 
- G# G  FD#    F F# F   FF#F   FD# CD# FD#
+ d  P  mg     m 'M m   m'Mm   mg  Sg  mg
 gaurāńgera duṭi pada, jār   dhana sampada,
 
-G#          G F      D# F F# F
+d           P m      g  m 'M m
 se jāne bhakati-rasa-sār
 
- F F# F  D# CD#  FF#  F D#
+ m 'M m  g  Sg   m'M  m g
 se jāne bhakati-rasa-sār
 
- G# G G#Bb C'      C#'C'  C'C#'C' C' Bb  G#BbC'Bb 
+ d  P d n  S'      r' S'  S'r' S' S' n   d n S'n  
 gaurāńgera madhura-lī lā, jār     karṇe praveśilā,
 
- D# F G#Bb C'      C#'C'  C'C#'C' C' Bb  B#BbC'Bb
+ g  m d n  S'      r' S'  S'r' S' S' n   N#n S'n
 gaurāńgera madhura-lī lā, jār     karṇe praveśilā,
 
-G#         G   F       D#  F F# F
+d          P   m       g   m 'M m
 hṛdoya nirmala   bhelo tār
 
- FF# F D#  C  D#   FF#  F D#
+ m'M m g   S  g    m'M  m g
 hṛdoya nirmala   bhelo tār
  
 
 (2)
 
-G#  G  F D#    F   F# F  FF#F D#    CD#F D#
+d   P  m g     m   'M m  m'Mm g     Sg m g
 je gaurāńgera nāma loy, tā ra hoy premo  doy,
  
-G#        G F    D#FF# F
+d         P m    g m'M m
 tāre mui jāi bolihā   ri
 
-F F#  FD# CD#  FF# F D#
+m 'M  mg  Sg   m'M m g
 tāre mui jāi  bolihā ri
 
- D# F G# BbC'   C#'C'    C#' C'Bb G#Bb   C'Bb
+ g  m d  n S'   r' S'    r'  S'n  d n    S'n
 gaurāńga-guṇete jhure, nitya-līlā tāre sphure,
 
-G#          G  F    D#FF# F
+d           P  m    g m'M m
 se jana bhakati-adhikā   rī
 
- F F# F  D# CD# F F# F D#
+ m 'M m  g  Sg  m 'M m g
 se jana bhakati-adhikā rī
 
 (3)
 
- G# G  FD# D#  F F# F   F F#  F  D#  CD#   FD#
+ d  P  mg  g   m 'M m   m 'M  m  g   Sg    mg
 gaurāńgera sańgi-gaṇe, nitya-siddha kori' māne,
 
-G#         D    F     D# F F# F
+d          R    m     g  m 'M m
 se jāy brajendra-suta-pā      ś
 
- F F# F D# C  D#  FF#  F D#
+ m 'M m g  S  g   m'M  m g
 se jāy brajendra-suta-pā  ś
 
-D#   F G# Bb C'   C#'C'  C'C#'C'Bb  G#BbC'Bb
+g    m d  n  S'   r' S'  S'r' S'n   d n S'n
 śrī-gauḍa-maṇḍala-bhūmi, jebā jāne cintāmaṇi,
 
-G#         G  F      D# F F# F
+d          P  m      g  m 'M m
 tāra hoy braja-bhūme bā      s
 
-FF#  F D#    CD#   FF#  F D#
+m'M  m g     Sg    m'M  m g
 tā  ra hoy braja-bhūme bā  s
  
 
 (4)
 
- G# G   FD#    F F# F     F# F D#  CD#  FD#
+ d  P   mg     m 'M m     'M m g   Sg   mg
 gaura-prema-rasārṇave, śe tarańge jebā ḍube,
 
-G#           G  F    D#  FF# F
+d            P  m    g   m'M m
 se rādhā-mādhava-antarań    ga
 
- F F#  F D#  C  D#   F F# F D# 
+ m 'M  m g   S  g    m 'M m g  
 se rādhā-mādhava  -  antarańga
 
-D# F G# BbC'   C#'C'      C#' C Bb  G# Bb C'Bb
+g  m d  n S'   r' S'      r'  S n   d  n  S'n
 gṛhe bā vanete thāke, 'hā gaurāńga' bo'le ḍāke,
 
-G#         G   F      D# FF#F
+d          P   m      g  m'Mm
 narottama māge   tāra sań  ga
 
- FF#  FD#  CD#  FF#  F D# 
+ m'M  mg   Sg   m'M  m g  
 narottama māge tāra sańga
 
 

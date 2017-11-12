@@ -24,46 +24,46 @@ bhuvi gṛṇanti ye bhūri-dā janāḥ
 
 (2)
 
-D#   D#/F# F#    G#   Bb B    B/C#' C#'  B BbG#  F#G#  Bb G# F#
+g    g /'M 'M    d    n  N    N/r'  r'   N n d   'Md   n  d  'M
 jaya          ti te 'dhikaḿ jan         ma nā   vrajaḥ
 
-   G#   F# D/F# D     F#    G# G#/B  B Bb   G#    F#        F#/C#'
+   d    'M R/'M R     'M    d  d /N  N n    d     'M        'M/r'
 śrayata i  n       di    rā         śa ś  va   da    tra hi
 
-C#'       D#' C#'    D#' C#'  B Bb G#BbG#F#
+r'        g'  r'     g'  r'   N n  d n d' M
 da yita dṛśya tāḿ di     kṣu tā    vakā     s
 
-   G#    F# D/F# D  F# G#   G#/B   B  BbG#  F#
+   d     'M R/'M R  'M d    d /N   N  n d   'M
 tvayi dhṛtā       sava    s      tvāḿ vicin    vate
 
  
 
 (3) 
-D#   D#/F# F#    G#Bb B    B/C#' C#'  B BbG# F# G#BbG#F#
+g    g /'M 'M    d n  N    N/r'  r'   N n d  'M d n d' M
 śara          d-udāśaye sā          dhu-jā   ta-sa       t-
 
-  G#  F# D/F# D   F#G#G#/B  B BbG#F#       F#/C#'
+  d   'M R/'M R   'Md d /N  N n d' M       'M/r'
 sarasijo        dara  -   śrī-muṣā   dṛśā
 
-C#'       D#' C#'     D#'  C#'   B Bb G#BbG#F#
+r'        g'  r'      g'   r'    N n  d n d' M
 su rata-nātha te  'śu     lka - dā    sikā
 
-  G#    F# D/F# D     F# G# G#/B B   Bb G#  F#
+  d     'M R/'M R     'M d  d /N N   n  d   'M
 vara-da ni        ghnato           neha kiḿ    vadhaḥ
 
  
  
 (4)
-D#   D#/F# F#  G# Bb B      B/C#' C#'  B Bb G#  F#G#BbG#F#
+g    g /'M 'M  d  n  N      N/r'  r'   N n  d   'Md n d' M
 viṣa    -    jalāpyayād vyā           la-rā    kṣasā       d
 
-  G#    F# D/F#  DF# G#   G#/B  B  BbG#F#       F#/C#'
+  d     'M R/'M  R'M d    d /N  N  n d' M       'M/r'
 var  ṣa-mā      rutā    d      vaidyutā   nalāt
 
-C#'         D#'C#'    D#' C#'    B Bb  G#Bb G#F#
+r'          g' r'     g'  r'     N n   d n  d' M
 vṛ ṣa-ma yā tmajād vi     ś   vato    bhayā      d
 
-    G# F# D/F#  DF#  G# G#/B  B BbG# F#
+    d  'M R/'M  R'M  d  d /N  N n d  'M
 ṛṣabha te      vayaḿ         rakṣitā    muhuḥ
 
  
@@ -84,212 +84,212 @@ sakha udeyivān sātvatāḿ kule
 
 ========== SB 10.31.5 ==========
 
-D# D#/F# F#   G# Bb B     B/C#' C#'  B/C#' B  BbG#   F# G#Bb  G#F#
+g  g /'M 'M   d  n  N     N/r'  r'   N/r'  N  n d    'M d n   d' M
 vi ra       citābhayaṁ vṛ          ṣṇi   -   dhū   r ya te
 
-  G#    F# D/F# D   F# G#   G#/B  B BbG#  F#        F#/C#'
+  d     'M R/'M R   'M d    d /N  N n d   'M        'M/r'
 caraṇam ī         yuṣā    ṁ      saṁsṛter    bhayāt
 
-C#'       D#'C#'    D#' C#'B/C#' B Bb G# Bb  G#F#
+r'        g' r'     g'  r' N/r'  N n  d  n   d' M
 ka ra-saroru haṁ kā    nta kā         ma-daṁ
 
-  G#    F# D/F#  D F#  G# G#/B   B BbG# F#
+  d     'M R/'M  R 'M  d  d /N   N n d  'M
 śirasi dhe      hi naḥ         śrī-kara  -  graham
 
 ========== SB 10.31.6 ==========
 
- D# D#/F# F#   G# Bb  B     B/C#' C#'  B/C#' B BbG# F#G# Bb G#F#
+ g  g /'M 'M   d  n   N     N/r'  r'   N/r'  N n d  'Md  n  d' M
 vra       ja-janārti-han vī           ra       yo   ṣitā ṁ
 
-  G#   F# D/F# D    F# G# G#/B  B   BbG#  F#   F#/C#'
+  d    'M R/'M R    'M d  d /N  N   n d   'M   'M/r'
 nija-jana   -    smaya    -    dhvaṁsana-smita
 
-C#'         D#'C#'   D#' C#'B/C#'B   Bb  G# Bb G#F#
+r'          g' r'    g'  r' N/r' N   n   d  n  d' M
 bhaja sakhe bhavat-kiṅ   ka rī     ḥ    sma no
 
-  G#  F# D/F# D F#  G# G#/B  B Bb G#  F#
+  d   'M R/'M R 'M  d  d /N  N n  d   'M
 jalaruhā     na naṁ         cā ru dar   śaya
 
 ========== SB 10.31.7 ==========
 
- D# D#/F# F#    G#Bb B     B/C#' C#' B/C#' B BbG# F#G# Bb G#F#
+ g  g /'M 'M    d n  N     N/r'  r'  N/r'  N n d  'Md  n  d' M
 pra ṇa       ta-dehināṁ pā          pa   -   kar  ṣaṇa ṁ
 
-  G#   F# D/F# D   F#  G# G#/B   B BbG#F#       F#/C#'
+  d    'M R/'M R   'M  d  d /N   N n d' M       'M/r'
 tṛṇa-carā        nugaṁ         śrī-nike   tanam
 
-C#'         D#'C#'    D#'C#'B/C#' B Bb   G#Bb  G#F#
+r'          g' r'     g' r' N/r'  N n    d n   d' M
 phaṇi-phaṇārpi taṁ te    pa dā        m  bujaṁ
 
-  G#   F# D/F# D    F#  G# G#/B  B  Bb G#  F#
+  d    'M R/'M R    'M  d  d /N  N  n  d   'M
 kṛṇu kuce        ṣu naḥ         kṛndhi hṛc-chayam
 
 ========== SB 10.31.8 ==========
 
-D# D#/F# F#   G# Bb B    B/C#' C#'  B/C#' B BbG#  F#G# Bb  G#F#
+g  g /'M 'M   d  n  N    N/r'  r'   N/r'  N n d   'Md  n   d' M
 ma dhu      rayā girā val          gu   -   vā   kyayā
 
-   G#   F# D/F# D    F# G# G#/B  B BbG# F#   F#/C#'
+   d    'M R/'M R    'M d  d /N  N n d  'M   'M/r'
 budha-mano        jñayā         puṣkarekṣaṇa
 
-C#'        D#'   C#'   D#' C#'B/C#' B Bb G#Bb G#F#
+r'         g'    r'    g'  r' N/r'  N n  d n  d' M
 vidhi-karī    r imā vī     ra mu      h  yatī      r
 
-  G#   F# D/F#   DF# G# G#/B  BBbG#F#
+  d    'M R/'M   R'M d  d /N  Nn d' M
 adhara-sī      dhunā        pyāyaya   sva naḥ
 
 ========== SB 10.31.9 ==========
 
-D# D#/F# F#    G# Bb  B     B/C#' C#'  B BbG# F#G# Bb G#F#
+g  g /'M 'M    d  n   N     N/r'  r'   N n d  'Md  n  d' M
 ta va       kathāmṛ  taṁ ta          pta-jī   vana ṁ
 
-  G#     F# D/F# D   F#  G# G#/B  B BbG#F#       F#/C#'
+  d      'M R/'M R   'M  d  d /N  N n d' M       'M/r'
 kavibhir ī         ḍitaṁ         kalmaṣā   paham
 
-C#'        D#'C#'     D#' C#' B/C#' B Bb G#Bb  G#F#
+r'         g' r'      g'  r'  N/r'  N n  d n   d' M
 śravaṇa-maṅga laṁ śrī     mad ā          tataṁ
 
-   G#   F#  D/F# D    F# G# G#/B   BBb G# F#
+   d    'M  R/'M R    'M d  d /N   Nn  d  'M
 bhuvi gṛṇan        ti ye         bhūri-dā    janāḥ
 
 ========== SB 10.31.10 ==========
 
- D# D#/F# F#   G#   Bb B     B/C#' C#'  B/C#' B BbG#  F#G# Bb G#F#
+ g  g /'M 'M   d    n  N     N/r'  r'   N/r'  N n d   'Md  n  d' M
 pra ha       sitaṁ priya-pre           ma   -   vī   kṣaṇa ṁ
 
-  G#  F# D/F# D     F# G# G#/B    B Bb    G#  F#        F#/C#'
+  d   'M R/'M R     'M d  d /N    N n     d   'M        'M/r'
 viharaṇa ṁ       ca te         dhyā    na-maṅ    galam
 
-C#'         D#'   C#'    D#'C#'B/C#' B Bb G# Bb  G#F#
+r'          g'    r'     g' r' N/r'  N n  d  n   d' M
 ra hasi saṁ    vi do  yā    hṛ di         spṛśaḥ
  
-  G#   F# D/F# D   F#  G# G#/B   B BbG#  F#
+  d    'M R/'M R   'M  d  d /N   N n d   'M
 kuhaka no        manaḥ         kṣobhayan    ti hi
 
 ========== SB 10.31.11 ==========
 
-D# D#/F# F#    G#      Bb B     B/C#' C#'  B/C#' B Bb G# F#G# Bb G#F#
+g  g /'M 'M    d       n  N     N/r'  r'   N/r'  N n  d  'Md  n  d' M
 ca la       si    yad vrajāc cā           ra       ya n  paśū n
 
-  G#   F# D/F# D     F#  G# G#/B  B Bb     G# F#        F#/C#'
+  d    'M R/'M R     'M  d  d /N  N n      d  'M        'M/r'
 nalina-su n        daraṁ         nā    tha te    padam
 
-C#'         D#'  C#'      D#' C#'B/C#' B Bb G# Bb  G# F#
+r'          g'   r'       g'  r' N/r'  N n  d  n   d  'M
 śi la-tṛṇāṅ    kura iḥ sī     da tī         ti naḥ
 
-  G#  F#  D/F# D     F#  G# G#/B  B Bb  G# F#
+  d   'M  R/'M R     'M  d  d /N  N n   d  'M
 kalilatā         ṁ manaḥ         kā nta ga    cchati
 
 ========== SB 10.31.12 ==========
 
-D# D#/F# F#   G# Bb B    B/C#' C#' B/C#' B BbG# F#G# Bb G#F#
+g  g /'M 'M   d  n  N    N/r'  r'  N/r'  N n d  'Md  n  d' M
 di na   -   parikṣaye nī           la  -   kun  tala i       r
 
-  G#F# D/F# D    F#  G# G#/B  B Bb       G# F#       F#/C#'
+  d' M R/'M R    'M  d  d /N  N n        d  'M       'M/r'
 vanaru hā     na naṁ         bi    bhrad ā     vṛtam
 
-C#'       D#'C#'   D#' C#'B/C#' B Bb G#Bb  G#F#
+r'        g' r'    g'  r' N/r'  N n  d n   d' M
 ghana-rajasvalaṁ da   rśa ya      n  muhu       r
 
-    G# F#  D/F# D     F#  G# G#/B B Bb   G# F#
+    d  'M  R/'M R     'M  d  d /N N n    d  'M
 manasi na  ḥ       smaraṁ        vī   ra ya    cchasi
 
 ========== SB 10.31.13 ==========
 
- D# D#/F# F#    G#Bb  B     B/C#' C#' B/C#' B Bb G#  F#G#Bb G#F#
+ g  g /'M 'M    d n   N     N/r'  r'  N/r'  N n  d   'Md n  d' M
 pra ṇa       ta-kāma-daṁ pa           d    ma jā    rcitaṁ
 
-   G#   F# D/F# D    F#  G# G#/B     B Bb  G#F#      F#/C#'
+   d    'M R/'M R    'M  d  d /N     N n   d' M      'M/r'
 dharaṇi-ma ṇ       ḍanaṁ          dhye yam ā    padi
 
-C#'        D#'   C#'   D#'C#'B/C#' B   Bb G# Bb G# F#
+r'         g'    r'    g' r' N/r'  N   n  d  n  d  'M
 caraṇa-paṅ    ka jaṁ śan  ta ma      ṁ    ca te
 
-  G#   F# D/F# D    F# G#    G#/B B BbG#F#
+  d    'M R/'M R    'M d     d /N N n d' M
 ramaṇa na ḥ      stane    ṣv      arpayā   dhi-han
 
 ========== SB 10.31.14 ==========
 
-D# D#/F# F#    G#  Bb B     B/C#' C#' B/C#' B  BbG# F#G#Bb G#F#
+g  g /'M 'M    d   n  N     N/r'  r'  N/r'  N  n d  'Md n  d' M
 u  ra       ta-vardhanaṁ śo           ka   -   nā   śanaṁ
 
-   G#   F# D/F# D   F# G# G#/B  B  Bb G#F#        F#/C#'
+   d    'M R/'M R   'M d  d /N  N  n  d' M        'M/r'
 svarita-ve        ṇunā         suṣṭhu cu   mbitam
 
-C#'      D#'C#'     D#'C#' B/C#' B Bb G#Bb G#F#
+r'       g' r'      g' r'  N/r'  N n  d n  d' M
 i tara-rā   ga-vismā   ra  ṇa      ṁ  nṛṇā      ṁ
 
-  G#   F# D/F# D    F#  G# G#/B   BBbG#F#
+  d    'M R/'M R    'M  d  d /N   Nn d' M
 vitara vī        ra nas te     'dharām    ṛtam
 
 ========== SB 10.31.15 ==========
 
-D# D#/F# F#    G#   Bb B    B/C#' C#' B/C#' B  BbG# F#G#Bb G#F#
+g  g /'M 'M    d    n  N    N/r'  r'  N/r'  N  n d  'Md n  d' M
 a  ṭa       ti yad bhavān a       h   ni       kā   nanaṁ
 
-   G#   F#    D/F# D   F# G# G#/B   B  BbG# F#     F#/C#'
+   d    'M    R/'M R   'M d  d /N   N  n d  'M     'M/r'
 truṭi yu   gā        yate         tvām a pa śyatām
 
-C#'       D#'  C#'     D#' C#' B/C#' B Bb G# Bb G#F#
+r'        g'   r'      g'  r'  N/r'  N n  d  n  d' M
 kuṭila-kun   talaṁ śrī  -  mu  kha     ṁ  ca te
 
-  G#  F# D/F# D   F# G#   G#/B  B  Bb   G#  F#
+  d   'M R/'M R   'M d    d /N  N  n    d   'M
 jaḍa udī       kṣatā    ṁ      pa  kṣma-kṛd    dṛśām
 
 ========== SB 10.31.16 ==========
 
-D# D#/F# F#   G# Bb B      B/C#' C#' B/C#' B  BbG#   F#G#Bb G#F#
+g  g /'M 'M   d  n  N      N/r'  r'  N/r'  N  n d    'Md n  d' M
 pa ti   -   sutānvaya-bhrā           tṛ   -   bā   ndhavā        n
 
- G#  F# D/F# D    F# G#      G#/B BBb G#F#       F#/C#'
+ d   'M R/'M R    'M d       d /N Nn  d' M       'M/r'
 ativila ṅ       ghya te 'nty      acyutā   gatāḥ
 
-C#'      D#'  C#'   D#'C#'  B/C#' B Bb G#Bb G#F#
+r'       g'   r'    g' r'   N/r'  N n  d n  d' M
 gati-vidas  tavo dgī   ta - mo         hitā      ḥ
 
-  G#   F# D/F# D   F#  G# G#/B B   BbG#  F#
+  d    'M R/'M R   'M  d  d /N N   n d   'M
 kitava yo        ṣitaḥ        kas tyajen    niśi
 
 ========== SB 10.31.17 ==========
 
-D# D#/F# F#    G# Bb B     B/C#' C#'    B/C#' B BbG# F#G#Bb G#F#
+g  g /'M 'M    d  n  N     N/r'  r'     N/r'  N n d  'Md n  d' M
 ra ha       si saṁvidaṁ hṛ            c-cha     yo   dayaṁ
 
-   G#  F# D/F# D   F#  G# G#/B  BBb G#F#        F#/C#'
+   d   'M R/'M R   'M  d  d /N  Nn  d' M        'M/r'
 prahasitā        nanaṁ        prema-vī   kṣaṇam
 
-C#'        D#'C#'    D#'C#'  B/C#' B Bb G# Bb G#F#
+r'         g' r'     g' r'   N/r'  N n  d  n  d' M
 bṛhad-uraḥ śriyo  vī    kṣya dhā        ma te
 
-     G#    F# D/F# D   F# G# G#/B  B BbG#F#
+     d     'M R/'M R   'M d  d /N  N n d' M
 muhu    r ati   -   spṛhā         muhyate   manaḥ
 
 ========== SB 10.31.18 ==========
  
- D# D#/F# F#     G# Bb    B      B/C#' C#' B/C#'  B Bb G# F# G# Bb  G#F#
+ g  g /'M 'M     d  n     N      N/r'  r'  N/r'   N n  d  'M d  n   d' M
 vra         ja-vana u  kasāṁ vya           k     ti r aṅ  ga te
 
-  G#   F# D/F# D      F#     G# G#/B  BBb  G#  F#       F#/C#'
+  d    'M R/'M R      'M     d  d /N  Nn   d   'M       'M/r'
 vṛjina-ha n       try a  laṁ         viśva-maṅ    galam
 
-C#'         D#'C#'     D#'   C#'BBb    G#Bb  G#F#
+r'          g' r'      g'    r' Nn     d n   d' M
 tyaja manāk ca nas tva     t-sp ṛ   hātmanā       ṁ
 
-    G#   F#  D/F# D     F#  G#   G#/B  B  BbG#F#
+    d    'M  R/'M R     'M  d    d /N  N  n d' M
 sva-jana-hṛ         d-rujā     ṁ      yan niṣū   danam
 
 ========== SB 10.31.19 ==========
 
-F#/Bb Bb G#  Bb G#Bb     G#Bb   G#Bb          G#F#
+'M/n  n  d   n  d n      d n    d n           d' M
          yat te sujāta-caraṇāmburuhaṁ staneṣu
 
-   G# F#   D/F# D           F#      F#/Bb    Bb  BBbG#F#        F#/C#'
+   d  'M   R/'M R           'M      'M/n     n   Nn d' M        'M/r'
 bhītāḥ   śana      iḥ priya    dadhīma    hi    kar      kaśeṣu
 
-C#'                        D#'C#' B/C#' B    Bb   G#F#
+r'                         g' r'  N/r'  N    n    d' M
 te nāṭavīm aṭasi tad vyathate             na kiṁ svi   t
  
-   G#F#    D/F# D     F#     F#/Bb    Bb    G# G#/B B Bb  G#F#
+   d' M    R/'M R     'M     'M/n     n     d  d /N N n   d' M
 kūrpā   dibhi     r bhramati       dhīr  bhava d-ā      yuṣā   ṁ naḥ
 
 Finish with F#/C'

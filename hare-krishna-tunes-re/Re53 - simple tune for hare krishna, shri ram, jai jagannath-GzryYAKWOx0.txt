@@ -1,57 +1,57 @@
 ========== Part 1 ==========
 
- D       E  F    ED C C/E
+ R       P  m    PR S S/P
 hare kṛṣṇa hare kṛṣṇa
 
-       E  F  G    FE  D
+       P  m  P    mP  R
 kṛṣṇa kṛṣṇa hare ha  re
 
- D      E  F    ED  C C/E
+ R      P  m    PR  S S/P
 hare rāma hare rā  ma
 
-      E F  G    FE D
+      P m  P    mP R
 rāma rāma hare ha re
 
 ============================
          Double Time
 ========== Part 2 ==========
 
- D       E  F    E  D
+ R       P  m    P  R
 hare kṛṣṇa hare kṛṣṇa
 
- C
+ S
 kṛṣṇa kṛṣṇa hare hare
 
- E      F  G    F E
+ P      m  P    m P
 hare rāma hare rāma
 
- D
+ R
 rāma rāma hare hare
 
 ======= Part 3 ==========
 
-  D    E  F    E D  C
+  R    P  m    P R  S
 sri rama jaya rama jaya jaya rama
 
-  E    F  G    F E  D
+  P    m  P    m P  R
 sri rama jaya rama jaya jaya rama
 
 ======= Part 4 ==========
 
- D      E F   E D  C            C/E
+ R      P m   P R  S            S/P
 Jaya Jaganath     Jaya Jaganath
 
- E      F G   F E  D
+ P      m P   m P  R
 Jaya Baladeva     Jaya Subhadra
 
- C      D   E F  D C              C/E
+ S      R   P m  R S              S/P
 Jaganatha Swami Nayana Patha Gami
 
- E   F  G     F E   D
+ P   m  P     m P   R
 Nayana Patha Gami Bhavatume
 
- D     E   F    E D  C            C/E
+ R     P   m    P R  S            S/P
 Nilacale Swami Tumi Jaya Jaganath
 
- E     F   G    F E  D
+ P     m   P    m P  R
 Mayapura Swami Tumi Jaya Jaganath

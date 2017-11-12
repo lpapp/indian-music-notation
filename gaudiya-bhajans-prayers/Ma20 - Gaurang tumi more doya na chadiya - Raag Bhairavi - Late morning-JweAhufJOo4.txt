@@ -7,51 +7,51 @@ Language: Bengali
 LYRICS:
 
 (1)
-F#          G    A G   G/B  B    A G  A   GF#    ED D/F#
+'M          P    D P   P/N  N    D P  D   P'M    PR R/'M
 gaurāńga tumi more         dayā nā  chāḍi     ha
 
 --- variation with different modulation in the voice
-F#          G    A G G/B B A G F#  F#/B  B      A G G/B  BA   GF#    EF#ED D/F#
+'M          P    D P P/N N D P 'M  'M/N  N      D P P/N  ND   P'M    P'MPR R/'M
 gaurāńga tumi more                      dayā nā         chā  ḍi   ha
 ---
 
 --- Simplified variation
-F#          G    A      G    G/B  BA  GF#     F#/C#'
+'M          P    D      P    P/N  ND  P'M     'M/r'
 gaurāńga tumi more dayā   nā     chā ḍi   ha
 ---
 
-F#/C#'         C#'  D'C#'B A      G    G/B B   A   GF#
+'M/r'          r'   R'r' N D      P    P/N N   D   P'M
 gau    rāńga tumi more       dayā   nā       chā  ḍi   ha
 
-F# A G  AF#    E/F# E     D    EF#GF#
+'M D P  R'M    P/'M P     R    P'MP'M
 ā pana kariyā rā      ńgā   caraṇe    rākhiha
 
  
 
 (2)
-F# G A  G A        G   G/B B  A B G/B G A  G F#
+'M P D  P D        P   P/N N  D N P/N P D  P 'M
 tomāra caraṇa lāgi   saba    teyā gi      nu
 
-F# A G  AF#    E/F# E    D    EF#G  F#
+'M D P  R'M    P/'M P    R    P'MP  'M
 śītala caraṇa pā      yā   śaraṇa   lainu
 
 Repeat the last two lines of (1)
 
 (3)
-F# G A G  A           G   G/B B  A B G/B G A  GF#
+'M P D P  D           P   P/N N  D N P/N P D  P'M
 e kule    o kule mui    dilu    tilāñja      li
 
-F#  A G  AF#    E/F# E     D    EF# G F#
+'M  D P  R'M    P/'M P     R    P'M P 'M
 rākhiho caraṇe mo       re    āpanāra bali’
 
  
 
 (4)
-F# G A G A                 G   G/B B   A   B G/B G A  G F#
+'M P D P D                 P   P/N N   D   N P/N P D  P 'M
 vāsudeva     ghoṣe    bale   cara     ṇe dha ri      yā
 
 (or:
-F# G A G G/B     B A       G   G/B B   A   B G/B G A  G F#
+'M P D P P/N     N D       P   P/N N   D   N P/N P D  P 'M
 vāsudeva     ghoṣe    bale   cara     ṇe dha ri      yā    )
 
 

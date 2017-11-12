@@ -1,27 +1,27 @@
 ========== Part 1 ==========
 
- E           C/E C       D   A,/D A, A,/C C    C/E E
+ P           S/P S       R   'R/R 'R 'R/S S    S/P P
 Govinda Bolo       Hari Gopa      la Bo     lo
 
- E           C/E C       D   A,/D A, A,/C C    C/E E
+ P           S/P S       R   'R/R 'R 'R/S S    S/P P
 Govinda Bolo       Hari Gopa      la Bo     lo
 
-   E/G   G            A     E/A E E/G G    E/G E
+   P/P   P            D     P/D P P/P P    P/P P
 Ra     dha Raman Hari   Govin   d Bo    lo
 
-   E/G   G            A     E/A E E/G G    E/G E
+   P/P   P            D     P/D P P/P P    P/P P
 Ra     dha Raman Hari   Govin   d Bo    lo
 
 ========== Part 2 ==========
 
- E E/G G A     A/C'    C'           D   A,/D A, A,/C' C'   E/C' E
+ P P/P P D     D/S'    S'           R   'R/R 'R 'R/S' S'   P/S' P
 Go         vin     da    Bolo Hari Gopa      la       Bolo
 
- E E/G G A     A/C'    C'          D      A,/D A, A,/C' C'   E/C' E
+ P P/P P D     D/S'    S'          R      'R/R 'R 'R/S' S'   P/S' P
 Go         vin     da    Bolo Hari   Gopa      la       Bolo
 
-C' A/C'  A  G E/G  E       E/A  AG E/G  E  D    C   C/C'
+S' D/S'  D  P P/P  P       P/D  DP P/P  P  R    S   S/S'
 Ra     dha Ra     man Hari     Go      vin   d Bolo
 
-C' A/C'  A  G E/G  E       E/A  AG E/G  E  D    C
+S' D/S'  D  P P/P  P       P/D  DP P/P  P  R    S
 Ra     dha Ra     man Hari     Go      vin   d Bolo

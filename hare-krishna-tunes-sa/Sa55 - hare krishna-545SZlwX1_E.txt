@@ -1,94 +1,94 @@
 ========== Part 1 ==========
 
- C   A,/C A, A,/C C         DE F
+ S   'R/S 'R 'R/S S         RP m
 hare         kṛ   ṣṇa hare kṛṣṇa
 
-         G      F E  DC DE DC
+         P      m P  RS RP RS
 kṛṣṇa kṛ   ṣṇa hare ha re
 
- C    DC       D  CB, B,/G
+ S    RS       R  S'N 'N/P
 hare rā  ma hare rāma
 
- G      A  G  F E  D C
+ P      D  P  m P  R S
 rāma rā   ma hare hare
 
 ========== Part 1v2 ==========
 
- C    D     C D  E  F
+ S    R     S R  P  m
 hare kṛṣṇa hare kṛṣṇa
 
-         G      F E  DC  DE DC
+         P      m P  RS  RP RS
 kṛṣṇa kṛ   ṣṇa hare ha  re
 
- C    DC      D  CB, B,/G
+ S    RS      R  S'N 'N/P
 hare rā ma hare rāma
 
- G      A G  F E  D C
+ P      D P  m P  R S
 rāma rā  ma hare hare
 
 ========== Part 2 ==========
 
- G   E/G  EG         AB   AG
+ P   P/P  PP         DN   DP
 hare     kṛṣṇa hare kṛṣṇa
 
-    A A/C'C'    B A    G     G/Bb
+    D D/S'S'    N D    P     P/n
 kṛṣṇa kṛ  ṣ ṇa hare ha   re
 
-Bb         A G    F    AGFED
+n          D P    m    DPmPR
 hare rāma hare rā   ma
 
- C D D/F F     E D    C     C/G
+ S R R/m m     P R    S     S/P
 rāma rā    ma hare ha   re
 
 It is possible to combine these tunes with other melodies then, like:
 
 ========== Part 3 ==========
 
-B,    C     D         D/F
+'N    S     R         R/m
 hare kṛṣṇa hare kṛṣṇa
 
- F  D  C B,  C
+ m  R  S 'N  S
 kṛṣṇa kṛṣṇa hare hare
 
-B,    C    D        D/F
+'N    S    R        R/m
 hare rāma hare rāma
 
- F D  CB,  C
+ m R  S'N  S
 rāma rāma hare hare
 
 ========== Part 4 ==========
 
- G    F     E D  E
+ P    m     P R  P
 hare kṛṣṇa hare kṛṣṇa
 
- D  C  D    D/F  F E  D C C/G
+ R  S  R    R/m  m P  R S S/P
 kṛṣṇa kṛṣṇa     hare hare
 
- G    F    E D  E
+ P    m    P R  P
 hare rāma hare rāma
 
- D C  D   D/F  F E  D C C/G
+ R S  R   R/m  m P  R S S/P
 rāma rāma     hare hare
 
- G     F         E D   E
+ P     m         P R   P
 Jaya Prabhupada Jaya Prabhupada
 
- D C   D         F E   D    C      C/G
+ R S   R         m P   R    S      S/P
 Jaya Prabhupada Jaya Prabhu   pada
 
- G    F        E D  E
+ P    m        P R  P
 Jaya Gurudeva Jaya Gurudeva
 
  D C  D       (D/F) F D  D    C      C/G
 Jaya Gurudeva      Jaya Guru    deva
 
- G    F                 E D  E
+ P    m                 P R  P
 Jaya Lakshmi Narasimha Jaya Gaurahari
 
  D C  D                (D/F) F E  D  C      C/G
 Jaya Lakshmi Narasimha      Jaya Gaurahari
 
- C          D  E F     E  D E
+ S          R  P m     P  R P
 Jaya Jaya Prabhupada Prabhupada
 
   D  C D   (D/F)        F E   D    C   C/G

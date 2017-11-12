@@ -1,72 +1,72 @@
 ========== Part 1 ==========
 
-C/A    G F G        F E F
+S/D    P m P        m P m
 hare kṛṣṇa   hare kṛṣṇa
 
-        E D C   G,/C    C
+        P R S   'P/S    S
 kṛṣṇa kṛṣṇa   hare hare
 
-C/A   AG F G         F E F
+S/D   DP m P         m P m
 hare rā ma   hare rā  ma
 
-        E  D C   G,/C   C
+        P  R S   'P/S   S
 rāma rā   ma   hare hare
 
 ========== Part 1v2 (small variation - undiscernible in loud crowd)==========
 
-C/A    G F G    A  GF E F
+S/D    P m P    D  Pm P m
 hare kṛṣṇa   hare kṛṣṇa
 
-        E D C   G,/C    C
+        P R S   'P/S    S
 kṛṣṇa kṛṣṇa   hare hare
 
-C/A   AG F G         F E F
+S/D   DP m P         m P m
 hare rā ma   hare rā  ma
 
-        E  D C   G,/C   C
+        P  R S   'P/S   S
 rāma rā   ma   hare hare
 
 ========== Part 2 ==========
 
-Bb     A G A   C'  AG F G D/G
+n      D P D   S'  DP m P R/P
 hare kṛṣṇa   hare kṛṣṇa
 
-       GF E F C/F           F/Bb
+       Pm P m S/m           m/n
 kṛṣṇa kṛṣṇa       hare hare
 
-     BbA G A   C'  AG F G D/G
+     n D P D   S'  DP m P R/P
 hare rā ma   hare rā ma
 
-      GF E F C/F           F/Bb
+      Pm P m S/m           m/n
 rāma rā ma       hare hare
 
 ============================
          Double-time
 ========== Part 4 ==========
 
-D/A   A       G  F
+R/D   D       P  m
 hare kṛṣṇa hare kṛṣṇa
 
- G             F  E
+ P             m  P
 kṛṣṇa kṛṣṇa hare hare
 
- F           E  D
+ m           P  R
 hare rāma hare rāma
 
- C                  D/A
+ S                  R/D
 rāma rāma hare hare
 
 ========== Part 5 ==========
 
-F/Bb       Bb A  G
+m/n        n  D  P
 hare kṛṣṇa hare kṛṣṇa
 
- A       C'  A G  F   G
+ D       S'  D P  m   P
 kṛṣṇa kṛṣṇa hare hare
 
-             F  E
+             m  P
 hare rāma hare rāma
 
- F   C/F
+ m   S/m
 rāma rāma hare hare
 

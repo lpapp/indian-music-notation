@@ -1,187 +1,187 @@
 ========== Part 1 ==========
 
- C D  D# F  AC'  A  G F D#
+ S R  g  m  DS'  D  P m g
 hare kṛṣṇa hare kṛṣṇa
 
-          DC  DBb, C   G F G F D# D C
+          RS  R'n  S   P m P m g  R S
 kṛṣṇa kṛṣṇa  hare hare
 
- C D D# F  AC,  A G F D#
+ S R g  m  R'S  D P m g
 hare rāma hare rāma
 
-        DC  DBb, C   G F G F D# D C
+        RS  R'n  S   P m P m g  R S
 rāma rāma  hare hare
 
 ========== Part 2 ==========
 
- C         Bb, D
+ S         'n  R
 hare kṛṣṇa ha re kṛṣṇa
 
- C  D  D# G       FD#
+ S  R  g  P       mg
 kṛṣṇa kṛṣṇa hare hare
 
- C D D# G  C D D# F
+ S R g  P  S R g  m
 hare rāma hare rāma
 
-D#      DC DBb, C
+g       RS R'n  S
 rāma rāma hare hare
 
 ========== Part 3 ==========
 
- G    C'     Bb ABb C' Bb A G
+ P    S'     n  Dn  S' n  D P
 hare kṛṣṇa hare kṛṣṇa
 
-C'    D#'D' C'Bb  ABb C' Bb A G
+S'    g' R' S'n   Dn  S' n  D P
 kṛṣṇa kṛṣṇa hare ha   re
 
- G   C'     Bb ABb C' Bb A G
+ P   S'     n  Dn  S' n  D P
 hare rāma hare rā  ma
 
-C'   D#'D' C'Bb  ABb C' Bb A G
+S'   g' R' S'n   Dn  S' n  D P
 rāma rā ma hare ha   re
 
 ========== Part 4 ==========
 
-D#'
+g'
 hare kṛṣṇa hare kṛṣṇa
 
-D'    D#'D' C'
+R'    g' R' S'
 kṛṣṇa kṛṣṇa hare hare
 
-D#'
+g'
 hare rāma hare rāma
 
-D'   D#'D' C'
+R'   g' R' S'
 rāma rā ma hare hare
 
 ========== Part 5 ==========
 
-C'
+S'
 hare kṛṣṇa hare kṛṣṇa
 
-Bb     A Bb C'
+n      D n  S'
 kṛṣṇa kṛṣṇa hare hare
 
-C'
+S'
 hare rāma hare rāma
 
-Bb    A Bb C'
+n     D n  S'
 rāma rā ma hare hare
 
 ========== Part 6 ==========
 
-D#'   C'   D#'   C'
+g'    S'   g'    S'
 hare kṛṣṇa hare kṛṣṇa
 
-Bb     G Bb C'
+n      P n  S'
 kṛṣṇa kṛṣṇa hare hare
 
-D#'  C'   D#'  C'
+g'   S'   g'   S'
 hare rāma hare rāma
 
-Bb    GBb C'
+n     Pn  S'
 rāma rāma hare hare
 
 ========== Part 7 ==========
 
-G    C'      Bb  ABb C' Bb A G
+P    S'      n   Dn  S' n  D P
 hare kṛṣṇa hare kṛṣ  ṇa
 
- A  G  F      D#  D D# G
+ D  P  m      g   R g  P
 kṛṣṇa kṛṣṇa hare ha   re
 
- G   C'     Bb  ABb C' Bb A G
+ P   S'     n   Dn  S' n  D P
 hare rāma hare rā   ma
 
- A G  F      D#  D D# G
+ D P  m      g   R g  P
 rāma rā ma hare ha   re
 
 ========== Part 8 ==========
 
-D#
+g
 hare kṛṣṇa hare kṛṣṇa
 
- D     D# D  C
+ R     g  R  S
 kṛṣṇa kṛṣṇa hare hare
 
-D#
+g
 hare rāma hare rāma
 
- D   D# D  C
+ R   g  R  S
 rāma rāma hare hare
 
 ========== Part 9 ==========
 
- C    D    D#    G
+ S    R    g     P
 hare kṛṣṇa hare kṛṣṇa
 
- A     C'    A    G
+ D     S'    D    P
 kṛṣṇa kṛṣṇa hare hare
 
- F        D#    D
+ m        g     R
 hare rāma hare rāma
 
-Bb,        C
+'n         S
 rāma rāma hare hare
 
 ========== Part 10 ==========
 
- C
+ S
 hare kṛṣṇa hare kṛṣṇa
 
-Bb,    D
+'n     R
 kṛṣṇa kṛṣṇa hare hare
 
- C    D   D#    G
+ S    R   g     P
 hare rāma hare rāma
 
- F   D#
+ m   g
 rāma rāma hare hare
 
 ========== Part 11 ==========
 
- C D  D#    G
+ S R  g     P
 hare kṛṣṇa hare kṛṣṇa
 
- C     D    D#    F
+ S     R    g     m
 kṛṣṇa kṛṣṇa hare hare
 
-D#         D
+g          R
 hare rāma hare rāma
 
-Bb,        C
+'n         S
 rāma rāma hare hare
 
 ========== Part 12 ==========
 
- G    C'
+ P    S'
 hare kṛṣṇa hare kṛṣṇa
 
- Bb    A Bb C'      Bb A G
+ n     D n  S'      n  D P
 kṛṣṇa kṛṣṇa hare hare
 
-C'        D#'  D'C'
+S'        g'   R'S'
 hare rāma hare rāma
 
-Bb    ABb C'     Bb  A G
+n     Dn  S'     n   D P
 rāma rāma hare hare
 
 ========== End ==========
 
-C'               B A   B
+S'               N D   N
 Jaya Prabhupada Jaya Prabhupada
 
- A G   A        C' B   A  G
+ D P   D        S' N   D  P
 Jaya Prabhupada Jaya Prabhupada
 
-C'                B A  B
+S'                N D  N
 Jaya Gaura Nitai Jaya Gaura Nitai
 
- A G  A          C' B  A  G
+ D P  D          S' N  D  P
 Jaya Gaura Nitai Jaya Gaura Nitai
 
-C'                   B A B
+S'                   N D N
 Nitai Gaura Haribol Haribol
 
- A G A         C' B  A   G
+ D P D         S' N  D   P
 Haribol Nitai Gaura Haribol

@@ -7,61 +7,61 @@ Language: Bengali
 LYRICS:
 
 (1)
-  CD#  F  G      G/C'     C'      Bb G# G F
+  Sg   m  P      P/S'     S'      n  d  P m
 bhaja hū re mana      śrī - nanda-nandana
 
-       D# F G FD#  D  C C/C' C' G/C'
+       g  m P mg   R  S S/S' S' P/S'
 abhaya-caraṇāravinda re
 
-         C'C#'C' Bb         G#   G    F
+         S'r' S' n          d    P    m
 durlabha māna va  -  janama sat-sańge
 
-       D#F  G F D#   D  C
+       g m  P m g    R  S
 taroho e  bhava-sindhu re
 
  
 
 (2)
- CD#  F G     G/C'    C'    Bb  G# G
+ Sg   m P     P/S'    S'    n   d  P
 śī   ta ātapa      bā    ta bariṣaṇa
 
-F      D#F  G F D# D  C C/C' C' G/C'
+m      g m  P m g  R  S S/S' S' P/S'
 e dina jā  minī jāgi re
 
-        C'C#'C' Bb        G#      G   F
+        S'r' S' n         d       P   m
 biphale sevi nu    kṛpaṇa    durajana
 
-       D#  F  G F D# D   C
+       g   m  P m g  R   S
 capala sukha-laba lāgi' re
 
  
 
 (3)
-C  D# F   G       G/C'    C'     Bb  G# G
+S  g  m   P       P/S'    S'     n   d  P
 e dhana, yaubana,      pu   tra, parijana
 
-F       D#  F  G FD# D  C C/C' C'
+m       g   m  P mg  R  S S/S' S'
 ithe ki ā che paratīti re
 
-   G/C'       C' C#'C' Bb        G#   G   F
+   P/S'       S' r' S' n         d    P   m
 ka     mala-dala-ja la,   jīvana ṭalamala
 
-        D# F  G F D# D  C
+        g  m  P m g  R  S
 bhajahū hari-pada nīti re
 
  
 
 (4)
-  CD# F   G       G/C'     C'      Bb G# G  F
+  Sg  m   P       P/S'     S'      n  d  P  m
 śravaṇa, kīrtana,      sma   raṇa, vandana,
 
-     D#F G F  D#  D  C C/C' G/C'
+     g m P m  g   R  S S/S' P/S'
 pāda-se vana, dāsya re
 
-        C'    C#'C'  Bb        G# G   F
+        S'    r' S'  n         d  P   m
 pūjana, sakhī-ja na,    ātma-nivedana
 
-        D#F G    FD# D  C
+        g m P    mg  R  S
 govinda-dā sa-abhilāṣa re
 
 

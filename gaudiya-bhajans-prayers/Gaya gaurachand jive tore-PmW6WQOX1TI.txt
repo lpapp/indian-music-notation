@@ -8,10 +8,10 @@ LYRICS:
 
 (refrain)
 
- D     E E/G G    F# D   E D C D
+ R     P P/P P    'M R   P R S R
 gāy gorā cā    nd jīver tore
 
-       E E/G G F# D  E D
+       P P/P P 'M R  P R
 hare kṛṣ ṇa    hare hare 
 
  
@@ -23,7 +23,7 @@ hare   kṛṣṇa   hare         kṛṣṇa   kṛṣṇa kṛṣṇa   hare  
 
 hare kṛṣṇa hare
 
-          B A    B     AG    G/B     B      C'D' B/D' BC'  BA
+          N D    N     DP    P/N     N      S'R' N/R' NS'  ND
 hare rāma     ha   re rā  ma      rā   ma rā  ma     hare ha  re
 
 
@@ -33,39 +33,39 @@ Then repeat the refrain
  
 
 (2)
-D   E E/G G          F#  D     E D C E
+R   P P/P P          'M  R     P R S P
 ekbār bo    l rasanā u ccaiḥ-sware
 
 Then repeat the second line of the refrain
 
- F# G   A          BC'   B G/B G  A        A/C'
+ 'M P   D          NS'   N P/N P  D        D/S'
 (bolo) nandera nandan,  ya śo    da-jīvan,
 
-C'           B A    B       AG      D/G
+S'           N D    N       DP      R/P
 nandera nandan,  ya   śoda-jī  van,
 
-  D          E E/G G    F# D   E D C D
+  R          P P/P P    'M R   P R S R
 śrī-rādhā-ra  ma    ṇ, prema-bhare
 
  
 
 (3)
- F#G    A         B   C'   B G/B G A              A/C'
+ 'MP    D         N   S'   N P/N P D              D/S'
 (bol) śrī-madhusū   dan,  gopī   -   prāna-dhana,
 
-    C'       B A    B    A       G        D/G
+    S'       N D    N    D       P        R/P
 śrī-madhusūdan,  go   pī - prāna - dhana,
 
- D        E E/G G     F#  D  E D  C D
+ R        P P/P P     'M  R  P R  S R
 muralī-va   da    na, nṛtya kore’
 
- F#G  A         BC'   B G/B  G   A          A/C'
+ 'MP  D         NS'   N P/N  P   D          D/S'
 (bol) agha-nisūdan,  pū     tanā - ghātana,
 
-C'          B A    B          AG       D/G
+S'          N D    N          DP       R/P
 a gha-nisūdan,  pū   tanā - ghā  tana,
 
-  D         E E/G G     F#    D  E D C D
+  R         P P/P P     'M    R  P R S R
 brahma-vimo   ha    na, ūr dhva-kare
 
 

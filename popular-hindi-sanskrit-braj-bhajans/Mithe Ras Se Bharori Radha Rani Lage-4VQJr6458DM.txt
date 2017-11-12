@@ -1,61 +1,61 @@
 Lyrics:
 
-D#       F        G      F   D#      F  G         F     D#     F  G
+g        m        P      m   g       m  P         m     g      m  P
 Mithe Ra   s Se Bharori,   Raa  dha Raani Laage, Raadha Raani Laage
 
- F D# C/D# C   C/F  F     C/F C F       G     F D#    D#/G G
+ m g  S/g  S   S/m  m     S/m S m       P     m g     g /P P
 Ma ne Ka   aro     Kaaro, Ya munaji-No Paani La a  ge
 
 
 
-       F    D#        F      G      F   D#      D#/G
+       m    g         m      P      m   g       g /P
 Yamunaji To    Kaadi Kaadi, Raadha Gori    Gori
 
- G#                           C'        Bb    G#   G   D#/G
+ d                            S'        n     d    P   g /P
 Vrindavan Mein Dhoom Machave,     Barsa    ne Ki Chori
 
- D#     F       G        F  D#         F  G       F  D#         F  G
+ g      m       P        m  g          m  P       m  g          m  P
 Vraj Dhaam Raadhajuki, Vraj    Dhaani Laa   ge, Vraj    Dhaani Laa   ge
 
- F D# C/D# C    F       C     F        G     F D#
+ m g  S/g  S    m       S     m        P     m g
 Ma ne Pya  aro Pyaaro, Yamuna   ji-No Paani La a ge
 
-           F   G       F     D#        F  G   F     D#        F  G
+           m   P       m     g         m  P   m     g         m  P
 Mithe Ras Se Bharori, Raadha    Raani Laage, Raadha    Raani Laage
 
- F D#/F D# C/D# C   C/F  F      C     F     G     F D#/F D#
+ m g /m g  S/g  S   S/m  m      S     m     P     m g /m g
 Ma      ne Ka   aro     Kaaro, Yamunaji-No Paani La a       ge
 
 
 
- G      F    D#       F     G      F     D#/F D#   D#/G#
+ P      m    g        m     P      m     g /m g    g /d
 Kaanha Nit Murali Me Tere, Sumire Baaram Ba   a  r
 
-G#                          G#/C' C'   Bb    G#     G   D#/G
+d                           d /S' S'   n     d      P   g /P
 Kotin Roop Dhare Man Mohan,       Kahu    Na Paave Paar
 
-D#        F      G      D#/G   F   D#/F D#        F  G   F   D#/F D#     F  G
+g         m      P      g /P   m   g /m g         m  P   m   g /m g      m  P
 Roop Rang   Ki Chabili,       Pata         Raani Laage, Maha      Raani Laage
 
- F D# C/D# C C/F F         C/F C   C/F F     G     F D#/F D#
+ m g  S/g  S S/m m         S/m S   S/m m     P     m g /m g
 Ma ne Pya  a ro    Pyaaro, Ya muna    ji-No Paani La a       ge
 
-        F      G       F D#/F      F      G     F     D#/F D#     FG
+        m      P       m g /m      m      P     m     g /m g      mP
 Mithe Ras Se Bharori, Ra a    dha Raani Laage, Raadha      Raani Laage
 
- FD# C/D# C   C/F  F     C/F C   F     G     F D#    D#/G G
+ mg  S/g  S   S/m  m     S/m S   m     P     m g     g /P P
 Mane Ka   aro     Kaaro, Ya munaji-No Paani La a  ge
 
 
 
 
- G               F       G     F  D#/F D# D#/G  G   F D#/F D#  D#/G#
+ P               m       P     m  g /m g  g /P  P   m g /m g   g /d
 Na Bhaave Maney Maakhan Misri, Ab Na           Koi Mi     thai
 
-                 G#         G#/C'         C'     Bb G#     G    D#/G
+                 d          d /S'         S'     n  d      P    g /P
 Maari Jeebhariya Ne Bhaave        (Ab To) Raadha Na a  ma Malai
 
-D#         D#/F  F     G        F
+g          g /m  m     P        m
 Vrasha Bha      nu Ki Lali To, Guna Dhaani Laage, Guna Dhaani Laage
 
 

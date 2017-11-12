@@ -7,7 +7,7 @@ Language: Bengali
 LYRICS:
 
 (refrain)
- F#       E  D  C D  ED  CB,    B,/G G D/G       G     A G F# D/F# DE F#     G D/G D/F#
+ 'M       P  R  S R  PR  S'N    'N/P P R/P       P     D P 'M R/'M RP 'M     P R/P R/'M
 bhaja gaurāńga kaha gau rāń  ga            laha gaurāńgera nā            ma re
 
         G F#GA       GF# (E/F#) E   E/B       B   A G      F#     D/F# D E F#    G D/G D/F#
@@ -16,14 +16,14 @@ je jan gaurā   ńga bhaje,               sei (hoy) ā   māra    prā          
  
 
 (1)
-F#        E   D  CD  E D  C  B, B,/G G D/G         G   A G F#     DEF#  G D/G D/F#
+'M        P   R  SR  P R  S  'N 'N/P P R/P         P   D P 'M     RP'M  P R/P R/'M
 gaurāńga boliyā du’ bāhu tuliyā            nāciyā nāciyā      beḍāo    re
 
 Then repeat the second line of the refrain
 
 
 (2)
-F#       E       D  CD ED    C   B,   B,/G G D/G          G   A GF# D/F# D E F#    G D/G D/F#
+'M       P       R  SR PR    S   'N   'N/P P R/P          P   D P'M R/'M R P 'M    P R/P R/'M
 gāurāńga   bhajile gaurāńga japi   le            hoy duḥkhera abasā             nare
 
 Then repeat the second line of the refrain
@@ -31,16 +31,16 @@ Then repeat the second line of the refrain
 Then repeat the first line of the refrain
 
 --- One can also do samsara davanala on this
-F#       E   D    C D  E  D  CB,     B,/G G D/G
+'M       P   R    S R  P  R  S'N     'N/P P R/P
 saḿsāra - dā   vānala-līḍha-lo   ka-
 
-         GA G      F#      D/F# D    E F# G    D/G
+         PD P      'M      R/'M R    P 'M P    R/P
 trāṇāya kā ru  ṇya  -  gha        nā  gha   na     tvam
 
-        G    F# GA          G F# E E/B
+        P    'M PD          P 'M P P/N
 prāptasya kalyāṇa - guṇārṇavasya
 
-    B    A G     F#     D    EF# G D/G
+    N    D P     'M     R    P'M P R/P
 vande guroḥ  śrī - cara   ṇāravi       ndam
 ---
 

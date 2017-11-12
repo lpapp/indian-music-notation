@@ -7,180 +7,180 @@ Language: Sanskrit
 LYRICS:
 
 (1)
-D#        F      D#    F G#G
+g         m      g     m d P
 madhuraḿ madhure    bhyo    ‘pi
 
-G#  G F  D#   D D# D#/G G  F    D/F
+d   P m  g    R g  g /P P  m    R/m
 mańgalebhyo ‘pi ma       ńgalam
 
- D        D# D#/G    GF     D/F
+ R        g  g /P    Pm     R/m
 pāvanaḿ pāva ne   bhyo  ‘pi
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
  
 
 (2)
-D#          F D#  F G#  G
+g           m g   m d   P
 ābrahmā-sta  mba-paryantaḿ
 
-G#  G   FD# D D#    D#/G G  F    D/F
+d   P   mg  R g     g /P P  m    R/m
 sarvaḿ mā  yā-mayaḿ        jagat
 
- D            D#   D#/G G     F  D/F
+ R            g    g /P P     m  R/m
 satyaḿ satyaḿ    punaḥ    satyaḿ
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
 ========== Different variation (start) for every second stanza ==========
 
-Bb   G#   G    F     G G# G
+n    d    P    m     P d  P
 ābrahmā-sta  mba-paryan  taḿ
 
-G#  G   FD# D D#    D#/G G  F    D/F
+d   P   mg  R g     g /P P  m    R/m
 sarvaḿ mā  yā-mayaḿ        jagat
 
- D            D#   D#/G G     F  D/F
+ R            g    g /P P     m  R/m
 satyaḿ satyaḿ    punaḥ    satyaḿ
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
 
 (3)
 
-D#           F   D#F F/G# G# G
+g            m   g m m/d  d  P
 sa guruḥ sa pitā          cāpi
 
-G#  G FD#      DD# D#/G G   F     D/F
+d   P mg       Rg  g /P P   m     R/m
 sā mātā   bandhavo        ‘pi saḥ
 
- D       D#    D#/G   G  F  D/F
+ R       g     g /P   P  m  R/m
 śikṣayec cet sadā   smartuḿ
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
  
 
 (4)
 
-D#          F D#  F F/G# G#  G
+g           m g   m m/d  d   P
 niḥśvāse nāhi viśvā         saḥ
 
-G#   GF D#   D    D# D#/G  G F D/F
+d    Pm g    R    g  g /P  P m R/m
 kadā    ruddho bhaviṣ     yati
 
- D        D#   D#/G G  F  D/F
+ R        g    g /P P  m  R/m
 kīrtanīya mato bā    lyād
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
 ========== Different variation (start) for every second stanza ==========
 
-Bb    G#  G F       G G#  G
+n     d   P m       P d   P
 niḥśvāse nāhi viśvā      saḥ
 
-G#   GF D#   D    D# D#/G  G F D/F
+d    Pm g    R    g  g /P  P m R/m
 kadā    ruddho bhaviṣ     yati
 
- D        D#   D#/G G  F  D/F
+ R        g    g /P P  m  R/m
 kīrtanīya mato bā    lyād
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
 
 (5)
-D#          FD#  F F#/G G#  G
+g           mg   m 'M/P d   P
 hariḥ sadā va   set     tatra
 
-G#  GF  D# D  D# D#/G G   F  D/F
+d   Pm  g  R  g  g /P P   m  R/m
 yatra  bhāgavatā       janāḥ
 
- D             D# D#/G  G F D/F
+ R             g  g /P  P m R/m
 gāyanti bhakti -  bhā  vena
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
  
 
 (6)
-D#       F  D# F F/G# G#   G
+g        m  g  m m/d  d    P
 aho duḥkhaḿ mahā-du     ḥkhaḿ
 
-G#   GF D#   DD#    D#/G G  F    D/F
+d    Pm g    Rg     g /P P  m    R/m
 duḥkhād duḥkhataraḿ        yataḥ
 
- D             D#  D#/G G  F  D/F
+ R             g   g /P P  m  R/m
 kācārthaḿ vismṛtam     ratna-
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
 ========== Different variation (start) for every second stanza ==========
 
-Bb  G#  G   F       G G# G
+n   d   P   m       P d  P
 aho    duḥkhaḿ mahā - du   ḥkhaḿ
 
-G#   GF D#   DD#    D#/G G  F    D/F
+d    Pm g    Rg     g /P P  m    R/m
 duḥkhād duḥkhataraḿ        yataḥ
 
- D             D#  D#/G G  F  D/F
+ R             g   g /P P  m  R/m
 kācārthaḿ vismṛtam     ratna-
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
 (7)
-D#         F    D# F F/G# G#  G
+g          m    g  m m/d  d   P
 dīyatāḿ dīyatāḿ           karṇo
 
-G# G F  D#    DD#  D#/G  G F  D/F
+d  P m  g     Rg   g /P  P m  R/m
 nīyatāḿ    nīyatāḿ      vacaḥ
 
- D        D#    D#/G G  F  D/F
+ R        g     g /P P  m  R/m
 gīyatāḿ gīyatāḿ     nityaḿ
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer nāmaiva ke  valam
 
  
 
 (8)
-D#       F D# F  F/G# G#  G
+g        m g  m  m/d  d   P
 tṛṇī-kṛtya jagat sa     rvaḿ
 
-G# G F D# DD# D#/G G F   D/F
+d  P m g  Rg  g /P P m   R/m
 rājate sakalo       pari
 
-    D            D# D#/G  G   F  D/F
+    R            g  g /P  P   m  R/m
 cid-ānanda-mayaḿ         śuddhaḿ
 
- D    D# F     GF D#
+ R    g  m     Pm g
 harer-nāmaiva ke  valam
 
 ========== Different variation (start) for every second stanza ==========
 
-Bb   G#  G F      G G#  G
+n    d   P m      P d   P
 tṛṇī-kṛtya   jagat  sar  vaḿ
 
-G# G F D# DD# D#/G G F      D/F
+d  P m g  Rg  g /P P m      R/m
 rājate sakalo          pari
 
-    D       D# D#/G  G  F       D/F
+    R       g  g /P  P  m       R/m
 cid-ānanda-ma  yaḿ  śu   ddhaḿ
 
- D    D# F     GF D#    Bb,/D#
+ R    g  m     Pm g     'n /g
 harer-nāmaiva ke  valam
 
 ========== Different variation for the end ==========
 
- D    D# F     GFD#D   D#  Bb/D#
+ R    g  m     Pmg R   g   n /g
 harer-nāmaiva ke     valam
 
 

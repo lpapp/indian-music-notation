@@ -1,216 +1,216 @@
 ========== Part 1 ==========
 
- C C/F FE  F  G FGB       GB C'
+ S S/m mP  m  P mPN       PN S'
 hare      kṛṣṇa     hare kṛṣ ṇa
 
-D' Bb  AG FED    EDC B, C
+R' n   DP mPR    PRS 'N S
 kṛṣṇa kṛṣṇa   hare   hare
 
- C C/F FE  F G    B   C'
+ S S/m mP  m P    N   S'
 hare      rāma hare rāma
 
-D'Bb  AG FED    EDC B, C
+R'n   DP mPR    PRS 'N S
 rāma rā ma   hare   hare
 
 ============================
          Double-time
 ========== Part 2 ==========
 
- C    F     D
+ S    m     R
 hare kṛṣṇa hare kṛṣṇa
 
-       F     G
+       m     P
 kṛṣṇa kṛṣṇa hare hare
 
- F    G    B        G/B
+ m    P    N        P/N
 hare rāma hare rāma
 
- G    B   C'        C/C'
+ P    N   S'        S/S'
 rāma rāma hare hare
 
 ========== Part 3 ==========
 
-D'   BbA    G
+R'   n D    P
 hare kṛṣṇa hare kṛṣṇa
 
- F     G  F  E    D
+ m     P  m  P    R
 kṛṣṇa kṛṣṇa hare hare
 
-      F    E    D
+      m    P    R
 hare rāma hare rāma
 
- E D  CB,  C
+ P R  S'N  S
 rāma rāma hare hare
 
 ============================
          Single-time
 ========== Part 4 ==========
 
- E F  G G/B B   C'  B C'
+ P m  P P/N N   S'  N S'
 hare kṛ ṣ  ṇa hare kṛṣṇa
 
-Bb  A  GF  D      F BbA  G
+n   D  Pm  R      m n D  P
 kṛṣṇa kṛ   ṣṇa hare ha  re
 
- E F  G G/B B  C'  BC'
+ P m  P P/N N  S'  NS'
 hare rāma    hare rāma
 
-Bb A  GF D    F BbA G
+n  D  Pm R    m n D P
 rāma rā ma hare ha re
 
 ============================
          Double-time
 ========== Part 5 ==========
 
- E    F     G    B
+ P    m     P    N
 hare kṛṣṇa hare kṛṣṇa
 
-      C'  B  C'
+      S'  N  S'
 kṛṣṇa kṛṣṇa hare hare
 
-Bb    A G  F    D
+n     D P  m    R
 hare rāma hare rāma
 
- F   Bb A  G
+ m   n  D  P
 rāma rāma hare hare
 
 ========== Part 6 ==========
 
- E    F     G    B
+ P    m     P    N
 hare kṛṣṇa hare kṛṣṇa
 
-      C'  B C'
+      S'  N S'
 kṛṣṇa kṛṣṇa hare hare
 
- E    F    G    B
+ P    m    P    N
 hare rāma hare rāma
 
-     C' B C'
+     S' N S'
 rāma rāma hare hare
 
 ========== Part 7 ==========
 
-D'   Bb  A  G
+R'   n   D  P
 hare kṛṣṇa hare kṛṣṇa
 
- F    Bb  A  G         G/D'
+ m    n   D  P         P/R'
 kṛṣṇa kṛṣṇa hare hare
 
-D'   Bb A  G
+R'   n  D  P
 hare rāma hare rāma
 
- F   Bb A  G
+ m   n  D  P
 rāma rāma hare hare
 
 ========== Part 8 ==========
 
-Bb    A  G  F    D
+n     D  P  m    R
 hare kṛṣṇa hare kṛṣṇa
 
- F    Bb  A  G
+ m    n   D  P
 kṛṣṇa kṛṣṇa hare hare
 
-Bb    A G  F    D
+n     D P  m    R
 hare rāma hare rāma
 
- F   Bb A  G
+ m   n  D  P
 rāma rāma hare hare
 
 ========== Part 9 ==========
 
-D'   Bb  A  G
+R'   n   D  P
 hare kṛṣṇa hare kṛṣṇa
 
- F     G  F  E    D
+ m     P  m  P    R
 kṛṣṇa kṛṣṇa hare hare
 
-      F    E    D
+      m    P    R
 hare rāma hare rāma
 
- E D  CB,  C        C/D'
+ P R  S'N  S        S/R'
 rāma rāma hare hare
 
 ========== Part 10 ==========
 
-B,    C     D
+'N    S     R
 hare kṛṣṇa hare kṛṣṇa
 
- F  D  C B,  C
+ m  R  S 'N  S
 kṛṣṇa kṛṣṇa hare hare
 
-B,    C    D
+'N    S    R
 hare rāma hare rāma
 
- F D  CB,  C
+ m R  S'N  S
 rāma rāma hare hare
 
 ========== Part 11 ==========
 
- D    F     G
+ R    m     P
 hare kṛṣṇa hare kṛṣṇa
 
- F    Bb  A  G        D/G
+ m    n   D  P        R/P
 kṛṣṇa kṛṣṇa hare hare
 
- D    F    G
+ R    m    P
 hare rāma hare rāma
 
- F   Bb A  G
+ m   n  D  P
 rāma rāma hare hare
 
 ========== Part 12 ==========
 
- F    G    G/B  B
+ m    P    P/N  N
 hare kṛṣṇa ha  re kṛṣṇa
 
-      C'  B C'        F/C'
+      S'  N S'        m/S'
 kṛṣṇa kṛṣṇa hare hare
 
- F    G   G/B B
+ m    P   P/N N
 hare rāma ha re rāma
 
-     C' B C' 
+     S' N S' 
 rāma rāma hare hare
 
 ========== Part 13 ==========
 
-D'
+R'
 hare kṛṣṇa hare kṛṣṇa
 
-C'    F' E' D'
+S'    m' P' R'
 kṛṣṇa kṛṣṇa hare hare
 
-C'         B        G
+S'         N        P
 hare rāma hare rāma
 
- G    B   C'
+ P    N   S'
 rāma rāma hare hare
 
 ========== Part 14 ==========
 
-C'   Bb  A  G
+S'   n   D  P
 hare kṛṣṇa hare kṛṣṇa
 
- F     G  F  E    D
+ m     P  m  P    R
 kṛṣṇa kṛṣṇa hare hare
 
-      F    E    D
+      m    P    R
 hare rāma hare rāma
 
- E D  CB,  C        C/C'
+ P R  S'N  S        S/S'
 rāma rāma hare hare
 
 ========== Part 15 (Conclude) ==========
 
- C C/F FD  F  G  FG B  GB C'
+ S S/m mR  m  P  mP N  PN S'
 hare      kṛṣṇa ha re kṛṣ ṇa
 
-D' Bb  AG FED    EDC B, C
+R' n   DP mPR    PRS 'N S
 kṛṣṇa kṛṣṇa   hare   hare
 
- C C/F FD  F G  FG  B  GB C'
+ S S/m mR  m P  mP  N  PN S'
 hare      rāma ha  re rā  ma
 
-D'Bb  AG FED    EDC B, C
+R'n   DP mPR    PRS 'N S
 rāma rā ma   hare   hare
 

@@ -1,58 +1,58 @@
 ========== Part 1 ==========
 
- E      D     E F  ED   C
+ P      R     P m  PR   S
 hare kṛ  ṣṇa hare kṛ  ṣṇa
 
- E       G       A Bb AG E/G
+ P       P       D n  DP P/P
 kṛṣṇa kṛ  ṣṇa hare hare
 
- E      D    E F  ED  C
+ P      R    P m  PR  S
 hare rā  ma hare rā  ma
 
- E      G      A Bb AG E/G
+ P      P      D n  DP P/P
 rāma rā  ma hare hare
 
 ========== Part 2 ==========
 
-C'            Bb     C'Bb  A
+S'            n      S'n   D
 hare kṛṣṇa ha    re kṛ ṣ  ṇa
 
-               G A Bb AG
+               P D n  DP
 kṛṣṇa kṛṣṇa ha  re hare
 
-C'           Bb    C'Bb A
+S'           n     S'n  D
 hare rāma ha    re rā  ma
 
-             G A Bb AG
+             P D n  DP
 rāma rāma ha  re hare
 
 ============================
          Double time
 ========== Part 3 ==========
 
- E       D       E  F
+ P       R       P  m
 hare kṛṣṇa hare kṛṣṇa
 
- E     D  C
+ P     R  S
 kṛṣṇa kṛṣṇa hare hare
 
- E   E/G   G      A
+ P   P/P   P      D
 hare rāma hare rāma
 
-Bb         G    F
+n          P    m
 rāma rāma hare hare
 
 ========== Part 4 ==========
 
-G/C'       C'    Bb
+P/S'       S'    n
 hare kṛṣṇa hare kṛṣṇa
 
-C'       Bb  A
+S'       n   D
 kṛṣṇa kṛṣṇa hare hare
 
-                G A
+                P D
 hare rāma hare rāma
 
-Bb         A    G
+n          D    P
 rāma rāma hare hare
 

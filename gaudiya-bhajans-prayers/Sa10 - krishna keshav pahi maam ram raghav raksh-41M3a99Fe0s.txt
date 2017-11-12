@@ -16,55 +16,55 @@ kṛṣṇa! keśava! kṛṣṇa! keśava kṛṣṇa! keśava! pāhi mām!
 
 "Higher scale"
 
-  F         E F    G      F  E D  D/A          G     F    E CE  F
+  m         P m    P      m  P R  R/D          P     m    P SP  m
 Krishna Keshava, Krishna Keshava,      Krishna   Keshava pahi  mam
 
  F       E F   G    F  E D  D/A       G     F    E   C(C/)E (C/)F   (These chords can be applied at the other endings, I suppose)
 Rama Raghava, Rama Raghava,      Rama   Raghava raksha      m   am
 
 
-  F           E F G            F   E D D/A         G       F   E   C  E F
+  m           P m P            m   P R R/D         P       m   P   S  P m
 Krishna Krishna      Krishna Krishna        Krishna  Krishna Krishna Hare
 
 ========================================
 
 "Lower scale"
 
-  C        B, C D           C B,A, A,/E            D  C   B,G,B, C  
+  S        'N S R           S 'N'R 'R/P            R  S   'N'P'N S  
 Krishna Keshava,   Krishna Keshava,      Krishna  Keshava pahi  mam
 
- C      B, C D        C B,A, A,/E         D  C   B,  G,B, C
+ S      'N S R        S 'N'R 'R/P         R  S   'N  'P'N S
 Rama Raghava,   Rama Raghava,      Rama  Raghava raksha  mam
 
 
-  C          B,CD           C  B,A, A,/E           D   C  B,  G, B, C 
+  S          'NSR           S  'N'R 'R/P           R   S  'N  'P 'N S 
 Krishna Krishna   Krishna Krishna        Krishna Krishna Krishna Hare
 
 
 (1)
- E       D CBb, C  D  C Bb,A,  A,/F
+ P       R S'n  S  R  S 'n 'R  'R/m
 saḿsāra-dāvāna la-līḍha-lo ka-
 
-  F        G  FE      C  DE F
+  m        P  mP      S  RP m
 trāṇāya kāruṇya - ghanāgha natvam
 
-              E FG          F  ED D/A
+              P mP          m  PR R/D
 prāptasya kalyāṇa - guṇārṇavasya
 
-       G    F     E      C D EF
+       P    m     P      S R Pm
 vande guroḥ   śrī - caraṇāravindam
 
 
- E   D   C   Bb,C DCBb,    A, A,/F
+ P   R   S   'n S RS'n     'R 'R/m
 hare   kṛṣṇa ha  re    kṛ ṣṇa
 
- F     G  FE    C     DE  F
+ m     P  mP    S     RP  m
 kṛṣṇa kṛṣṇa  ha   re ha  re
 
-        EFG       F ED D/A
+        PmP       m PR R/D
 hare rāma   hare rāma
 
-     G  F   E    C    DE  F
+     P  m   P    S    RP  m
 rāma   rāma   ha  re ha  re
 
 TRANSLATION

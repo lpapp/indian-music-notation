@@ -7,40 +7,40 @@ Language: Bengali
 LYRICS:
 
 (1)
- C
+ S
 gurudev!
 
- D   D/F  F  G         G/C' C' G G# G F
+ R   R/m  m  P         P/S' S' P d  P m
 kṛpā  -  bindu diyā, koro'  e  i dāse,
 
    G   D# D C  D   D# D C (C/F)
 tṛṇāpekhā ati hī     na
 
- F   G   G#BbC'        Bb C'     G/C' G
+ m   P   d n S'        n  S'     P/S' P
 sakala sahane,  bala diyā koro',
 
-  Bb   C'Bb D' C' BbG#  GF
+  n    S'n  R' S' n d   Pm
 nija-māne   spṛhā-hī   na
 
  
 
 (2)
- F   G    G#BbC'        BbC'    G/C'
+ m   P    d n S'        n S'    P/S'
 sakale sammāna   korite śakati,
 
- GBb     C'  Bb D' C'BbG#  G G/D'
+ Pn      S'  n  R' S'n d   P P/R'
 deho' nātha!    jathāja  tha
 
   D'         C'D' D#'         D' C'     F/C' (or Bb Bb/D' when repeating the line)
 tabe to' gāi   bo,    ha ri-nāma-sukhe,
 
-F      G G/C' C'     BbG# G C/G
+m      P P/S' S'     n d  P S/P
 aparādha ha      'be ha  ta
 
 Then repeat (1)
 
 (3)
- F    G   G#Bb C'         BbC'    G/C'
+ m    P   d n  S'         n S'    P/S'
 kabe heno kṛpā,   labhiyā e jana,
 
  GBb     C'BbD'C'  BbG#  G G/D' (or F if repeating these two lines)
@@ -49,13 +49,13 @@ kṛtārtha hoi   be, nā  tha!
           D' C'D'D#'         D' C'    F/C' ||| (or C' Bb Bb/D'    when repeating the line)
 śakti-buddhi-hī     na, āmi ati dīna,      |||     di          na
 
-         G   G/C' C'     BbG#  G C/G
+         P   P/S' S'     n d   P S/P
 koro' more ā         tma-sā  tha
 
 Then repeat (1)
 
 (4)
-C/F F     G   G#BbC'         Bb C'   G/C' G
+S/m m     P   d n S'         n  S'   P/S' P
 jo    gyatā-vicāre,  kichu nāhi pāi,
 
   Bb   C'BbD' C' BbG#  G G/D' (F if repeating these two lines)
@@ -69,16 +69,16 @@ prāṇa nā rākhi     bo ā   ra
 
 ========== Conclude with ==========
 
-D#/G# G#        G F  G
+g /d  d         P m  P
 Jaya  gurudeva Jaya gurudeva
 
- FD#  F       G# G  F      D#      D#/G#
+ mg   m       d  P  m      g       g /d
 Jaya gurudeva Jaya    guru    deva
 
-D#              D#/G# G#  G F G
+g               g /d  d   P m P
 Nitai Gaura Haribol      Haribol
 
- FD# F        G#  G  F   D#
+ mg  m        d   P  m   g
 Haribol Nitai Gaura Hari    bol
 
 

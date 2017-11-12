@@ -1,25 +1,25 @@
 ========== Part 1 ==========
 
-G,  Bb,  C           Bb,C D F D
+'P  'n   S           'n S R m R
 Jai Jai Radha Ramana Haribol
 
- D   G   F  D   Bb,C  D C    Bb,G,
+ R   P   m  R   'n S  R S    'n 'P
 Jai Jai Radha Ramana Haribol
 
 ========== Part 2 ==========
 
- G  C'  Bb       A    F   G
+ P  S'  n        D    m   P
 Jai Jai Radha Ramana Haribol
 
- G   C' Bb       A    F   G
+ P   S' n        D    m   P
 Jai Jai Radha Ramana Haribol
 
 ========== Part 3 ==========
 
- D   G   F  D   Bb,C  D   C D
+ R   P   m  R   'n S  R   S R
 Jai Jai Radha Ramana Haribol
 
- D   G   F  D   Bb,C  D C    Bb,G,
+ R   P   m  R   'n S  R S    'n 'P
 Jai Jai Radha Ramana Haribol
 
 

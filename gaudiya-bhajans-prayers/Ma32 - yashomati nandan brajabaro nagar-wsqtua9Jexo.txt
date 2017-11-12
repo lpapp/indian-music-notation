@@ -10,55 +10,55 @@ LYRICS:
  F     E  F       (D#/F) D#     (D#/G)  G  FD#  DC      Bb,/C
 yaśomatī-nandana,           bra        ja-baro-nā  gara,
 
-Bb,       Bb,/C C       C/F F E G  F  F/A
+'n        'n /S S       S/m m P P  m  m/D
 go kula - ra      ñjana kā        na
 
-   A               G    ABb  A G F
+   D               P    Dn   D P m
 gopī-parāṇa-dhana,   madana-mano   hara,
 
- E                D     EFG  F
+ P                R     PmP  m
 kāliya-damana-vi    dhā     na
 
  
 
 (2)
-F/A        A   G     ABb  A G F    F/A
+m/D        D   P     Dn   D P m    m/D
 amala hari   nā  m amiya-vilā   sā
 
- F      E F       D#    G F D# D   C       Bb,/C
+ m      P m       g     P m g  R   S       'n /S
 vipina-purandara,    navīna nāgara - bora,
 
-Bb,     Bb,/C C      C/F F E G  F
+'n      'n /S S      S/m m P P  m
 baḿśī-bada      na suvā        sā
 
  
 
 (3)
-  F      E  F      D#/F D#   G    FD#  D C      Bb,/C
+  m      P  m      g /m g    P    mg   R S      'n /S
 braja-jana-pālana,         asura-kula-nā   śana
 
-Bb,     Bb,/C C          C/F F E G  F F/A
+'n      'n /S S          S/m m P P  m m/D
 nanda-godha      na-rākhowā        lā
 
-   A             G    ABb A  GF
+   D             P    Dn  D  Pm
 govinda mādhava,   navanīta-ta  skara,
 
- E               D    EFG  F
+ P               R    PmP  m
 sundara nanda-go   pā     lā
 
  
 
 (4)
- F     E  F         D# D#/G G F D# D   C       Bb,/C
+ m     P  m         g  g /P P m g  R   S       'n /S
 yāmuna - taṭa-cara,    go    pī-basana - hara,
 
-Bb,    Bb,/C C         C/F F E G  F F/A
+'n     'n /S S         S/m m P P  m m/D
 rāsa-rasi      ka, kṛpāmo        ya
 
-     A              G     ABb A  G   F
+     D              P     Dn  D  P   m
 śrī-rādhā-vallabha,   bṛndābana-naṭa   bara,
 
-  E          D    EFG  F
+  P          R    PmP  m
 bhakativinod-āśra     ya
 
  

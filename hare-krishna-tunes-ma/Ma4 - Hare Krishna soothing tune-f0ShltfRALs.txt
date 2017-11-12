@@ -1,42 +1,42 @@
 ========== Part 1 ==========
 
- F   E    D C   B,C C/E E
+ m   P    R S   'NS S/P P
 hare  kṛṣṇa   hare  kṛ  ṣṇa
 
-    F E      DC B,C     E D D/F
+    m P      RS 'NS     P R R/m
 kṛṣṇa    kṛṣṇa  ha  re hare
 
- F   E    D C   B,C C/E E
+ m   P    R S   'NS S/P P
 hare   rāma   hare  rā    ma
 
-   F E    DC B,C     E D D/F
+   m P    RS 'NS     P R R/m
 rāma   rāma  ha  re hare
 
 ========== Part 2 ==========
 
-D/G      G F G A   BbA   G
+R/P      P m P D   n D   P
 hare kṛṣṇa  hare kṛ  ṣṇa
 
-          FG A      Bb A G
+          mP D      n  D P
 kṛṣṇa kṛṣṇa    hare hare
 
-D/G     G F G A   Bb A    G
+R/P     P m P D   n  D    P
 hare rāma  hare rā     ma
 
-        FGA      Bb A G
+        mPD      n  D P
 rāma rāma   hare hare
 
 ========== Part 3 (Part 2 + Ds) ==========
 
-D/G       D/F D/G D/A   D/Bb D/A     D/G
+R/P       R/m R/P R/D   R/n  R/D     R/P
 hare kṛṣṇa    ha  re  kṛ         ṣṇa
 
-         D/F D/G D/A      D/Bb D/A D/G
+         R/m R/P R/D      R/n  R/D R/P
 kṛṣṇa kṛṣṇa          hare ha   re
 
-D/G       D/F D/G D/A    D/Bb D/A    D/G
+R/P       R/m R/P R/D    R/n  R/D    R/P
 hare rāma     ha  re  rā          ma
 
-       D/F D/G D/A        D/Bb D/A D/G
+       R/m R/P R/D        R/n  R/D R/P
 rāma rāma            hare ha   re
 

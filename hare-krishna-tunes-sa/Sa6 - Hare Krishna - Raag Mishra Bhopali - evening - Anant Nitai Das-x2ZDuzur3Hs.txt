@@ -1,26 +1,26 @@
 ========== Part 1 ==========
 
- C DE    G        A  G  AG E
+ S RP    P        D  P  DP P
 hare  kṛ   ṣṇa hare kṛṣṇa
 
- D  E  DC  A, A,/D  D    EDC 
+ R  P  RS  'R 'R/R  R    PRS 
 kṛṣṇa kṛ  ṣṇa      hare ha  re
 
- C DE    G       A  G AG E
+ S RP    P       D  P DP P
 hare  rā   ma hare rāma
 
- D E  DC  A,A,/D   D    EDC
+ R P  RS  'R'R/R   R    PRS
 rāma rā   ma      hare ha   re
 
 ========== Part 2 ==========
 
- E F  G  FE    F  G  A
+ P m  P  mP    m  P  D
 hare kṛṣṇa  hare kṛṣṇa
 
- G  A Bb  AF  A G    FE
+ P  D n   Dm  D P    mP
 kṛṣṇa kṛṣṇa  hare hare
 
- E F  G FE  E F  G A
+ P m  P mP  P m  P D
 hare rāma  hare rāma
 
  G A Bb AF A G    FE (No FE comedown needed when going to the third part)
@@ -28,13 +28,13 @@ rāma rāma hare hare
 
 ========== Part 3 ==========
 
-Bb   C'    D' Bb      C' BbA
+n    S'    R' n       S' n D
 hare    kṛṣṇa hare kṛṣṇa
 
-      Bb  AF  A G      G/Bb
+      n   Dm  D P      P/n
 kṛṣṇa kṛṣṇa  hare hare
 
-G/Bb BbC'   D' Bb     C'  BbA
+P/n  n S'   R' n      S'  n D
 ha   re   rāma hare rāma
 
      Bb AF  A G      G/Bb (or FE when coming to the first part again)

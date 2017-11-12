@@ -7,26 +7,26 @@ Language: Bengali
 LYRICS:
 
 (1)
- F G  A Bb   A  G F D#/F D#        D#/G  G  F    D#/F D# D D/G G
+ m P  D n    D  P m g /m g         g /P  P  m    g /m g  R R/P P
 hari ha ri! biphale         janama      gońāi nu
 
-    F    D#/F D# F  G G/C'    C'        Bb/C Bb         A  G    F    G  A  G F G G/Bb Bb
+    m    g /m g  m  P P/S'    S'        n /S n          D  P    m    P  D  P m P P/n  n
 manuṣ ya  -   ja   na      ma     pāiyā,          rādhā - kṛṣṇa   nā   bhajiyā,
 
-    Bb/C' C' Bb/C' Bb  A   A/Bb Bb A G    F         G    ABbAG G/Bb Bb
+    n /S' S' n /S' n   D   D/n  n  D P    m         P    Dn DP P/n  n
 jāniyā                śuni      yā     bi   ṣa khāi   nu
 
-    Bb/C' C' D' C'   Bb A G    F         G    ABbAG G/Bb Bb
+    n /S' S' R' S'   n  D P    m         P    Dn DP P/n  n
 jāniyā          śuni yā     bi   ṣa khāi   nu
  
 ---Another variation:
-    C    Bb,/C Bb, Bb,/C C D D/G     G        F       E  D    C    D   E D C D D/F F
+    S    'n /S 'n  'n /S S R R/P     P        m       P  R    S    R   P R S R R/m m
 manuṣ ya  -    ja         na      ma   pāiyā,   rādhā - kṛṣṇa   nā   bhajiyā,
 
-     G F E   F E D    C          D E F E D D/F F  
+     P m P   m P R    S          R P m P R R/m m  
 jāniyā  śuniyā     bi   ṣa khāi nu
 
-     G A G   F E  D C         D  E F E D
+     P D P   m P  R S         R  P m P R
 jāniyā  śuniyā   bi   ṣa khāi   nu
 
 This can be done up to (3) and then different from (4), see below.
@@ -34,71 +34,71 @@ This can be done up to (3) and then different from (4), see below.
 
 
 (2)
- G   F D#/F D# D#/F F   G G/C'     C'        Bb         AG     FG A    G F G G/Bb
+ P   m g /m g  g /m m   P P/S'     S'        n          DP     mP D    P m P P/n
 goloke             ra pre      ma  -  dhana,    hari-nā    ma-sa  ńkīrtana,
 
-Bb   C' Bb  ABbA  GF         GABbAG   G/Bb
+n    S' n   Dn D  Pm         PDn DP   P/n
 rati nā janmilo  ke  ne   tā        y
 
-Bb   C'    D'    C'BbA  GF         GABbAG   
+n    S'    R'    S'n D  Pm         PDn DP   
 rati    nā    janmilo  ke  ne   tā        y
 
-      F D#F  G G/C' C'    Bb      A  G    FG  A   G F G G/Bb Bb
+      m g m  P P/S' S'    n       D  P    mP  D   P m P P/n  n
 saḿsāra-bi  ṣā      nale,    dibā - niśi hi  yā jwale,
 
-    Bb/C'C'Bb  A BbA G   F    GABbAG   G/Bb Bb
+    n /S'S'n   D n D P   m    PDn DP   P/n  n
 jurāi    te   nā koinu u   pā        y
 
-    Bb/C'C'    D'C' BbA G   F    GABbAG   
+    n /S'S'    R'S' n D P   m    PDn DP   
 jurāi       te   nā koinu u   pā        y
 
 
 (3)
-        F D#F G G/C'   C'      Bb      A  G   F   G A  GF G G/Bb
+        m g m P P/S'   S'      n       D  P   m   P D  Pm P P/n
 brajendra-nanda     na    jei,    śacī - suta   hoilo sei,
 
-Bb  Bb/C'C'Bb/C'C'  ABbA  GF      GABbAG   G/Bb
+n   n /S'S'n /S'S'  Dn D  Pm      PDn DP   P/n
 balarā          ma hoi   lo  nitā        i
 
-Bb  Bb/C' C'D'     C'BbA  GF      GABbAG
+n   n /S' S'R'     S'n D  Pm      PDn DP
 balarā          ma hoi   lo  nitā        i
 
-   F  D#/F D# D#/F  F  G G/C' C'        Bb/C' C'       A  G   FG    A G F G G/Bb
+   m  g /m g  g /m  m  P P/S' S'        n /S' S'       D  P   mP    D P m P P/n
 dīna   -   hī      na ja      ta chilo,           hari - nāme u  ddhārilo,
 
-Bb   Bb/C'C'  Bb/C' Bb   ABbA GF       GABbAG   G/Bb
+n    n /S'S'  n /S' n    Dn D Pm       PDn DP   P/n
 tāra śā      kṣī        jagā  i  mādhā        i
 
-Bb   Bb/C'C'D'     C'BbA GF       GABbAG
+n    n /S'S'R'     S'n D Pm       PDn DP
 tāra śā        kṣī jagā  i  mādhā        i
  
 
 (4)
- G     G/Bb Bb   A  G          G/Bb Bb         A   G       G/C'
+ P     P/n  n    D  P          P/n  n          D   P       P/S'
 hā hā pra      bhu nanda-suta,      vṛṣabhānu-sutā - juta,
 
-C'        A/C' A A/C' C' D'D#' D'C'BbAG
+S'        D/S' D D/S' S' R'g'  R'S'n DP
 koruṇā ka     ro ho      e i - bāro
 
-     G/Bb Bb  A  G     G/Bb Bb          A    G      G/C'
+     P/n  n   D  P     P/n  n           D    P      P/S'
 narotta      ma-dāsa koy,   nā ṭheliho rāńgā   pāy,
 
-C'        A/C'  A A/C'C'  D' D#'D'C'   BbAG D/G
+S'        D/S'  D D/S'S'  R' g' R'S'   n DP R/P
 tomā bine      ke     ā  che ā  mā  ra
 
 Repeat first line of (1) and then finish A,/D
 
 --- Another variation
- D    D/F F E      D          D/F   F         E   D       D/G
+ R    R/m m P      R          R/m   m         P   R       R/P
 hā hā   pra   bhu nanda-suta,      vṛṣabhānu-sutā - juta,
 
- G        E/G E    E/G  G A Bb   AG    FED D/G D
+ P        P/P P    P/P  P D n    DP    mPR R/P R
 koruṇā ka       ro     ho e i - bā  ro
 
-     D/F  F E  D     D/F   F          E    D      D/G
+     R/m  m P  R     R/m   m          P    R      R/P
 naro    ttama-dāsa koy,   nā ṭheliho rāńgā   pāy,
 
- G        E/G  E E/G G   A Bb  AG
+ P        P/P  P P/P P   D n   DP
 tomā bine     ke     ā che ā  mā  ra
 ---
 

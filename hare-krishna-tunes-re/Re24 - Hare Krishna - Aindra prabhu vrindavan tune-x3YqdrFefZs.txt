@@ -3,13 +3,13 @@
  D    E E/G G (D/G)    A   (A/D')D'C' ABA
 hare kṛ ṣ  ṇa       hare kṛṣ       ṇa
 
- G  A F/A F       E B,/E B,C D
+ P  D m/D m       P 'N/P 'NS R
 kṛṣṇa    kṛṣṇa hare      ha re
 
       E E/G G    A    (A/D')D'C' ABA
 hare rā    ma hare rā         ma
 
- G A F/A F      E B,/E B,C D
+ P D m/D m      P 'N/P 'NS R
 rāma    rāma hare      ha re
 
 ========== Part 2 ==========
@@ -28,13 +28,13 @@ rāma rāma hare         ha re
 
 ========== Part 3 ==========
 
- B              A  BD'C' ABA
+ N              D  NR'S' DND
 hare kṛṣṇa hare   kṛṣ ṇa
 
  G  A F/A  F       E (B,/E)B,C  D (D/B)
 kṛṣṇa     kṛṣṇa hare       ha  re
 
- B             A  BD'C' ABA
+ N             D  NR'S' DND
 hare rāma hare   rā  ma
 
  G A F/A F      E (Bb,/E)B,C D (D/B)

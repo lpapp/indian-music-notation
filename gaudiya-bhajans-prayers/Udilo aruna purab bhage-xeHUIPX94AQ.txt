@@ -7,40 +7,40 @@ Language: Bengali
 LYRICS
 
 (1)
-FF# F D# C#      B,C# D#C#  B,Bb,     Bb,/F#
+m'M m g  r       'Nr  g r   'N'n      'n /'M
 udilo a     ruṇa pū   raba-bhā    ge,
 
- F#        Bb G#F#F   C#  D#F F#   
+ 'M        n  d' Mm   r   g m 'M   
 dwija-maṇi    gorā  a   mani  jāge,
 
-F#         FF# G#       F#  F D# D#/Bb
+'M         m'M d        'M  m g  g /n
 bhakata-samūha    loiyā sāthe,
 
-  Bb G#F#     F     C#D#F F#
+  n  d' M     m     r g m 'M
 gelā nagara  -  brā       je
 
  
 
 (2)
- F#        G#  Bb     G#  Bb   Bb/C#'
+ 'M        d   n      d   n    n /r'
 'tāthaī tāthaī    bājalo khol,
 
-   C#'      B   BbG#    Bb   B          Bb G# F#     F#/B
+   r'       N   n d     n    N          n  d  'M     'M/N
 ghana ghana   tāhe   jhājera   ro          l,
 
-            B    BbG#   BbG# F#FD#     D#/Bb
+            N    n d    n d  'Mmg      g /n
 preme ḍhala   ḍhala   soṇāra a ń   ga,
 
-    BbG#    F#       FC#D#F F#
+    n d     'M       mr g m 'M
 caraṇe   nū    pura bā      je
 
  
 
 (3)
-F#      F#/Bb Bb C'       C#'      C' C'/D#' D#' C#'
+'M      'M/n  n  S'       r'       S' S'/g'  g'  r'
 mukunda       mā    dhava      yādava ha             ri,
 
-C#'/F
+r' /m
 bolena bolo re vadana bhori',
 
 

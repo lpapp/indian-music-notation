@@ -1,60 +1,60 @@
 ========== Part 1 ==========
 
- C    D     CB,    C   D D/G
+ S    R     S'N    S   R R/P
 hare kṛṣṇa hare kṛ   ṣṇa
 
- G       A   G  F E  D C
+ P       D   P  m P  R S
 kṛṣṇa kṛ   ṣṇa hare hare
 
- C    D    CB,    C  D D/G
+ S    R    S'N    S  R R/P
 hare rāma hare rā   ma
 
- G      A G  F E  D C
+ P      D P  m P  R S
 rāma rā  ma hare hare
 
 It is fine to go from D/G to G on the first or second syllable
 
 ========== Part 2 ==========
 
- G    A     G F    A   G
+ P    D     P m    D   P
 hare kṛṣṇa hare kṛ   ṣṇa
 
-       A     G FE  DC  DE C/E
+       D     P mP  RS  RP S/P
 kṛṣṇa kṛṣṇa hare  ha  re
 
- C    D    CB,    C  D D/G
+ S    R    S'N    S  R R/P
 hare rāma hare rā   ma
 
- G      A  G  F E  D C C/G
+ P      D  P  m P  R S S/P
 rāma rā   ma hare hare
 
 ========== Part 3 ==========
 
- G               A  B A G
+ P               D  N D P
 hare kṛṣṇa hare kṛṣṇa
 
-    A A/C'C'      B  A G G/Bb
+    D D/S'S'      N  D P P/n
 kṛṣṇa kṛ  ṣ ṇa hare hare
 
-Bb           A  G F E D
+n            D  P m P R
 hare rāma hare rāma
 
- C D D/F F      E  D C
+ S R R/m m      P  R S
 rāma rā   ma hare hare
 
 ============================
          Double-time
 ========== Part 4 ==========
 
- C
+ S
 hare kṛṣṇa hare kṛṣṇa
 
- D     C B,  C    D   D/G
+ R     S 'N  S    R   R/P
 kṛṣṇa kṛṣṇa hare hare
 
-   G       F    E
+   P       m    P
 hare rāma hare rāma
 
- D         C
+ R         S
 rāma rāma hare hare
 

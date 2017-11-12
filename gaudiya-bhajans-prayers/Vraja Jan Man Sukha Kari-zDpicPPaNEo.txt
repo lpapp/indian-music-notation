@@ -6,100 +6,100 @@ Language: Braja Bhasa
 
 LYRICS:
 
-A  G  A    G F#  G
+D  P  D    P 'M  P
 rādhe syām rādhe syām
 
- F  E  F    E  C  D
+ m  P  m    P  S  R
 rādhe syām rādhe syām
 
 or
 
- A D' C'          B
+ D R' S'          N
 rādhe syām rādhe syām
 
- A  G  ABb C' Bb  A
+ D  P  Dn  S' n   D
 rādhe syām rādhe syām
 
 (Refrain)
-  D E         D  E  A G F
+  R P         R  P  D P m
 vraja-jana-mana-sukhakārī
 
-    G E/G  E    FE DC# D
+    P P/P  P    mP Rr  R
 rādhe     syām syāmā  syām
 
  
 
 (1)
- D     E    G    A                      G    BA   G F ED
+ R     P    P    D                      P    ND   P m PR
 mor mukuṭa makarākṛta-kuṇḍala, gala vaijayantī - māla,
 
- A     G F  G    B                       C' D'C'  B A GF
+ D     P m  P    N                       S' R'S'  N D Pm
 mor mukuṭa makarākṛta-kuṇḍala, gala vaijayantī - māla,
 
- D E      D E    A G F
+ R P      R P    D P m
 caraṇana nūpura rasāla
 
-    G E/G E    FE DC# D
+    P P/P P    mP Rr  R
 rādhe    syām syāmā  syām
 
  
 
 (2)
- D       E G        A                      G  B A  G F ED
+ R       P P        D                      P  N D  P m PR
 sundara vadana kamala-dala locana, bākī cita-vana-hārī,
 
- A       G   F  G G/B  B                  C' D'C'  B A GF
+ D       P   m  P P/N  N                  S' R'S'  N D Pm
 sundara vadana kamala-dala locana, bākī cita-vana-hārī,
 
- D E    D  E  A G F
+ R P    R  P  D P m
 mohana-vaḿśī-vihārī
 
-    G E/G  E    FE DC# D
+    P P/P  P    mP Rr  R
 rādhe     syām syāmā  syām
 
  
 
 (3)
- D    E    G     A                 G  B A G F ED
+ R    P    P     D                 P  N D P m PR
 vṛndāvana mê dhenu carāve, gopī-jana manahārī
 
- A    G    F   G B                C' D'C' B A GF
+ D    P    m   P N                S' R'S' N D Pm
 vṛndāvana mê dhenu carāve, gopī-jana manahārī
 
-  D  E  D  E A   G F
+  R  P  R  P D   P m
 śrī govardhana-dhārī
 
-    G E/G E    FE DC# D
+    P P/P P    mP Rr  R
 rādhe    syām syāmā  syām
 
  
 
 (4)
- D     E  G      A                 G B A GF ED
+ R     P  P      D                 P N D Pm PR
 rādhā-kṛṣṇa mili aba dou, gaura-rūpa avatā rī
 
- A     G  F  G G/B B                C' D'C' B  A GF
+ D     P  m  P P/N N                S' R'S' N  D Pm
 rādhā-kṛṣṇa mili   aba dou, gaura-rūpa a vatā rī
 
- D  E     D  E   A G F
+ R  P     R  P   D P m
 kīrtana dharma pracārī
 
-    G E/G  E    FE DC# D
+    P P/P  P    mP Rr  R
 rādhe     syām syāmā  syām
 
  
 
 (5)
- D     E  G    A                  G B A G F ED
+ R     P  P    D                  P N D P m PR
 tum vinā mere aur na koi, nāma-rūpa avatārī
 
- D E          D E AG F
+ R P          R P DP m
 caraṇana meń balihā rī,
 
- A   G F    G B             C' D'C' B  AG FE
+ D   P m    P N             S' R'S' N  DP mP
 nārāyaṇa balihārī, radhe syama sya ma syama
 
-    G E/G  E    FE DC# D
+    P P/P  P    mP Rr  R
 rādhe     syām syāmā  syām
 
 

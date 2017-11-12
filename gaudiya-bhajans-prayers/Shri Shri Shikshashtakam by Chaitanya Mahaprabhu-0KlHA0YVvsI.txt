@@ -8,137 +8,137 @@ LYRICS:
 
 (1)
 
-F#   F#/A   A       G#/A G# A                    G# F# F   F#      G#      C#/G# C#
+'M   'M/D   D       d /D d  D                    d  'M m   'M      d       r /d  r
 ceto  -  da   rpaṇa  -   mā   rjanaḿ bhava-mahā  -  dā   vāg ni-nirvāpaṇaḿ
 
-C#   C#/F   F      F#        F    F#      G#    G#/A A G#     F#  F    F/G# G#F#
+r    r /m   m      'M        m    'M      d     d /D D d      'M  m    m/d  d' M
 śreyaḥ  -  kairava-candrikā  -  vitaraṇaḿ    vidyā    -    vadhū  -  jī     vanam
 
-F#   F#/A A      G#       A              G#F#    F/F# F      F# G#      C#/G# C#
+'M   'M/D D      d        D              d' M    m/'M m      'M d       r /d  r
 ā nandā   mbudhi  -  vardhanaḿ prati-padaḿ    pūrṇā     mṛtā   svādanaḿ
 
-C# C#/F F      F#             F    F#  G#  A G# F#  F F/G# G# F#
+r  r /m m      'M             m    'M  d   D d  'M  m m/d  d  'M
 sarvā     tma-snapanaḿ paraḿ vijayate śrī-kṛṣṇa  - sańkī         rtanam
 
 (or split at "param" - better option
-C# C#/F F        F#     F F#  G#     A G# F#  F         F/G# G# F#
+r  r /m m        'M     m 'M  d      D d  'M  m         m/d  d  'M
 sarvā     tma-snapanaḿ pa raḿ vijayate   śrī-kṛṣṇa  - sań    kī    rtanam)
  
 
 (2)
 
-F#      F#/A A            G#  A
+'M      'M/D D            d   D
 nāmnām akā     ri bahudhā    nija-sarva-śaktis
 
-      G#F# F     F#         G#          C#/G#
+      d' M m     'M         d           r /d
 tatrārpitā   niyamitaḥ smaraṇe na kālaḥ
 
-C# C#/F F          F#        F F#     G#
+r  r /m m          'M        m 'M     d
 e  tā  dṛśī tava kṛpā bhagavan mamāpi
 
-G#  A G#  F#   F/F# F       F/G# G# F#
+d   D d   'M   m/'M m       m/d  d  'M
 durdaivam ī  dṛśam  ihājani nā      nurāgaḥ
 
  
 
 (3)
 
-F#        F#/A A    G#  A
+'M        'M/D D    d   D
 tṛṇād api su     nī    cena
 
-      G# F# F F#G#      C#/G# C#
+      d  'M m 'Md       r /d  r
 taror a  pi   sahiṣṇunā
 
-C# C#/F F          F#
+r  r /m m          'M
 a  mā     ninā mānadena
 
-G#   G#/A A   G#F#F F/G# G# F#
+d    d /D D   d' Mm m/d  d  'M
 kīrtanī     yaḥ     sa   dā    hariḥ
 
  
 
 (4)
  
-F#    F#/A A          G#/A G#  A
+'M    'M/D D          d /D d   D
 na dhana   ḿ na janaḿ      na sundarīḿ
 
-       G# F#    F      F#   G#     C#/G# C#
+       d  'M    m      'M   d      r /d  r
 kavitā    ḿ  vā   jagad-īśa kāmaye
 
-C# C#/F  F              F#
+r  r /m  m              'M
 ma ma   janmani janmanī   śvare
 
- G#  G#/A A G#    F#  F/F# F   F/G#   G#      F#/G# F#
+ d   d /D D d     'M  m/'M m   m/d    d       'M/d  'M
 bhavatā        d bhakti      r a    hai  tukī          tvayi
 
  
 
 (5)
 
-F#    F#/A   A       G#/A G#  A
+'M    'M/D   D       d /D d   D
 a  yi      nanda-tanuja      kińkaraḿ
 
-      G#F# F/F# F F#  F#/G# G#               C#/G# C#
+      d' M m/'M m 'M  'M/d  d                r /d  r
 patitaḿ mā      ḿ viṣame        bhavāmbudhau
 
-C# C#/F    F           F#
+r  r /m    m           'M
 kṛ pa   yā   tava pāda-pańkaja-
 
-   F F#  G# G#/A A G#F#   F  F/G# G#  F#
+   m 'M  d  d /D D d' M   m  m/d  d   'M
 sthi ta-dhū lī  -    sadṛśaḿ vi   cin    taya
 
  
 
 (6)
 
-F#   F#/A  A              G#   A
+'M   'M/D  D              d    D
 naya      naḿ galad-aśru  -  dhārayā
 
-      G#F#     F   F#  G#        C#/G# C#
+      d' M     m   'M  d         r /d  r
 vadanaḿ    gadgada-ruddhayā girā
 
-C# C#/F    F        F#    F F#  G# A G#
+r  r /m    m        'M    m 'M  d  D d
 pu la   ka   ir nicitaḿ  va puḥ kadā
 
-F#    F      F/G# G# F#
+'M    m      m/d  d  'M
 tava nāma-graha   ṇe         bhaviṣyati
 
 (or it can be split at "kada" - this is actually better:
-C# C#/F    F             F#     F F#  G#
+r  r /m    m             'M     m 'M  d
 pu la   ka   ir nicitaḿ  vapuḥ ka dā
 
-G#          A   G#    F# F  F/G# G# F#/G# F#
+d           D   d     'M m  m/d  d  'M/d  'M
 tava nāma-graha    ṇe      bha   vi       ṣ  yati)
  
 
 (7)
 
-F# F#/A A         G# A
+'M 'M/D D         d  D
 yu gā     yitaḿ nimeṣeṇa
 
-   G#F# F  F#  G#      C#/G# C#
+   d' M m  'M  d       r /d  r
 cakṣuṣā   prāvṛṣāyitam
 
-C#/F   F        F#  F F#
+r /m   m        'M  m 'M
 śū   nyāyitaḿ jagat   sarvaḿ
 
-G# A G# F#     F F/G# G# F#
+d  D d  'M     m m/d  d  'M
 govinda  -  vira he         ṇa me
 
  
 
 (8)
 
-F# F#/A A         G#/A G#       G#/A A
+'M 'M/D D         d /D d        d /D D
 ā  ś   liṣya vā pāda -    ra tā        ḿ pinaṣṭu mām
 
-    G#F# F      F#   F#/G# G#               C#/G# C#
+    d' M m      'M   'M/d  d                r /d  r
 adarśanā   n marma-hatā         ḿ karotu vā
 
-   C#/F F               F# F F#      F#/G#
+   r /m m               'M m 'M      'M/d
 yathā     tathā vā vidadhātu lampaṭo
 
-G#    AG# F#  F        F/G# G# F#
+d     Dd  'M  m        m/d  d  'M
 mat-prāṇa-nāthas tu sa e          va nāparaḥ
 
  

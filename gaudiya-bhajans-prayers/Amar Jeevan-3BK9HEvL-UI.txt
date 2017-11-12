@@ -7,15 +7,15 @@ Language: Bengali
 LYRICS
 
 (1)
-F F/Bb Bb      ABb      GG#  GF          C/F C
+m m/n  n       Dn       Pd   Pm          S/m S
 ā mā       ra jīvana,  sadā pā  pe rata,
 
-     D D#  F    D D# C  Bb, Bb,/F
+     R g   m    R g  S  'n  'n /m
 nāhiko punyera le      ṣa
 
 => Bb,/D#
 
-D#     D D#   F          E  F    F/A
+g      R g    m          P  m    m/D
 parere udvega,  diyāchi je koto,
 
  A               GAC'  Bb D#/Bb (F/Bb finish when repeating)
@@ -24,79 +24,79 @@ diyāchi jīvere kle    śa
  
 
 (2)
-D#    D D/F F       F/A   A     Bb       D#/Bb
+g     R R/m m       m/D   D     n        g /n
 nija sukha    lāgi’,     pāpe nāhi ḍori,
 
- G    ABb  C'      ABbA GF
+ P    Dn   S'      Dn D Pm
 doyā-hīna swārtha-pa   ro
 
- F   F/D' D'  C' D'      C'     Bb   A  Bb    G
+ m   m/R' R'  S' R'      S'     n    D  n     P
 para-su      khe duḥkhī,   sadā mithya-bhāṣī,
 
-      A  Bb C'    D'C'D'C'Bb
+      D  n  S'    R'S'R'S'n
 para-duḥkha sukha-ka      ro
 
  
 
 (3)
 
-F F/Bb Bb     ABb      GG#  G  F       C/F
+m m/n  n      Dn       Pd   P  m       S/m
 a śe      ṣa kāmanā,  hṛdi mājhe mora,
 
-  C  D  D#   F    DD#  CBb, Bb,/F
+  S  R  g    m    Rg   S'n  'n /m
 krodhī, dambha-parā   yana
 
 => Bb,/D#
 
-D#    D D#      F         E F    F/A
+g     R g       m         P m    m/D
 mada-matta sadā,  viṣaye mohita,
 
- A              GA C'Bb D#/Bb
+ D              PD S'n  g /n
 hiḿsā-garva vibhū  ṣana
 
  
 
 (4)
-D#    D    D/F F    F/A    A    Bb      G
+g     R    R/m m    m/D    D    n       P
 nidrālasya ha   ta,     sukārye virata,
 
-     A BbC'   ABbA GF
+     D n S'   Dn D Pm
 akārye udyogī ā   mi
 
-   D'     C'D'    C'     BbABb
+   R'     S'R'    S'     n Dn
 pratiṣṭha lāgiyā, śāṭhya-ācaraṇa,
 
- G     ABb C'   D'C'D'C'Bb
+ P     Dn  S'   R'S'R'S'n
 lobha-hata sadā kā      mī
 
  
 
 (5)
-F F/Bb Bb     A Bb      G  G# GF           C/F
+m m/n  n      D n       P  d  Pm           S/m
 e he      no durjana,  saj-jana - varjita,
 
-C   D D#  F    DD#C Bb, Bb,/D#
+S   R g   m    Rg S 'n  'n /g
 aparādhi niranta    ra
 
-D#        D D#     F          E  F    F/A
+g         R g      m          P  m    m/D
 śubha-kārya-śūnya,   sadānartha-manāḥ,
 
- A                GAC'Bb D#/Bb
+ D                PDS'n  g /n
 nānā duḥkhe jara ja   ra
 
  
 
 (6)
-D#        D D/F F     F/A A     Bb     G
+g         R R/m m     m/D D     n      P
 bārdhakye ekho    na,     upāya-vihīna,
 
-       ABb C'    ABbA GF
+       Dn  S'    Dn D Pm
 tā’te dīna a kiñca   na
 
-     F/D' D'C'D'   C'      Bb  ABb    G/Bb
+     m/R' R'S'R'   S'      n   Dn     P/n
 bhakati     vinoda,  prabhura caraṇe,
 
- G    A  Bb C'  D'C'D'C'Bb
+ P    D  n  S'  R'S'R'S'n
 kore duḥkha niveda      na
 
 

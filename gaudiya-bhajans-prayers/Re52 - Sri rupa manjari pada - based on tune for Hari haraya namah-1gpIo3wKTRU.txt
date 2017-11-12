@@ -7,70 +7,70 @@ Language: Bengali
 LYRICS:
 
 (1)
-  D D# F D#  F         D#G  F G D#FD#  D
+  R g  m g   m         g P  m P g mg   R
 śrī-rūpa-mañjarī-pada, sei mora sam   pada,
 
 (=== or this, but the above is nicer:
-  D D# F D#  F          G   FD# D#   D
+  R g  m g   m          P   mg  g    R
 śrī-rūpa-mañjarī-pada, sei mora sam pada,===)
 
-  F D#    D   C   Bb,CDD# D
+  m g     R   S   'n SRg  R
 sei mor bhajana-pūja     na
 
 The same can be done for the second part of the stanzas or even better:
 
- A   G     F    D#    D#/G G       F   D# D D/F
+ D   P     m    g     g /P P       m   g  R R/m
 sei mora prāṇa-dhana,     sei mora ābharaṇa,
 
- F  D#   D   C     Bb,CDD# D
+ m  g    R   S     'n SRg  R
 sei mor jīvanera jīva     na
 
  
 
 (2)
 
- DD# FD#  F          D#G  F G D#   F D#   D D/F
+ Rg  mg   m          g P  m P g    m g    R R/m
 sei mora rasa-nidhi, sei mora vāñchā-siddhi,
 
- F  D#   D   C    Bb,CDD# D
+ m  g    R   S    'n SRg  R
 sei mor vedera dhara     ma
 
- A    G     F  D#    D#/G  G        F     D# D D/F
+ D    P     m  g     g /P  P        m     g  R R/m
 sei brata, sei tapa,      sei mora mantra-japa,
 
- F  D#    D   C   Bb,CDD# D D/A
+ m  g     R   S   'n SRg  R R/D
 sei mor dharama-kara     ma
 
  
 
 (3)
 
-DD# FD#  F          D#D/G G    F    D#   D  D/F
+Rg  mg   m          g R/P P    m    g    R  R/m
 anukūla habe vidhi, se - pade hoibe siddhi,
 
- F   D#   D   C   Bb,CDD# D
+ m   g    R   S   'n SRg  R
 nirakhibo e dui naya     ne
 
- A          G    FD# D#/G  G        F   D# D  D/F
+ D          P    mg  g /P  P        m   g  R  R/m
 se rūpa-mādhurī-rāśi,    prāṇa-kuvalaya-śaśi,
 
-  F    D#    D    C   Bb,CDD#  D D/A
+  m    g     R    S   'n SRg   R R/D
 praphullita habe niśi-di      ne
 
  
 
 (4)
 
-D D# FD#  F        D# D#/G    G      F D# D  D/F
+R g  mg   m        g  g /P    P      m g  R  R/m
 tuwā adarśana-ahi,    ga   rale jāralo dehī,
 
- F   D#    D   C   Bb,CDD# D D/A
+ m   g     R   S   'n SRg  R R/D
 ciro-dina tāpita jīva     na
  
- A          G    FD# D#/G G         F    D# D D/F
+ D          P    mg  g /P P         m    g  R R/m
 hā hā rūpa koro doyā,    deho more pada-chāyā,
 
- F   D#    D  C   Bb,CDD# D D/A
+ m   g     R  S   'n SRg  R R/D
 narottama loilo śara     ṇa
 
 

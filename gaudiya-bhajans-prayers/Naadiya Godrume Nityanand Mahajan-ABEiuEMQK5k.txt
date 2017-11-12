@@ -7,10 +7,10 @@ Language: Bengali
 LYRICS:
 
 (1)
- C D G  E  D C     D C Bb,  C   D
+ S R P  P  R S     R S 'n   S   R
 nadīyā-godrume nityānanda  mahājana
 
- DD# D D#  DD# D D#  F  D#  D C
+ Rg  R g   Rg  R g   m  g   R S
 patiyāche nām-haṭṭa jīvera kāraṇa
 
 ( G A G  F  E   C  D  E   D    C
@@ -19,31 +19,31 @@ patiyāche nām-haṭṭa jīvera kāraṇa)
 => Finish with G,/C at the very end. 
 
 (2)
-   C     EF  G        F   GBb,A  G      C/G
+   S     Pm  P        m   P'n D  P      S/P
 (śraddhāvān jan he, śraddhāvā n jan he)
 
-  C    E F  G          F G Bb, A   G     C/G
+  S    P m  P          m P 'n  D   P     S/P
 prabhura ājñāy, bhāi, māgi e   i bhikṣā
 
- G A   G  F     E    C  D   E    D     C    C/G
+ P D   P  m     P    S  R   P    R     S    S/P
 bolo `kṛṣṇa,’ bhajo kṛṣṇa, koro kṛṣṇa-śikṣā
 
 
 
 (3)
-C   E  F  G           F G Bb,  A  G   C/G
+S   P  m  P           m P 'n   D  P   S/P
 aparādha-śūnya ho’ye loho kṛ ṣṇa-nām
 
- G  A  G F   E     C D   E      D     C   C/G
+ P  D  P m   P     S R   P      R     S   S/P
 kṛṣṇa mātā, kṛṣṇa pitā, kṛṣṇa dhana-prān
 
  
 
 (4)
- C  E     F  G          F G  Bb  A G  C/G
+ S  P     m  P          m P  n   D P  S/P
 kṛṣṇaera saḿsāra koro chāḍi’ a  nācār
 
- G A  G F   E     CD  E      D     C  C/G
+ P D  P m   P     SR  P      R     S  S/P
 jīve doyā, kṛṣṇa-nām—sarva-dharma-sār
 
 

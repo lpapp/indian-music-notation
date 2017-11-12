@@ -1,12 +1,12 @@
 ========== Part 1 ==========
 
-Bb    AG F  EG F  E  D A,/D
+n     DP m  PP m  P  R 'R/R
 hare kṛṣṇa ha re kṛṣṇa
 
 A,  C  D (D/F)  F C/F C DC A,C Bb, Bb,/Bb
 kṛṣṇa kṛ  ṣ    ṇa    hare  ha  re
 
-Bb    AG F  EG F  E D A,/D
+n     DP m  PP m  P R 'R/R
 hare rā ma ha re rāma
 
 A, C  D (D/F) F C/F  C DC A,C Bb, Bb,/Bb
@@ -14,16 +14,16 @@ rāma rā      ma     hare  ha  re
 
 ========== Part 1 v2 (but not so "cool", variaton for first four notes) ==========
 
-Bb A  G  F  EF EG F  E  D A,/D
+n  D  P  m  Pm PP m  P  R 'R/R
 hare kṛṣṇa ha    re kṛṣṇa
 
-A,  C  D  F  C DC A,C Bb, Bb,/Bb
+'R  S  R  m  S RS 'RS 'n  'n /n
 kṛṣṇa kṛṣṇa hare  ha  re
 
-Bb    AG F  EG F  E D A,/D
+n     DP m  PP m  P R 'R/R
 hare rā ma ha re rāma
 
-A, C  D F  C DC A,C Bb, Bb,/Bb
+'R S  R m  S RS 'RS 'n  'n /n
 rāma rāma hare  ha  re
 
 ========== Part 2 ==========
@@ -37,93 +37,93 @@ kṛṣṇa kṛṣ ṇa ha  re  ha re  (   ha re)
  D    E (E/G) G G/Bb Bb    AC, Bb Bb/D'
 hare rā      ma ha      re rā  ma
  
-D'   C'Bb A  GA BbA  GA  GF D/F
+R'   S'n  D  PD n D  PD  Pm R/m
 rāma rā  ma ha  re  ha  re
 
 ============================
          Double-time
 ========== Part 3 ==========
 
-Bb    A  G  F
+n     D  P  m
 hare kṛṣṇa hare kṛṣṇa
 
- E  G  F  E  D        A,/D
+ P  P  m  P  R        'R/R
 kṛṣṇa kṛṣṇa hare hare
 
-A, C       D    F
+'R S       R    m
 hare rāma hare rāma
 
- C    D C A, C Bb,
+ S    R S 'R S 'n
 rāma rāma hare hare
 
 ========== Part 3v2 ==========
 
-Bb          A G  F
+n           D P  m
 hare kṛṣṇa hare kṛṣṇa
 
- E  G  F  E  D        A,/D
+ P  P  m  P  R        'R/R
 kṛṣṇa kṛṣṇa hare hare
 
-A,    C    D    F
+'R    S    R    m
 hare rāma hare rāma
 
- C    D C A, C Bb,
+ S    R S 'R S 'n
 rāma rāma hare hare
 
 ========== Part 4 ==========
 
- D    E     G
+ R    P     P
 hare kṛṣṇa hare kṛṣṇa
 
-G/Bb Bb        AC' Bb
+P/n  n         DS' n
 kṛṣ  ṇa kṛṣṇa hare hare
 
-D'        C'   Bb A
+R'        S'   n  D
 hare rāma hare rāma
 
- G A Bb A  G A  G F
+ P D n  D  P D  P m
 rāma rāma hare hare
 
 ========== Part 4v2 ==========
 
- D          E    G
+ R          P    P
 hare kṛṣṇa hare kṛṣṇa
 
-G/Bb Bb        AC' Bb    Bb/D'
+P/n  n         DS' n     n /R'
 kṛṣ  ṇa kṛṣṇa hare hare
 
-D'        C'Bb  A
+R'        S'n   D
 hare rāma hare rāma
 
- G A Bb A  G A  G F D/F
+ P D n  D  P D  P m R/m
 rāma rāma hare hare
 
 ========== Part 5 ==========
 
- D          E    G
+ R          P    P
 hare kṛṣṇa hare kṛṣṇa
 
-G/Bb Bb        AC' Bb    Bb/D'
+P/n  n         DS' n     n /R'
 kṛṣ  ṇa kṛṣṇa hare hare
 
- D         E    G
+ R         P    P
 hare rāma hare rāma
 
-G/Bb Bb       AC' Bb   D/Bb
+P/n  n        DS' n    R/n
 rā   ma rāma hare hare
 
 ========== Part 6 ==========
 
-D'         C'Bb  A
+R'         S'n   D
 hare kṛṣṇa hare kṛṣṇa
 
- G  A Bb  A  G A  G F F/D'
+ P  D n   D  P D  P m m/R'
 kṛṣṇa kṛṣṇa hare hare
 
-D'        C'Bb  A
+R'        S'n   D
 hare rāma hare rāma
 
- G A Bb A  G A  G F F/D'
+ P D n  D  P D  P m m/R'
 rāma rāma hare hare
 
 Then double-time for Part 1, then single-time, then finish with G,/Bb,

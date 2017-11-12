@@ -7,37 +7,37 @@ Language: Bengali
 LYRICS:
 
 (1)
-Bb, C  D   D/G G    F D C  Bb, C             D C Bb, G, Bb,
+'n  S  R   R/P P    m R S  'n  S             R S 'n  'P 'n
 tu mi sarveś     vare   śvara,    brajendra-ku   mā         ra!
 
-           C      C/F F D# FD#  D
+           S      S/m m g  mg   R
 tomāra icchāya viśve    sṛjana saḿhāra
 
  
 
 (2)
- DD# F           D#  D    F G G# GFD#
+ Rg  m           g   R    m P d  Pmg
 tava icchā-mato brahmā korena sṛja    na
 
-D# G F  D#  D C Bb, C C/F F      D# D
+g  P m  g   R S 'n  S S/m m      g  R
 tava icchā-mato viṣnu ko    rena pālana
 
  
 
 (3)
- D F Bb                 D/Bb D   D# G       FD#
+ R m n                  R/n  R   g  P       mg
 tava i   cchā-mate śiva        korena saḿhā     ra
 
-D# D#/G G            G#C' G#    G F   D#D 
+g  g /P P            d S' d     P m   g R 
 ta va     icchā-mate māyā sṛje kārāgā     ra
 
  
 
 (4)
- DD# F          D# D    D# G      FD#
+ Rg  m          g  R    g  P      mg
 tava icchā-mate jīver janama-mara     ṇa
 
-   G   F D# D C Bb,  C C/F F          D CBb,
+   P   m g  R S 'n   S S/m m          R S'n
 samṛddhi-nipāte duḥkha su    kha-saḿghaṭa    na
 
  (Or (right one!):
@@ -48,28 +48,28 @@ samṛddhi-nipāte duḥkha sukha-saḿghaṭa        na)
 now.
 
 (5)
- D D#  F          D# D   F  GG#   GFD#
+ R g   m          g  R   m  Pd    Pmg
 miche māyā-baddha jīva āśā-pāśe phi    re'
 
-   G F  D#  D C Bb,  C C/F F      D#  D
+   P m  g   R S 'n   S S/m m      g   R
 tava icchā binā ki chu ko    rite nā pāre
 
  
 
 (6)
- D F Bb             D/Bb D   D# G     FD#
+ R m n              R/n  R   g  P     mg
 tumi to' rākhaka ār        pālaka āmā     ra
 
-   G          G#   C' G#    G F   D#D
+   P          d    S' d     P m   g R
 tomāra caraṇa    binā ā śā nāhi ā     ra
 
  
 
 (7)
- DD#  F          D# D    D# G       F D#
+ Rg   m          g  R    g  P       m g
 nija-bala-ceṣṭā-prati bharasā chāḍiyā
 
-   G F D#   D C Bb,C C/F F         D CBb,
+   P m g    R S 'n S S/m m         R S'n
 tomāra i cchāya āchi ni    rbhara kori   yā
 
 (Or (right one!):
@@ -80,10 +80,10 @@ tomāra i cchāya āchi nirbhara koriyā
 now.
 
 (8)
-  DD# F    D#   D    F GG#  GFD#
+  Rg  m    g    R    m Pd   Pmg
 bhakativinoda ati dīna akiñca    na
 
-   G F D#    D C Bb,C C/F F      D# D
+   P m g     R S 'n S S/m m      g  R
 tomāra i  cchāya tā'r jī    vana maraṇa
 
 => Bb,/D, back to (1)

@@ -1,26 +1,26 @@
 ========== Part 1 ==========
 
-  C     C/F F       D#   C Bb,  C
+  S     S/m m       g    S 'n   S
 Sriman Na     rayan Naraya n   Hari Hari
 
-  C    C/F F       D#   C Bb,  C        C/F
+  S    S/m m       g    S 'n   S        S/m
 Swami Na     rayan Naraya n   Hari Hari
 
-   F             D#    D#/F F D# D#/F F D# Bb,/D# Bb, C           C/F
+   m             g     g /m m g  g /m m g  'n /g  'n  S           S/m
 Teri Leela Sabse    Pyari     Pyari                     Hari Hari
 
-               F D#    D#/F F D# D#/F F D# Bb,/D# Bb, C           C/F
+               m g     g /m m g  g /m m g  'n /g  'n  S           S/m
 Teri Leela Sabse    Pyari     Pyari                     Hari Hari
 
- F           F/G# G# F/G# F    F/C'   C' Bb G#   F/G# F         D# D#/F F  D# D#/F F D# Bb,/D# Bb,/C C            C/F
+ m           m/d  d  m/d  m    m/S'   S' n  d    m/d  m         g  g /m m  g  g /m m g  'n /g  'n /S S            S/m
 Teri Mahima,                        Te   ri    Mahi     ma hai pya ri     pya ri                       hari hari
 
 ========== Part 2 ==========
  
- C   C/G#   G#        G    E/G  E F G      F      G F G# G F    E         C/E  C   C#      C#/F  F E C#  C
+ S   S/d    d         P    P/P  P m P      m      P m d  P m    P         S/P  S   r       r /m  m P r   S
 Hari      O    m Namo   Na     rayanaya, O   m Namo   Na     ra   yanaya,     Hari Om Namo      Na   ra    yana   ya
 
- C   C#      C#/F  F E C#  C
+ S   r       r /m  m P r   S
 Hari Om Namo      Na   ra    yana   ya (x2)
 
 

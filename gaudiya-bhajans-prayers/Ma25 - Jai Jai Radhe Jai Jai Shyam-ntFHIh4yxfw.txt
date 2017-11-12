@@ -8,32 +8,32 @@ LYRICS
 
 (1)
 
- F         G  F D# D#/G G     G# D#/G#
+ m         P  m g  g /P P     d  g /d
 jaya jaya rādhe,       jaya jaya śyāma
 
-G#          F G# BbC'  BbG# G   F C/F
+d           m d  n S'  n d  P   m S/m
 jaya jaya śri   vṛn    dāvana dhām
 
-C'        BbG#Bb      G#G F
+S'        n d n       d P m
 pāvana rādhe     tero nā ma
 
- F G#   Bb C' BbG# G   F
+ m d    n  S' n d  P   m
 pāvana śri vṛndāvana dhāma
 
  
 
 (2)
 
- F         G  F D# D#/G  G     G# D#/G#
+ m         P  m g  g /P  P     d  g /d
 jaya jaya śyāmā,        jaya jaya śyāma
 
-G#          FG# BbC' BbG# G   F
+d           md  n S' n d  P   m
 jaya jaya śri   vṛn  dāvana dhām
 
-F/C'   C' BbG#Bb      G#G F
+m/S'   S' n d n       d P m
 pāvana rādhe     tero nā ma
 
- F G#   Bb C' BbG# G   F
+ m d    n  S' n d  P   m
 pāvana śri vṛndāvana dhāma
 
 
@@ -41,10 +41,10 @@ pāvana śri vṛndāvana dhāma
 ========== Bonus ==========
 ===========================
 
-C'           BbG#Bb            G#G F   
+S'           n d n             d P m   
 jaya jaya rādhe,    jaya jaya śyā ma
 
- F   G#    Bb C'  BbG# G   F
+ m   d     n  S'  n d  P   m
 jaya jaya śri vṛn dāvana dhām
 
 ============================

@@ -7,137 +7,137 @@ Language: Bengali
 LYRICS:
 
 (1)
-D/G        G   E/G  E     F  E D    D/F F
+R/P        P   P/P  P     m  P R    R/m m
 śuddha-bhakata   -   caraṇa-re   ṇu,
 
-  F E D B,/D B, C D D/F F E D D/F#
+  m P R 'N/R 'N S R R/m m P R R/'M
 bhajana   -  a nukū      la
 
-          F# G     F#  G      E/G E
+          'M P     'M  P      P/P P
 bhakata-sevā,  parama-siddhi,
 
 --- Variation (more refined)
-     F#    E    D   E E/G G  F#  G      E/G E
+     'M    P    R   P P/P P  'M  P      P/P P
 bhakata-se   vā,      pa   rama-siddhi,
 ---
 
-    G     A  Bb A G    FE  D D/G
+    P     D  n  D P    mP  R R/P
 pre   ma-latikāra   mū    la
 
  
 
 (2)
- G             E/G E       F  E   D  D/F F
+ P             P/P P       m  P   R  R/m m
 mādhava-tithi,        bhakti-jananī,
 
- F   E  D B,/D B, C  D D/F F  E D D/F#
+ m   P  R 'N/R 'N S  R R/m m  P R R/'M
 jetane pā      lana ko       ri
 
-      F#      G     F#  G     E/G E
+      'M      P     'M  P     P/P P
 kṛṣṇa-basati,   basati boli',
 
-   G   ABb A G    FE D D/G
+   P   Dn  D P    mP R R/P
 parama ādare   bo   ri
 
 Then repeat the first two lines of (1)
 
 
 (3)
- G          E/G E       F    E D  D/F F
+ P          P/P P       m    P R  R/m m
 gaur āmāra,       je-saba sthāne,
 
- F   E    D B,/D B, C  D D/F F  E D D/F#
+ m   P    R 'N/R 'N S  R R/m m  P R R/'M
 koralo bhra      maṇa rań      ge
 
-              F#     G     F# G    E/G E
+              'M     P     'M P    P/P P
 se-saba sthā     na,   heribo āmi,
 
-    G     ABb A  G  FE D D/G
+    P     Dn  D  P  mP R R/P
 praṇayi-bhakata-sań   ge
 
 Then repeat the first two lines of (1)
  
 
 (4)
- G             E/G E      F  E D  D/F
+ P             P/P P      m  P R  R/m
 mṛdańga-bādya,       śunite mana,
 
-F     E  D B,/D B,C  D D/F F E D D/F#
+m     P  R 'N/R 'NS  R R/m m P R R/'M
 abasara sa      dā  jā      ce
 
-          F#  G      F#  G     E/G E
+          'M  P      'M  P     P/P P
 gaura-bihita,   kīrtana śuni',
 
-  G     ABb A  G FED    D/G
+  P     Dn  D  P mPR    R/P
 ānande hṛdoya nā     ce
 
 Then repeat the first two lines of (1)
  
 
 (5)
- G            E/G E       F  E D  D/F F
+ P            P/P P       m  P R  R/m m
 jugala-mūrti,       dekhiyā mora,
 
- F   E D B,/D B,  C  D D/F F E    D D/F#
+ m   P R 'N/R 'N  S  R R/m m P    R R/'M
 parama-ā      nanda ho         ya
 
-           F#    G     F#  G    E/G E
+           'M    P     'M  P    P/P P
 prasāda-se    bā   korite hoya,
 
 --- Refined variation
-           F#  E D    E E/G  GF#  G    E/G E
+           'M  P R    P P/P  P'M  P    P/P P
 prasāda-se    bā        ko  rite hoya,
 ---
 
-   G     ABb  A  G    FED    D/G
+   P     Dn   D  P    mPR    R/P
 sakala prapañca    ja     ya
 
 Then repeat the first two lines of (1)
  
 
 (6)
- G            E/G E       F  E  D  D/F F
+ P            P/P P       m  P  R  R/m m
 je-dina gṛhe,       bhajana dekhi,
 
- F   E D    B,/D B, C   D D/F F  E D D/F#
+ m   P R    'N/R 'N S   R R/m m  P R R/'M
 gṛhete   go      loka bhā       ya
 
-       F#  ED  E E/G G    F#  G     E/G E
+       'M  PR  P P/P P    'M  P     P/P P
 caraṇa-sīdhu,    de    khiyā gańgā,
 
-    G     ABbA G    FE  D D/G
+    P     Dn D P    mP  R R/P
 sukha sā sīmā    pā    ya
 
 Then repeat the first two lines of (1)
  
 
 (7)
- G             E/G E      F   E D  D/F F
+ P             P/P P      m   P R  R/m m
 tulasī dekhi',       jurāya prāṇa,
 
- F    E  D B,/D B, C  D D/F F E D D/F#
+ m    P  R 'N/R 'N S  R R/m m P R R/'M
 mādhava-to      ṣaṇī jā      ni'
 
-   F#     ED E E/G G F#  G      E/G E
+   'M     PR P P/P P 'M  P      P/P P
 gaura-priya,   śā    ka-sevane,
 
-   G    A  Bb A G    FE  D D/G
+   P    D  n  D P    mP  R R/P
 jīvana sārthaka   mā    ni
 
 Then repeat the first two lines of (1)
  
 
 (8)
-  G            E/G E      F   E   D    D/F F
+  P            P/P P      m   P   R    R/m m
 bhakativinoda,        kṛṣṇa-bhaja   ne,
 
-F   E    D B,/D B,C  D D/F F E D D/F# 
+m   P    R 'N/R 'NS  R R/m m P R R/'M 
 anakūla pā      ya  jā      hā
 
-   F#      ED  E E/G GF#  G    E/G E
+   'M      PR  P P/P P'M  P    P/P P
 prati-dibase,    pa rama-sukhe,
  
-    G    ABb A G    FED    D/G
+    P    Dn  D P    mPR    R/P
 swīkāra koroye   tā     hā
 
 Then repeat the first two lines of (1)

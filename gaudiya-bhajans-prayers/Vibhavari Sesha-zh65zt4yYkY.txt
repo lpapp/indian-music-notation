@@ -8,13 +8,13 @@ LYRICS:
 
 (1)
 
- E         D C  Bb,C D     CBb,A,    A,/F F
+ P         R S  'n S R     S'n 'R    'R/m m
 vibhāvarī śeṣa, ā   loka-prave   śa,
 
-             G  F E    C/E C D E  F
+             P  m P    S/P S R P  m
 nidrā chāri' uṭho   jī              va
 
-           E F  G          F E D D/A
+           P m  P          m P R R/D
 bolo hari hari,   mukunda murāri,
 
    A     G     F   E     C/E C D E F     (F can at the end always go for the last syllable)
@@ -23,106 +23,106 @@ rā   ma kṛṣṇa haya   grī             va
  
 
 (2)
- F         G      A     G A      A/C' C'
+ m         P      D     P D      D/S' S'
 nṛsiḿha vāmana, śrī-madhusūdana,
 
-             Bb A G   ABb A G F
+             n  D P   Dn  D P m
 brajendra-nandana   śyāma
 
-F/Bb      Bb A  G     A  G  F E D  D/A
+m/n       n  D  P     D  P  m P R  R/D
 pūtanā-ghātana,   kaiṭabha-śātana,
 
- A    G   F     E C/E C D E F
+ D    P   m     P S/P S R P m
 jaya dāśarathi-rā             ma
 
  
 
 (3)
- E        D C  Bb, C  D  CBb,A,  A,/F
+ P        R S  'n  S  R  S'n 'R  'R/m
 yaśodā dulāla, go vinda-gopā la,
 
- F      G  F EC   DE  F
+ m      P  m PS   RP  m
 vṛndāvana puranda    ra
 
-              E F G          F E D  D/A
+              P m P          m P R  R/D
 gopī-priya-jana,    rādhikā-ramaṇa,
 
-    A     G  F   E    C/E C D E F
+    D     P  m   P    S/P S R P m
 bhuvana -sundara - ba          ra
 
  
 
 (4)
- F        G A        G  A       A/C' C'
+ m        P D        P  D       D/S' S'
 rāvāṇāntakara, mākhana-taskara,
 
-          Bb   A G   A Bb A G F F/Bb
+          n    D P   D n  D P m m/n
 gopī-jana-vastra - hā  rī
 
-     Bb       A G       A  G  FED     D/A
+     n        D P       D  P  mPR     R/D
 brajera rākhāla,  gopa-vṛnda-pā   la,
 
- A         G     F   E C/E C D E  F
+ D         P     m   P S/P S R P  m
 citta-hārī   baḿśī-dhā           rī
 
  
 
 (5)
- E        D  C     Bb,C  D  C Bb,    A,      A,/F F
+ P        R  S     'n S  R  S 'n     'R      'R/m m
 yogīndra-bandana, śrī - nanda  -  nan  dana,
 
-               G F  E C/E C D E F
+               P m  P S/P S R P m
 braja-jana-bhaya - hā          rī
 
-          E F  G         F E D  D/A
+          P m  P         m P R  R/D
 navīna nīrada,   rūpa manohara,
 
-   A    GF      E C/E C D E F
+   D    Pm      P S/P S R P m
 mohana-baḿśī-bihā          rī
 
  
 
 (6)
- F         G    A         G A      A/C' C'
+ m         P    D         P D      D/S' S'
 yaśodā-nandana,    kaḿsa-nisūdana,
 
-          Bb  A GA Bb A G F F/Bb
+          n   D PD n  D P m m/n
 nikuñja-rāsa-vilā  sī
 
-        Bb   A G    A  G F E D  D/A
+        n    D P    D  P m P R  R/D
 kadamba-kānana,  rāsa-parāyaṇa,
 
-  A      G    F     E C/E C D E F
+  D      P    m     P S/P S R P m
 bṛnda-vipina  -  nivā          sī
 
  
 
 (7)
-E       D   C    Bb, C D  CBb,A,        A,/F F
+P       R   S    'n  S R  S'n 'R        'R/m m
 ānanda-vardhana, prema - nike    tana,
 
-              G F E    C/E C D E  F
+              P m P    S/P S R P  m
 phula-śara-jojaka   kā           ma
 
-           E F G          F E D  D/A
+           P m P          m P R  R/D
 gopāńganā-gaṇa,  citta-vinodana,
 
-      A G       F     E C/E C D E F
+      D P       m     P S/P S R P m
 samasta - guṇa-gaṇa-dhā             ma
 
  
 
 (8)
- F        G     A    G A      A/C' C'
+ m        P     D    P D      D/S' S'
 jāmuna-jīvana, keli-parāyaṇa,
 
-              Bb  A GA Bb A G F F/Bb
+              n   D PD n  D P m m/n
 mānasa-candra -  cako  ra
 
-  Bb          A G   AG   F     E D D/A  
+  n           D P   DP   m     P R R/D  
 nāma-sudhā-rasa,  gāo   kṛṣṇa-jaśa
 
-   A     G         F   E    C/E C D E F
+   D     P         m   P    S/P S R P m
 rā   kho   vacana mana   mo          ra
 
 

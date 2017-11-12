@@ -8,10 +8,10 @@ LYRICS
 
 ============================= Part 1 ==========================================
 
-C  D Bb, C   Eb   F   G   G Ab G   G   F   F Eb F   G  Eb   D    C
+S  R 'n  S   Pb   m   P   P Db P   P   m   m Pb m   P  Pb   R    S
 Adharam Madhuram Vadanam Madhuram Nayanam Madhuram Hasitam Madhuram |
 
-Bb          A G   F G Ab Bb Ab G        F    FEb F  G   Eb   D    C
+n           D P   m P Db n  Db P        m    mPb m  P   Pb   R    S
 Hrdayam Madhuram Gamanam Madhuram Madhura-Adhipater-Akhilam Madhuram
 
 ==============================================================================

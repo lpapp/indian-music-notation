@@ -8,114 +8,114 @@ LYRICS:
 
 (1)
 
- C  C/D# D#  D#/F F    G          G/C'         C'    BbG#  G
+ S  S/g  g   g /m m    P          P/S'         S'    n d   P
 namam       is      varam sac-ci         d-a   nanda-ru   pam
 
- F         D# D#/F F G F D#    C#D#C# C
+ m         g  g /m m P m g     r g r  S
 lasat-kundala m     goku le  bhrajama   nam
 
-C'          C#'C' A/C' A      BbC'BbG# G     F
+S'          r' S' D/S' D      n S'n d  P     m
 yasoda-bhiyolukha        lad dhavama     nam
 
- F       D#/F D# D#/F F   G  F D#/F D#     C#D#    C# C
+ m       g /m g  g /m m   P  m g /m g      r g     r  S
 paramrstam       a      tyanta         to drut  ya go   pya
 
 (2)
 
- CD#      F G           G/C' C'BbG#  G
+ Sg       m P           P/S' S'n d   P
 rudantam muhur netra-yugmam  mrjan  tam
 
- F         D#F  G F D#C# D# C#  C
+ m         g m  P m g r  g  r   S
 karambhoja-yug mena satanka-netram
 
-C'             C#' C' A Bb C' BbG#  G
+S'             r'  S' D n  S' n d   P
 muhuh svasa-kampa-trirekhanka-kan tha-
 
-   F           D#F  G FD#   C# D# C#   C
+   m           g m  P mg    r  g  r    S
 sthita-graivam da  modaram bhakti-baddham
 
 (3)
 
-C   D#   F  G       G/C'C'    BbG#  G
+S   g    m  P       P/S'S'    n d   P
 itidrk sva-lilabhir a   nanda-kun  de
 
-  F          D#F  G  F  D# C#D#C#  D
+  m          g m  P  m  g  r g r   R
 sva-ghosam nimaj jantam akhyapayantam
 
-C'         C#'C'   A Bb   C'BbG# G
+S'         r' S'   D n    S'n d  P
 tadiyesita-jnesu bhaktair jitat vam
 
- F         D#F  GF D#   C# D# C#  C
+ m         g m  Pm g    r  g  r   S
 punah prematas tam sa tavrtti vande
 
 (4)
 
- C    D#    FG       G/C'C'   BbG# G
+ S    g     mP       P/S'S'   n d  P
 varam deva moksam na mok savadhim va
 
- F          D#F  GF D#  C# D#  C# C
+ m          g m  Pm g   r  g   r  S
 na canyam vrne ‘ham varesad a  piha
 
-C'            C#'C'  ABbC' BbG# G
+S'            r' S'  Dn S' n d  P
 idam te vapur natha gopala-ba  lam
 
- F        D#F GF D#   C#  D#  C# C
+ m        g m Pm g    r   g   r  S
 sada me mana sy avirastam kim anyaih
 
 (5)
 
-C    D#  F  G        G/C'C' Bb BbG# G
+S    g   m  P        P/S'S' n  n d  P
 idam te mukhambhojam at  yanta-ni  lair
 
- F         D#F    G   F D# C#    D# C# C
+ m         g m    P   m g  r     g  r  S
 vrtam kuntalaih snigdha-raktais’ ca gopya
 
-C'             C#'C'  A Bb C'BbG# G
+S'             r' S'  D n  S'n d  P
 muhus cumbitam bimba-raktadharam me
  
- F        D#F GF D#     C# D# C#  C
+ m        g m Pm g      r  g  r   S
 manasy avirastam a  lam laksa-labhaih
 
 (6)
 
- C   D# F  G     G/C'C'    BbG#  G
+ S   g  m  P     P/S'S'    n d   P
 namo deva damodara   nanta vis  no
 
-  F         D#F G   F D#C#  D# C#  C
+  m         g m P   m g r   g  r   S
 prasida prabho duhkha-jalabdhi-magnam
 
-C'             C#'C'  ABb  C'BbG# G
+S'             r' S'  Dn   S'n d  P
 krpa-drsti-vrstya ti-dinam bata  nu-
 
- F       D#F G  F  D# C#  D#  C# C
+ m       g m P  m  g  r   g   r  S
 grhanesa mam ajnam edhy aksi-drsyah
 
 (7)
 
- C  D#  F G         G/C' C'    BbG# G
+ S  g   m P         P/S' S'    n d  P
 kuveratmajau baddha-murt yaiva yad vat
 
-  F        D#F   G  F  D#C#  D#C#   C
+  m        g m   P  m  g r   g r    S
 tvaya mocitau  bhakti-bhajau krtau ca
 
-C'              C#'C'  A    Bb  C'BbG#  G
+S'              r' S'  D    n   S'n d   P
 tatha prema-bhaktim  svakam me prayac cha
 
- F          D#F  G    F  D#C#D#C# C
+ m          g m  P    m  g r g r  S
 na mokse graho  me ‘sti  damodareha
 
 (8)
 
- C    D#    F  G        G/C'C'     BbG# G
+ S    g     m  P        P/S'S'     n d  P
 namas te ‘stu damne sphurad-dipti-dham ne
 
-  F      D#F G  F D# C# D#  C#  C
+  m      g m P  m g  r  g   r   S
 tvadiyodara yatha visvasya dhamne
 
-C'          C#'C' A  Bb  C'BbG# G
+S'          r' S' D  n   S'n d  P
 namo radhikayai tvadiya-priya  yai
 
- F          D#F G F D#C#D# C#  C
+ m          g m P m g r g  r   S
 namo ‘nanta-li laya devaya tubhyam
 
 WORD FOR WORD TRANSLATION: Namamisvaram Saccidananda Rupam

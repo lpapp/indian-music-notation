@@ -8,23 +8,23 @@ LYRICS:
 
 (1)
 
-  F                D      F D  C   A,CDC A,G,F,
+  m                R      m R  S   'RSRS 'R'P'm
 pralaya-payodhi-jale dhritavan asi ve    dam
 
-F,G,A, G,A,C  A,  C D  C  D  F
+'m'P'R 'P'RS  'R  S R  S  R  m
 vihita-vahi  tra-caritram akhedam
 
- G             F G  A G F  C        D    G F
+ P             m P  D P m  S        R    P m
 kesava dhrita-mina-sarira jaya jagadisa hare
 
 (2)
- F                   D   F   D  C     A,CDC A,G,F,
+ m                   R   m   R  S     'RSRS 'R'P'm
 kshitir iha vipulatare tishthati tava prishthe
 
-F,G,A,   G,A, C A, C  D  C  D F
+'m'P'R   'P'R S 'R S  R  S  R m
 dharani-dharana-kina-cakra-garishthe
 
- G             F  G  A G F  C        D    G F
+ P             m  P  D P m  S        R    P m
 kesava dhrita-kurma-sarira jaya jagadisa hare
 
 (3)

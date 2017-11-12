@@ -1,9 +1,9 @@
 =============== Part 1 ===============
 
- C    D    FG     A     Bb  A      G      F  G       A     F    E    D
+ S    R    mP     D     n   D      P      m  P       D     m    P    R
 jaya jagannatha, jaya jagannatha, jaya jagannatha,(swami) jaya jagannatha
 
-C'      B AG   Bb   C' Bb  A   G      F GA    F    E     D  
+S'      N DP   n    S' n   D   P      m PD    m    P     R  
 jaya baladeva, jaya subhadra, jaya baladeva, jaya subhadra
  
 

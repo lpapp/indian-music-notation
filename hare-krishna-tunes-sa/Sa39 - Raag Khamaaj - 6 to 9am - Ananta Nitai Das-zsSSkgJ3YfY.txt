@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
- C     D FED    ED  FE DE DC C/G
+ S     R mPR    PR  mP RP RS S/P
 hare kṛṣṇa   ha    re kṛṣṇa
 
-    G    A  BbA  GFE D DEDFE  DE  DC
+    P    D  n D  PmP R RPRmP  RP  RS
 kṛṣṇa kṛ   ṣṇa  ha  re       ha  re
 
- C      D  FED    ED  FE  DE DC C/G
+ S      R  mPR    PR  mP  RP RS S/P
 hare rā   ma   ha    re  rā ma
 
-   G    A  BbA  GFE  D DEDFE  DE  DC
+   P    D  n D  PmP  R RPRmP  RP  RS
 rāma rā   ma   ha   re       ha  re
 
 ========== Part 2 ==========
@@ -31,12 +31,12 @@ rāma rā  ma    ha  re                        ha re
  C     D FED A,/DA,/DA,/D (kartal style) A,/DA,/DA,/D A,/DA,/DA,/D  DED FE DE DC G,/C G,/C G,/C
 hare kṛṣṇa                                                         ha  re kṛṣṇa
 
-C/G G   ABbA  GFE  D A,/DA,/DA,/D A,/DA,/DA,/D   DED FEDEDC G,/C G,/C G,/C
+S/P P   Dn D  PmP  R 'R/R'R/R'R/R 'R/R'R/R'R/R   RPR mPRPRS 'P/S 'P/S 'P/S
 kṛṣṇa kṛṣṇa  ha   re                            ha  re
 
-G, C    D FED A,/D A,/D A,/D A,/D A,/D A,/D A,/D A,/D A,/D  DED  FE DE  DC G,/C G,/C G,/C
+'P S    R mPR 'R/R 'R/R 'R/R 'R/R 'R/R 'R/R 'R/R 'R/R 'R/R  RPR  mP RP  RS 'P/S 'P/S 'P/S
 hare rā  ma                                                ha   re rā  ma
 
-C/G G   A BbAG  FE  D A,/D A,/D A,/D A,/D A,/D A,/D  DED FEDEDC G,/C G,/C G,/C
+S/P P   D n DP  mP  R 'R/R 'R/R 'R/R 'R/R 'R/R 'R/R  RPR mPRPRS 'P/S 'P/S 'P/S
 rā ma rā  ma   ha  re                               ha  re
 

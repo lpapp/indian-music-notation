@@ -1,13 +1,13 @@
 ========== Part 1 ==========
 
-D/A        D/G D/A G   F    C/F
+R/D        R/P R/D P   m    S/m
 hare kṛṣṇa ha  re   kṛ  ṣṇa
 
-C/G  C/F E  C  D F  E D A,/D
+S/P  S/m P  S  R m  P R 'R/R
 kṛṣ  ṇa kṛṣṇa hare hare
 
-   D         E  FGF    C/F
+   R         P  mPm    S/m
 hare rāma hare rā   ma
 
-C/G C/F E C  D F  E D A,/D
+S/P S/m P S  R m  P R 'R/R
 rā  ma rāma hare hare

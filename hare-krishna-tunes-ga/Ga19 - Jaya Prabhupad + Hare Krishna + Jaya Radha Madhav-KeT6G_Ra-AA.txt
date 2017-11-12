@@ -1,59 +1,59 @@
 ==================== Part 1 ====================
 
- E     D    C          B  C D C  B        A
+ P     R    S          N  S R S  N        D
 Jaya Prabhupada Jaya Prabhupada    Prabhupada
 
- B     D    E    G     E D   E  D C
+ N     R    P    P     P R   P  R S
 Jaya Prabhupada Jaya Srila Prabhupada
 
 ==================== Part 2 ====================
 
- G                     F# G A G     F#    E
+ P                     'M P D P     'M    P
 Jaya Prabhupada Jaya Prabhupa   da Prabhupada
 
- B     D    E    G     E D   E  D C
+ N     R    P    P     P R   P  R S
 Jaya Prabhupada Jaya Srila Prabhupada
 
 ==================== Part 3 ====================
 
- E D  E D C          B C  D C   B   A
+ P R  P R S          N S  R S   N   D
 Ha   re     Krishna Ha   re   Krishna
 
-  B   D   E   G  E D  E  D C
+  N   R   P   P  P R  P  R S
 Krishna Krishna Ha   re Hare
 
- E D  E D  C    B C  D C  B A
+ P R  P R  S    N S  R S  N D
 Ha   re   Rama Ha   re   Rama
 
- B D  E G  E D  E  D  C
+ N R  P P  P R  P  R  S
 Rama Rama Ha   re  Hare
 
 ==================== Part 4 ====================
 
- G           F# G A G  F#   E 
+ P           'M P D P  'M   P 
 Hare Krishna Ha  re   Krishna
 
-  B   D   E   G  E D E  D C
+  N   R   P   P  P R P  R S
 Krishna Krishna Ha  re Hare
 
- G             F# G A G F# E 
+ P             'M P D P 'M P 
 Ha   re   Rama Ha  re   Rama
 
- B D  E G  E D E  D C
+ N R  P P  P R P  R S
 Rama Rama Ha  re Hare
 
 ==================== Part 5 ====================
 
- E D  E  D  C       B C  D  C B A
+ P R  P  R  S       N S  R  S N D
 Jaya Radha Madhava Kun  ja Bihari
 
- B    D    E  G     E D  E D   C
+ N    R    P  P     P R  P R   S
 Gopi Jana Vallabha Giri Vara Dhari
 
 ==================== Part 6 ====================
 
- G               F# G  A G F#  E
+ P               'M P  D P 'M  P
 Yashoda Nandana Braja Jana Ranjana
 
- B   D  E    G    E D E D C
+ N   R  P    P    P R P R S
 Yamuna Tira Vana Ca      ri

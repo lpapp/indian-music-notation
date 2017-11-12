@@ -1,156 +1,156 @@
 ========== Part 1 ==========
 
-G#    GF   GA   C'  A G#
+d     Pm   PD   S'  D d
 hare kṛ  ṣṇa  hare kṛṣṇa
 
-       G  F  G F  DC# C#/G#
+       P  m  P m  Rr  r /d
 kṛṣṇa kṛṣṇa hare hare
 
-  G#  GF GA   C'  AG#
+  d   Pm PD   S'  Dd
 hare rā ma  hare rāma
 
-      G F  G F  DC# C#/G#
+      P m  P m  Rr  r /d
 rāma rāma hare hare
 
 ========== Part 2 ==========
 
-C#    CBb, C  D D/F  F    G
+r     S'n  S  R R/m  m    P
 hare kṛṣ  ṇa hare   kṛṣṇa
 
- G     F  D  F D   C#
+ P     m  R  m R   r
 kṛṣṇa kṛṣṇa hare hare
 
-      CBb, C  D D/F  F   G
+      S'n  S  R R/m  m   P
 hare rā   ma hare   rāma
 
- A        C'    AG#
+ D        S'    Dd
 rāma rāma hare hare
 
 ========== Part 3 ==========
 
- F G  AC'   C#'  C'D'    C#'
+ m P  DS'   r'   S'R'    r'
 hare kṛṣ ṇa hare      kṛṣṇa
 
-Bb C'  D'F'  D'F' D'C#' F/C#'
+n  S'  R'm'  R'm' R'r'  m/r'
 kṛṣṇa kṛṣ ṇa hare hare
 
- F G  AC' C#'  C'D'  C#'
+ m P  DS' r'   S'R'  r'
 hare rāma hare     rāma
 
-BbC' D'F' D'F' D'C#' F/C#'
+n S' R'm' R'm' R'r'  m/r'
 rāma rāma hare hare
 
 ========== Part 4 ==========
 
-F'   D'    F'D' C#'
+m'   R'    m'R' r'
 hare kṛṣṇa hare kṛ ṣṇa
 
-C'    Bb     G    FD C#
+S'    n      P    mR r
 kṛṣṇa kṛṣṇa hare ha  re
 
-F'   D'F' D'   Bb C'D'C#'
+m'   R'm' R'   n  S'R'r'
 hare rāma hare      rāma
 
-C'   Bb    G F  DC#
+S'   n     P m  Rr
 rāma rāma hare hare
 
 ========== Part 4 (variation) ==========
 
-F'   D'    F'D' BbD' C#'
+m'   R'    m'R' n R' r'
 hare kṛṣṇa hare kṛ  ṣṇa
 
-C'    Bb     G    FD C#
+S'    n      P    mR r
 kṛṣṇa kṛṣṇa hare ha  re
 
-F'   D'F' D'   Bb C'D'C#'
+m'   R'm' R'   n  S'R'r'
 hare rāma hare      rāma
 
-C'   Bb    G F  DC#
+S'   n     P m  Rr
 rāma rāma hare hare
 
 ============================
          Double-time
 ========== Part 5 ==========
 
-C#/G# G#     G    F  GA
+r /d  d      P    m  PD
 hare  kṛṣṇa hare kṛṣṇa
 
-      C'     A   G#
+      S'     D   d
 kṛṣṇa kṛṣṇa hare hare
 
-           G    F
+           P    m
 hare rāma hare rāma
 
- G    F D      C#   C#/G#
+ P    m R      r    r /d
 rāma rāma hare hare
 
 ========== Part 6 ==========
 
-C#          CBb,    C
+r           S'n     S
 hare kṛṣṇa hare kṛṣṇa
 
- D     F            G
+ R     m            P
 kṛṣṇa kṛṣṇa hare hare
 
-           F    D
+           m    R
 hare rāma hare rāma
 
- F D      C#
+ m R      r
 rāma rāma hare hare
 
 ========== Part 7 ==========
 
-C#          C   Bb,  C
+r           S   'n   S
 hare kṛṣṇa hare kṛ ṣṇa
 
- D     F            G
+ R     m            P
 kṛṣṇa kṛṣṇa hare hare
 
-           D
+           R
 hare rāma hare rāma
 
- F    D   C#
+ m    R   r
 rāma rāma hare hare
 
 ========== Part 8 ==========
 
-C#          C   Bb,  C
+r           S   'n   S
 hare kṛṣṇa hare kṛ ṣṇa
 
- D     F            GA
+ R     m            PD
 kṛṣṇa kṛṣṇa hare hare
 
 
 hare rāma hare rāma
 
-C'    A   G#        C#/G#
+S'    D   d         r /d
 rāma rāma hare hare
 
 ========== Part 9 ==========
 
- F G  A C'         C#'
+ m P  D S'         r'
 hare kṛṣṇa hare kṛṣṇa
 
-C#'          D'   C'
+r'           R'   S'
 kṛ ṣṇa kṛṣṇa hare hare
 
-BbC' D'F'
+n S' R'm'
 hare rāma hare rāma
 
-D'F' D'   C#'
+R'm' R'   r'
 rāma rāma hare hare
 
 ========== Part 10 ==========
 
-F'         D'
+m'         R'
 hare kṛṣṇa hare kṛṣṇa
 
-F'    D' Bb D'   C#'
+m'    R' n  R'   r'
 kṛṣṇa kṛṣṇa hare hare
 
-C'        Bb    G
+S'        n     P
 hare rāma hare rāma
 
- F    D   C#
+ m    R   r
 rāma rāma hare hare
 

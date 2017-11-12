@@ -2,7 +2,7 @@ Brought down from Ma (original) to Re
 
 ========== Part 1 ==========
 
- D D/A A       B  A
+ R R/D D       N  D
 ha re kṛṣṇa hare kṛṣṇa
 
     G  F  E  D E (E/G)  G F
@@ -11,35 +11,35 @@ kṛṣṇa kṛṣṇa hare       hare
  G        F F/A A G  F E (E/G)
 hare rāma      hare rāma
 
- G F  E   D
+ P m  P   R
 rāma rāma   hare hare
 
 ========== Part 2 ==========
 
- A G F#  G  A         A/C'
+ D P 'M  P  D         D/S'
 hare kṛṣṇa hare kṛṣṇa
 
-   C'        B    A   G
+   S'        N    D   P
 kṛṣṇa kṛṣṇa hare hare
 
- A G F# A  A        A/C'
+ D P 'M D  D        D/S'
 hare rāma hare rāma
 
-  C'       B    A   G
+  S'       N    D   P
 rāma rāma hare hare
 
 ========== Part 3 ==========
 
-D'         C'    B  A G
+R'         S'    N  D P
 hare kṛṣṇa hare kṛṣṇa
 
-       A A/C' C' Bb    A    A/D'
+       D D/S' S' n     D    D/R'
 kṛṣṇa kṛṣṇa      hare hare
 
-D'        C'    B A G
+R'        S'    N D P
 hare rāma hare rāma
 
-      A A/C' C' Bb    A   A/D'
+      D D/S' S' n     D   D/R'
 rāma rā ma      hare hare
 
 ========== Part 4 ==========

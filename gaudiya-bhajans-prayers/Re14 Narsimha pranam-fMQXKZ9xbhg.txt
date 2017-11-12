@@ -6,76 +6,76 @@ Language: Sanskrit
 
 LYRICS:
 
- D E   F  G A G FE D
+ R P   m  P D P mP R
 namas te narasimhaya
 
-D/A    G FE F  GFE D
+R/D    P mP m  PmP R
 prahladahlada-dayine
 
- D    E F GAG   F   ED  D/A
+ R    P m PDP   m   PR  R/D
 hiranyakasipor vakshah  sila-
 
- GF E  F  GFE D
+ Pm P  m  PmP R
 tanka-nakhalaye
 
 =========================================
 
-D     E    F   G A G   F E  D
+R     P    m   P D P   m P  R
 ito nrisimhah parato nrisimho
 
-D/A     G  F E  F G   F E  D
+R/D     P  m P  m P   m P  R
 yato yato yami tato nrisimhah
 
- D      E    F   G A G   F E  D
+ R      P    m   P D P   m P  R
 bahir nrisimho hridaye nrisimho
 
-D/A       G F   E F G    F E  D
+R/D       P m   P m P    m P  R
 nrisimham adim saranam prapadye
 
 =========================================
 
- D    E F         G A Bb A G  F  G  F   G F   E  D E D C
+ R    P m         P D n  D P  m  P  m   P m   P  R P R S
 tava kara-kamala-vare        nakham adbhuta-sringam
 
- E      F G      F E    F    E  D
+ P      m P      m P    m    P  R
 dalita-hiranyakasipu-tanu-bhringam
 
- D   E   FE D        E FE D         E F    G A Bb A G F G
+ R   P   mP R        P mP R         P m    P D n  D P m P
 kesava dhrita-narahari-rupa jaya jagadisa hare
 
- G        F E  D E D C   E      F G F  E D
+ P        m P  R P R S   P      m P m  P R
 jaya jagadisa hare      jaya jagadisa hare
 
 ========== End of the prayer ==========
 
-F/Bb              A G    A
+m/n               D P    D
 Jaya Nrsimhadeva Jaya Nrsimhadeva
 
- G F    G        Bb A    G  F
+ P m    P        n  D    P  m
 Jaya Nrsimhadeva Jaya Nrsimhadeva
 
-F/Bb                    A G   A
+m/n                     D P   D
 Jaya Prahlada Maharaja Jaya Prahlada Maharaja
 
- G F   G               Bb A   G       F
+ P m   P               n  D   P       m
 Jaya Prahlada Maharaja Jaya Prahlada Maharaja
 
-F/Bb         A  G A  
+m/n          D  P D  
 Prabhupada Prabhupada
 
-  G  F G   Bb A   G    F
+  P  m P   n  D   P    m
 Prabhupada Jaya Prabhupada
 
-F/Bb           A G  A
+m/n            D P  D
 Jaya Gurudeva Jaya Gurudeva
 
- G F  G       Bb A  G   F
+ P m  P       n  D  P   m
 Jaya Gurudeva Jaya Gurudeva
 
-F/Bb                 A G A
+m/n                  D P D
 Nitai Gaura Haribol Haribol
 
- G F G        Bb  A  G   F
+ P m P        n   D  P   m
 Haribol Nitai Gaura Haribol
 
 WORD-FOR-WORD TRANSLATION: Namaste Narasimhaya

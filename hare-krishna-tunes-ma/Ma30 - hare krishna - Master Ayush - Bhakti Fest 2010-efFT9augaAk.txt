@@ -1,90 +1,90 @@
 ========== Part 1 ==========
 
-F#          G    A    G F#
+'M          P    D    P 'M
 hare kṛṣṇa hare kṛṣṇa
 
-F#/Bb  Bb   AG   Bb  A GF#
+'M/n   n    DP   n   D P'M
 kṛṣṇa kṛṣṇa    hare hare
 
-F#         G    A   G F#
+'M         P    D   P 'M
 hare rāma hare rāma
 
-F#/Bb Bb   AG   Bb  A   GF#
+'M/n  n    DP   n   D   P'M
 rāma  rāma    hare hare
 
 ========== Part 2 ==========
 
-A/D'D' C' Bb    G Bb  A
+D/R'R' S' n     P n   D
 ha  re kṛṣṇa hare    kṛṣṇa
 
-A/D'D' C' Bb    G Bb  A
+D/R'R' S' n     P n   D
 kṛṣ ṇa kṛṣṇa hare    hare
 
-F#         G    A   G F#
+'M         P    D   P 'M
 hare rāma hare rāma
 
-F#/Bb Bb   AG   Bb  A
+'M/n  n    DP   n   D
 rāma  rāma    hare hare
 
 ============================
         Half-double time
 ========== Part 3 ==========
 
-D'         C'    Bb
+R'         S'    n
 hare kṛṣṇa hare kṛṣṇa
 
-    A    Bb  A
+    D    n   D
 kṛṣṇa kṛṣṇa hare hare
 
-F#    G    A        GF#
+'M    P    D        P'M
 hare rāma hare rāma
 
-F#/Bb Bb   AG  Bb  A
+'M/n  n    DP  n   D
 rāma  rāma   hare hare
 
 ========== Part 4 ==========
 
-F#          G    A    G F#
+'M          P    D    P 'M
 hare kṛṣṇa hare kṛṣṇa
 
-F#/Bb  Bb   AG   Bb  A GF#
+'M/n   n    DP   n   D P'M
 kṛṣṇa kṛṣṇa    hare hare
 
-D'        C'   Bb
+R'        S'   n
 hare rāma hare rāma
 
-   A   Bb  A
+   D   n   D
 rāma rāma hare hare
 
 ============================
          Double time
 ========== Part 5 ==========
 
-F#               G
+'M               P
 hare kṛṣṇa hare kṛṣṇa
 
- A                GF#
+ D                P'M
 kṛṣṇa kṛṣṇa hare hare
 
-F#/Bb Bb         GBb
+'M/n  n          Pn
 hare  rāma hare rāma
 
- A              GF#
+ D              P'M
 rāma rāma hare hare
 
 ============================
          Double time
 ========== Part 6 ==========
 
-D'         C'    Bb
+R'         S'    n
 hare kṛṣṇa hare kṛṣṇa
 
-    G    Bb  A
+    P    n   D
 kṛṣṇa kṛṣṇa hare hare
 
-D'         C'   Bb
+R'         S'   n
 hare  rāma hare rāma
 
-   G   Bb  A
+   P   n   D
 rāma rāma hare hare
 

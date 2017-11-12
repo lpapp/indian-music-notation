@@ -2,54 +2,54 @@
       Sri Ram Jaya Ram
 ========== Part 1 ==========
  
-  CD E D     E D  C A,/C A, A,/D  D   C
+  SR P R     P R  S 'R/S 'R 'R/R  R   S
 Sri Ra    m Jaya Ra      m  Jaya Jaya   Ram
 
 ========== Part 1v2 (Simplified) ==========
  
-  CD E      D  C A,/C A, A,/D  D    C
+  SR P      R  S 'R/S 'R 'R/R  R    S
 Sri Ra m Jaya Ra      m  Jaya Jaya Ram
 
 ========== Part 2 ==========
 
-A, A,/D  D            E    D    C
+'R 'R/R  R            P    R    S
 Sri     Ram Jaya Ram Jaya Jaya Ram
 
 ========== Part 3 ==========
 
-  D           CD    E    F E  D C    C/F
+  R           SR    P    m P  R S    S/m
 Sri Ram Jaya Ra  m Jaya Jaya Ra   m
 
 ========== Part 4 ==========
 
-  F           GF    E    D C  D E
+  m           Pm    P    R S  R P
 Sri Ram Jaya Ra  m Jaya Jaya Ra   m
 
 ============================
           Sitaram
 ========== Part 5 ==========
 
- C D E     D C A,   A,/D   D   C
+ S R P     R S 'R   'R/R   R   S
 Sitaram Sitara    m Si  taram Sitaram
 
 ========== Part 5v2 ==========
 
- C D ED   E D C A,   A,/D   D   C
+ S R PR   P R S 'R   'R/R   R   S
 Sitara m Sitara    m Si  taram Sitaram
 
 ========== Part 6 ==========
 
-A,A,/D             D  E   D   C
+'R'R/R             R  P   R   S
 Sita   ram Sitaram   Sitaram Sitaram
 
 ========== Part 7 ==========
 
- D           CD    E   F E    D   C  C/F
+ R           SR    P   m P    R   S  S/m
 Sitaram Sitara  m Sitara   m Sitaram
 
 ========== Part 8 ==========
 
-C/F F         GF    E   DC    D   E
+S/m m         Pm    P   RS    R   P
 Si taram Sitara  m Sitara  m Sitaram
 
 It can also be started from C# rather than C.

@@ -7,7 +7,7 @@ Language: Bengali
 LYRICS:
 
 (1)
-  F     ED      E    F      E      D C      DE    DCBb,
+  m     PR      P    m      P      R S      RP    RS'n
 'gaurāńga' boli   te   habe   pulaka - śarī    ra
 
     C C/F F  E D    CBb,   A,Bb,        Bb,/F F  E D      D/A (Finish with A,/D at the very end)
@@ -19,16 +19,16 @@ LYRICS:
 A    F G  A    C'Bb  A  (Bb A)   BbC' BbA BbAGF
 āra kabe nitāi - cānder        koruṇā hoi be
 
-    G F  ED    D/F F  G A GF    G  F   E  D    D/F
+    P m  PR    R/m m  P D Pm    P  m   P  R    R/m
 saḿsāra-bā  sa    nā mora    kabe tuccha ha'be
 
  
 
 (3)
- F   ED       EF      E         DC        DE    DCBb,
+ m   PR       Pm      P         RS        RP    RS'n
 viṣaya  chāriyā  kabe   śuddha ha  'be ma    na
 
-   C C/F F ED    CBb,   A,Bb,        D/F F E D   D/A
+   S S/m m PR    S'n    'R'n         R/m m P R   R/D
 kabe hā   ma  he      rabo    śrī-bṛ     ndābana
 
  
@@ -37,16 +37,16 @@ kabe hā   ma  he      rabo    śrī-bṛ     ndābana
  A   F/A  F  G A    A/C' C' Bb A (Bb A)   BbC' Bb A BbAGF
 rūpa  -  raghunātha    -    pade        hoi be ā ku ti
 
-   G  F ED    D/F F   G A GF       G F  E D    D/F
+   P  m PR    R/m m   P D Pm       P m  P R    R/m
 kabe hāma  bu       jhabo    se jugala-pīriti
 
  
 
 (5)
- F    E  D   E     F      E       DC    DE    DCBb,
+ m    P  R   P     m      P       RS    RP    RS'n
 rūpa-raghunā   tha - pade   rahu mo  ra  ā śa
 
-    C  C/F F  ED      C Bb,   A,Bb,      Bb,/F F  E  D
+    S  S/m m  PR      S 'n    'R'n       'n /m m  P  R
 prā   rtha   nā  koroye     sadā    narotta      ma-dāsa
 
 

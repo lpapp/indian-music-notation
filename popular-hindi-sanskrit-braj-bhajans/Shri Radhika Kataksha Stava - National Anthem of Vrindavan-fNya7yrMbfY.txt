@@ -8,23 +8,23 @@ LYRICS:
 
 (1)
 
- C         D   D/F F         E F  G F  E D
+ S         R   R/m m         P m  P m  P R
 munīndra-vṛnda-va  ndite triloka-śoka-hāriṇi
 
-      Bb,/D  Bb, Bb,/D  D      D# F D#   D    C
+      'n /R  'n  'n /R  R      g  m g    R    S
 prasanna  -  vak tra - pańkaje nikuñja-bhū-vilāsini
 
-              D D/F F         E   F  G F  E    D
+              R R/m m         P   m  P m  P    R
 vrajendra-bhānu-na  ndini vrajendra-sūnu-sańgate
 
-     Bb,/D Bb,   Bb,/D D       D# F D# D      C
+     'n /R 'n    'n /R R       g  m g  R      S
 kadā       kari ṣya   sīha māḿ kṛpā-katākṣa-bhājanam
 
  
 
 (2)
 
-C         D D/F F
+S         R R/m m
 aśoka-vṛkṣa-val larī-vitāna-maṇḍapa-sthite
 
 

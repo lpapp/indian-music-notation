@@ -1,94 +1,94 @@
 (refrain)
-C#/F# F#   E            D# ED# C# B,       C#D#  ED#   C#    C#/F#
+r /'M 'M   P            g  Pg  r  'N       r g   Pg    r     r /'M
 jaya  mā dhava madana murārī   rādhe-śyāma śyā  mā  -  śyāma
 
-C#/F# F# E             D# ED# C# B,       C#D#  ED#  C#    C#/F#
+r /'M 'M P             g  Pg  r  'N       r g   Pg   r     r /'M
 jaya  keśava kali-mala-hārī   rādhe-śyāma śyā  mā  - śyāma
 
  
 
 (1)
-B,   C#  E   F#  B     AG#F# E/F#  E     F#     EF# G#F#  ED# C#B, B,/F#
+'N   r   P   'M  N     Dd' M P/'M  P     'M     P'M d' M  Pg  r' N 'N/'M
 sundara kuṇḍala naina viśālā,     gale sohe vaijan  tī - mā   lā
 
-F#   E        D#   ED# C# B,       C#D# ED#  C#    C#/F#
+'M   P        g    Pg  r  'N       r g  Pg   r     r /'M
 yā chavi kī balihārī   rādhe-śyāma śyā mā  - śyāma
                                              ^^^ C# can be at śyā as well as in front
  
 
 (2)
 
-B,  C#   E     F#  B    A  G#F#   E      F#          EF#G# F# ED# C#B, B,/F#
+'N  r    P     'M  N    D  d' M   P      'M          P'Md  'M Pg  r' N 'N/'M
 kabahūń lūṭa lūṭa dadhi   khāyo, kabahūń madhu-vana rā  sa racā   yo
 
-F#      E     D# ED# C# B,       C#D#  ED# C#      C#/F#
+'M      P     g  Pg  r  'N       r g   Pg  r       r /'M
 nācata vipina-vihārī rādhe-śyāma śyā  mā -    śyāma
 
  
 
 (3)
 
- B,C#  E      F#   B    AG#F#  E          F#         EF# G#F#  ED# C#B, B,/F#
+ 'Nr   P      'M   N    Dd' M  P          'M         P'M d' M  Pg  r' N 'N/'M
 gvāla-bāla sańga dhenu carāi, vana-vana bhramata phire   yadu-rā   i
 
-F#     E        D# ED# C# B,       C#D# ED#  C#      C#/F#
+'M     P        g  Pg  r  'N       r g  Pg   r       r /'M
 kāńdhe   kāmara kārī   rādhe-śyāma śyā mā  -    śyāma
 
  
 
 (4)
-B,   C# E   F#  B    A  G#F#  E            F#        EF# G#  F#  ED# C#B, B,/F#
+'N   r  P   'M  N    D  d' M  P            'M        P'M d   'M  Pg  r' N 'N/'M
 curā curā nava-nīta jo khāyo,    vraja-vanitana pai nā   ma dha rā   yo
 
-F#       E     D# ED# C# B,       C#D#  ED# C#      C#/F#
+'M       P     g  Pg  r  'N       r g   Pg  r       r /'M
 mākhana-cora murārī   rādhe-śyāma śyā  mā -    śyāma
 
  
 
 (5)
 
-B,    C#  EF# B        A G#F#  E         F#      EF# G#F#   ED# C#B, B,/F#
+'N    r   P'M N        D d' M  P         'M      P'M d' M   Pg  r' N 'N/'M
 eka-dina māna indra ko   māryo,   nakha ūpara govar dhana dhār  yo
 
-F#    E          D# ED# C# B,       C#D#  ED# C#       C#/F#
+'M    P          g  Pg  r  'N       r g   Pg  r        r /'M
 nāma paḍāyo giridhārī   rādhe-śyāma śyā  mā -    śyāma
 
  
 
 (6)
 
-B,    C#   E   F#   B    A  G#F#  E       F#      EF#  G#F#   ED# C#B, B,/F#
+'N    r    P   'M   N    D  d' M  P       'M      P'M  d' M   Pg  r' N 'N/'M
 duryo    dhana ko bhoga na khāyo,   rūkho sāga vidura ghara khā   yo
 
-F#   E         D# ED# C# B,       C#D#  ED# C#       C#/F#
+'M   P         g  Pg  r  'N       r g   Pg  r        r /'M
 aise   prema pujārī   rādhe-śyāma śyā  mā -    śyāma
 
  
 
 (7)
 
-B,     C#  E    F#  B    AG#F#  E         F#    EF# G#F#  ED# C#B, B,/F#
+'N     r   P    'M  N    Dd' M  P         'M    P'M d' M  Pg  r' N 'N/'M
 karuṇā    kara draupadī pukārī,    paṭa lipaṭa gaye vana-vā   rī
 
-F#       E        D# ED#  C# B,       C#D#  ED# C#       C#/F#
+'M       P        g  Pg   r  'N       r g   Pg  r        r /'M
 nirakha rahe nara nārī    rādhe-śyāma śyā  mā -    śyāma
 
  
 
 (8)
 
- B, C#   E      F#  B     A G#F#  E          F#        EF# G#F#   ED# C#B, B,/F#
+ 'N r    P      'M  N     D d' M  P          'M        P'M d' M   Pg  r' N 'N/'M
 bhakta-bhakta saba tumane   tāre,   binā bhakti hama ṭhā   ḍe   dvā   re
 
-F#   E           D# ED# C# B,       C#D#  ED# C#       C#/F#
+'M   P           g  Pg  r  'N       r g   Pg  r        r /'M
 lījo   khabara hamārī   rādhe-śyāma śyā  mā -    śyāma
 
  
 
 (9)
 
-B,  C#  E    F#  B    A G#F#  E      F#     EF#G#F#  ED# C#B, B,/F#
+'N  r   P    'M  N    D d' M  P      'M     P'Md' M  Pg  r' N 'N/'M
 arjuna ke ratha hāńkana hāre,   gītā ke upade  śatumhā   re
 
-F#       E       D# ED# C# B,       C#D#  ED# C#       C#/F#
+'M       P       g  Pg  r  'N       r g   Pg  r        r /'M
 cakra-sudarśana-dhārī   rādhe-śyāma śyā  mā -    śyāma

@@ -9,30 +9,30 @@ LYRICS:
 (1)
 (It can also start from D, later)
 
- C D# D  CBb, A Bb, C
+ S g  R  S'n  D 'n  S
 kṛ ṣ ṇa govinda ha re
 
-      D       C  DG  FD# D D# F
+      R       S  RP  mg  R g  m
 gopī-vallabha   śau re
 
  
 (2)
-  E         F   E F  D/F D      F G   F D#  D C C/E
+  P         m   P m  R/m R      m P   m g   R S S/P
 śrīnivāsa, dāmodara,       śrī-rāma, mu rā re
 
 -> C/A
 
-    A E     F   E F D/F D       F G   F D#  D C C/E
+    D P     m   P m R/m R       m P   m g   R S S/P
 śrīnivāsa, dāmodara,       śrī-rāma, mu rā re
 
 
 
-C/E E             F  E F  D/F D    F  G   F D# D C C/E
+S/P P             m  P m  R/m R    m  P   m g  R S S/P
 na  nda-nandana, mādhava,       nṛsiḿha, kaḿsāre
 
 -> C/A
 
-C/A A   E            F  E F  D/F D    F  G   F D# D C C/E
+S/D D   P            m  P m  R/m R    m  P   m g  R S S/P
 na  nda  - nandana, mādhava,       nṛsiḿha, kaḿsāre
 
 TRANSLATION

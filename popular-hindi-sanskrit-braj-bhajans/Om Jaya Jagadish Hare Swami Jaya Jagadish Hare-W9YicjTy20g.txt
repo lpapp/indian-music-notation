@@ -1,13 +1,13 @@
 ========== Part 1 ==========
 
-C             B,  C D
+S             'N  S R
 Om Jai Jagadish  Hare
 
-    E  F   G   AG F  E F E D
+    P  m   P   DP m  P m P R
 Swami Jai Jagadish  Hare
 
 ========== Part 2 ==========
 
-  C  D C  E F   E D
+  S  R S  P m   P R
 Bhakt    Jano Ke Sankat Daas Jano Ke Sankat
 

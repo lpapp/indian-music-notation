@@ -6,82 +6,82 @@ Language: Bengali
 
 (1)
 
- E    F   G              F F/A A    G FE E/G
+ P    m   P              m m/D D    P mP P/P
 hari haraye namaḥ kṛṣṇa yāda  vāya namaḥ
 
- G   F    E    D    C D E FE       E/B
+ P   m    P    R    S R P mP       P/N
 yādavāya mādhavāya keśavāya namaḥ
 
 (2)
 
- B      A       G     F F/A A   GFE   E/G
+ N      D       P     m m/D D   PmP   P/P
 gopāla govinda rāma śrī-madhusūda  na 
 
- G    F    E   D     C D E  F E
+ P    m    P   R     S R P  m P
 giridhārī gopīnātha madana-mohana
 
 (3)
 
-  E  F     G              F F/A A     G FE E/G
+  P  m     P              m m/D D     P mP P/P
 śrī-caitanya-nityānanda śrī-ad vaita-sītā
 
- G    F    E   D     C D E FE     E/B
+ P    m    P   R     S R P mP     P/N
 hari guru vaiṣṇaba bhāgavata gītā
 
 (4)
 
-  B       A   G     F F/A A  GFE    E/G
+  N       D   P     m m/D D  PmP    P/P
 śrī-rūpa sanātana bhaṭṭa-raghunātha
 
-  G    F    E     E     C D  E  F E
+  P    m    P     P     S R  P  m P
 śrī-jīva gopāla-bhaṭṭa dāsa-raghunātha
 
 (5)
 
- E   F   G           FF/A A  GFE   E/G
+ P   m   P           mm/D D  PmP   P/P
 ei chay gosāir kori cara ṇa vandan
 
- G    F     E      D  C  D  E  F E  E/B
+ P    m     P      R  S  R  P  m P  P/N
 jāhā hoite bighna-nāś abhīṣṭa-pūraṇ
 
 (6)
 
-B          A   G   FA  G   FE E/G
+N          D   P   mD  P   mP P/P
 ei chay gosāi jār—mui tār dās
 
- G    F    E    D    C D  E  F   E
+ P    m    P    R    S R  P  m   P
 tā-sabāra pada-reṇu mora pañca-grās
 
 (7)
 
- E F    G            F  A       GFE E/G
+ P m    P            m  D       PmP P/P
 tādera caraṇa-sebi-bhakta-sańe bās
 
- G      F E    D  CD E  F E  E/B
+ P      m P    R  SR P  m P  P/N
 janame janame hoy ei abhilāṣ
 
 (8)
 
-B        A     G F   A          GFE E/G
+N        D     P m   D          PmP P/P
 ei chay gosāi jabe braje koilā bās
 
- G     F     E     D    C D E   F E
+ P     m     P     R    S R P   m P
 rādhā-kṛṣṇa-nitya-līlā korilā prakāś
 
 (9)
 
-E F  G             F A       GFE E/G
+P m  P             m D       PmP P/P
 ānande bolo hari bhaja bṛndāban
 
-  G  F    E        D    C D  EF E  E/G
+  P  m    P        R    S R  Pm P  P/P
 śrī-guru-vaiṣṇaba-pade majāiyā man
 
 (10)
 
-  B       A        G    F  A      GFE E/G
+  N       D        P    m  D      PmP P/P
 śrī-guru-vaiṣṇaba-pada-padma kori āś
 
- G    F     E    D    C D  E F  E
+ P    m     P    R    S R  P m  P
 nāma-sańkīrtana kohe narottama dāsa
 
 

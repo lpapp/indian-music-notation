@@ -7,16 +7,16 @@ Language: Sanskrit
 LYRICS:
 
 (1)
- C         D    F            E F  G F  E   D
+ S         R    m            P m  P m  P   R
 munīndra-vṛnda-vandite   triloka-śoka-hāriṇi
 
-         Bb,         D      D# F D#   D    C
+         'n          R      g  m g    R    S
 prasanna  -  vaktra-paṇkaje nikuñja-bhū-vilāsini
 
-              D  F          E   F  G F  E    D
+              R  m          P   m  P m  P    R
 vrajendra-bhānu-nandini vrajendra-sūnu-saṅgate
 
-     Bb,     D       D# F D# D      C
+     'n      R       g  m g  R      S
 kadā kariṣyasīha māṁ kṛpā-kaṭākṣa-bhājanam
 
 

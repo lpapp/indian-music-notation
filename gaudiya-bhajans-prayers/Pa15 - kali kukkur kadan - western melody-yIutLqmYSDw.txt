@@ -7,28 +7,28 @@ Language: Bengali
 LYRICS:
 
 (1)
- G      G# G F E E/G G  F     F/Bb     Bb  A G F    F/G#   G#   G
+ P      d  P m P P/P P  m     m/n      n   D P m    m/d    d    P
 kali-kukkura           kadana       ya    di            cā    o   (he)
 
-            G# G F      E     E/G G  F       F/Bb
+            d  P m      P     P/P P  m       m/n
 kali-yuga pāvana,    kali-bha    ya-nā śana,
 
-    Bb       AG   F F/G# G#   G
+    n        DP   m m/d  d    P
 śrī    śacī-nandana gā      o   (he)
 
  
 
 (2)
- G          G# G F       E E/G  G   F          F/Bb
+ P          d  P m       P P/P  P   m          m/n
 gadādhara-mādana,  nitā’ye     ra prāṇa-dhana,
 
-Bb            A   G F F/G# G#F
+n             D   P m m/d  d m
 a  dvaitera prapūjita      go  rā
 
-G/C'C'   C'/D#' D#'         D'   Bb/D' Bb   A  G    G/Bb
+P/S'S'   S'/g'  g'          R'   n /R' n    D  P    P/n
 ni  māñi vi     śvambhara, śrīni       vāsa-īśvara,
 
-   Bb         A    G F F/G# G# G
+   n          D    P m m/d  d  P
 bha   kata-samūha-cita-co        rā
 
 ---
@@ -37,16 +37,16 @@ The last two lines of (1) can be repeated.
 
 
 (3)
- G          G# G  F      E G F       F/Bb
+ P          d  P  m      P P m       m/n
 nadīyā-śaśadhara,   māyāpura-īśvara,
 
-Bb       A  G F F/G# G# G    G/C'
+n        D  P m m/d  d  P    P/S'
 nāma-pravartana su        ra
 
-C'       C'/D#' D#'         D'    Bb/D' Bb    A G    G/Bb
+S'       S'/g'  g'          R'    n /R' n     D P    P/n
 gṛhijana-śi          kṣaka, nyāsi       kula-nāyaka,
 
-Bb       A    G     F    F/G# G# G
+n        D    P     m    m/d  d  P
 mādhava rādhā   bhā   va-pū        ra
 
 ---
@@ -55,16 +55,16 @@ The last two lines of (1) can be repeated.
  
 
 (4)
- G             G# G  F    E  E/G G   F      F/Bb
+ P             d  P  m    P  P/P P   m      m/n
 sārvabhauma-śodhana,   gajapati  -  tāraṇa,
 
-  Bb       A G    F F/G# G# G    G/C'
+  n        D P    m m/d  d  P    P/S'
 rāmānanda-po   ṣaṇa vī        ra
 
-C'          C'/D#'D#'        D'   Bb/D'       AG       G/Bb
+S'          S'/g' g'         R'   n /R'       DP       P/n
 rūpānanda-var         dhana, sanā       tana-pā  lana,
 
-Bb        A    G F F/G# G# G
+n         D    P m m/d  d  P
 hari-dāsa - modana dhī       ra
 
 ---
@@ -73,16 +73,16 @@ The last two lines of (1) can be repeated.
  
 
 (5)
-  G           G# G F        E E/G G   F      F/Bb
+  P           d  P m        P P/P P   m      m/n
 vraja-rasa-bhāvana,  duṣṭa ma ta  -  śātana,
 
-  Bb      A     G    F F/G# G# G    G/C'
+  n       D     P    m m/d  d  P    P/S'
 kapaṭī-vi   ghā   tana kā        ma
 
-C'            C'/D#'D#'      D'    Bb/D'      AG       G/Bb
+S'            S'/g' g'       R'    n /R'      DP       P/n
 śuddha bhakta-pā       lana, śuṣka  -  jñāna-tā  ḍana,
 
- Bb           A G F F/G# G# G
+ n            D P m m/d  d  P
 chala-bhakti-dūṣaṇa rā        ma
 
 ---

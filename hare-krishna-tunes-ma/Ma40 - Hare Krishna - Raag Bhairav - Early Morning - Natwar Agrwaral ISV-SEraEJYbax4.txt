@@ -1,91 +1,91 @@
 ========== Part 1 ==========
 
- FF# F#/A A   G# A G# F#
+ m'M 'M/D D   d  D d  'M
 hare kṛ   ṣṇa hare kṛṣṇa
 
- F F# G# F# D/F# D   C#      C#/F
+ m 'M d  'M R/'M R   r       r /m
 kṛṣṇa kṛṣṇa ha     re   hare
 
- FF# F#/A A    G# A G#F#
+ m'M 'M/D D    d  D d' M
 hare rā     ma hare rā   ma
 
- FF#    G#F#    D/F# D    C#      C#/F
+ m'M    d' M    R/'M R    r       r /m
 rā   ma rā   ma ha     re    hare
 
 => C#/F#
 
 ========== Part 2 ==========
 
-F# F  D    C#
+'M m  R    r
 hare kṛṣṇa hare kṛṣṇa
 
-    D D/F F   F#
+    R R/m m   'M
 kṛṣṇa kṛ  ṣṇa hare hare
 
-   F  D   C#
+   m  R   r
 hare rāma    hare rāma
 
-   D D/F F    F#
+   R R/m m    'M
 rāma rā    ma hare hare
 
 ========== Part 3 ==========
 
- AG# F#  F F# F D/F D
+ Dd  'M  m 'M m R/m R
 hare kṛṣṇa hare kṛ  ṣṇa
 
-C#  D D/F F   F#   G# 
+r   R R/m m   'M   d  
 kṛṣṇa kṛ  ṣṇa hare hare
 
- FF# G#   F#G#  A
+ m'M d    'Md   D
 hare rāma hare rāma
 
-A/C#' C#'       A   G# F#
+D/r'  r'        D   d  'M
 rā        ma rāma hare hare
  
 => F#/A
 
 ========== Part 4 ==========
 
- AG# F#F   F# F D/F DC#
+ Dd  'Mm   'M m R/m Rr
 hare kṛṣṇa hare kṛ  ṣ   ṇa
 
-    D D/F F   F#   G#
+    R R/m m   'M   d
 kṛṣṇa kṛ  ṣṇa hare hare
 
- AG# F#F    F# F D/F D C#
+ Dd  'Mm    'M m R/m R r
 hare rā  ma hare rā       ma
 
-   D    D/F F    F#   G#
+   R    R/m m    'M   d
 rā   ma rā    ma hare hare
 
 => G#/C#'
 
 ========== Part 5 ==========
 
-C#'  C'     A   G#
+r'   S'     D   d
 hare kṛṣṇa hare    kṛṣṇa
 
-    A    G# F#        F#/C#'
+    D    d  'M        'M/r'
 kṛṣṇa kṛṣṇa hare hare
 
-  C#'   C'A         G#
+  r'    S'D         d
 ha   re rā  ma hare rāma
 
-      A G#F#              F#/C#'
+      D d' M              'M/r'
 rāma rā      ma hare hare
 
 ========== Part 6 ==========
 
-C#'  C'     A   G#
+r'   S'     D   d
 hare kṛṣṇa hare    kṛṣṇa
 
-       A G# F#
+       D d  'M
 kṛṣṇa kṛṣṇa hare hare
 
-G#   F#    F   D
+d    'M    m   R
 hare rāma hare   rāma
 
-  D/F FD/F D   C#      G#,/C# C#/C#'
+  R/m mR/m R   r       'd /r  r /r'
 rāma rāma hare    hare
 
 

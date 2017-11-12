@@ -7,161 +7,161 @@ Language: Bengali
 LYRICS:
 
 (1)
- C          D    D/G  G F
+ S          R    R/P  P m
 boro sukher   khabor gā   i
 
  F           D#    (D/D#) D  D/Bb
 boro sukher     khabor   gāi
 
-Bb          A   G      F         G A G             
+n           D   P      m         P D P             
 surabhi-kuñjete   nāme   r hāṭ khule’  che 
 
 
-        ABb C' Bb F/Bb
+        Dn  S' n  m/n
 (khoda nitā       i)
 
-   F D#       D    D/G G
+   m g        R    R/P P
 (kho   da ni   tāi)
  
 
 (2)
- C         D    D/G  G F
+ S         R    R/P  P m
 boro mojār   kathā  tā   y
 
- F          D#         D  D/Bb
+ m          g          R  R/n
 boro mojār     kathā  tāy
   
- Bb           A      G    F           G    A    G
+ n            D      P    m           P    D    P
 śraddhā-mūlye   śuddha-nā   ma sei hā   ṭete bikāy
 
  
 --- Refrain
-        ABb C' Bb F/Bb
+        Dn  S' n  m/n
 (gaura nitā       i)
  
-  FD#   D/D#  D   D/G
+  mg    R/g   R   R/P
 (gau ra ni   tāi)
 
-  G     ABb C' Bb F/Bb
+  P     Dn  S' n  m/n
 (gaura nitā       i)
  
-  FD#   D/D#  D
+  mg    R/g   R
 (gau ra ni   tāi)
 ---
 
 
 (3)
- C           D    D/G  G    F
+ S           R    R/P  P    m
 jata bhakta-bṛnda     basi’
 
- F          D#      D       D/Bb
+ m          g       R       R/n
 jata bhakta  -  bṛnda basi’
  
-Bb        A     G    F            G A G
+n         D     P    m            P D P
 adhikārī dekhe’   nā   ma becche daro   kasi’
 
 Repeat refrain.
 
 
 (4)
- C        D        D/G   G F
+ S        R        R/P   P m
 jadi nāma   kinbe,     bhā   i
 
- F      D#         D       D/Bb
+ m      g          R       R/n
 jadi nā   ma   kinbe, bhāi
 
-Bb          A    G      F        G  A G
+n           D    P      m        P  D P
 āmār sańge calo,   mahā   janer kāche   jāi
 
 Repeat refrain.
  
 
 (5)
- C          D D/G G F
+ S          R R/P P m
 tumi kinbe kṛṣṇa-nā   ma
 
- F         D#    D/D#  D   D/Bb
+ m         g     R/g   R   R/n
 tumi kinbe    kṛṣṇa - nāma
 
-Bb        A   G      F        G  A G
+n         D   P      m        P  D P
 dasturi loibo   āmi,   pūrṇa ha’be   kāma
 
 Repeat refrain.
  
 
 (6)
- C         D       D/G    G F
+ S         R       R/P    P m
 boro doyāl   nityā n   anda
 
- F         D#    D       D/Bb
+ m         g     R       R/n
 boro doyāl nityā   nanda
 
- Bb           A       G     F      G   AG
+ n            D       P     m      P   DP
 śraddhā-mātra   lo’ye   den   parama - ā  nanda
 
 Repeat refrain.
  
 
 (7)
-C              D    D/G  G  F
+S              R    R/P  P  m
 ek-bār dekhle cakṣe     jal
 
-F             D#     D  D/Bb
+m             g      R  R/n
 ek-bār dekhle cakṣe jal
 
- Bb            A   G     F      G  AG
+ n             D   P     m      P  DP
 ‘gaura’ bole’ nitāi  den   sakala sambal
 
 Repeat refrain.
  
 
 (8)
- C          G    D/G  G    F
+ S          P    R/P  P    m
 den śuddha kṛṣṇa  -  śikṣā
 
- F         D#        D    D/Bb
+ m         g         R    R/n
 den śuddha    kṛṣṇa-śikṣā
 
-Bb            A    G      F       G AG
+n             D    P      m       P DP
 jāti, dhana, vidyā,  bala   nā kore a  pekṣā
 
 Repeat refrain.
  
 
 (9)
-C           D   D/G   G  F
+S           R   R/P   P  m
 amani chāḍe   māyā - jāl
 
-F           D#       D  D/Bb
+m           g        R  R/n
 amani chāḍe    māyā-jāl
 
-Bb           A     G F       G A  G
+n            D     P m       P D  P
 gṛhe thāko, bane thāko, nā thāke jañjāl
 
 Repeat refrain.
  
 
 (10)
-C         D    D/G G F
+S         R    R/P P m
 ār nāiko kalir bho     y
 
-F        D#      D  D/Bb
+m        g       R  R/n
 ār nāiko kalir bhoy
 
-Bb        A  G      F        G AG
+n         D  P      m        P DP
 ācaṇḍāle den   nāma   nitāi doyā  moy
 
 Repeat refrain.
  
 
 (11)
-  C        D          D/G    G F
+  S        R          R/P    P m
 bhaktivino   da ḍāki’     ko     y
 
-  F          D#    D     D/Bb
+  m          g     R     R/n
 bhaktivinoda ḍāki’   koy
 
-Bb            A   G     F   GAG
+n             D   P     m   PDP
 nitāi-caraṇa binā   ār nāhi ā   śroy
 
 Repeat refrain.

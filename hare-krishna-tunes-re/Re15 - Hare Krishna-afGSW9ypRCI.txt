@@ -1,28 +1,28 @@
 ========== Part 1 ==========
 
- DD#D  CD D/F F  A  Bb AG
+ Rg R  SR R/m m  D  n  DP
 hare  kṛṣ    ṇa hare  kṛṣṇa
 
- D D#D  CD D/F  F  A   Bb  A G
+ R g R  SR R/m  m  D   n   D P
 kṛṣṇa  kṛṣ     ṇa hare    hare
 
- DD#D  CD D/F F  A   Bb AG
+ Rg R  SR R/m m  D   n  DP
 hare  rā     ma hare   rā  ma
 
- DD#D  CD D/F  F  A   Bb  A G
+ Rg R  SR R/m  m  D   n   D P
 rāma  rā      ma hare    hare
 
 ========== Part 2 ==========
 
-Bb   C'  A GF  F/A  A Bb  AG
+n    S'  D Pm  m/D  D n   DP
 hare kṛṣṇa    ha   re    kṛṣṇa
 
-Bb    C'  A GF F/A  A Bb  A G
+n     S'  D Pm m/D  D n   D P
 kṛṣṇa kṛṣṇa    ha  re    hare
 
-Bb   C' A GF F/A  A Bb  A G
+n    S' D Pm m/D  D n   D P
 hare rāma    ha  re    rāma
 
-Bb   C'A    GF F/A A Bb  A G
+n    S'D    Pm m/D D n   D P
 rāma rā  ma    ha re    hare
 

@@ -1,67 +1,67 @@
 ========== Part 1 ==========
 
- FG#  G G#  FF#  F F#
+ md   P d   m'M  m 'M
 hare kṛṣṇa hare kṛṣṇa
 
- D# F  C#D#  FG# F# F
+ g  m  r g   md  'M m
 kṛṣṇa kṛṣṇa hare hare
 
- FG#  GG#  FF#  FF#
+ md   Pd   m'M  m'M
 hare rāma hare rāma
 
-D# F C#D#  FG# F# F
+g  m r g   md  'M m
 rāma rāma hare hare
 
 ========== Part 2 ==========
 
-C'         C#'C'  BbG#
+S'         r' S'  n d
 hare kṛṣṇa ha re kṛṣṇa
 
- F F#  G#Bb G#F#  F
+ m 'M  d n  d' M  m
 kṛṣṇa kṛṣṇa hare hare
 
-C'        C#'C' BbG#
+S'        r' S' n d
 hare rāma ha re rāma
 
- FF# G#Bb G#F#  F
+ m'M d n  d' M  m
 rāma rāma hare hare
 
 ========== Part 3 ==========
 
-D#          F
+g           m
 hare kṛṣṇa hare kṛṣṇa
 
- G#    F#    F
+ d     'M    m
 kṛṣṇa kṛṣṇa hare hare
 
-D#         F
+g          m
 hare rāma hare rāma
 
-G#   F#    F
+d    'M    m
 rāma rāma hare hare
 
 ========== End ==========
 
-F/Bb                  A G   A
+m/n                   D P   D
 Jaya Krishna Balaram Jaya Krishna Balaram
 
- G F   G             Bb A   G      F
+ P m   P             n  D   P      m
 Jaya Krishna Balaram Jaya Krishna Balaram
 
-F/Bb             A G   A
+m/n              D P   D
 Jaya Prabhupada Jaya Prabhupada
 
- G F   G        Bb A   G  F
+ P m   P        n  D   P  m
 Jaya Prabhupada Jaya Prabhupada
 
-F/Bb              A G  A
+m/n               D P  D
 Jaya Gaura Nitai Jaya Gaura Nitai
 
- G F  G          Bb A  G  F
+ P m  P          n  D  P  m
 Jaya Gaura Nitai Jaya Gaura Nitai
 
-F/Bb                 A G A
+m/n                  D P D
 Nitai Gaura Haribol Haribol
 
- G F G         Bb A  G   F
+ P m P         n  D  P   m
 Haribol Nitai Gaura Haribol 

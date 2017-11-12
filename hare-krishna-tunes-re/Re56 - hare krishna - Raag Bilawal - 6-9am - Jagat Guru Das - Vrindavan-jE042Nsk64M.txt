@@ -1,83 +1,83 @@
 ========== Part 1 ==========
 
-C#D#   F       G# F D# C# C#       F   D#
+r g    m       d  m g  r  r        m   g
 Hare Krishna                    Hare Krishna
 
- C#    C  Bb    C C# F D#  CC#
+ r     S  n     S r  m g   Sr
 Krishna Krishna Ha     re Hare
 
-C#D# F       G# F D# C# C#       FD#
+r g  m       d  m g  r  r        mg
 Hare Rama                     Hare Rama
 
-C#  C Bb   C C# F D#  CC#
+r   S n    S r  m g   Sr
 Rama Rama Ha     re Hare
 
 ========== Part 2 ==========
 
-  FF# G#       A# G# F#  F F#
+  m'M d        D# d  'M  m 'M
 Hare Krishna            Hare Krishna
 
- F#    F   D#  D#/G#  G#A#F# F
+ 'M    m   g   g /d   d D#'M m
 Krishna Krishna        Hare Hare
 
-  FF# G#     A# G# F#  F F#
+  m'M d      D# d  'M  m 'M
 Hare Rama            Hare Rama
 
-F#   F  D#D#/G# G#A#F# F
+'M   m  g g /d  d D#'M m
 Rama Rama       Hare Hare
 
 ========== Part 3 ==========
 
-C#'D#'   F'       G#' F' D#' C#' C#'       F'  D#'
+r' g'    m'       d'  m' g'  r'  r'        m'  g'
 Ha re  Krishna                       Hare Krishna
 
- C#'   C'  Bb'  C' C#' F' D#' C'C#'
+ r'    S'  n'   S' r'  m' g'  S'r'
 Krishna Krishna Ha     re  Hare
 
-C#'D#' F'       G#' F' D#' C#' C#'    F' D#'
+r' g'  m'       d'  m' g'  r'  r'     m' g'
 Ha re  Rama                       Hare Rama
 
-C#' C' Bb'C'  C#' F' D#'  C'C#'
+r'  S' n' S'  r'  m' g'   S'r'
 Rama Rama Ha      re   Hare
 
 ========== Part 4 ==========
 
-C#'          C' C#'D#'
+r'           S' r' g'
 Ha re  Krishna  Ha re Krishna
 
-C#'  C' C#'   C Bb
+r'   S' r'    S n
 Krishna Krishna Hare  Hare
 
-C#'     C' C#'D#'
+r'      S' r' g'
 Hare  Rama Ha re Rama
 
-C#'C'C#'C' Bb
+r' S'r' S' n
 Rama Rama  Hare   Hare
 
 ========== Part 5 ==========
 
- F F#   A#      C' Bb C#' 
+ m 'M   D#      S' n  r'  
 Ha re  Krishna  Ha re Krishna
 
-C'   Bb  G#  F# A#G# F#  F# F
+S'   n   d   'M D#d  'M  'M m
 Krishna Krishna Hare     Hare
 
- FF#  A#   C' Bb C#'
+ m'M  D#   S' n  r'
 Hare  Rama Ha re Rama
  
-C'Bb G#F#  A#G# F#F# F
+S'n  d' M  D#d  'M'M m
 Rama Rama  Hare   Hare
 
 ========== Part 6 ==========
 
- FF#  A#  G# F  F D#  C#   C
+ m'M  D#  d  m  m g   r    S
 Hare Krishna   Ha re Krishna
 
-  C  C#  Bb,  C C# C#/F# F#  F 
+  S  r   'n   S r  r /'M 'M  m 
 Krishna Krishna    Ha       re Hare
 
- FF#  A#G# F  FD# C# C
+ m'M  D#d  m  mg  r  S
 Hare  Rama   Hare Rama
  
- CC# Bb, C C# C#/F#F# F 
+ Sr  'n  S r  r /'M'M m 
 Rama Ra ma    Ha     re Hare

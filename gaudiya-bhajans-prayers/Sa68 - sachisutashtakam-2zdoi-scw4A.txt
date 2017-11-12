@@ -7,129 +7,129 @@ Language: Sanskrit
 LYRICS:
 
 (1)
- C D Bb,/D Bb, C       C/D# D#  D#/F F       G    G# G
+ S R 'n /R 'n  S       S/g  g   g /m m       P    d  P
 nava       gau   ra-va      raḿ        nava-puṣpa-śaraḿ
 
-       F   D#/F D# D#/F  F   G   D#/G D#   D    C     C/Bb
+       m   g /m g  g /m  m   P   g /P g    R    S     S/n
 nava-bhāva  -  dha      raḿ nava-lā      sya-pa   ram
 
-Bb       A    G      F G G#Bb G# G
+n        D    P      m P d n  d  P
 nava-hāsya-ka   raḿ nava-hema-varaḿ
 
-      F   D#/F D# D#/F F   G   D#/G D#   D    C
+      m   g /m g  g /m m   P   g /P g    R    S
 praṇamāmi śa      cī   -  suta  -   ga ura-va   ram
 
  
 
 (2)
- C D Bb,/D  Bb,C    C/D# D#  D#/F F     G   G# G
+ S R 'n /R  'n S    S/g  g   g /m m     P   d  P
 nava   -   pre   ma-yu   taḿ na     va-nīta-śucaḿ
 
-      F   D#/F  D# D#/F F    G   D#/G D# D    C     C/Bb
+      m   g /m  g  g /m m    P   g /P g  R    S     S/n
 nava-veśa   -   kṛ ta     ḿ nava  -  prema-ra   sam
 
-Bb         A G   F  G  G#Bb G# G
+n          D P   m  P  d n  d  P
 navadhā vilasat śubha-prema-mayaḿ
 
-      F   D#/F D# D#/F F   G   D#/G D#   D    C
+      m   g /m g  g /m m   P   g /P g    R    S
 praṇamāmi śa      cī   -  suta  -   ga ura-va   ram
 
  
 
 (3)
- C D Bb,/D Bb, C        C/D# D#  D#/F F    G    G# G
+ S R 'n /R 'n  S        S/g  g   g /m m    P    d  P
 hari   -   bha   kti-pa      raḿ ha    ri-nāma-dharaḿ
 
-      F    D#/F  D# D#/F F    G   D#/G  D# D    C     C/Bb
+      m    g /m  g  g /m m    P   g /P  g  R    S     S/n
 kara-japya   -   ka ra     ḿ hari   -   nāma-pa   ram
 
-Bb        A    G       F GG# Bb  G# G
+n         D    P       m Pd  n   d  P
 nayane sa   ta   taḿ praṇayāśru-dharaḿ
 
-      F   D#/F D# D#/F F   G   D#/G D#   D    C
+      m   g /m g  g /m m   P   g /P g    R    S
 praṇamāmi śa      cī   -  suta  -   ga ura-va   ram
 
  
 
 (4)
- C D Bb,/D Bb, C      C/D# D# D#/F F     G   G# G
+ S R 'n /R 'n  S      S/g  g  g /m m     P   d  P
 sata       taḿ   jana      tā-bha    va-tāpa-haraḿ
 
-     F     D#/F  D# D#/F F  G   D#/G  D# D    C     C/Bb
+     m     g /m  g  g /m m  P   g /P  g  R    S     S/n
 paramārtha   -   pa rā     yaṇa   -   loka-ga   tim
 
-Bb         A G  F    G  G#Bb G# G
+n          D P  m    P  d n  d  P
 nava-leha-karaḿ   jagat-tāpa-haraḿ
 
-      F   D#/F D# D#/F F   G   D#/G D#   D    C
+      m   g /m g  g /m m   P   g /P g    R    S
 praṇamāmi śa      cī   -  suta  -   ga ura-va   ram
 
  
 
 (5)
- C D Bb,/D  Bb, C        C/D# D#  D#/F   F    G  G# G
+ S R 'n /R  'n  S        S/g  g   g /m   m    P  d  P
 nija   -   bha    kti-ka      raḿ      priya-cārutaraḿ
 
-      F    D#/F D# D#/F F  G   D#/G  D# D    C     C/Bb
+      m    g /m g  g /m m  P   g /P  g  R    S     S/n
 naṭa-narta      na-nā     gara   -   rāja-ku   lam
 
-Bb        A     G F G G# Bb G# G
+n         D     P m P d  n  d  P
 kula-kāmi   ni-mānasa-lāsya-karaḿ
 
-      F   D#/F D# D#/F F   G   D#/G D#   D    C
+      m   g /m g  g /m m   P   g /P g    R    S
 praṇamāmi śa      cī   -  suta  -   ga ura-va   ram
 
  
 
 (6)
- C D Bb/D Bb, C       C/D# D#  D#/F F    G     G# G
+ S R n /R 'n  S       S/g  g   g /m m    P     d  P
 kara      tā    la-va      laḿ ka    la-kaṇṭha-ravaḿ
 
-      F    D#/F D# D#/F F  G   D#/G D#  D    C     C/Bb
+      m    g /m g  g /m m  P   g /P g   R    S     S/n
 mṛdu-vādya   -  su vī     ṇika      yā madhu   ram
 
-Bb          A      G F G G# Bb G# G
+n           D      P m P d  n  d  P
 nija-bhakti  -  guṇāvṛta-nātya-karaḿ
 
-      F   D#/F D# D#/F F   G   D#/G D#   D    C
+      m   g /m g  g /m m   P   g /P g    R    S
 praṇamāmi śa      cī   -  suta  -   ga ura-va   ram
 
  
 
 (7)
- C D Bb,/D Bb, C        C/D# D#  D#/F F        G    G# G
+ S R 'n /R 'n  S        S/g  g   g /m m        P    d  P
 yuga   -   dha   rma-yu      taḿ        punar nanda-sutaḿ
 
-      F    D#/F D#    D#/F F     G   D#/G   D# D   C     C/Bb
+      m    g /m g     g /m m     P   g /P   g  R   S     S/n
 dharaṇī-su         ci tra    ḿ bhava   -   bhāvoci   tam
 
-Bb          A    G      F G G#Bb G# G
+n           D    P      m P d n  d  P
 tanu-dhyāna - ci   taḿ nija-vāsa-yutam
 
-      F   D#/F D# D#/F F   G   D#/G D#   D    C
+      m   g /m g  g /m m   P   g /P g    R    S
 praṇamāmi śa      cī   -  suta  -   ga ura-va   ram
 
  
 
 (8)
-C D Bb,/D Bb   C      C/D# D#  D#/F F   G    G# G
+S R 'n /R n    S      S/g  g   g /m m   P    d  P
 aru       ṇaḿ    naya      naḿ     caraṇaḿ vasanaḿ
 
-     F      D#/F D# D#/F F     G   D#/G  D# D     C     C/Bb
+     m      g /m g  g /m m     P   g /P  g  R     S     S/n
 vadane skha      li ta     ḿ svaka   -   nāma-dha   ram
 
-Bb        A    G      F GG#  BbG# G
+n         D    P      m Pd   n d  P
 kurute su - ra   saḿ jagataḥ jīvanaḿ
 
-      F   D#/F D# D#/F F   G   D#/G D#   D     C
+      m   g /m g  g /m m   P   g /P g    R     S
 praṇamāmi śa      cī   -  suta  -   ga ura-va   ram
 
 
 --- Extra
-  C D Bb,/D Bb, C       C/D# D# D#/F  F    G    G# G
+  S R 'n /R 'n  S       S/g  g  g /m  m    P    d  P
 praṇa       mā    mi śa      cī -    suta-gaura-varam
 
-      F      D#/F D# D#/F F  G   D#/G D#  D    C     C/Bb
+      m      g /m g  g /m m  P   g /P g   R    S     S/n
 praṇa   māmi      śa     cī-suta  -   gaura-va   ram
 
 Repeat this again and then finish with G,/C

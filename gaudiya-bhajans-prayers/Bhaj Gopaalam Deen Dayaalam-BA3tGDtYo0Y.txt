@@ -1,66 +1,66 @@
 
-  D   E F  E  C/E C    DB, A,  A,/D
+  R   P m  P  S/P S    R'N 'R  'R/R
 Bhaj gopaalan    deen dayaalan
 
- D        E  E/A A G   F   G E/G E                        E/B
+ R        P  P/D D P   m   P P/P P                        P/N
 vachan krpaala   n   taap ha ra  n (these two lines x 2)
 
-    B            AB C'    D'  B  A  D/A
+    N            DN S'    R'  N  D  R/D
 sundar vana  maalan nayan vishaalan
 
- D      E E/A A G     F     G  E/G E D
+ R      P P/D D P     m     P  P/P P R
 roop rasaala  n   chi   tt haran
 
 =====
 
-  D   E F  E  C/E  C    DB, A,  A,/D
+  R   P m  P  S/P  S    R'N 'R  'R/R
 Bhaj gopaalan     deen dayaalan
 
- D        E E/A A G   F   G   E/G E
+ R        P P/D D P   m   P   P/P P
 vachan krpaala  n   taap hara n
 
 =====
 
- D  E   F   E  C/E  C   D B,     A,  A,/D
+ R  P   m   P  S/P  S   R 'N     'R  'R/R
 Vaarij vadanan     lajjit    madanan
 
-D       E  E/A A   GF    G  E/G E E/B
+R       P  P/D D   Pm    P  P/P P P/N
 Aanand sadana  n pre m dharan
 
- B               AB C'     D' B/D'  B  A  D/A
+ N               DN S'     R' N/R'  N  D  R/D
 Mohan ghanashyaaman nayanabhi      raaman
 
- D        E E/A A   G  F  G  E/G E
+ R        P P/D D   P  m  P  P/P P
 Laavany ghaama  n chandr varan
 
 =====
 
-  D   E F  E  C/E  C    DB, A,  A,/D
+  R   P m  P  S/P  S    R'N 'R  'R/R
 Bhaj gopaalan     deen dayaalan
 
- D        E E/A A   F   G E/G E
+ R        P P/D D   m   P P/P P
 Vachan krpaala  n taap ha ra  n
 
 =====
 
- D E   F  E  C/E  C     D B,     A,  A,/D
+ R P   m  P  S/P  S     R 'N     'R  'R/R
 Mohan leelan     karuna      sheelan
 
- D        E E/A A   GF     G  E/G E E/B
+ R        P P/D D   Pm     P  P/P P P/N
 Rasaghan leela  n ghaam paran
 
- B          AB C'   D' B  A  D/A
+ N          DN S'   R' N  D  R/D
 Venu praveenan nity naveenan
 
-  D       E E/A A  GF      G  E/A E
+  R       P P/D D  Pm      P  P/D P
 Priy jan deena  n de  vaparan
 
 =====
 
-  D   E F  E  C/E  C    DB, A,  A,/D
+  R   P m  P  S/P  S    R'N 'R  'R/R
 Bhaj gopaalan     deen dayaalan
 
- D        E E/A A   F   G E/G G
+ R        P P/D D   m   P P/P P
 vachan krpaala  n taap ha ra  n
 
 

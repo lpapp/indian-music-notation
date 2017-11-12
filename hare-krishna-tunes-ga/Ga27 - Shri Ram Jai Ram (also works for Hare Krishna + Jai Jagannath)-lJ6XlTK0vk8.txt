@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
-   E       F  E   D
+   P       m  P   R
 Shri Ram Jai Ram Jai Jai Ram
 
-   F       E  D   C
+   m       P  R   S
 Shri Ram Jai Ram Jai Jai Ram
 
 ========== Part 2 ==========
 
- G               F E D         
+ P               m P R         
 Sitaram sitaram sitaram sitaram
 
-   E F       E   D   C
+   P m       P   R   S
 sitaram sitaram sitaram sitaram

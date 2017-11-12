@@ -7,7 +7,7 @@ Language: Bengali
 LYRICS:
 
 (1)
- F E  G F       C/F   CD# C Bb, G#,
+ m P  P m       S/m   Sg  S 'n  'd
 jaya jaya jagannātha sacīra nan dan
 
    Bb, C (C/)E               D  E  F
@@ -16,36 +16,36 @@ tribhūva na    kore jār caraṇa vandan
  
 
 (2)
-Bb,                    C   D#  C Bb,G#,
+'n                     S   g   S 'n 'd
 nilācale sańkha-cakra-gadā-padma-dha    r
 
-  Bb, C C/E E                 D E  F
+  'n  S S/P P                 R P  m
 nadī yā    nagare daṇḍa-kamaṇḍalu-kar
 
  
 
 (3)
- G                 C/G  C   E  F   G#
+ P                 S/P  S   P  m   d
 keho bole purabete     rāvaṇa badhilā
 
-    BbG#  G   F          E F    G F
+    n d   P   m          P m    P m
 goloker  vaibhava lilā prakāśa korilā
 
  
 
 (4)
-Bb,                   C   D#CBb,G#
+'n                    S   g S'n d
 śri-rādhār bhāve ebe gorā avatā    r
 
-  Bb, C C/E E                D   E F
+  'n  S S/P P                R   P m
 hare kṛṣṇa    nām gaura korilā pracār
 
 
 (5)
- G                  C/G  C    E F G#
+ P                  S/P  S    P m d
 vāsudeva ghoṣa bole     kori joḍa hāt
 
-    Bb G#  G   F     EF  G F
+    n  d   P   m     Pm  P m
 jei gaura sei kṛṣṇa sei jagannāth
 
 

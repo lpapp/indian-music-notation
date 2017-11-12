@@ -1,84 +1,84 @@
 ========== Part 1 ==========
 
- D   D#     D C  D    C Bb,
+ R   g      R S  R    S 'n
 hare kṛṣṇa hare kṛṣṇa
 
-      C       C# F C#D#C# C
+      S       r  m r g r  S
 kṛṣṇa   kṛṣṇa hare ha    re
 
- D   D#    D C  D   C Bb,
+ R   g     R S  R   S 'n
 hare rāma hare rāma
 
-      C      C# F C#D#C#  C
+      S      r  m r g r   S
 rāma    rāma hare ha     re
 
 ========== Part 1v2 ==========
 
- D   D#     D C     D       C Bb,
+ R   g      R S     R       S 'n
 hare kṛṣṇa       hare kṛṣṇa
 
-      C       C# F C#D#C# C
+      S       r  m r g r  S
 kṛṣṇa   kṛṣṇa hare ha    re
 
- D   D#    D C    D      C Bb,
+ R   g     R S    R      S 'n
 hare rāma      hare rāma
 
-      C      C# F C#D#C#  C
+      S      r  m r g r   S
 rāma    rāma hare ha     re
 
 ========== Part 2 ==========
 
- CD# D#/G G   G# G  F  D#    Bb,/D#
+ Sg  g /P P   d  P  m  g     'n /g
 hare kṛ   ṣṇa hare kṛṣ    ṇa
 
 Bb,    (Bb,/C) C       C# F C#D#C# C
 kṛ ṣṇa           kṛṣṇa hare ha    re
 
- CD# D#/G G G# G  F D#    Bb,/D#
+ Sg  g /P P d  P  m g     'n /g
 hare rā  ma hare rā    ma
 
-Bb,   C   C# F C#D#C# C
+'n    S   r  m r g r  S
 rāma rāma hare ha    re
 
 ========== Part 3 ==========
 
- GG# G#/C'  C' C#'C' BbG# G
+ Pd  d /S'  S' r' S' n d  P
 hare kṛ    ṣṇa ha re kṛṣ ṇa
 
- F    G#   G F D#   C#D#C# C C/G
+ m    d    P m g    r g r  S S/P
 kṛṣṇa kṛṣṇa    hare ha    re
 
- GG# G#/C' C' C#'C' BbG# G
+ Pd  d /S' S' r' S' n d  P
 hare rā    ma ha re rā  ma
 
- F   G#   G F D#   C#D#C#  C C/G
+ m   d    P m g    r g r   S S/P
 rāma rāma     hare ha     re
 
 ========== Part 4 ==========
 
-Bb,   C    C#    C
+'n    S    r     S
 hare kṛṣṇa hare kṛṣṇa
 
-Bb,     C    C#    C
+'n      S    r     S
 kṛ ṣṇa kṛṣṇa hare hare
 
-C/F   F   D#C#  C
+S/m   m   g r   S
 hare rāma hare rāma
 
-Bb,   C   C#    C
+'n    S   r     S
 rāma rāma hare hare
 
 ========== Part 5 ==========
 
-C/F   F    D#C#  C
+S/m   m    g r   S
 hare kṛṣṇa hare kṛṣṇa
 
-Bb,     C    C#    C
+'n      S    r     S
 kṛ ṣṇa kṛṣṇa hare hare
 
-C/F   F   D#C#  C
+S/m   m   g r   S
 hare rāma hare rāma
 
-Bb,   C   C#    C
+'n    S   r     S
 rāma rāma hare hare
 

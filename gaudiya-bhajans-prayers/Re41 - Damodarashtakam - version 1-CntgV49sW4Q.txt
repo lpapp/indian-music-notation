@@ -8,142 +8,142 @@ LYRICS:
 
 (1)
 
- D F D  F G   A   G  F       A G  D/G
+ R m R  m P   D   P  m       D P  R/P
 namamisvaram sac-cid-ananda-rupam
 
- D F   D  F G   A GF D#    G FD# D
+ R m   R  m P   D Pm g     P mg  R
 lasat-kundalam goku le  bhrajamanam
 
-D/A  A      Bb  A G    F   A G  D/G
+R/D  D      n   D P    m   D P  R/P
 yasoda-bhiyolukhalad dhavamanam
 
- D F D  F  G  A  GF D#   G  F D# D
+ R m R  m  P  D  Pm g    P  m g  R
 paramrstam atyanta to  drutya gopya
 
 (2)
 
- F    G    Bb     C' D'       D#'D'
+ m    P    n      S' R'       g' R'
 rudantam muhur netra-yugmam mrjantam
 
-F'      E' D' C'    AC' D#'   D'
+m'      P' R' S'    DS' g'    R'
 karambhoja-yugmena satanka-netram
 
-D'             D#' D'C'    Bb      A
+R'             g'  R'S'    n       D
 muhuh svasa-kampa-trirekhanka-kantha-
 
-  Bb     A      D FD#      G  F D#   D
+  n      D      R mg       P  m g    R
 sthita-graivam damodaram bhakti-baddham
 
 (3)
 
-D F D    F  G A  G  F       A  G
+R m R    m  P D  P  m       D  P
 itidrk sva-lilabhir ananda-kunde
 
-  D   F D   F G  A  GF D#  G FD#  D
+  R   m R   m P  D  Pm g   P mg   R
 sva-ghosam nimajjantam akhyapayantam
 
-D/A      A  Bb A   G  F    A G     D/G
+R/D      D  n  D   P  m    D P     R/P
 tadiyesita-jnesu bhaktair jitatvam
 
- D F    D F G   A   GFD# G  F D#  D
+ R m    R m P   D   Pmg  P  m g   R
 punah prematas tam sa tavrtti vande
 
 (4)
 
- F     G   Bb     C' D'      D#' D'
+ m     P   n      S' R'      g'  R'
 varam deva moksam na moksavadhim va
 
-F'        E'D'  C'     AC'  D#'  D'
+m'        P'R'  S'     DS'  g'   R'
 na canyam vrne ‘ham varesad a  piha
 
-D'            D#'D' C'  Bb    A
+R'            g' R' S'  n     D
 idam te vapur natha gopala-balam
 
-Bb       A G F  D#    G   F  D# D
+n        D P m  g     P   m  g  R
 sada me manasy avirastam kim anyaih
 
 (5)
 
-D F   D  F  G   A G  F        A G    D/G
+R m   R  m  P   D P  m        D P    R/P
 idam te mukhambhojam atyanta-nilair
 
- D F   D  F G     A   GFD#  G     F D#  D
+ R m   R  m P     D   Pmg   P     m g   R
 vrtam kuntalaih snigdha-raktais’ ca gopya
 
-D/A       A    Bb  A  G     F A   G D/G
+R/D       D    n   D  P     m D   P R/P
 muhus cumbitam bimba-raktadharam me
 
- D F D   F G  A  GF D#   G  F D#  D
+ R m R   m P  D  Pm g    P  m g   R
 manasy avirastam a  lam laksa-labhaih
 
 (6)
 
- F    G   Bb  C'D'      D#'D'
+ m    P   n   S'R'      g' R'
 namo deva damodarananta visno
 
- F'      E' D' C'      AC' D#'    C'
+ m'      P' R' S'      DS' g'     S'
 prasida prabho duhkha-jalabdhi-magnam
 
-D'            D#'D' C'    Bb   A
+R'            g' R' S'    n    D
 krpa-drsti-vrstyati-dinam batanu-
 
-Bb     A  G  A D#     G    F  D# D
+n      D  P  D g      P    m  g  R
 grhanesa mam ajnam edhy aksi-drsyah
 
 (7)
 
- D F D  F G   A   G  F         A  G
+ R m R  m P   D   P  m         D  P
 kuveratmajau baddha-murtyaiva yadvat
 
-  D F  D F G    A  GF D# G   F D#  D
+  R m  R m P    D  Pm g  P   m g   R
 tvaya mocitau bhakti-bhajau krtau ca
 
-D/A     A       Bb    A G   F F/A  A     G D/G
+R/D     D       n     D P   m m/D  D     P R/P
 tatha prema-bhaktim svakam me    prayaccha
 
- D  F  D   F G  A    GF D# G FD# D
+ R  m  R   m P  D    Pm g  P mg  R
 na mokse graho me ‘sti  damodareha
 
 (8)
 
- F     G      Bb      C'D'        D#' D'
+ m     P      n       S'R'        g'  R'
 namas te ‘stu damne sphurad-dipti-dhamne
 
- F'    E'D'C'     A C'D#'     D'
+ m'    P'R'S'     D S'g'      R'
 tvadiyodarayatha visvasya dhamne
 
-A/D'        D#'  D'C'    Bb   A
+D/R'        g'   R'S'    n    D
 namo radhikayai tvadiya-priyayai
 
-Bb        A  G FD#    G F D#  D
+n         D  P mg     P m g   R
 namo ‘nanta-lilaya devaya tubhyam
 
 ========== Maha mantra 1 ==========
 
- D FD F  G A G  F    A  G
+ R mR m  P D P  m    D  P
 hare kṛṣṇa     hare kṛṣṇa
 
- D  FD F  G AGF D# GF D# D
+ R  mR m  P DPm g  Pm g  R
 kṛṣṇa kṛṣṇa     hare  hare
 
-D/A   A   Bb A  G F  AG D/G
+R/D   D   n  D  P m  DP R/P
 hare rāma      hare rā  ma
 
- D FD F G AGF D# GF D# D
+ R mR m P DPm g  Pm g  R
 rāma rāma     hare  hare
 
 ========== Maha mantra 2 ==========
 
- F G    Bb C'D'   D#'D'
+ m P    n  S'R'   g' R'
 hare kṛṣṇa   hare kṛṣṇa
 
-F'    E' D'C'A C' D#'D'
+m'    P' R'S'D S' g' R'
 kṛṣṇa kṛṣṇa  hare hare
 
-D'       D#'D' C'Bb    A
+R'       g' R' S'n     D
 hare rāma      hare rāma
 
-Bb    A GF D# GF D# D
+n     D Pm g  Pm g  R
 rāma rāma  hare  hare
 
 WORD FOR WORD TRANSLATION: Namamisvaram Saccidananda Rupam

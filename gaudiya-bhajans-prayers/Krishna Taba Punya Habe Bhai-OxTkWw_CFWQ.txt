@@ -7,161 +7,161 @@ Language: Bengali
 LYRICS:
 
 (refrain)
-D/F F        D#/F D# D#/G G  F G D#/G D# D D# D C   C/F
+R/m m        g /m g  g /P P  m P g /P g  R g  R S   S/m
 kṛ  ṣṇa taba      pu ṇya    habe bhā              i
 
 --- Variation
-  F   D#/F D#     D    Bb,/D Bb, Bb,/C C C/D# D# D      D/F
+  m   g /m g      R    'n /R 'n  'n /S S S/g  g  R      R/m
 kṛṣṇa        taba    puṇya            ha be        bhāi
 ---
 
-D D#   D#/F F D# F        D#/F  D# D#/G G  F G D#/G D# D#/F F D#/F D#  D D/F
+R g    g /m m g  m        g /m  g  g /P P  m P g /P g  g /m m g /m g   R R/m
 e -  puṇya    koribe jabe       rā dhā    rāṇī su      khī    ha      be
 
-   F     D#/F D#    D Bb,/D Bb, C C/D# D#  D
+   m     g /m g     R 'n /R 'n  S S/g  g   R
 dhru va       a ti bo li       to mā         tāi
 
  
 
 (1)
-  D D#   F D#/F D#  F        D#/F D#   D#/G G  F G D#/G D#  F D#/F D#  D D/F
+  R g    m g /m g   m        g /m g    g /P P  m P g /P g   m g /m g   R R/m
 śrī-siddhānta      saraswatī         śacī  -  suta pri     ya      a  ti
 
- F     D#/F D# D Bb,/D Bb, C C/D#   D# D     D/A
+ m     g /m g  R 'n /R 'n  S S/g    g  R     R/D
 kṛṣṇa   -   sebā       ya jā ra   tula   nāi
  
- A        G       F   D# D#/G  G       F     D# D    D/F
+ D        P       m   g  g /P  P       m     g  R    R/m
 sei se mo   hānta - guru      jagater madhye u    ru
 
-  F    D#     D Bb,/D Bb,   C  C/D# D# D
+  m    g      R 'n /R 'n    S  S/g  g  R
 kṛṣṇa-bhakti de       ya  ṭhāi           ṭhāi
 
 --- Repeat the first line of the refrain (both variations). ---
 
 
 (2)
- D D# D#/F F  D#/F D# D#/F F       D#/F D#D#/G  G      F       D# D   D/F F
+ R g  g /m m  g /m g  g /m m       g /m g g /P  P      m       g  R   R/m m
 tā ra i      cchā     ba     lavān      pāś    cātyete   ṭhān ṭhā   n
 
- F D#/F D#       D Bb,/D Bb,  C C/D# D# D     D/A A
+ m g /m g        R 'n /R 'n   S S/g  g  R     R/D D
 ho y       jāte gau      rā ńge r         nām
 
-           G   FD#/F F D#/G   G          F   D#/F D# D D/F
+           P   mg /m m g /P   P          m   g /m g  R R/m
 pṛthivīte nagarādi          ā   samudra nada      nadī
 
- F  D#/F F  D Bb,/D Bb,  C  C/D# D# D
+ m  g /m m  R 'n /R 'n   S  S/g  g  R
 sakale   i bo le        kṛṣ      ṇa   rāma
 
 -- Repeat the first line of the refrain (both variations). ---
  
 
 (3)
- DD#D#/F F             D#/F D#   D#/G       G   F    D#/F D# D   D/F F
+ Rg g /m m             g /m g    g /P       P   m    g /m g  R   R/m m
 tāhale      ānanda hoy         ta     be   hoy digvi      ja   y
 
-      D#/F  D#   D Bb,/D Bb, C C/D# D# D     D/A A
+      g /m  g    R 'n /R 'n  S S/g  g  R     R/D D
 caita      nyer kṛ pā        a ti        śay
 
-           G      F    D#/F D# D#/G      G    F  D#/F D# D/D# D D/F
+           P      m    g /m g  g /P      P    m  g /m g  R/g  R R/m
 māyā duṣṭa   jata   duḥk    hī      jagate sabāi su      k   hī
 
- F     D#/F D#     D   Bb,/D Bb,/C C    C/D# D# D
+ m     g /m g      R   'n /R 'n /S S    S/g  g  R
 vaiṣṇa         ver   icchā           pū     rṇa   hoy
 
 --- Repeat the first line of the refrain (both variations). ---
  
 
 (4)
- D D#  D#/F F D#/F D# D#/F F         D#/F D# D#/G G        F   D#/F D# D D/F
+ R g   g /m m g /m g  g /m m         g /m g  g /P P        m   g /m g  R R/m
 se kār ja     je      ko      ribāre      ā  jñā     jadi dilo      more
 
- F    D#/F D#   D  Bb,/D Bb, Bb,/C  C C/D# D# D      D/A A
+ m    g /m g    R  'n /R 'n  'n /S  S S/g  g  R      R/D D
 jogya      nahi   ati              dī na        hīna
 
-          G    F D#/F D# D#/G      G    F   D#/F D# D D/F
+          P    m g /m g  g /P      P    m   g /m g  R R/m
 tāi se tomāra kṛ pā           māgitechi anu      rūpā
 
-F   D#/F D#    D Bb,/D Bb, Bb,/C   C C/D# D# D
+m   g /m g     R 'n /R 'n  'n /S   S S/g  g  R
 āji      tumi sa bār             pra vī     ṇa
 
 --- Repeat the first line of the refrain (both variations). ---
  
 
 (5)
- DD#   D#/F F D#/F D# D#/F F          D#/F D# D#/G         G    F    D#/F D# D D/F   
+ Rg    g /m m g /m g  g /m m          g /m g  g /P         P    m    g /m g  R R/m   
 tomāra se     śa             kti pele              guru-sebāya bastu      mile
 
- F   D#/F D#      D Bb,/D Bb, Bb,/C  C C/D# D# D  D/A
+ m   g /m g       R 'n /R 'n  'n /S  S S/g  g  R  R/D
 jība      na sārtha k               ja di     hoy
 
- A        G    F   D#/F D# D#/G  G     F       D#/F D# D D/F F
+ D        P    m   g /m g  g /P  P     m       g /m g  R R/m m
 sei se se   vā   pai    le      tāhale   sukhī      hale
 
- F   D#/F D#    D    Bb,/D Bb, Bb,/C  C    C/D#    D# D
+ m   g /m g     R    'n /R 'n  'n /S  S    S/g     g  R
 taba      sańga   bhāg         ya       te      mi   loy
 
 --- Repeat the first line of the refrain (both variations). ---
  
 
 (6)
-Bb,    C    D            C      DD# D#/F  FD# D C
+'n     S    R            S      Rg  g /m  mg  R S
 e  vaḿ   janaḿ nipatitaḿ   prabhavā      hikūpe
 
-     Bb,    Bb,/C C D           D# D C  Bb,/C Bb,           Bb,/F F
+     'n     'n /S S R           g  R S  'n /S 'n            'n /m m
 kāmā     bhikā     mam anu yaḥ prapatan           prasańgāt
 
-                      D#/F D#    D#/F F  G   F D#/F D#  D  C
+                      g /m g     g /m m  P   m g /m g   R  S
 kṛtvātmasāt surarṣiṇā         bhaga     van gṛ hī      taḥ
 
-        Bb,/C Bb, Bb,/C C  D        D#    D   C Bb,/C Bb,           Bb,/D D
+        'n /S 'n  'n /S S  R        g     R   S 'n /S 'n            'n /R R
 so 'haḿ ka        thaḿ    nu visṛje    tava bhṛ           tya-sevām
 
 --- Repeat the first line of the refrain (both variations). ---
  
 
 (7) 
- DD# D#/F F D#/F D# D#/F F          D#/F D# D#/G G    F  D#/F D#  D D/F
+ Rg  g /m m g /m g  g /m m          g /m g  g /P P    m  g /m g   R R/m
 tumi mo     r       ci     ra sāthī         bhu liyā māyār    lāthi
 
-  F   D#/F D#    D    Bb,/D Bb, Bb,/C C C/D# D#  D   D/A
+  m   g /m g     R    'n /R 'n  'n /S S S/g  g   R   R/D
 khāi       yāchi   janma   -    ja      n    māntare
 
-A         G      F      D#/F D# D#/G     G   F   D#/F D# D D/F
+D         P      m      g /m g  g /P     P   m   g /m g  R R/m
 āji punaḥ   e su   joga         ja   di hoy jogā      yoga
 
- F   D#/F D#   D    Bb,/D Bb, Bb,/C  C C/D# D#  D
+ m   g /m g    R    'n /R 'n  'n /S  S S/g  g   R
 tabe      pāri   tuńhe              mi li      bāre
 
 --- Repeat the first line of the refrain (both variations). ---
  
 
 (8)
- DD# D#/F F D#/F D# D#/F F         D#/F D# D#/G  G      F    D#/F D#D D/F F
+ Rg  g /m m g /m g  g /m m         g /m g  g /P  P      m    g /m g R R/m m
 tomā ra     mi      la     ne bhāi      ā       bār se sukha      pāi
 
-   D#/F D#     D    Bb,/D Bb, Bb,/C  C C/D# D#   D  D/A A
+   g /m g      R    'n /R 'n  'n /S  S S/g  g    R  R/D D
 go      cārane   ghuri              di n       bhor
 
-            G    F D#/F D# D#/G  G        F      D#/F D# D D/F
+            P    m g /m g  g /P  P        m      g /m g  R R/m
 kata bane chuṭāchu ṭi           bane khāi   luṭā      luṭi
 
- F  D#/F D#   D Bb,/D Bb, Bb,/C  C C/D# D#  D
+ m  g /m g    R 'n /R 'n  'n /S  S S/g  g   R
 sei      din ka be              ha be      mor
 
 --- Repeat the first line of the refrain (both variations). ---
  
 
 (9)
-DD# D#/F F D#/F D# D#/F F          D#/F D# D#/G        G   F D#/F  D# D D/F
+Rg  g /m m g /m g  g /m m          g /m g  g /P        P   m g /m  g  R R/m
 āji se     su      vi     dhā hala      to      māra smaraṇa      bhela
 
-     D#/F D#     D Bb,/D Bb, Bb,/C  C C/D# D#    D     D/A
+     g /m g      R 'n /R 'n  'n /S  S S/g  g     R     R/D
 boro      ā śā  ḍā ki              lā         m    tāi
 
-       A    G     F D#/F D#    D#/G  G       F     D#/F D# D    D/F
+       D    P     m g /m g     g /P  P       m     g /m g  R    R/m
 āmi tomāra nitya-dā         sa      tāi kori   eto      ā    śa
 
- F   D#/F D#   D   Bb,/D Bb, Bb,/C  C C/D# D#  D
+ m   g /m g    R   'n /R 'n  'n /S  S S/g  g   R
 tumi      binā   a nya             ga ti         nāi
 
 --- Repeat the first line of the refrain (both variations). ---

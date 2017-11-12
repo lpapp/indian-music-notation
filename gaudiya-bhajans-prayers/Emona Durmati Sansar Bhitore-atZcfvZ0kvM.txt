@@ -8,16 +8,16 @@ LYRICS:
 
 (1)
 
- D/G
+ R/P
 (prabhu he!)
 
-G A G F     E    C/E  C C/E    E        F E  D
+P D P m     P    S/P  S S/P    P        m P  R
 emona   durmati,     sa ḿ   sā   ra bhitore,
 
      E D C       D     (D/G if repeat) E
 poḍiyā ā   chinu   āmi
 
-      F E D       E    E/G G    A A/C'C'  B A
+      m P R       P    P/P P    D D/S'S'  N D
 tava nija - jana,   ko    no mahā     ja ne,
 
  G  AG F  E F D/F  D E F  E D (E if repeat) B,/D
@@ -28,21 +28,21 @@ pāṭhāiyā dile     tu     mi
 
 (2)
 
-B,    C C/E  E          E/G G      E/G  E  F E  D
+'N    S S/P  P          P/P P      P/P  P  m P  R
 doyā ko     ri’   more, pa    tita     dekhiyā,
 
-   E   D C      D      D/G
+   P   R S      R      R/P
 kohilo ā   māre   giyā
 
 --- previous variation
- G A  G  F  E       C/E  C C/E E     F E  D
+ P D  P  m  P       S/P  S S/P P     m P  R
 doyā ko ri’   more,     pa ti ta dekhiyā,
 
-   E   D C      D      E
+   P   R S      R      P
 kohilo ā   māre   giyā
 ---
 
-     F E D       E    E/G      G A A/C' C'   B  A
+     m P R       P    P/P      P D D/S' S'   N  D
 ohe dīna - jana,   śu     no bhālo ka      thā,
 
 G  A G F  E  F D/F  D E F  E D (E if repeat) D/G
@@ -53,13 +53,13 @@ ullasita ha’be     hi     yā
 
 (3)
 
- G A G F    E       C/E   C C/E E       F  E  D
+ P D P m    P       S/P   S S/P P       m  P  R
 tomāre   tā   rite,     śrī-kṛ  ṣṇa-caitanya,
 
       E D    C   D    (D/G if repeat) E
 navadwī   pe   avatār
 
- E    F E D       E   E/G G A A/C' C' B     A
+ P    m P R       P   P/P P D D/S' S' N     D
 tomā heno   koto,   dīna hīna ja        ne,
 
  G A G F   E F  D/F D E F E D (E if repeat) B,/D
@@ -70,21 +70,21 @@ korilena bhava-pā         r
 
 (4)
 
-B,   C C/E  E        E/G G    E/G E  F E D
+'N   S S/P  P        P/P P    P/P P  m P R
 vedera pra tijñā,  rākhi   bā    ra tare,
 
-       E  D C     D       D/G
+       P  R S     R       R/P
 rukma-varna   vipra-suta
 
 --- previous variation
- G A G F     E        C/E  C C/E  E     F E  D
+ P D P m     P        S/P  S S/P  P     m P  R
 vedera   pra   tijñā,     rā khi bā ra tare,
 
-       E  D C       D      E
+       P  R S       R      P
 rukma-varna   vipra - suta
 ---
 
-      F  E D       E   E/G G     A A/C' C'  B  A
+      m  P R       P   P/P P     D D/S' S'  N  D
 mahāprabhu   nāme,   nadī    yā mā tā      ya,
 
  G  A   GF E F D/F   D E F E D (E if repeat) D/G
@@ -95,13 +95,13 @@ sańge bhāi ava     dhū    ta
 
 (5)
 
- G  A  GF    E       C/E  C C/E     E    FE  D
+ P  D  Pm    P       S/P  S S/P     P    mP  R
 nanda-su  ta   jini,     cai    tanya gosāi,
 
       E D C       D    (D/G G if repeat)   E
 nija-nāma   kori’   dā                   n
 
-     F  E D      E   E/G G    A A/C' C'  B A
+     m  P R      P   P/P P    D D/S' S'  N D
 tārilo ja   gat,   tu   mi-o jā i    yā,
 
  G A  G F  E F D/F   D E F E D   (E if repeat) B,/D
@@ -112,21 +112,21 @@ loho nija-pari     trā         ṇ
 
 (6)
 
-B,       C C/E    E       E/G  G E/G E       F  E  D
+'N       S S/P    P       P/P  P P/P P       m  P  R
 se kathā   śu  ni   yā,  āsi  yā       chi, nātha!
 
-     E  D C      D      D/G
+     P  R S      R      R/P
 tomāra ca   raṇa - tale
 
 --- previous variation
- G  A  G F    E       C/E C C/E  E       F  E  D
+ P  D  P m    P       S/P S S/P  P       m  P  R
 se kathā   śu   niyā,     ā si  yā chi, nātha!
 
-     E  D C      D      E
+     P  R S      R      P
 tomāra ca   raṇa - tale
 ---
 
-  E   F E D       E   E/G G       A A/C'   C' B A
+  P   m P R       P   P/P P       D D/S'   S' N D
 bhakativi   noda,   kā    ńdiyā  kā ń   di   yā,
 
 G A G  F E F D/F  D E F E D (E if repeat) D/G

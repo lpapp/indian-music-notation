@@ -1,29 +1,29 @@
 ========== Part 1 ==========
 
- D  D/A     Bb AG       F   G A F/A
+ R  R/D     n  DP       m   P D m/D
 Haribol Haribol   Hari Haribol
 
- F E D C  D E F G   F    DD# D
+ m P R S  R P m P   m    Rg  R
 Haribol  Haribol   Hari Haribol
 
 ========== Part 2 ==========
 
- D      E F E G  F    DD# D
+ R      P m P P  m    Rg  R
 Hari Haribol    Hari Haribol
 
 ========== Part 3 ==========
 
- F   G  Bb  C'  D'     D#'D'   
+ m   P  n   S'  R'     g' R'   
 Haribol Haribol Hari Hari bol
 
-C'   B   A   G       Bb    A
+S'   N   D   P       n     D
 Haribol Haribol Hari Hari bol
 
 ========== Part 4 ==========
 
- A   G   AC'Bb   A    G F  G A F/A
+ D   P   DS'n    D    P m  P D m/D
 Haribol Haribol Hari Hari bol
 
- F E D C  D E F G F    DD#  D
+ m P R S  R P m P m    Rg   R
 Haribol  Haribol Hari Hari bol
 

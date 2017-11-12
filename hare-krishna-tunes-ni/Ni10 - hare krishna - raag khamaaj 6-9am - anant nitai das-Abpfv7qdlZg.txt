@@ -1,109 +1,109 @@
 ========== Part 1 ==========
 
-B,     C# ED#C#   D#C# ED# C#D# C#B, B,/F#
+'N     r  Pg r    g r  Pg  r g  r' N 'N/'M
 hare kṛṣ ṇa     ha    re   kṛṣ  ṇa
 
-   F#   G#   AG# F# ED# C# D#C# ED# C#D# C#B,
+   'M   d    Dd  'M Pg  r  g r  Pg  r g  r' N
 kṛṣṇa kṛ   ṣṇa   ha     re          ha   re
 
-        C# ED#C#   D#C# ED# C#D# C#B, B,/F#
+        r  Pg r    g r  Pg  r g  r' N 'N/'M
 hare rā   ma     ha    re   rā   ma
 
-  F#   G# AG#  F# ED# C# D#C# ED# C#D# C#B,
+  'M   d  Dd   'M Pg  r  g r  Pg  r g  r' N
 rāma rā  ma    ha     re          ha   re
 
 ========== Part 2 ==========
 
-F#     G# A G#B AG# F# BABA G#F#   A   G# F#
+'M     d  D d N Dd  'M NDND d' M   D   d  'M
 hare kṛṣ ṇa                       hare kṛṣṇa
 
-         G#  AG# F#ED# C# D#C#ED# C#D# C#B,
+         d   Dd  'MPg  r  g r Pg  r g  r' N
 kṛṣṇa kṛ   ṣṇa   ha    re         ha   re
 
-F#      G#  A G#B AG# F# BABA G#F#  A   G#F#
+'M      d   D d N Dd  'M NDND d' M  D   d' M
 hare rā    ma                      hare rāma
 
-        G#  AG#  FED# C# D#C#ED# C#D# C#B,
+        d   Dd   mPg  r  g r Pg  r g  r' N
 rāma rā    ma   ha    re         ha   re
 
 ========== Part 3 ==========
 
-C#    E    D#   B, C#
+r     P    g    'N r
 hare kṛṣṇa hare kṛṣṇa
 
-       E    D#   B,C#
+       P    g    'Nr
 kṛṣṇa kṛṣṇa hare hare
 
-      E   D#   B,C#
+      P   g    'Nr
 hare rāma hare rāma
 
-      E   D#   B,C#
+      P   g    'Nr
 rāma rāma hare hare
 
 ========== Part 4 ==========
 
-F#    A    G#    E F#
+'M    D    d     P 'M
 hare kṛṣṇa hare kṛṣṇa
 
-       A    G#    EF#
+       D    d     P'M
 kṛṣṇa kṛṣṇa hare hare
 
-      A   G#    EF#
+      D   d     P'M
 hare rāma hare rāma
 
-      A   G#    EF#
+      D   d     P'M
 rāma rāma hare hare
 
 ========== Part 5 ==========
 
-F#          A
+'M          D
 hare kṛṣṇa hare kṛṣṇa
 
-G#           E   F#
+d            P   'M
 kṛṣṇa kṛṣṇa hare hare
 
-           A
+           D
 hare rāma hare rāma
 
-G#         E   F#
+d          P   'M
 rāma rāma hare hare
 
 ========== Part 6 ==========
 
-F#/B
+'M/N
 Jaya Krishna Balarama
 
-BbG# Bb
+n d  n
 Jaya Krishna Balarama
 
-G#F# G#
+d' M d
 Jaya Krishna Balarama
 
- BBb G#      F#
+ Nn  d       'M
 Jaya Krishna Balaram
 
 
-F#/B
+'M/N
 Jaya Prabhupada
 
-BbG# Bb
+n d  n
 Jaya Prabhupada 
 
-G#F# G#
+d' M d
 Jaya Prabhupada
 
- BBb G#     F#
+ Nn  d      'M
 Jaya Prabhupada
 
 
-F#/B
+'M/N
 Jaya Gaura Nitai
 
-BbG# Bb
+n d  n
 Jaya Gaura Nitai
 
-G#F# G#
+d' M d
 Jaya Gaura Nitai
 
- BBb G# F#
+ Nn  d  'M
 Jaya Gaura Nitai

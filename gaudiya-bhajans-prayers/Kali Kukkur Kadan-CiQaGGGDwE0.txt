@@ -8,77 +8,77 @@ LYRICS:
 
 (1)
 
- E   D     C   Bb,CDCBb, A,   A,/F F    G F E    C/E C DEF
+ P   R     S   'n SRS'n  'R   'R/m m    P m P    S/P S RPm
 kali - kukkura ka        dana        yadi     cā       o   (he)
 
-             E F G              F E D  D/A
+             P m P              m P R  R/D
 kali-yuga pāvana,   kali-bhaya-nāśana,
 
-     A   G     F    E C DEF
+     D   P     m    P S RPm
 śrī śacī - nandana gā   o   (he)
 
  
 
 (2)
 
- F           G   A          G A               A/C'
+ m           P   D          P D               D/S'
 gadādhara-mādana,   nitā’yera    prāṇa-dhana,
 
-C'             Bb A G     A Bb A G F
+S'             n  D P     D n  D P m
 advaitera prapūjita    go   rā
 
-F/Bb   Bb        A G        A G FE D      D/A
+m/n    n         D P        D P mP R      R/D
 nimāñi viśvambhara,   śrīnivāsa-ī  śvara,
 
-  A        G    F    E C/E C D E  F
+  D        P    m    P S/P S R P  m
 bhakata-samūha-cita-co           rā
 
  
 
 (3)
 
- F      D    C    Bb, C D C Bb, A,    A,/F
+ m      R    S    'n  S R S 'n  'R    'R/m
 nadīyā-śaśadhara, mā yāpura-ī  śvara,
 
- F          G FE    C/E C D E F
+ m          P mP    S/P S R P m
 nāma-pravartana  su             ra
 
- F           E F G             F E D  D/A
+ m           P m P             m P R  R/D
 gṛhijana-śikṣaka,   nyāsikula-nāyaka,
 
-      A  G     F    E C/E C D E F
+      D  P     m    P S/P S R P m
 mādhava rādhābhāva-pū          ra
 
  
 
 (4)
 
- F              G    A         G  A      A/C'
+ m              P    D         P  D      D/S'
 sārvabhauma-śodhana,   ga japati-tāraṇa,
 
-       C'   Bb A G    A Bb A G F
+       S'   n  D P    D n  D P m
 rāmānanda-poṣaṇa   vī   ra
 
-F/Bb             A G       A G  FE D    D/A
+m/n              D P       D P  mP R    R/D
 rūpānanda-vardhana,   sanātana-pā lana,
 
-           G F   E     C/E CDE F
+           P m   P     S/P SRP m
 hari-dāsa-modana   dhī        ra
 
  
 
 (5)
 
-  E          D C    Bb,  C D C Bb,    A,       A,/F F
+  P          R S    'n   S R S 'n     'R       'R/m m
 vraja-rasa-bhāvana, duṣ ṭamata  -  śā    tana,
 
-             G F  E C/E C D E F
+             P m  P S/P S R P m
 kapaṭī-vighātana kā          ma
 
-                 E F  G               F E D  D/A
+                 P m  P               m P R  R/D
 śuddha bhakta-pālana,    śuṣka-jñāna-tāḍana,
 
-    A         GF       E C/E D E F
+    D         Pm       P S/P R P m
 chala-bhakti-dū  ṣaṇa rā        ma
 
 

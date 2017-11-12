@@ -1,30 +1,30 @@
 ========== Part 1 ==========
 
- D          CD ED C A,
+ R          SR PR S 'R
 hare kṛṣṇa ha re kṛṣṇa
 
-A,/F F  GF ED CD E  D
+'R/m m  Pm PR SR P  R
 kṛṣ ṇa kṛṣṇa ha re hare
 
- D         CD  ED  CA,
+ R         SR  PR  S'R
 hare rāma ha  re  rāma
 
-A,/F F  GF  ED  CD  E  D
+'R/m m  Pm  PR  SR  P  R
 rā  ma rā  ma  ha  re hare
 
 ============================
          Double Time
 ========== Part 2 ==========
 
- D
+ R
 hare kṛṣṇa hare kṛṣṇa
 
- C  D  E  D  C   A,
+ S  R  P  R  S   'R
 kṛṣṇa kṛṣṇa hare hare
 
- F         G F  E D
+ m         P m  P R
 hare rāma hare rāma
 
- C D  E    D
+ S R  P    R
 rāma rāma hare hare
 

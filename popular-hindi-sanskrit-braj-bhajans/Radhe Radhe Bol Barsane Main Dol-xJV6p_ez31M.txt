@@ -1,24 +1,24 @@
 Lyrics:
 
- D  E        E/F# F#     E/F# E D       E        E/F#  F#    E/F# E D
+ R  P        P/'M 'M     P/'M P R       P        P/'M  'M    P/'M P R
 Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
 
  E      D D/F# F# E/F# E D Bb,/D Bb,      Bb,/E     E      E/F# F#    E/F#  E    D      (A,/D)
 Barsane   me      i     Do            l,        ke mukh se      Radhe      Radhe   Bol
 
- D  E        E/F# F#     E/F# E D       E        E/F#  F#    E/F# E D
+ R  P        P/'M 'M     P/'M P R       P        P/'M  'M    P/'M P R
 Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
 
  E      D D/F# F# E/F# E D Bb,/D Bb,      Bb,/E     E      E/F# F#    E/F#  E    D     (A,/D)
 Barsane   me      i     Do            l,        ke mukh se      Radhe      Radhe   Bol
 
-D/F# F# E/F#  E    D        E     E/F# F#      E/F#  E       D       D/G
+R/'M 'M P/'M  P    R        P     P/'M 'M      P/'M  P       R       R/P
 Ra      dhe  Radhe   Radhe Radhe, Ra       dhe      Jai Shri   Radhe
 
- G              A     G  F#    E/F# E        D  E E/F# F#     D/F#
+ P              D     P  'M    P/'M P        R  P P/'M 'M     R/'M
 Radhe Radhe Radhe Radhe, Radhe        Jai Shri Ra         dhe
 
- D  E        E/F# F#     E/F# E D       E        E/F#  F#    E/F# E D
+ R  P        P/'M 'M     P/'M P R       P        P/'M  'M    P/'M P R
 Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
 
  E      D D/F# F# E/F# E D B,/D B,     B,/E     E      E/F# F#    E/F#  E    D      (A,/D)
@@ -27,31 +27,31 @@ Barsane   me      i     Do          l,      ke mukh se      Radhe      Radhe   B
 
 (INTERLUDE)
 
-   A       B    A F#/A F#    E/F# E   D E     E/F# F# F#/A
+   D       N    D 'M/D 'M    P/'M P   R P     P/'M 'M 'M/D
 Shri Barsa   no           Dhaa     m Ra   ngi      lo
 
-   A       B    A F#/A F#    E/F# E   D  E E/F# F# F#/A
+   D       N    D 'M/D 'M    P/'M P   R  P P/'M 'M 'M/D
 Shri Barsa   no           Dhaa     m Rangi      lo
 
-  A       B         A F#/A  F# E/F# E  D  E E/F# F# E/F# E
+  D       N         D 'M/D  'M P/'M P  R  P P/'M 'M P/'M P
 Dhaam Ran   gilo Braj      dha      m Rangi      lo
 
-        D D/F# F# E/F# E  D B,/D B,    B,/E     E      E/F# F#    E/F#  E    D     E 
+        R R/'M 'M P/'M P  R 'N/R 'N    'N/P     P      P/'M 'M    P/'M  P    R     P 
 Radhe hai A       n      mo         l,      ke mukh se      Radhe      Radhe   Bol
 
-        D D/F# F# E/F# E  D B,/D B,    B,/E     E      E/F# F#    E/F#  E    D     E 
+        R R/'M 'M P/'M P  R 'N/R 'N    'N/P     P      P/'M 'M    P/'M  P    R     P 
 Radhe hai A       n      mo         l,      ke mukh se      Radhe      Radhe   Bol
 
- D  E        E/F# F#     E/F# E D       E        E/F#  F#    E/F# E D
+ R  P        P/'M 'M     P/'M P R       P        P/'M  'M    P/'M P R
 Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
 
- E      D D/F# F# E/F# E D B,/D B,     B,/E     E      E/F# F#    E/F#  E    D     D/F#
+ P      R R/'M 'M P/'M P R 'N/R 'N     'N/P     P      P/'M 'M    P/'M  P    R     R/'M
 Barsane   me      i     Do          l,      ke mukh se      Radhe      Radhe   Bol
 
-D/F# F# E/F#  E    D        E     E/F# F#      E/F#  E       D       D/G
+R/'M 'M P/'M  P    R        P     P/'M 'M      P/'M  P       R       R/P
 Ra      dhe  Radhe   Radhe Radhe, Ra       dhe      Jai Shri   Radhe
 
- G              A     G  F#    E/F# E        D  E E/F# F#     D/F#
+ P              D     P  'M    P/'M P        R  P P/'M 'M     R/'M
 Radhe Radhe Radhe Radhe, Radhe        Jai Shri Ra         dhe
 
 

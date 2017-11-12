@@ -7,31 +7,31 @@ Language: Bengali
 LYRICS:
 
 (1)
-D#      F  G              Bb C' Bb G     F
+g       m  P              n  S' n  P     m
 vṛndāvana ramya-sthāna dibya-cińtāmaṇi-dhāma
 
-D# F G  FD#  C   Bb,  FD#F D#
+g  m P  mg   S   'n   mg m g
 ratana man  dira manoha    ra
 
-D#     F G           Bb C' Bb  G    F
+g      m P           n  S' n   P    m
 abṛta kālindī-nīre rāja-haḿsa keli kare
 
-D# F  G  F D# CBb,     FD#F D#
+g  m  P  m g  S'n      mg m g
 tāhe śobhe kanaka-ka  ma    l
 
  
 
 (2) 
- G  Bb  C'   D#'      C'D#'F'D#'C' Bb
+ P  n   S'   g'       S'g' m'g' S' n
 tār madhye hema-pīṭha aṣṭa-dale beṣṭita
 
- GBb C'Bb G    F D# C Bb, FD#F D# D#/G
+ Pn  S'n  P    m g  S 'n  mg m g  g /P
 aṣṭa-da  le  pradhāna nā yi    ka
 
- G       F  G           Bb C'Bb   G   F
+ P       m  P           n  S'n    P   m
 tār madhye ratnāsane ba’si āchen dui-jane
 
- D# F  G  F D#  CBb, Bb,/F   FD#F D# D#/G
+ g  m  P  m g   S'n  'n /m   mg m g  g /P
 śyāma-sańge sundarī  rā    dhi    kā
 
 Repeat first two lines of the first stanza
@@ -39,16 +39,16 @@ Repeat first two lines of the first stanza
 
 (3)
 
-G   Bb C'   D#'     C'D#'F' D#'C'    Bb
+P   n  S'   g'      S'g' m' g' S'    n
 o-rūpa-lābaṇya-rāśi a mi yā pariche khasi
 
- G Bb C'Bb G FD#  C Bb, Bb,/F# FD#F D# D#/G
+ P n  S'n  P mg   S 'n  'n /'M mg m g  g /P
 hāsya-pa  rihāsa-sambhā        ṣa   ṇe
 
-D#      F  G          Bb C'Bb  G     F
+g       m  P          n  S'n   P     m
 narottama-dāsa koy nitya-līlā sukha-moy
 
-D# FG    FD#C Bb,   FD#F D#
+g  mP    mg S 'n    mg m g
 sadāi sphurūk mora ma    ne
 
 Repeat first two lines of the first stanza
