@@ -1,0 +1,44 @@
+# Mandra Saptak
+
+C,  -> 'S
+C#, -> 'r
+D,  -> 'R
+D#, -> 'g
+E,  -> 'G
+F,  -> 'm
+F#, -> 'M
+G,  -> 'P
+G#, -> 'd
+A,  -> 'D
+Bb, -> 'n
+B,  -> 'N
+
+# Madhya Saptak
+
+C  ->  S
+C# ->  r
+D  ->  R
+D# ->  g
+E  ->  G
+F  ->  m
+F# ->  M
+G  ->  P
+G# ->  d
+A  ->  D
+Bb ->  n
+B  ->  N
+
+# Tar saptak
+
+C'  ->  S'
+C#' ->  r'
+D'  ->  R'
+D#' ->  g'
+E'  ->  G'
+F'  ->  m'
+F#' ->  M'
+G'  ->  P'
+G#' ->  d'
+A'  ->  D'
+Bb' ->  n'
+B'  ->  N'
