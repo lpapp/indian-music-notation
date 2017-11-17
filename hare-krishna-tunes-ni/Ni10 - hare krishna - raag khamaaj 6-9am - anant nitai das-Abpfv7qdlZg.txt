@@ -1,57 +1,57 @@
 ========== Part 1 ==========
 
-'N     r  Pg r    g r  Pg  r g  r' N 'N/'M
+'N     r  Gg r    g r  Gg  r g  r' N 'N/'M
 hare kṛṣ ṇa     ha    re   kṛṣ  ṇa
 
-   'M   d    Dd  'M Pg  r  g r  Pg  r g  r' N
+   'M   d    Dd  'M Gg  r  g r  Gg  r g  r' N
 kṛṣṇa kṛ   ṣṇa   ha     re          ha   re
 
-        r  Pg r    g r  Pg  r g  r' N 'N/'M
+        r  Gg r    g r  Gg  r g  r' N 'N/'M
 hare rā   ma     ha    re   rā   ma
 
-  'M   d  Dd   'M Pg  r  g r  Pg  r g  r' N
+  'M   d  Dd   'M Gg  r  g r  Gg  r g  r' N
 rāma rā  ma    ha     re          ha   re
 
 ========== Part 2 ==========
 
-'M     d  D d N Dd  'M NDND d' M   D   d  'M
+'M     d  D d N Dd  'M NDND d 'M   D   d  'M
 hare kṛṣ ṇa                       hare kṛṣṇa
 
-         d   Dd  'MPg  r  g r Pg  r g  r' N
+         d   Dd  'MGg  r  g r Gg  r g  r' N
 kṛṣṇa kṛ   ṣṇa   ha    re         ha   re
 
-'M      d   D d N Dd  'M NDND d' M  D   d' M
+'M      d   D d N Dd  'M NDND d 'M  D   d 'M
 hare rā    ma                      hare rāma
 
-        d   Dd   mPg  r  g r Pg  r g  r' N
+        d   Dd   mGg  r  g r Gg  r g  r' N
 rāma rā    ma   ha    re         ha   re
 
 ========== Part 3 ==========
 
-r     P    g    'N r
+r     G    g    'N r
 hare kṛṣṇa hare kṛṣṇa
 
-       P    g    'Nr
+       G    g    'Nr
 kṛṣṇa kṛṣṇa hare hare
 
-      P   g    'Nr
+      G   g    'Nr
 hare rāma hare rāma
 
-      P   g    'Nr
+      G   g    'Nr
 rāma rāma hare hare
 
 ========== Part 4 ==========
 
-'M    D    d     P 'M
+'M    D    d     G 'M
 hare kṛṣṇa hare kṛṣṇa
 
-       D    d     P'M
+       D    d     G'M
 kṛṣṇa kṛṣṇa hare hare
 
-      D   d     P'M
+      D   d     G'M
 hare rāma hare rāma
 
-      D   d     P'M
+      D   d     G'M
 rāma rāma hare hare
 
 ========== Part 5 ==========
@@ -59,13 +59,13 @@ rāma rāma hare hare
 'M          D
 hare kṛṣṇa hare kṛṣṇa
 
-d            P   'M
+d            G   'M
 kṛṣṇa kṛṣṇa hare hare
 
            D
 hare rāma hare rāma
 
-d          P   'M
+d          G   'M
 rāma rāma hare hare
 
 ========== Part 6 ==========
@@ -76,7 +76,7 @@ Jaya Krishna Balarama
 n d  n
 Jaya Krishna Balarama
 
-d' M d
+d 'M d
 Jaya Krishna Balarama
 
  Nn  d       'M
@@ -89,7 +89,7 @@ Jaya Prabhupada
 n d  n
 Jaya Prabhupada 
 
-d' M d
+d 'M d
 Jaya Prabhupada
 
  Nn  d      'M
@@ -102,7 +102,7 @@ Jaya Gaura Nitai
 n d  n
 Jaya Gaura Nitai
 
-d' M d
+d 'M d
 Jaya Gaura Nitai
 
  Nn  d  'M

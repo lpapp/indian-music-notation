@@ -1,34 +1,34 @@
 
-  S   R P  m S/m       m  P  S/P S    R      S     'P/S
+  S   R G  m S/m       m  G  S/G S    R      S     'P/S
  Ram Sita Ra     m, Si   ta Ra     m Jai Jai   Ram
 
-    S    R P  m S/m       m  P  S/P     S    R      S        S/P
+    S    R G  m S/m       m  G  S/G     S    R      S        S/P
  Ra   m Sita Ra     m, Si   ta       Ra   m Jai Jai   Ram
 
-    P    m P R    'R/R    R/P         P    m  P     R    'R/R R   R/P
+    P    m G R    'D/R    R/P         P    m  G     R    'D/R R   R/P
  Ra   m Sita   Ra      m,     Sita Ra   m Jai   Jai   Ra      m
 
-     P  m P R      R/P         P    m  P     R    'R/R    R  S
+     P  m G R      R/P         P    m  G     R    'D/R    R  S
  Ram   Sita   Ram,     Sita Ra   m Jai   Jai   Ra      m
 
 
 
-  S 'P/S   S  R P  m S/m     m P S/P    S    R      S     'P/S
+  S 'P/S   S  R G  m S/m     m G S/G    S    R      S     'P/S
  Ra      m   Sita Ra     m, Sita     Ra   m Jai Jai   Ram
 
-    S    R P  m S/m     m P  S/P     S    R      S        S/P
+    S    R G  m S/m     m G  S/G     S    R      S        S/P
  Ra   m Sita Ra     m, Sita       Ra   m Jai Jai   Ram
 
-     P  m P R      R/P         P    m  P     R     S
+     P  m G R      R/P         P    m  G     R     S
  Ram   Sita   Ram,     Sita Ra   m Jai   Jai   Ram
 
-    'P/S   S  R P  m   S/m  m P S/P    S    R      S     'P/S S S/P
+    'P/S   S  R G  m   S/m  m G S/G    S    R      S     'P/S S S/P
  Ra      m   Sita Ram,     Sita     Ra   m Jai Jai   Ram
 
 
 
-     P  m P R      R/P         P    m  P     R      'R/R R S
+     P  m G R      R/P         P    m  G     R      'D/R R S
  Ram   Sita   Ram,     Sita Ra   m Jai   Jai   Ram
 
-    'P/S   S  R P  m S/m      m P S/P    S    R      S     'P/S S S/P
+    'P/S   S  R G  m S/m      m G S/G    S    R      S     'P/S S S/P
  Ra      m   Sita Ra      m, Sita     Ra   m Jai Jai   Ram

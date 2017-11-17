@@ -10,13 +10,13 @@ LYRICS:
   C D   CBb,     C     D D/G G  (F)
 ḍhule ḍhu    le gorā chā       ń d a
 
- m P  R    S     S/m m P R S S/P
+ m G  R    S     S/m m G R S S/P
 hari guṇa    gāi
 
 PD  m/D m P   D   D/S' S'      P/S'
 āsi yā      vṛndā         vane
 
- P D m/D m   P       DPmPRS
+ P D m/D m   P       DPmGRS
 nace ga    u   ra rā        y
 
  
@@ -31,7 +31,7 @@ preme koy    hari   ka   thā
 S'       n /S' n      D    P    
 nikuñjer pā       khi   gu   li
 
-   D m/D m    P   DPmPRS
+   D m/D m    P   DPmGRS
 hari nā    m sonā        i
 
 Repeat the first two lines of (1) twice
@@ -47,7 +47,7 @@ gaura bo   le ha      ri    hari
 S'          n /S' n     D    P
 mukhe mukhe śu       ka   śā   rī
 
-   D m/D m P    DPmPRS
+   D m/D m P    DPmGRS
 hari nā    m gā        i
 
 Repeat the first two lines of (1) twice
@@ -63,7 +63,7 @@ harīṇa ā      si che   deī
 S'      n /S' n     D     P
 mayur mayu       rī   pre   me
 
-   D m/D m   P   DPmPRS
+   D m/D m   P   DPmGRS
 nāci yā    khelā        y
 
 Repeat the first two lines of (1) twice
@@ -79,7 +79,7 @@ hari bolo       badan bho  ri
 S'      n /S' n     D    P
 harinām ge       ye   ge   ye
 
-   D m/D m P       DPmPRS
+   D m/D m P       DPmGRS
 rase    ga   le jā        i
 
 Repeat the first two lines of (1) twice
@@ -95,7 +95,7 @@ nāce hari      hari bo  le
 S'       n /S'n     DP
 jamunā uṭho      le e  se
 
-   D m/D m   P DPmPRS
+   D m/D m   P DPmGRS
 cara ṇa    dho        yāi
 
 Repeat the first two lines of (1) twice

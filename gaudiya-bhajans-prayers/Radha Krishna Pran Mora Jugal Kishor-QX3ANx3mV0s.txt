@@ -8,7 +8,7 @@ LYRICS:
 
 (1)
 
- R     P 'M  P   S   'N'R'P   'RD/r  r     Rr' NR
+ R     G 'M  G   S   'N'D'P   'DD/r  r     Rr' NR
 rādhā-kṛ ṣ  ṇa prāṇa mora   juga     la-kiśo      ra
 
  R  'M  P D   D/S' S'  N D D/S' S'    N D  PD P 'M
@@ -20,7 +20,7 @@ jīvane maraṇe         gati      ā ro nāhi mo ra
  R   'M P      P/S' S' N    D D/S' S'       ND     PD P 'M
 kālindīra kūle           keli    -    kadambe  ra va na
 
-'M   P 'M P   'M R   S   'N'P 'R 'R/r  r     R
+'M   G 'M P   'M R   S   'N'P 'D 'D/r  r     R
 ratana-bedīra u para   bosābo du'         jana
 
  
@@ -29,7 +29,7 @@ ratana-bedīra u para   bosābo du'         jana
  R    'M  P D    D/S' S' N   D D/S'       S'    N D  PD  P 'M
 śyāma-gaurī-ańge          dibo     (cūwā) candanera gandha
 
-'M   P  'M P   'M    R S   'N 'P 'R 'R/r  r    R
+'M   G  'M P   'M    R S   'N 'P 'D 'D/r  r    R
 cāmara ḍhulābo    kabe   heri mukha   -   candra
 
  
@@ -38,7 +38,7 @@ cāmara ḍhulābo    kabe   heri mukha   -   candra
  R   'M  P D    D/S' S'    N D D/S' S'    N D P    D  P 'M
 gāthiyā mālatī          r mālā      dibo dohāra ga   le
 
-'M   P 'M P   'M    R S     'N'P 'R 'R/r   r  R
+'M   G 'M P   'M    R S     'N'P 'D 'D/r   r  R
 adhare tuliyā    dibo    karpūra-tā       mbūle
 
  
@@ -47,7 +47,7 @@ adhare tuliyā    dibo    karpūra-tā       mbūle
  R  'M  P D    D/S' S' N D D/S' S'    N  D  P  D P 'M
 lalitā viśākhā    -    ādi      jata sakhī-bṛ  nda
 
-'M   P 'M P   'M    R    S    'N'P'R 'R/r  r   R
+'M   G 'M P   'M    R    S    'N'P'D 'D/r  r   R
 ājñāya koribo    se   bā    caraṇāra       vinda
 
  
@@ -56,7 +56,7 @@ lalitā viśākhā    -    ādi      jata sakhī-bṛ  nda
   R    'M  P  D  D/S' S'  N  D  D/S' S'    N D P   D P 'M
 śrī-kṛṣṇa-caitanya  -   prabhur      dāser anu   dā sa
 
-'M   P 'M P   'M  R   S    'N 'P'R 'R/r   r  R
+'M   G 'M P   'M  R   S    'N 'P'D 'D/r   r  R
 sevā abhilāṣa    kore    narottama     -  dāsa
 
 

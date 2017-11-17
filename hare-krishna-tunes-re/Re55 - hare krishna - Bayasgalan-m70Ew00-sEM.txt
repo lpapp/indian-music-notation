@@ -14,16 +14,16 @@ rāma   rā      ma      hare  ha        re
 
 ========== Part 2 ==========
 
-'M    R 'M R/'M  RP     R  'N   'N/P
+'M    R 'M R/'M  RG     R  'N   'N/G
 hare kṛṣṇa      ha  re kṛṣ   ṇa
 
-  P       RP 'M       P R P 'M
+  G       RG 'M       G R G 'M
 kṛṣṇa kṛṣṇa     hare hare
 
-      R'M R/'M RP     R'N    'N/P
+      R'M R/'M RG     R'N    'N/G
 hare rāma     ha  re rā   ma
 
-   P       RP 'M       P R P 'M
+   G       RG 'M       G R G 'M
 rā   ma rāma     hare hare
 
 ========== Part 3 ==========
@@ -37,7 +37,7 @@ kṛ  ṣṇa kṛ ṣṇa  hare hare
  N     r' N        r' N N/R'
 hare rāma   hare rāma
 
-R'   r' NR'M    P  N D
+R'   r' ND'M    P  N D
 rāma rāma    hare hare
 
 Then back to Part 1, and probably finish by A'/D

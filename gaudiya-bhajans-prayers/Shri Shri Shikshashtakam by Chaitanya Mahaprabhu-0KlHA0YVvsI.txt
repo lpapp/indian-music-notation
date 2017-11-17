@@ -11,10 +11,10 @@ LYRICS:
 'M   'M/D   D       d /D d  D                    d  'M m   'M      d       r /d  r
 ceto  -  da   rpaṇa  -   mā   rjanaḿ bhava-mahā  -  dā   vāg ni-nirvāpaṇaḿ
 
-r    r /m   m      'M        m    'M      d     d /D D d      'M  m    m/d  d' M
+r    r /m   m      'M        m    'M      d     d /D D d      'M  m    m/d  d 'M
 śreyaḥ  -  kairava-candrikā  -  vitaraṇaḿ    vidyā    -    vadhū  -  jī     vanam
 
-'M   'M/D D      d        D              d' M    m/'M m      'M d       r /d  r
+'M   'M/D D      d        D              d 'M    m/'M m      'M d       r /d  r
 ā nandā   mbudhi  -  vardhanaḿ prati-padaḿ    pūrṇā     mṛtā   svādanaḿ
 
 r  r /m m      'M             m    'M  d   D d  'M  m m/d  d  'M
@@ -30,7 +30,7 @@ sarvā     tma-snapanaḿ pa raḿ vijayate   śrī-kṛṣṇa  - sań    kī  
 'M      'M/D D            d   D
 nāmnām akā     ri bahudhā    nija-sarva-śaktis
 
-      d' M m     'M         d           r /d
+      d 'M m     'M         d           r /d
 tatrārpitā   niyamitaḥ smaraṇe na kālaḥ
 
 r  r /m m          'M        m 'M     d
@@ -52,7 +52,7 @@ taror a  pi   sahiṣṇunā
 r  r /m m          'M
 a  mā     ninā mānadena
 
-d    d /D D   d' Mm m/d  d  'M
+d    d /D D   d 'Mm m/d  d  'M
 kīrtanī     yaḥ     sa   dā    hariḥ
 
  
@@ -78,13 +78,13 @@ bhavatā        d bhakti      r a    hai  tukī          tvayi
 'M    'M/D   D       d /D d   D
 a  yi      nanda-tanuja      kińkaraḿ
 
-      d' M m/'M m 'M  'M/d  d                r /d  r
+      d 'M m/'M m 'M  'M/d  d                r /d  r
 patitaḿ mā      ḿ viṣame        bhavāmbudhau
 
 r  r /m    m           'M
 kṛ pa   yā   tava pāda-pańkaja-
 
-   m 'M  d  d /D D d' M   m  m/d  d   'M
+   m 'M  d  d /D D d 'M   m  m/d  d   'M
 sthi ta-dhū lī  -    sadṛśaḿ vi   cin    taya
 
  
@@ -94,7 +94,7 @@ sthi ta-dhū lī  -    sadṛśaḿ vi   cin    taya
 'M   'M/D  D              d    D
 naya      naḿ galad-aśru  -  dhārayā
 
-      d' M     m   'M  d         r /d  r
+      d 'M     m   'M  d         r /d  r
 vadanaḿ    gadgada-ruddhayā girā
 
 r  r /m    m        'M    m 'M  d  D d
@@ -116,7 +116,7 @@ tava nāma-graha    ṇe      bha   vi       ṣ  yati)
 'M 'M/D D         d  D
 yu gā     yitaḿ nimeṣeṇa
 
-   d' M m  'M  d       r /d  r
+   d 'M m  'M  d       r /d  r
 cakṣuṣā   prāvṛṣāyitam
 
 r /m   m        'M  m 'M
@@ -132,7 +132,7 @@ govinda  -  vira he         ṇa me
 'M 'M/D D         d /D d        d /D D
 ā  ś   liṣya vā pāda -    ra tā        ḿ pinaṣṭu mām
 
-    d' M m      'M   'M/d  d                r /d  r
+    d 'M m      'M   'M/d  d                r /d  r
 adarśanā   n marma-hatā         ḿ karotu vā
 
    r /m m               'M m 'M      'M/d

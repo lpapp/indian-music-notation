@@ -6,44 +6,44 @@ Language: Sanskrit
 
 LYRICS:
 
- R P   m  P D P mP R
+ R G   m  P D P mG R
 namas te narasimhaya
 
-R/D    P mP m  PmP R
+R/D    P mG m  PmG R
 prahladahlada-dayine
 
- R    P m PDP   m   PR  R/D
+ R    G m PDP   m   GR  R/D
 hiranyakasipor vakshah  sila-
 
- Pm P  m  PmP R
+ Pm G  m  PmG R
 tanka-nakhalaye
 
 =========================================
 
-R     P    m   P D P   m P  R
+R     G    m   P D P   m G  R
 ito nrisimhah parato nrisimho
 
-R/D     P  m P  m P   m P  R
+R/D     P  m G  m P   m G  R
 yato yato yami tato nrisimhah
 
- R      P    m   P D P   m P  R
+ R      G    m   P D P   m G  R
 bahir nrisimho hridaye nrisimho
 
-R/D       P m   P m P    m P  R
+R/D       P m   G m P    m G  R
 nrisimham adim saranam prapadye
 
 =========================================
 
- R    P m         P D n  D P  m  P  m   P m   P  R P R S
+ R    G m         P D n  D P  m  P  m   P m   G  R G R S
 tava kara-kamala-vare        nakham adbhuta-sringam
 
- P      m P      m P    m    P  R
+ G      m P      m G    m    G  R
 dalita-hiranyakasipu-tanu-bhringam
 
- R   P   mP R        P mP R         P m    P D n  D P m P
+ R   G   mG R        G mG R         G m    P D n  D P m P
 kesava dhrita-narahari-rupa jaya jagadisa hare
 
- P        m P  R P R S   P      m P m  P R
+ P        m G  R G R S   G      m P m  G R
 jaya jagadisa hare      jaya jagadisa hare
 
 ========== End of the prayer ==========

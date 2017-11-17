@@ -6,32 +6,32 @@ hare kṛṣṇa ha   re kṛṣṇa
  P    d  n  d n  d   P
 kṛṣṇa kṛṣṇa ha   re hare
 
- md P  m    m Pm P
+ md P  m    m Pm G
 hare  rāma hare rāma
 
- R PR  m PR  S
+ R GR  m GR  S
 rāma  rāma  hare hare
 
 ========== Part 2 =========
 
- S   'n      S    R  P
+ S   'n      S    R  G
 hare kṛ ṣṇa hare kṛṣṇa
 
- m     P  R R/m m PR S
+ m     G  R R/m m GR S
 kṛṣṇa kṛṣṇa    hare hare
 
- S   'n    S    R P
+ S   'n    S    R G
 hare rāma hare rāma
 
- m    PR   R/m  m PR S
+ m    GR   R/m  m GR S
 rāma rā  ma    hare hare
 
 ========== Part 3 =========
 
-S'   R' P' R'P' R' S'     P/S'
+S'   R' G' R'G' R' S'     P/S'
 hare kṛṣṇa ha   re kṛṣṇa
 
-S'    R' P' R'P'R' S'
+S'    R' G' R'G'R' S'
 kṛṣṇa kṛṣṇa ha  re hare
 
 S'R'S' n    S'n  d  S'n d   P P/S'

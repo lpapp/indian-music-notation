@@ -1,26 +1,26 @@
 ========== Part 1 ==========
 
- S RP    P        D  P  DP P
+ S RG    P        D  P  DP G
 hare  kṛ   ṣṇa hare kṛṣṇa
 
- R  P  RS  'R 'R/R  R    PRS 
+ R  G  RS  'D 'D/R  R    GRS 
 kṛṣṇa kṛ  ṣṇa      hare ha  re
 
- S RP    P       D  P DP P
+ S RG    P       D  P DP G
 hare  rā   ma hare rāma
 
- R P  RS  'R'R/R   R    PRS
+ R G  RS  'D'D/R   R    GRS
 rāma rā   ma      hare ha   re
 
 ========== Part 2 ==========
 
- P m  P  mP    m  P  D
+ G m  P  mG    m  P  D
 hare kṛṣṇa  hare kṛṣṇa
 
- P  D n   Dm  D P    mP
+ P  D n   Dm  D P    mG
 kṛṣṇa kṛṣṇa  hare hare
 
- P m  P mP  P m  P D
+ G m  P mG  G m  P D
 hare rāma  hare rāma
 
  G A Bb AF A G    FE (No FE comedown needed when going to the third part)

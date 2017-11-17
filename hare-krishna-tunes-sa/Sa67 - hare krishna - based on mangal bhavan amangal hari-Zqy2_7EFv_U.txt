@@ -2,13 +2,13 @@
          Double-time
 ========== Part 1 ==========
 
- S       R R/m  m    P  R
+ S       R R/m  m    G  R
 hare kṛṣṇa     hare kṛṣṇa
 
  S     R     S   'n 'P P/S'
 kṛṣṇa kṛṣṇa hare ha re
 
- S      R     m    P R
+ S      R     m    G R
 hare rā   ma hare rāma
 
  S    R    S
@@ -34,16 +34,16 @@ rāma rāma hare hare
          Single-time
 ========== Part 3 ==========
 
- S R R/m m PR  S R S   'n    'P 'P/S
+ S R R/m m GR  S R S   'n    'P 'P/S
 hare kṛ  ṣṇa  hare   kṛṣ  ṇa
 
- S  R R/m m  PR  S R S        'P/S
+ S  R R/m m  GR  S R S        'P/S
 kṛṣṇa kṛ  ṣ ṇa  hare    hare
 
- S R R/m m PR  S R S   'n 'P 'P/S
+ S R R/m m GR  S R S   'n 'P 'P/S
 hare rā   ma  hare   rāma
 
- S R R/m m PR S R S      'P/S
+ S R R/m m GR S R S      'P/S
 rāma rā   ma hare   hare
 
 => C/G

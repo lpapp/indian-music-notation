@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
- R P  m  P S/P  S   R 'N/R 'N   'R 'R/R
+ R G  m  G S/G  S   R 'N/R 'N   'D 'D/R
 hare kṛṣṇa     hare          kṛṣṇa
 
-   R      P  P/D D   Pm       P P/P P
+   R      G  G/D D   Pm       P G/P G
 kṛ   ṣṇa kṛṣ ṇa     ha  re hare 
 
- R P  mP    S/P  S   R 'N/R 'N  'R 'R/R
+ R G  mG    S/G  S   R 'N/R 'N  'D 'D/R
 hare rā  ma     hare          rāma
 
- R    P P/D D  Pm       P P/P P
+ R    G G/D D  Pm       P G/P G
 rāma rā ma    ha  re hare
 
 => E/B
@@ -19,29 +19,29 @@ rāma rā ma    ha  re hare
  N       D N S'   R' N D     R/D
 hare kṛṣṇa   hare   kṛ   ṣṇa
 
- R     P  P/D D  Pm       P P/P P P/N
+ R     G  G/D D  Pm       P G/P G G/N
 kṛṣṇa kṛṣ ṇa    ha  re hare
 
  N      D N S'   R' N D    R/D
 hare rāma   hare   rā   ma
 
- R    P P/D D  Pm       P P/P P P/N
+ R    G G/D D  Pm       P G/P G G/N
 rāma rā ma    ha  re hare
 
 ============================
          Double-time
 ========== Part 3 ==========
 
- R    P     m    P
+ R    G     m    G
 hare kṛṣṇa hare kṛṣṇa
 
- S        R 'N/R 'N   'R   'R/R
+ S        R 'N/R 'N   'D   'D/R
 kṛṣṇa kṛṣṇa      hare hare
 
- R      P       D
+ R      G       D
 hare rāma hare rāma
 
- P m    P   P/P  P
+ P m    P   G/P  G
 rāma rāma hare  hare
 
 => E/B
@@ -54,9 +54,9 @@ hare kṛṣṇa hare kṛṣṇa
 S'       R'  N    D   R/D
 kṛṣṇa kṛṣṇa hare hare
 
- R         P   P/D D
+ R         G   G/D D
 hare rāma hare rā    ma
 
- P m    P   P/P  P   P/N
+ P m    P   G/P  G   G/N
 rāma rāma hare  hare
 

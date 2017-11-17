@@ -7,110 +7,110 @@ Language: Bengali
 LYRICS:
 
 (1)
- P P/D     D  'M        P  'M P     P/D  D  'M  P r  'N
+ G G/D     D  'M        P  'M G     G/D  D  'M  G r  'N
 mā     na sa,     deho,    geho, jo ki     chu mo r
 
-r      'N r' M  P    r  'N         'd  'N'R    'R/P
+r      'N r' M  G    r  'N         'd  'N'D    'D/G
 arpilū    tuwā pade,       nanda-kiśo       r!
 
  
 
 (2)
- P P/D D      d  D d  'M   d  D N   d Dd   'MP
+ G G/D D      d  D d  'M   d  D N   d Dd   'MG
 sampa    de vipade,      jīvane - mara     ṇe
 
 --- High pitch variation
 
- P r'            N r' N  D    d' M   d  D N   d Dd  'MP 
+ G r'            N r' N  D    d 'M   d  D N   d Dd  'MG 
 sa     mpa    devi      pade,      jīvane - mara    ṇe
 ---
 
- P P/D D      'M       P 'M P 'N/P 'Nr  RP  'N/P 'N    'R
+ G G/D D      'M       P 'M G 'N/G 'Nr  RG  'N/G 'N    'D
 dā     y mama    gelā,   tuwā      o-pada bara           ṇe
 
  
 
 (3)
- P P/D D         d  D d  'M       d  D  N   d  D d  'MP
+ G G/D D         d  D d  'M       d  D  N   d  D d  'MG
 mā ro    bi rākhobi    -    jo icchā   tohā      rā
 
 --- High pitch variation
 
- P r'            N  r' N       D d' M        d  D  N   d Dd  'MP 
+ G r'            N  r' N       D d 'M        d  D  N   d Dd  'MG 
 mā     ro    bi rā       khobi    -    jo icchā   tohā      rā
 ---
 
- P P/D  D  'M   P  'M P 'N/P 'N   r  R  P 'N/P 'N 'R
+ G G/D  D  'M   P  'M G 'N/G 'N   r  R  G 'N/G 'N 'D
 ni     tya-dāsa   prati      tuwā    adhi kā      rā
 
  
 
 (4)
- P P/D     D   d D d  'M     d   D N     d     D d  'M P
+ G G/D     D   d D d  'M     d   D N     d     D d  'M G
 ja     nmā obi moe        icchā ja   di    to       r
 
 --- High pitch variation
- P r'    N   r'   ND d' M      d   D  N   d     Dd  'MP 
+ G r'    N   r'   ND d 'M      d   D  N   d     Dd  'MG 
 ja n  mā obi     moe        icchā ja   di    to     r
 ---
 
-  P P/D   D 'M       P 'M P 'N/P 'N r   RP 'N/P 'N'R
+  G G/D   D 'M       P 'M G 'N/G 'N r   RG 'N/G 'N'D
 bha     kta  -  gṛhe   jani      janma hau mo        r
 
  
 
 (5)
 
- P   P/D   D   d  D d  'M      d   DN    d Dd  'MP
+ G   G/D   D   d  D d  'M      d   DN    d Dd  'MG
 kīṭa-ja  nma hau            jathā tu  wā dā    s
 
 --- High pitch variation
- Pr'        Nr' ND d' M    d   DN    d Dd  'MP 
+ Gr'        Nr' ND d 'M    d   DN    d Dd  'MG 
 kīṭa-janma ha   u       jathā tu  wā dā    s
 ---
 
- P P/D  R'M       P  'M  P 'N/P 'Nr  R  P   'N/P   'N'R
+ G G/D  D'M       P  'M  G 'N/G 'Nr  R  G   'N/G   'N'D
 ba     hi   r-mukha brahma      jan me nāhi      ā      ś
 
  
 
 (6)
-  P      P/D D    d  D d  'M    d  D N    d      Dd  'MP
+  G      G/D D    d  D d  'M    d  D N    d      Dd  'MG
 bhukti - mukti-spṛhā          vihīna   je    bha    kta
 
 --- High pitch variation
-  P r'         N   r' N D d' M   d  DN    d      Dd  'MP 
+  G r'         N   r' N D d 'M   d  DN    d      Dd  'MG 
 bhukti - mukti - spṛ   hā      vihīna je     bha    kta
 ---
 
- P P/D D    'M    P 'M P 'N/P 'N r  RP    'N/P    'R
+ G G/D D    'M    P 'M G 'N/G 'N r  RG    'N/G    'D
 la       bhai  te   tāko      sańga a  nu      ra    kta
 
  
 
 (7)
- P  P/D D     d  D d  'M   d  D N   d Dd  'MP
+ G  G/D D     d  D d  'M   d  D N   d Dd  'MG
 janaka,   jananī,        dayita,  tana    y
 
 --- High pitch variation
- Pr'       Nr' N D d' M    d  DN   d Dd  'MP 
+ Gr'       Nr' N D d 'M    d  DN   d Dd  'MG 
 janaka, jana    nī,      dayita, tana    y
 ---
 
-  P P/D      D    'M     P 'M   'N/P  'Nr   RP     'N/P 'N'R
+  G G/D      D    'M     P 'M   'N/G  'Nr   RG     'N/G 'N'D
 pra     bhu,   gu    ru,   pati   -   tuhū sa  rva-mo       y
 
  
 
 (8)
-  P  P/D D  d Dd' M   d    DN    d Dd  'MP
+  G  G/D D  d Dd 'M   d    DN    d Dd  'MG
 bhakati vinoda      kohe, śu  no kā    na!
 
 --- High pitch variation
-  Pr'     Nr' N D d' M   d   DN    d Dd  'MP 
+  Gr'     Nr' N D d 'M   d   DN    d Dd  'MG 
 bhakativino    da      kohe, śuno kāna!
 ---
-  P P/D   D 'M       P 'M P 'N/P 'Nr  RP   'N/P 'N'R
+  G G/D   D 'M       P 'M G 'N/G 'Nr  RG   'N/G 'N'D
 rā      dhā - nātha!   tuhū      hāmāra  parā       ṇa
 
 

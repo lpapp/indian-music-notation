@@ -8,142 +8,142 @@ LYRICS
 
 (1)
 
- R         P m       P  P m
+ R         G m       G  P m
 saḿsāra-dāvānala-līḍha-loka-
 
-  P   m  P R r    R P  m P  R
+  G   m  G R r    R G  m G  R
 trāṇāya kāruṇya-ghanāghanatvam
 
-R/D          n  D  P D  P mP m
+R/D          n  D  P D  P mG m
 prāptasya kalyāṇa-guṇārṇavasya
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
 ==== Repeat ====
 
- R            Pm       P P  m
+ R            Gm       G P  m
 vande guroḥ śrī-caraṇāravindam
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
-R/D          n D P   D P mP m
+R/D          n D P   D P mG m
 vande guroḥ śrī-caraṇāravindam
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
 ====
 
 (2)
 
- R           Pm         P  P m
+ R           Gm         G  P m
 mahāprabhoḥ kīrtana-nṛtya-gīta-
 
- P    m  P R   r  R P  m P R
+ G    m  G R   r  R G  m G R
 vāditra-mādyan-manaso rasena
 
-R/D         n   DP   D  P  mP m
+R/D         n   DP   D  P  mG m
 romāñca -kampāśru-tarańga-bhājo
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (3)
 
-  R         Pm         P  P m
+  R         Gm         G  P m
 śrī-vigrahārādhana-nitya-nānā-
  
- P    m  P   R r  R  P  m P R
+ G    m  G   R r  R  G  m G R
 śṛńgāra-tan-mandira-mārjanādau
 
-R/D          n     DP   D  P mP  m
+R/D          n     DP   D  P mG  m
 yuktasya bhaktāḿś ca niyuñjato 'pi
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (4)
 
- R            Pm           P P m
+ R            Gm           G P m
 catur-vidha-śrī-bhagavat-prasāda-
 
-  P      m  P  R  r  R   P  m  P   R
+  G      m  G  R  r  R   G  m  G   R
 svādv-anna-tṛptān hari-bhakta-sańghān
 
-R/D         n DP      D   P mP m
+R/D         n DP      D   P mG m
 kṛtvaiva tṛptiḿ bhajataḥ sadaiva
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (5)
 
-  R          Pm        P P m
+  R          Gm        G P m
 śrī-rādhikā-mādhavayor apāra-
 
- P     m  P R r  R  P m  P  R
+ G     m  G R r  R  G m  G  R
 mādhurya-līlā guṇa-rūpa-nāmnām
 
-R/D        n DP       D P mP m
+R/D        n DP       D P mG m
 prati-kṣaṇāsvā  dana-lolupasya
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (6)
 
- R         Pm        P  P    m
+ R         Gm        G  P    m
 nikuñja-yūno rati-keli-siddhyai
 
- P    m  P   R r   R P  m P R
+ G    m  G   R r   R G  m G R
 yā yālibhir yuktir apekṣaṇīyā
 
-R/D        n DP      D  P  mP m
+R/D        n DP      D  P  mG m
 tatrāti-dākṣyād ati-vallabhasya
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (7)
 
- R            P m       P  P   m
+ R            G m       G  P   m
 sākṣād-dharitvena samasta-śāstrair
 
-P      m  P   R r  R P m  P   R
+G      m  G   R r  R G m  G   R
 uktas tathā bhāvyata eva sadbhiḥ
 
-R/D           n DP      D P mP  m
+R/D           n DP      D P mG  m
 kintu prabhor yaḥ priya eva tasya
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (8)
 
- R          Pm            P P m
+ R          Gm            G P m
 yasya prasādād bhagavat-prasādo
 
- P     m P R  r   R P   m P   R 
+ G     m G R  r   R G   m G   R 
 yasyāprasādān na gatiḥ kuto 'pi
 
-R/D             n  DP    D    P  mP   m
+R/D             n  DP    D    P  mG   m
 dhyāyan stuvaḿs tasya yaśas tri-sandhyaḿ
 
- P     m P    R r  R P m P  R
+ G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
  

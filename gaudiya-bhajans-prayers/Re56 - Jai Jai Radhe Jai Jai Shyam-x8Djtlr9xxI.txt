@@ -7,39 +7,39 @@ Language: Braja Bhasa
 LYRICS
 
 (1)
- R           P  R S S/P    P       m S/m
+ R           G  R S S/G    G       m S/m
 jaya jaya rā  dhe,      jaya jaya śyā    ma
 
-   m       R/m R R/m m  P  D  Pm    P R      R/D
+   m       R/m R R/m m  P  D  Pm    G R      R/D
 jaya jaya śri          vṛn   dā  vana   dhām
 
-   D       P m P       DPmPR
+   D       P m P       DPmGR
 pāvana rādhe     tero nā     ma
 
-   R/m  m     PD     P    m    PR
+   R/m  m     PD     P    m    GR
 pā     vana śri  vṛn   dā   vana  dhāma
 
 
 --- Tune for last two lines can be played for the lyrics of the first two lines
-      D       P m P           DPmPR
+      D       P m P           DPmGR
 jaya jaya rādhe,    jaya jaya śyā   ma
 
-   R/m  m     PD     P    m   PR        'R/R
+   R/m  m     PD     P    m   GR        'D/R
 ja ya  jaya śri  vṛn   dā  vana   dhām
 ---
  
 
 (2)
- R            P   R  S S/P     P       m  S/m
+ R            G   R  S S/G     G       m  S/m
 jaya jaya śyā    mā,        jaya jaya śyā     ma
 
-   m       R/m R R/m m  P  D  Pm    P R      R/D
+   m       R/m R R/m m  P  D  Pm    G R      R/D
 jaya jaya śri          vṛn   dā  vana   dhām
 
-   D       P m P        DPmPR
+   D       P m P        DPmGR
 pāvana rādhe      tero nā     ma
 
-   R/m  m     PD     P    m    PR
+   R/m  m     PD     P    m    GR
 pā     vana śri  vṛn   dā   vana  dhāma
 
 

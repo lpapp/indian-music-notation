@@ -7,11 +7,11 @@ Language: Bengali
 LYRICS:
 
 (1)
-'M          P    D P   P/N  N    D P  D   P'M    PR R/'M
+'M          P    D P   P/N  N    D P  D   P'M    GR R/'M
 gaurāńga tumi more         dayā nā  chāḍi     ha
 
 --- variation with different modulation in the voice
-'M          P    D P P/N N D P 'M  'M/N  N      D P P/N  ND   P'M    P'MPR R/'M
+'M          P    D P P/N N D P 'M  'M/N  N      D P P/N  ND   P'M    G'MGR R/'M
 gaurāńga tumi more                      dayā nā         chā  ḍi   ha
 ---
 
@@ -23,7 +23,7 @@ gaurāńga tumi more dayā   nā     chā ḍi   ha
 'M/r'          r'   R'r' N D      P    P/N N   D   P'M
 gau    rāńga tumi more       dayā   nā       chā  ḍi   ha
 
-'M D P  R'M    P/'M P     R    P'MP'M
+'M D P  D'M    G/'M G     R    G'MP'M
 ā pana kariyā rā      ńgā   caraṇe    rākhiha
 
  
@@ -32,7 +32,7 @@ gau    rāńga tumi more       dayā   nā       chā  ḍi   ha
 'M P D  P D        P   P/N N  D N P/N P D  P 'M
 tomāra caraṇa lāgi   saba    teyā gi      nu
 
-'M D P  R'M    P/'M P    R    P'MP  'M
+'M D P  D'M    G/'M G    R    G'MP  'M
 śītala caraṇa pā      yā   śaraṇa   lainu
 
 Repeat the last two lines of (1)
@@ -41,7 +41,7 @@ Repeat the last two lines of (1)
 'M P D P  D           P   P/N N  D N P/N P D  P'M
 e kule    o kule mui    dilu    tilāñja      li
 
-'M  D P  R'M    P/'M P     R    P'M P 'M
+'M  D P  D'M    G/'M G     R    G'M P 'M
 rākhiho caraṇe mo       re    āpanāra bali’
 
  

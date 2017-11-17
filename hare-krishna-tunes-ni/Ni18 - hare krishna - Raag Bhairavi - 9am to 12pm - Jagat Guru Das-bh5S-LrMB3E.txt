@@ -3,13 +3,13 @@
 n             N  n
 hare kṛṣṇa hare kṛṣṇa
 
-    N r' g'  n /g'  n  N n d' M
+    N r' g'  n /g'  n  N n d 'M
 kṛṣṇa kṛṣṇa         hare hare
 
       mg     m g r
 hare rāma hare rāma
 
-g  m 'Md  'M  g   Pg  g /n
+g  m 'Md  'M  g   Gg  g /n
 rāma rāma hare   hare
 
 ========== Part 2 ==========
@@ -17,41 +17,41 @@ rāma rāma hare   hare
 'M    m g     m  g r
 hare kṛṣṇa hare kṛṣṇa
 
- g  m  'Md  'M  g   Pg
+ g  m  'Md  'M  g   Gg
 kṛṣṇa kṛṣṇa hare   hare
 
 'M    Rg     m g r
 hare rāma hare rāma
 
-g  m 'Md  'M  g   Pg
+g  m 'Md  'M  g   Gg
 rāma rāma hare   hare
 
 ========== Part 3 ==========
 
-'Md   N r'  g'   r'  P' g'
+'Md   N r'  g'   r'  G' g'
 hare kṛṣṇa  hare     kṛṣṇa
 
-r'    g'    r'  Pg' r'  n  N
+r'    g'    r'  Gg' r'  n  N
 kṛṣṇa kṛṣṇa ha re       hare
 
-'Md   Nr'  g'   r' P'g'
+'Md   Nr'  g'   r' G'g'
 hare rāma  hare    rāma
 
-r'   g'   r'  Pg' r'  n  N
+r'   g'   r'  Gg' r'  n  N
 rāma rāma ha re       hare
 
 ========== Part 4 ==========
 
-n           Nr'   n d' M   
+n           Nr'   n d 'M   
 hare kṛṣṇa hare  kṛṣṇa
 
- g' M  N n  d    g   Pg
+ g' M  N n  d    g   Gg
 kṛṣṇa kṛṣṇa hare    hare
 
-'M/n  n         Nr' N n d' M
+'M/n  n         Nr' N n d 'M
 ha    re rāma  hare   rāma
 
-g' M  Nn  d     g   Pg
+g' M  Nn  d     g   Gg
 rāma rāma ha re    hare
 
 ========== Part 5 (Part 2 one scale/saptak up ==========
@@ -59,12 +59,12 @@ rāma rāma ha re    hare
 'M'  m' g'   m' g'  r'
 hare kṛṣṇa hare kṛṣ ṇa
 
-g' m' 'M'd'  'M'   g' P'g'
+g' m' 'M'd'  'M'   g' G'g'
 kṛṣṇa kṛṣṇa  ha re    hare
 
 'M'  m'g'    m' g' r'
 hare rāma  hare rā ma
 
-g' m' 'M'd'  'M'  g'  P'g'
+g' m' 'M'd'  'M'  g'  G'g'
 rā ma rā ma  hare     hare
 

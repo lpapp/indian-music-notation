@@ -3,13 +3,13 @@
  S    R     S'N    S   R R/P
 hare kṛṣṇa hare kṛ   ṣṇa
 
- P       D   P  m P  R S
+ P       D   P  m G  R S
 kṛṣṇa kṛ   ṣṇa hare hare
 
  S    R    S'N    S  R R/P
 hare rāma hare rā   ma
 
- P      D P  m P  R S
+ P      D P  m G  R S
 rāma rā  ma hare hare
 
 It is fine to go from D/G to G on the first or second syllable
@@ -19,13 +19,13 @@ It is fine to go from D/G to G on the first or second syllable
  P    D     P m    D   P
 hare kṛṣṇa hare kṛ   ṣṇa
 
-       D     P mP  RS  RP S/P
+       D     P mG  RS  RG S/G
 kṛṣṇa kṛṣṇa hare  ha  re
 
  S    R    S'N    S  R R/P
 hare rāma hare rā   ma
 
- P      D  P  m P  R S S/P
+ P      D  P  m G  R S S/P
 rāma rā   ma hare hare
 
 ========== Part 3 ==========
@@ -36,10 +36,10 @@ hare kṛṣṇa hare kṛṣṇa
     D D/S'S'      N  D P P/n
 kṛṣṇa kṛ  ṣ ṇa hare hare
 
-n            D  P m P R
+n            D  P m G R
 hare rāma hare rāma
 
- S R R/m m      P  R S
+ S R R/m m      G  R S
 rāma rā   ma hare hare
 
 ============================
@@ -52,7 +52,7 @@ hare kṛṣṇa hare kṛṣṇa
  R     S 'N  S    R   R/P
 kṛṣṇa kṛṣṇa hare hare
 
-   P       m    P
+   P       m    G
 hare rāma hare rāma
 
  R         S

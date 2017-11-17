@@ -115,10 +115,10 @@ rāma rāma hare hare
 n     N n  d     n d
 hare kṛṣṇa hare kṛṣṇa
 
-'M    d' M  m  mg  r' n
+'M    d 'M  m  mg  r' n
 kṛṣṇa kṛṣ  ṇa hare hare
 
-n    r g  d' M 'n /'M
+n    r g  d 'M 'n /'M
 hare rāma hare rāma
 
 'n r   m   g
@@ -129,7 +129,7 @@ rā ma rāma hare hare
 n     N r'  N    n d
 hare kṛṣṇa hare kṛṣṇa
 
- 'M    d' M  mg  r' n
+ 'M    d 'M  mg  r' n
 kṛṣṇa kṛṣṇa hare hare
 
 n    r g  d    'M

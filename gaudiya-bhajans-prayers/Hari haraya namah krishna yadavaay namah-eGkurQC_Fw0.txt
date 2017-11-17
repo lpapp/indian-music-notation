@@ -6,82 +6,82 @@ Language: Bengali
 
 (1)
 
- P    m   P              m m/D D    P mP P/P
+ G    m   P              m m/D D    P mG G/P
 hari haraye namaḥ kṛṣṇa yāda  vāya namaḥ
 
- P   m    P    R    S R P mP       P/N
+ P   m    G    R    S R G mG       G/N
 yādavāya mādhavāya keśavāya namaḥ
 
 (2)
 
- N      D       P     m m/D D   PmP   P/P
+ N      D       P     m m/D D   PmG   G/P
 gopāla govinda rāma śrī-madhusūda  na 
 
- P    m    P   R     S R P  m P
+ P    m    G   R     S R G  m G
 giridhārī gopīnātha madana-mohana
 
 (3)
 
-  P  m     P              m m/D D     P mP P/P
+  G  m     P              m m/D D     P mG G/P
 śrī-caitanya-nityānanda śrī-ad vaita-sītā
 
- P    m    P   R     S R P mP     P/N
+ P    m    G   R     S R G mG     G/N
 hari guru vaiṣṇaba bhāgavata gītā
 
 (4)
 
-  N       D   P     m m/D D  PmP    P/P
+  N       D   P     m m/D D  PmG    G/P
 śrī-rūpa sanātana bhaṭṭa-raghunātha
 
-  P    m    P     P     S R  P  m P
+  P    m    G     G     S R  G  m G
 śrī-jīva gopāla-bhaṭṭa dāsa-raghunātha
 
 (5)
 
- P   m   P           mm/D D  PmP   P/P
+ G   m   P           mm/D D  PmG   G/P
 ei chay gosāir kori cara ṇa vandan
 
- P    m     P      R  S  R  P  m P  P/N
+ P    m     G      R  S  R  G  m G  G/N
 jāhā hoite bighna-nāś abhīṣṭa-pūraṇ
 
 (6)
 
-N          D   P   mD  P   mP P/P
+N          D   P   mD  P   mG G/P
 ei chay gosāi jār—mui tār dās
 
- P    m    P    R    S R  P  m   P
+ P    m    G    R    S R  G  m   G
 tā-sabāra pada-reṇu mora pañca-grās
 
 (7)
 
- P m    P            m  D       PmP P/P
+ G m    P            m  D       PmG G/P
 tādera caraṇa-sebi-bhakta-sańe bās
 
- P      m P    R  SR P  m P  P/N
+ P      m G    R  SR G  m G  G/N
 janame janame hoy ei abhilāṣ
 
 (8)
 
-N        D     P m   D          PmP P/P
+N        D     P m   D          PmG G/P
 ei chay gosāi jabe braje koilā bās
 
- P     m     P     R    S R P   m P
+ P     m     G     R    S R G   m G
 rādhā-kṛṣṇa-nitya-līlā korilā prakāś
 
 (9)
 
-P m  P             m D       PmP P/P
+G m  P             m D       PmG G/P
 ānande bolo hari bhaja bṛndāban
 
-  P  m    P        R    S R  Pm P  P/P
+  P  m    G        R    S R  Gm G  G/P
 śrī-guru-vaiṣṇaba-pade majāiyā man
 
 (10)
 
-  N       D        P    m  D      PmP P/P
+  N       D        P    m  D      PmG G/P
 śrī-guru-vaiṣṇaba-pada-padma kori āś
 
- P    m     P    R    S R  P m  P
+ P    m     G    R    S R  G m  G
 nāma-sańkīrtana kohe narottama dāsa
 
 

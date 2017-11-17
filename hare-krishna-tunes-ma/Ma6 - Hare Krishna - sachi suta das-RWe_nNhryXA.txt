@@ -1,41 +1,41 @@
 ================= Part 1 =================
 
- m     P   R  S n  S   P
+ m     G   R  S n  S   G
 Hare Krishna Hare    Krishna
 
-  P   m   P   R  S n  S     P R
+  G   m   G   R  S n  S     G R
 Krishna Krishna Ha      re Hare
 
- m    P R  S n  S  P
+ m    G R  S n  S  G
 Hare Rama Hare    Rama
 
- P m  P R  S n  S     P R
+ G m  G R  S n  S     G R
 Rama Rama Ha      re Hare
 
 ================= Part 2 =================
 
- R  m  P   R m  D  P D D#    P m P
+ R  m  P   R m  D  P D D#    P m G
 Ha    re Krish na Ha   re  Krishna
 
-  R m P   R m D  P D D#  P m  P 
+  R m P   R m D  P D D#  P m  G 
 Krishna Krishna Ha   re Ha   re
 
- R m  P  R m  D  P D D#  P m P
+ R m  P  R m  D  P D D#  P m G
 Ha   re Ra   ma Ha   re Ra  ma
 
- R m P  P R m  P D D#  P m P 
+ R m P  P R m  P D D#  P m G 
 Ra  ma Ra  ma Ha   re Ha  re
 
 ================= Part 3  =================
 
- R     S   D  S     D P  P P P P P P P R S
+ R     S   D  S     D P  G P G P G P G R S
 Hare Krishna Hare Krish na
 
-  S   R   P   R
+  S   R   G   R
 Krishna Krishna Hare Hare
 
- R    S D  S    D P  P P P P P P P R S
+ R    S D  S    D P  G P G P G P G R S
 Hare Rama Hare Ra   ma
 
- S R  P R
+ S R  G R
 Rama Rama Hare Hare

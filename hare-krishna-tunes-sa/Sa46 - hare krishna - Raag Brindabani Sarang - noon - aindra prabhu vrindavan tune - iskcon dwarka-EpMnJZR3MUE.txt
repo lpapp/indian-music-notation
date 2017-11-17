@@ -3,27 +3,27 @@
  S    R  m  P   S' n  PD
 hare kṛṣṇa hare kṛṣṇa
 
- m  P d      R S 'R'n  S
+ m  P d      R S 'D'n  S
 kṛṣṇa kṛṣṇa hare ha   re
 
  S    R m  P   P/S'S' n  PD m/D
 hare rāma hare rā     ma
 
- m P g     R S 'R'n  S
+ m P g     R S 'D'n  S
 rāma rāma hare ha   re
 
 ========== Part 2 ==========
 
- m   g      R S 'Rn  S
+ m   g      R S 'Dn  S
 hare kṛṣṇa hare kṛṣ ṇa
 
-S/m  m g      R S 'Rn   S
+S/m  m g      R S 'Dn   S
 kṛṣ ṇa kṛṣṇa hare ha   re
 
  D            P  DS'n  PD m/D
 hare  rāma hare rā  ma
 
- m P g     R S 'R'n  S
+ m P g     R S 'D'n  S
 rāma rāma hare ha   re
 
 ========== Part 3 ==========
@@ -31,13 +31,13 @@ rāma rāma hare ha   re
  D            P D 'Sn  PD m/D
 hare kṛṣṇa hare kṛṣ ṇa
 
- m  P g      R S 'Rn  S S/D
+ m  P g      R S 'Dn  S S/D
 kṛṣṇa kṛṣṇa hare ha  re
 
- D           P  R'Sn  PD m/D
+ D           P  D'Sn  PD m/D
 hare rāma hare rā  ma
 
- m P g     R S 'R'n  S
+ m P g     R S 'D'n  S
 rāma rāma hare ha   re
 
 ========== Part 4 ==========
@@ -45,13 +45,13 @@ rāma rāma hare ha   re
  P   P/S'  n     Dn S' n DP
 hare kṛṣṇa hare kṛṣ ṇa
 
- D  P  m g     RS 'R'n  S S/P
+ D  P  m g     RS 'D'n  S S/P
 kṛṣṇa kṛṣṇa hare  ha   re
 
  P   P/S'   n   Dn  S' n DP
 hare rāma hare rā   ma
 
- D P  mg     RS 'R'n  S S/P
+ D P  mg     RS 'D'n  S S/P
 rāma rāma hare  ha   re
 
 ========== Part 5 ==========
@@ -149,7 +149,7 @@ kṛṣṇa kṛṣṇa hare hare
 S/m   m   g     R
 hare rāma hare rāma
 
-g     R    S   'R/S
+g     R    S   'D/S
 rāma rāma hare hare
 
 ========== Part 12 ==========
@@ -163,7 +163,7 @@ kṛṣ ṇa kṛṣṇa hare hare
  m        g     R
 hare rāma hare rāma
 
- S   'R'n  S
+ S   'D'n  S
 rāma rāma hare hare
 
 ========== Part 13 ==========
@@ -171,13 +171,13 @@ rāma rāma hare hare
 S/m m    g        R
 ha re kṛṣṇa hare kṛṣṇa
 
- S    'R 'n  S
+ S    'D 'n  S
 kṛṣṇa kṛṣṇa hare hare
 
 S/m m   g        R
 ha re rāma hare rāma
 
- S   'R'n  S
+ S   'D'n  S
 rāma rāma hare hare
 
 ========== Part 14 ==========
@@ -191,7 +191,7 @@ kṛṣṇa kṛṣṇa hare hare
  D    P    m   g
 hare rāma hare rāma
 
- R   'R'n  S        S/D
+ R   'D'n  S        S/D
 rāma rāma hare hare
 
 ========== Part 15 ==========

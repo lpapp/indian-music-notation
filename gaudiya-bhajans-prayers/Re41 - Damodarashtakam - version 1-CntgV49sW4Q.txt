@@ -25,7 +25,7 @@ paramrstam atyanta to  drutya gopya
  m    P    n      S' R'       g' R'
 rudantam muhur netra-yugmam mrjantam
 
-m'      P' R' S'    DS' g'    R'
+m'      G' R' S'    DS' g'    R'
 karambhoja-yugmena satanka-netram
 
 R'             g'  R'S'    n       D
@@ -53,7 +53,7 @@ punah prematas tam sa tavrtti vande
  m     P   n      S' R'      g'  R'
 varam deva moksam na moksavadhim va
 
-m'        P'R'  S'     DS'  g'   R'
+m'        G'R'  S'     DS'  g'   R'
 na canyam vrne ‘ham varesad a  piha
 
 R'            g' R' S'  n     D
@@ -81,7 +81,7 @@ manasy avirastam a  lam laksa-labhaih
  m    P   n   S'R'      g' R'
 namo deva damodarananta visno
 
- m'      P' R' S'      DS' g'     S'
+ m'      G' R' S'      DS' g'     S'
 prasida prabho duhkha-jalabdhi-magnam
 
 R'            g' R' S'    n    D
@@ -109,7 +109,7 @@ na mokse graho me ‘sti  damodareha
  m     P      n       S'R'        g'  R'
 namas te ‘stu damne sphurad-dipti-dhamne
 
- m'    P'R'S'     D S'g'      R'
+ m'    G'R'S'     D S'g'      R'
 tvadiyodarayatha visvasya dhamne
 
 D/R'        g'   R'S'    n    D
@@ -137,7 +137,7 @@ rāma rāma     hare  hare
  m P    n  S'R'   g' R'
 hare kṛṣṇa   hare kṛṣṇa
 
-m'    P' R'S'D S' g' R'
+m'    G' R'S'D S' g' R'
 kṛṣṇa kṛṣṇa  hare hare
 
 R'       g' R' S'n     D

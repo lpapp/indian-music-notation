@@ -7,64 +7,64 @@ Language: Hindi
 LYRICS:
 
 (1)
- PR   P R S      'N SR S'N'R    'N
+ GR   G R S      'N SR S'N'D    'N
 su  ndara - bālā śacī-dulā   lā
 
-   'N/R  R     P P/P  P   P/P  PR   P R  S  S/P
+   'N/R  R     G G/P  P   G/P  GR   G R  S  S/P
 nā      cata śrī  -  hari  -  kī  rtana meń
 
-  P           'M    P D  P'MP      'N/P
+  P           'M    P D  P'MG      'N/G
 bhāle candana    tilaka mano  hara
 
-'N  'N/R R  P P/P   P    P/P PR  P R  S  S/P
+'N  'N/R R  G G/P   P    G/P GR  G R  S  S/G
 a lakā     śo     bhe ka    po  lana meń
 
 Then repeat the first two lines of (1)
  
 
 (2)
- P    RS         'NSRS 'N'R    'N
+ G    RS         'NSRS 'N'D    'N
 śire cū  ḍā  daraśi    bā   le
 
-  'N/R   R    P P/P  P P/P  P R P R  S   S/P
+  'N/R   R    G G/P  P G/P  G R G R  S   S/P
 vana - phula-mā     lā     hiyāpara dole
 
- P                'MP D   P 'MP     'N/P
+ P                'MP D   P 'MG     'N/G
 pahirana pīta - paṭā  mbara śo  bhe
 
-'N 'N/R R    P   P/P   P   P/P  P R P R  S  S/P
+'N 'N/R R    G   G/P   P   G/P  G R G R  S  S/G
 nū     pura ruṇu  -  jhunu     caraṇo   meń
 
 Then repeat the first two lines of (1)
  
 
 (3) 
- PR   PRS       'NS  R  S'N'R     'N
+ GR   GRS       'NS  R  S'N'D     'N
 rā  dhā - kṛṣṇa e   ka tanu   hai
 
-  'N/R  R    P P/P  P P/P  PR P  R S  S/P
+  'N/R  R    G G/P  P G/P  GR G  R S  S/P
 nidhu  vana-mā    jhe     baḿśī bajāy
 
-      P       'M  P DP 'MP    'N/P
+      P       'M  P DP 'MG    'N/G
 viśvarūpa ki prabhujī  sa  hi
 
-'N'N/R R     P   P/P  P   P/P  P R PR  S  S/P
+'N'N/R R     G   G/P  P   G/P  G R GR  S  S/G
 ā      ota praka     ṭahi     nadīyā  meń
 
 Then repeat the first two lines of (1)
  
 
 (4)
- P  R    S          'NS   RS  'N    'R     'N
+ G  R    S          'NS   RS  'N    'D     'N
 koi   gā   yata hai rā  dhā - kṛṣṇa    nām
 
-  'N/R R    P   P/P  P  P/P  P R  P R  S  S/P
+  'N/R R    G   G/P  P  G/P  G R  G R  S  S/P
 koi      gāyata     hai     hari-guṇa gān
 
-           P       'M   PD     P'MP    'N/P
+           P       'M   PD     P'MG    'N/G
 mańgala-tā   na mṛ   da ń  ga rasā  la
 
-'N 'N/R R    P  P/P  P  P/P  P  R PR S  S/P
+'N 'N/R R    G  G/P  P  G/P  G  R GR S  S/G
 bā     jata hai     koi     rańgaṇa meń
 
 Then repeat the first two lines of (1)

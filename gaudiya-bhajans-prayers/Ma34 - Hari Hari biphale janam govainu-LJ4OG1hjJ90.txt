@@ -20,13 +20,13 @@ jāniyā                śuni      yā     bi   ṣa khāi   nu
 jāniyā          śuni yā     bi   ṣa khāi   nu
  
 ---Another variation:
-    S    'n /S 'n  'n /S S R R/P     P        m       P  R    S    R   P R S R R/m m
+    S    'n /S 'n  'n /S S R R/P     P        m       G  R    S    R   G R S R R/m m
 manuṣ ya  -    ja         na      ma   pāiyā,   rādhā - kṛṣṇa   nā   bhajiyā,
 
-     P m P   m P R    S          R P m P R R/m m  
+     P m G   m G R    S          R G m G R R/m m  
 jāniyā  śuniyā     bi   ṣa khāi nu
 
-     P D P   m P  R S         R  P m P R
+     P D P   m G  R S         R  G m G R
 jāniyā  śuniyā   bi   ṣa khāi   nu
 
 This can be done up to (3) and then different from (4), see below.
@@ -89,16 +89,16 @@ tomā bine      ke     ā  che ā  mā  ra
 Repeat first line of (1) and then finish A,/D
 
 --- Another variation
- R    R/m m P      R          R/m   m         P   R       R/P
+ R    R/m m G      R          R/m   m         G   R       R/P
 hā hā   pra   bhu nanda-suta,      vṛṣabhānu-sutā - juta,
 
- P        P/P P    P/P  P D n    DP    mPR R/P R
+ P        G/P G    G/P  P D n    DP    mGR R/P R
 koruṇā ka       ro     ho e i - bā  ro
 
-     R/m  m P  R     R/m   m          P    R      R/P
+     R/m  m G  R     R/m   m          G    R      R/P
 naro    ttama-dāsa koy,   nā ṭheliho rāńgā   pāy,
 
- P        P/P  P P/P P   D n   DP
+ P        G/P  G G/P P   D n   DP
 tomā bine     ke     ā che ā  mā  ra
 ---
 

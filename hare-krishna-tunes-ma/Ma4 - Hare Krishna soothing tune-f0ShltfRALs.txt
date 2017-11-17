@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
- m   P    R S   'NS S/P P
+ m   G    R S   'NS S/G G
 hare  kṛṣṇa   hare  kṛ  ṣṇa
 
-    m P      RS 'NS     P R R/m
+    m G      RS 'NS     G R R/m
 kṛṣṇa    kṛṣṇa  ha  re hare
 
- m   P    R S   'NS S/P P
+ m   G    R S   'NS S/G G
 hare   rāma   hare  rā    ma
 
-   m P    RS 'NS     P R R/m
+   m G    RS 'NS     G R R/m
 rāma   rāma  ha  re hare
 
 ========== Part 2 ==========

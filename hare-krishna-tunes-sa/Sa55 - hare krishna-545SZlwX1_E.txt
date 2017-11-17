@@ -1,43 +1,43 @@
 ========== Part 1 ==========
 
- S   'R/S 'R 'R/S S         RP m
+ S   'D/S 'D 'D/S S         RG m
 hare         kṛ   ṣṇa hare kṛṣṇa
 
-         P      m P  RS RP RS
+         P      m G  RS RG RS
 kṛṣṇa kṛ   ṣṇa hare ha re
 
  S    RS       R  S'N 'N/P
 hare rā  ma hare rāma
 
- P      D  P  m P  R S
+ P      D  P  m G  R S
 rāma rā   ma hare hare
 
 ========== Part 1v2 ==========
 
- S    R     S R  P  m
+ S    R     S R  G  m
 hare kṛṣṇa hare kṛṣṇa
 
-         P      m P  RS  RP RS
+         P      m G  RS  RG RS
 kṛṣṇa kṛ   ṣṇa hare ha  re
 
  S    RS      R  S'N 'N/P
 hare rā ma hare rāma
 
- P      D P  m P  R S
+ P      D P  m G  R S
 rāma rā  ma hare hare
 
 ========== Part 2 ==========
 
- P   P/P  PP         DN   DP
+ P   G/P  GP         DN   DP
 hare     kṛṣṇa hare kṛṣṇa
 
     D D/S'S'    N D    P     P/n
 kṛṣṇa kṛ  ṣ ṇa hare ha   re
 
-n          D P    m    DPmPR
+n          D P    m    DPmGR
 hare rāma hare rā   ma
 
- S R R/m m     P R    S     S/P
+ S R R/m m     G R    S     S/P
 rāma rā    ma hare ha   re
 
 It is possible to combine these tunes with other melodies then, like:
@@ -58,37 +58,37 @@ rāma rāma hare hare
 
 ========== Part 4 ==========
 
- P    m     P R  P
+ P    m     G R  G
 hare kṛṣṇa hare kṛṣṇa
 
- R  S  R    R/m  m P  R S S/P
+ R  S  R    R/m  m G  R S S/P
 kṛṣṇa kṛṣṇa     hare hare
 
- P    m    P R  P
+ P    m    G R  G
 hare rāma hare rāma
 
- R S  R   R/m  m P  R S S/P
+ R S  R   R/m  m G  R S S/P
 rāma rāma     hare hare
 
- P     m         P R   P
+ P     m         G R   G
 Jaya Prabhupada Jaya Prabhupada
 
- R S   R         m P   R    S      S/P
+ R S   R         m G   R    S      S/P
 Jaya Prabhupada Jaya Prabhu   pada
 
- P    m        P R  P
+ P    m        G R  G
 Jaya Gurudeva Jaya Gurudeva
 
  D C  D       (D/F) F D  D    C      C/G
 Jaya Gurudeva      Jaya Guru    deva
 
- P    m                 P R  P
+ P    m                 G R  G
 Jaya Lakshmi Narasimha Jaya Gaurahari
 
  D C  D                (D/F) F E  D  C      C/G
 Jaya Lakshmi Narasimha      Jaya Gaurahari
 
- S          R  P m     P  R P
+ S          R  G m     G  R G
 Jaya Jaya Prabhupada Prabhupada
 
   D  C D   (D/F)        F E   D    C   C/G

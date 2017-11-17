@@ -42,13 +42,13 @@ rā   ma rā           ma             ha re      ha   re
 
 ========== Part 4 ==========
 
- S S/g  g    S/g  S R 'n /R 'n   S  R R/m m P m    g /m g  R
+ S S/g  g    S/g  S R 'n /R 'n   S  R R/m m G m    g /m g  R
 ha      re kṛṣ   ṇa             ha re kṛ    ṣ   ṇa
 
   g     g /m m m/n  n  D m/D m    m/d  d   P   m P m g /m g  R S
 kṛṣ  ṇa     kṛ ṣ    ṇa         ha      re hare  
 
- S S/g  g     S/g  S  R 'n /R 'n   S  R R/m m P m    g /m g  R
+ S S/g  g     S/g  S  R 'n /R 'n   S  R R/m m G m    g /m g  R
 ha      re rā     ma              ha re rā        ma  
 
    g     g /m  m m/n  n   D m/D m    m/d  d   P   m P m g /m g  R S
@@ -115,7 +115,7 @@ rāma rā      ma hare   hare
  S S/g  g         S R 'n /R 'n
 ha re      kṛṣṇa hare       kṛ ṣṇa
 
- SR   R/m m   P  m   g /m g  R
+ SR   R/m m   G  m   g /m g  R
 kṛṣṇa kṛ    ṣṇa hare      hare  
 
  R g   m m/n     n    m/n   md

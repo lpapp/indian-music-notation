@@ -1,12 +1,12 @@
 ========== Part 1 ==========
 
- N   d' M g  d' M g  r S r
+ N   d 'M g  d 'M g  r S r
 hare kṛ  ṣṇa ha   re kṛ ṣṇa
 
 'N     'M, 'd S  r  S r
 kṛṣṇa  kṛ ṣṇa  ha  re hare
 
- N   d' M g  d' M g  r S r
+ N   d 'M g  d 'M g  r S r
 hare rā   ma ha   re rā  ma
 
 'N   'M,'d S  r  S r
@@ -31,13 +31,13 @@ rāma rāma ha   re hare
 g' M  d N  'Md  S'   r'
 hare kṛ   ṣṇa   hare kṛ ṣṇa
 
- N    d' M  g  d' M g  r S r
+ N    d 'M  g  d 'M g  r S r
 kṛṣṇa kṛ   ṣṇa ha   re ha  re
 
 g' M d N 'Md  S'   r'
 hare rā  ma   hare rāma
 
- N   d' M g  d' M g  r S r
+ N   d 'M g  d 'M g  r S r
 rāma rā   ma ha   re ha  re
 
 ========== Part 4 ==========
@@ -62,7 +62,7 @@ hare  kṛṣṇa ha     re kṛṣṇa
 S' r'  g'     'M'g'  r'  S'r'
 kṛṣṇa  kṛ ṣṇa ha     re  hare
 
- N   d' M g  d' M g  r S r
+ N   d 'M g  d 'M g  r S r
 hare rā   ma ha   re rā  ma
 
 'N   'M,'d S  r  S r
@@ -101,13 +101,13 @@ rāma rā   ma ha   re ha  re
 C'C#' D#'   F#'D#'C#'C'   C#' (B/C#')
 hare  kṛṣṇa ha    re   kṛṣṇa
 
- N    d' M d  d /S' S'r' S' r'
+ N    d 'M d  d /S' S'r' S' r'
 kṛṣṇa kṛ  ṣṇa       hare    hare
 
 C'C#' D#'  F#'D#' C#'C'   C#'  (B/C#')
 hare  rāma ha     re    rāma
 
- N   d' M d  d /S' S'r' S' r'
+ N   d 'M d  d /S' S'r' S' r'
 rāma rā   ma       hare    hare
 
 ============================
@@ -120,7 +120,7 @@ hare kṛṣṇa hare kṛṣṇa
 F#' D#' C#'    C'   C#'   (B/C#')
 kṛ ṣṇa  kṛ ṣṇa hare hare
 
- N        d' M d    d /S'
+ N        d 'M d    d /S'
 hare rāma hare rāma
 
 S'   r' S' r'
@@ -128,7 +128,7 @@ rāma rā ma hare hare
 
 ========== Part 10 ==========
 
- N         d' M g
+ N         d 'M g
 hare kṛṣṇa hare kṛṣṇa
 
 d  'M g  r   S   r
@@ -176,10 +176,10 @@ hare kṛṣṇa hare kṛṣṇa
 S'          r'
 kṛṣṇa kṛṣṇa hare hare
 
- N        d' M g
+ N        d 'M g
 hare rāma hare rāma
 
-d' M g r   S   r
+d 'M g r   S   r
 rāma rāma hare hare
 
 ========== Part 14 ==========

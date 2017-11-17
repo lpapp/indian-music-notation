@@ -7,25 +7,25 @@ Language: Bengali
 LYRICS
 
 (1)
-  R    'N     'R    'N 'P/'N 'P     'R 'R/P  P    m P 'N/P 'NRPRS    R
+  R    'N     'D    'N 'P/'N 'P     'D 'D/G  G    m G 'N/G 'NRGRS    R
 śrī-kṛṣṇa-cai    tanya          prabhu      doyā koro      mo     re
 
-   P  S RP    P/D        P P/P           RP  RSR
+   G  S RG    G/D        P G/P           RG  RSR
 tomā binā  ke     doyālu       jagat-saḿsā  re
 
  
 
 (2)
- R     'N    'R'N 'P/'N 'P  'R 'R/P  P   m P 'N/P 'NRPRS    R
+ R     'N    'D'N 'P/'N 'P  'D 'D/G  G   m G 'N/G 'NRGRS    R
 patita  -  pāvana    -    hetu      tava ava      tā     ra
 
-    P S  R P P/D        P P/P           RP  RSR
+    G S  R G G/D        P G/P           RG  RSR
 mo sama pati ta  prabhu        nā pāibe ā  ra
 
  
 
 (3)
- R  P   P/d  d      D    d  N  D   S' N D d   D  P'MPR 
+ R  G   G/d  d      D    d  N  D   S' N D d   D  P'MGR 
 hā hā pra       bhu   nityānanda, premānanda sukhī
 
  A   B G     F# ED(CD)B,   D  E D  C  B,A,
@@ -34,37 +34,37 @@ kṛpābalokana koro        āmi boro duḥkhī
  
 
 (4)
- R   'N   'R'N 'P/'N 'P    'R 'R/P        m  P'NRPRS R
+ R   'N   'D'N 'P/'N 'P    'D 'D/G        m  G'NRGRS R
 doyā koro sītā          -pati       adwaita gosāi
 
-   P  S RP     P/D     P P/P              RPRSR
+   G  S RG     G/D     P G/P              RGRSR
 tava kṛpā - bale   pāi       caitanya-nitāi
 
  
 
 (5)
- R  'N     'R'N 'P/'N 'P   'R 'R/P         P/m P 'N/P 'NRPRS    R
+ R  'N     'D'N 'P/'N 'P   'D 'D/G         G/m G 'N/G 'NRGRS    R
 gaura premamaya          tanu      paṇḍita ga dā      dha    ra
 
-    P S RP   P/D      P P/P P           RP  RSR
+    G S RG   G/D      P G/P G           RG  RSR
 srīnivāsa  hari  dāsa         doyāra sāga  ra
 
  
 
 (6)
- R  P   P/d  d      D  d  N D  S' N   D d  D  P'MPR
+ R  G   G/d  d      D  d  N D  S' N   D d  D  P'MGR
 hā hā swa       rūp, sanātana, rūpa, raghunātha
 
-  D       NP     'M P  R'N      R  P R S 'N'R
+  D       NP     'M G  R'N      R  G R S 'N'D
 bhaṭṭa-juga, śrī-jīva hā   prabhu lokanātha
 
  
 
 (7)
- R   'N    'R 'N 'P/'N 'P     'R 'R/P   P      m P 'NRPRS    R
+ R   'N    'D 'N 'P/'N 'P     'D 'D/G   G      m G 'NRGRS    R
 doyā koro śrī-ā            cārya      prabhu śrīni vā     sa
 
-   P S   RP     P/D     P P/P P         RP  RSR
+   G S   RG     G/D     P G/P G         RG  RSR
 rāmacandra - sańga māge      narottama-dā  sa
 
  

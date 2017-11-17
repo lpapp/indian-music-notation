@@ -7,10 +7,10 @@ Language: Bengali
 LYRICS:
 
 (1)
- m     P  R   P    m      P        R S   RP    R S 'n
+ m     G  R   G    m      G        R S   RG    R S 'n
 gaurāńga karu   ṇā   koro    dīna hīna ja   ne
 
-   S S/m P R   S'n     'R'n        'n /m   m  PR      R/D   
+   S S/m G R   S'n     'D'n        'n /m   m  GR      R/D   
 mosa mo patita     prabhu    nāhi        tribhū  vane
 
  
@@ -19,16 +19,16 @@ mosa mo patita     prabhu    nāhi        tribhū  vane
 R/D    m P   D   S' n   D   n  S' n  Dn DPm
 dante tṛṇa dhari    gaura ḍāki he tomāre
 
-   P  m P R R/m R/P  D Pm      P    R       R/m m
+   P  m G R R/m R/P  D Pm      G    R       R/m m
 kṛpā kari e so  ā   mār   hṛdaya ma   ndire
 
  
 
 (3)
- m    P R    P    m      P      R  S    RP    R S 'n
+ m    G R    G    m      G      R  S    RG    R S 'n
 jadi dayā nā   ka   ribe   patita dekhi    yā
 
-   S S/m  P R   S'n    'R'n       'n /m  m  PR        R/D
+   S S/m  G R   S'n    'D'n       'n /m  m  GR        R/D
 pati ta  pāvana      nāma    kise ra       lā   giyā
 
  
@@ -37,30 +37,30 @@ pati ta  pāvana      nāma    kise ra       lā   giyā
 R/D   m   P D    S' n  D   n S' n   Dn DPm
 paḍechi bhava tu   phāne nāhika nistāra
 
-     P m P  R R/m m  P D P m       P   R      R/m m
+     P m G  R R/m m  P D P m       G   R      R/m m
 śrī caraṇa ta ra ṇī dāne     dāse kara   pāra	
 
  
 
 (5)
-  m     P  R    P     m        P       R S   RP     R S 'n
+  m     G  R    G     m        G       R S   RG     R S 'n
 śrī kṛṣṇa caita   nya   prabhu   dāser anudā    sa
 
-      S S/m P R S 'n   'R'n       'n /m m  PR
+      S S/m G R S 'n   'D'n       'n /m m  GR
 prārtha nā karaye    sadā    narotta      ma  dāsa
 
 ========== Maha Mantra - Part 1 ==========
 
- m    PR    P   m       P
+ m    GR    G   m       G
 hare kṛṣṇa hare   kṛṣṇa
 
-    R     S    R     P   R S 'n
+    R     S    R     G   R S 'n
 kṛṣṇa kṛṣṇa ha   re hare
 
-   S S/m PR    S'n    'R'n
+   S S/m GR    S'n    'D'n
 hare rā ma  hare    rāma
 
-     'n /m m  PR           R/D
+     'n /m m  GR           R/D
 rāma rā      ma  hare hare
 
 ========== Maha Mantra - Part 2 (Little variation) ==========
@@ -71,10 +71,10 @@ hare   kṛṣṇa hare    kṛṣṇa
    n  S' n  D      n  DPm
 kṛṣṇa kṛṣṇa   hare hare
 
-   P  m PR    R/m mP    D P m
+   P  m GR    R/m mP    D P m
 hare rāma  ha    re  rāma
 
-      P   R
+      G   R
 rāma rāma   hare hare
 
 WORD FOR WORD TRANSLATION: Gauranga Karuna Koro

@@ -104,13 +104,13 @@ Then Part 4
 
 ========== Part 8 ==========
 
- S R g P    DS'  R' g'  R'P'  g'
+ S R g P    DS'  R' g'  R'G'  g'
 hare kṛṣṇa hare  kṛṣṇa
 
    R'S'D/S'D            g' R'S'D/S'DS'       S/S'
 kṛṣṇa           kṛṣṇa hare             hare
 
- S R g P     DS'  R'g'  R'P'  g'
+ S R g P     DS'  R'g'  R'G'  g'
 hare rā  ma hare  rāma
 
   R'S' D/S' D        g' R'S' D/S' DS'      S/S'

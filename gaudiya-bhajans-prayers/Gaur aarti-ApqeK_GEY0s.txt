@@ -9,19 +9,19 @@ LYRICS:
 Gaura-Aarti(from Gitavali)
 
 (1)
-  P        D P m P  R S R  P m P S   R P  R S 'N 'R
+  P        D P m G  R S R  G m G S   R G  R S 'N 'D
 (kiba) jaya   jaya goracander    aratiko sob    ha
 
- S  R P  m P R      S  'N'R'P P      D  P  m P R S
+ S  R G  m G R      S  'N'D'P P      D  P  m G R S
 jahna   vi     - tata-vane   jaga-mana-lob     ha
 
 ========== Embellishment ==========
 
-  P        D  PDND P  mPR  PP
+  P        D  PDND P  mGR  GP
 (kiba) jaya   oooo o  ooo  oo
 
 
- m P  R S R  P m P S   R P  R S 'N 'R
+ m G  R S R  G m G S   R G  R S 'N 'D
 jaya goracander    aratiko sob    ha
 
 ===================================
@@ -35,79 +35,79 @@ jaga-jana-mana-lobha
  G  A G	 F  E D C  D E F E C  D    E D C B, A,  
 dakhi   ne nitai  cand,      bame gadadha   ra
 
- S   R P m P R  S   'N'RP   P        D   P m P R S
+ S   R G m G R  S   'N'DP   P        D   P m G R S
 nikate   a dwaita, srini   vasa chatra-dha    ra
 
 (3)
- P D P  m  P  R S R P m P S  S     R  P R S 'N 'R 
+ P D P  m  G  R S R G m G S  S     R  G R S 'N 'D 
 bosi   yache goracand       ratna-simhasa      ne
 
-S   R P  m P  R    S 'N 'R 'P   P      D  P m P R S
+S   R G  m G  R    S 'N 'D 'P   P      D  P m G R S
 arati   ko   ren brahma       - adi deva-ga    ne
 
 (4)
- P  D P  m P R S  R P m P S      R   P R S 'N'R
+ P  D P  m G R S  R G m G S      R   G R S 'N'D
 na ra   hari-adi kori’      camara dhula     ya
 
- S    R P    m P  R  S 'N'R'P     P     D  P m P R S
+ S    R G    m G  R  S 'N'D'P     P     D  P m G R S
 sanjaya   - mu   kunda-basu   - ghosh-adi ga    ya
 
 (5)
- P   D P   m P   R  S  R P m P S        R P R S 'N'R
+ P   D P   m G   R  S  R G m G S        R G R S 'N'D
 sankha    baje ghanta baje        baje karata     la
  
- S    R P   m P  R  S 'N'R'P  P      D P m P  R S
+ S    R G   m G  R  S 'N'D'P  P      D P m G  R S
 madhura   mri   danga baje   parama rasa     la
 (Second Refrain)
 
- P            P     m P R
+ G            P     m G R
 sankha baje ghanta baje
 
- R      S  R   P  P   m P
+ R      S  R   G  P   m G
 madhur madhur madhur baje
 
- D      NS'  N   P     m P R          
+ D      NS'  N   P     m G R          
 sankha ba   je ghanta ba  je
 
- R      S  R   P  P   m P
+ R      S  R   G  P   m G
 madhur madhur madhur baje
 
- P            P     m   P          
+ G            P     m   G          
 sankha baje ghanta ba  je
 
- R      S  R   P  P   m P
+ R      S  R   G  P   m G
 madhur madhur madhur baje
 
- P            P     m   P          
+ G            P     m   G          
 sankha baje ghanta ba  je
 
- R      S  R   P  P   m P
+ R      S  R   G  P   m G
 madhur madhur madhur baje
 
- D               P     m P  
+ D               P     m G  
 sankha ba   je ghanta baje
 
- R      S  R   P  P   m P
+ R      S  R   G  P   m G
 madhur madhur madhur baje
 
- D               P     m P  
+ D               P     m G  
 sankha ba   je ghanta baje
 
- R      S  R   P  P   m P
+ R      S  R   G  P   m G
 madhur madhur madhur baje
 
 (6)
- P D P   m P  R   S  R P m P S      R P   R S 'N 'R
+ P D P   m G  R   S  R G m G S      R G   R S 'N 'D
 bahu  - koti candra jini’      vadana ujjva      la
 
- S    R P m P R S 'N'R'P  P       D P m P R S 
+ S    R G m G R S 'N'D'P  P       D P m G R S 
 gala-de  se  bana-ma  la kore jhalama    la
 
 (7)
- P D P   m P  R S R P m P S          R P  R S 'N'R
+ P D P   m G  R S R G m G S          R G  R S 'N'D
 siva  - suka-na  rada         preme gada-ga     da
 
-  S   R P  m P  R S 'N 'R'P  P      D  P m P R S
+  S   R G  m G  R S 'N 'D'P  P      D  P m G R S
 bhakati   vi   noda dekhe   gorara sampa    da
 
 WORD FOR WORD TRANSLATION: Jaya Jaya Goracander Arotika Sobha

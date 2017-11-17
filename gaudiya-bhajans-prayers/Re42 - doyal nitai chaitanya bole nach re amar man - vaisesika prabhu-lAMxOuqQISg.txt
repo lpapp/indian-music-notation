@@ -7,73 +7,73 @@ Language: Bengali
 LYRICS:
 
 (1)
- R       R/'M 'M  P  R r   'N'R  'R/R      R   P   R
+ R       R/'M 'M  G  R r   'N'D  'D/R      R   G   R
 doyāl nitāi      caitanya’ bole’       nācre āmār man
 
- R       R/'M 'M  P  R r   'N'R  'R/R      R   PR
+ R       R/'M 'M  G  R r   'N'D  'D/R      R   GR
 doyāl nitāi      caitanya’ bole’       nācre āmā  r man
 
-        P  'M    P     'M    P
+        G  'M    P     'M    G
 nācre āmār man, nācre āmāra man
 
-P/D   D       P'MPR         R/'M 'M   P    R
+G/D   D       P'MGR         R/'M 'M   G    R
 nā  cre āmār ma     n,   nācre      āmāra man
 
 
 (2)
-  P       'M   P'MP
+  G       'M   P'MG
 (doyāl to nāi he,)
 
- P P/P                 'M      P    R       P 'M
+ G G/P                 'M      G    R       G 'M
 (e     mon, doyāl to nāi  he, mār kheye prema dey)
 
- 'M     P         'M P/'M P  R           P 'M
+ 'M     P         'M G/'M G  R           G 'M
 (emon, doyāl to nāi  he, mār   kheye prema dey)
 
- R R/P                      D P 'M    P   R P P/'M 'M
+ R R/P                      D P 'M    G   R G G/'M 'M
 (o      re)  aparādha dūre jābe,   pābe prema-dha      n
 
  G       G/B B A       G            F# E   D E  F#        D/F# (repeat (1))
 (ore)  apa       rādha   dūre jābe, pābe prema-dha      n
 
 
-  P        'M   P 'M P
+  G        'M   P 'M G
 (vicāra to nāi he)
 
- P      'M   P     R         P  'M
+ P      'M   G     R         G  'M
 (o nāme a parādha-vicāra to nāi he)
 
- 'M P   'M   P     R         P  'M  R/'M
+ 'M P   'M   G     R         G  'M  R/'M
 (o nāme a parādha-vicāra to nāi he)
  
-  P          P/N N D      P             'M     P R  P  'M
+  P          P/N N D      P             'M     G R  G  'M
 (takhon) kṛṣṇa   -   nāme   ruci ha’be,    ghucibe bandhan
 
  
 
 (3)
-            P            'M  P
+            G            'M  P
 (kṛṣṇa-nāme anurāg to ha’be he)
 
-  P    'M P R             P 'M
+  P    'M G R             G 'M
 (kṛṣṇa-nāme anurāg to ha’be he)
 
- R/P P                             D  P 'M P R  P'M
+ R/P P                             D  P 'M G R  G'M
 (ta    khon) anāyā    se   saphal ha’be jīvera jīvan
 
-  P       P/N N  D     P              'M P R  P'M
+  P       P/N N  D     P              'M G R  G'M
 (takhon) anā    yā  se   saphal ha’be jīvera jīvan
 
-  P          'M  P
+  G          'M  P
 (jīvan to miche he)
 
   G    F#    E    D           E F#   D/F# (repeat (1))
 (kṛṣṇa-rati vinā jīvan to miche he)
 
- R/P            P          D  P  'M  P  R P'M
+ R/P            P          D  P  'M  G  R G'M
 (e    se) bṛndābane rādhā-śyāmer pa’be daraśan
 
- P       P/N N D      P              'M     P  R P'M
+ P       P/N N D      P              'M     G  R G'M
 (ese) bṛndā      bane   rādhā-śyāmer    pa’be daraśan
 
   E            F#  G  (this line eight times)

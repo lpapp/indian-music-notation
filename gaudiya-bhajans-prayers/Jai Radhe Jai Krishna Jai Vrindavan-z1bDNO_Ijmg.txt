@@ -7,10 +7,10 @@ Language: Bengali
 LYRICS
 
 (1)
- m    P  R     P m         P        R  S   RP   RS'n
+ m    G  R     G m         G        R  S   RG   RS'n
 jaya rādhe, jaya    kṛṣṇa,    jaya vṛndāva    n
 
-     S S/m m   PR       S    'n 'R 'n      'n /m m  P R   R/D
+     S S/m m   GR       S    'n 'D 'n      'n /m m  G R   R/D
 śrī go vi    nda,  gopī      nātha,    madana  -   mohan
 
  
@@ -19,16 +19,16 @@ jaya rādhe, jaya    kṛṣṇa,    jaya vṛndāva    n
  D     m  P   D    S'n   D    n  S'n    D n DPm
 śyama-kunḍa, rādhā - kuṇḍa, giri-govardha n
 
-   P  m  P R    R/m m  P D Pm    P  m P R
+   P  m  G R    R/m m  P D Pm    P  m G R
 kālindi ja   mu    nā jaya,   jaya mahāvan
 
  
 
 (3)
- m     P R      Pm        P       R  S   RP   RS'n
+ m     G R      Gm        G       R  S   RG   RS'n
 keśī-ghāṭa, baḿśi - baṭa,   dwādaśa-kāna    n
 
-   S S/m m  PR      S 'n     'R 'n          m  P  R  R/D
+   S S/m m  GR      S 'n     'D 'n          m  G  R  R/D
 jāhā sa    ba  līlā       koilo     śrī-nanda-nandan
 
  
@@ -37,16 +37,16 @@ jāhā sa    ba  līlā       koilo     śrī-nanda-nandan
      D m/D  m  P D   S' n  D    n  S'n D    n DPm
 śrī-na n   da-jaśodā    jaya, jaya gopa - gaṇ
 
-    P m PR    R/m m   P D Pm     P  m  P  R
+    P m GR    R/m m   P D Pm     P  m  G  R
 śrīdāmādi  ja    ya, jaya    dhenu-vatsa-gaṇ
 
  
 
 (5)
- m    P R   P    m      P       R  S    RP   RS'n
+ m    G R   G    m      G       R  S    RG   RS'n
 jaya bṛṣabhā  nu,  jaya   kīrtidā sunda   rī
 
-   S S/m m     P R    S 'n 'R'n       m  P R   R/D
+   S S/m m     G R    S 'n 'D'n       m  G R   R/D
 jaya pa     urṇamāsī,   ja ya    ābhīra-nāgarī
 
  
@@ -55,16 +55,16 @@ jaya pa     urṇamāsī,   ja ya    ābhīra-nāgarī
  D    m P  D   S' n  D    n S'n D    n DPm
 jaya jaya gopī   śwara vṛndāvana - mājh
 
-   P  m PR   R/m  m  P  D Pm    P   m P  R
+   P  m GR   R/m  m  P  D Pm    P   m G  R
 jaya jaya  kṛṣ   ṇa-sakhā    baṭu dwija-rāj
 
  
 
 (7)
- m    P R     P     m      P     R   S       RP   RS'n
+ m    G R     G     m      G     R   S       RG   RS'n
 jaya rāma-ghā   ta,   jaya    rohiṇī - nanda    n
  
-   S S/m m P  R    S 'n 'R 'n    'n /m m  P  R  R/D
+   S S/m m G  R    S 'n 'D 'n    'n /m m  G  R  R/D
 jaya ja   ya vṛndā   va na-bā sī ja      ta jan
 
  
@@ -73,16 +73,16 @@ jaya ja   ya vṛndā   va na-bā sī ja      ta jan
  D     m P  D     S' n  D   n  S' n D    n DPm
 jaya dwija-patnī,    jaya nāga-kanyā - gaṇ
 
-   P  m PR    R/m m    P  D Pm    P  m  P R
+   P  m GR    R/m m    P  D Pm    P  m  G R
 bhak tite  jā    hārā pāilo    govinda-caraṇ
 
  
 
 (9)
-  m    P  R    Pm        P    RS         RP   RS'n
+  m    G  R    Gm        G    RS         RG   RS'n
 śrī-rasa-maṇḍala  jaya, jaya rā  dhā-śyā    m
 
-   S S/m m P  R   S 'n 'R'n        'n /m  m P R  R/D
+   S S/m m G  R   S 'n 'D'n        'n /m  m G R  R/D
 jaya ja   ya rasa - lī lā    sarva      -manoram
 
  
@@ -91,16 +91,16 @@ jaya ja   ya rasa - lī lā    sarva      -manoram
  D    m P   D   S'n  D    n  S'n   D n DPm
 jaya jayojjwala - rasa sarva-rasa-sā r
 
-   P m PR      R/m m  P D Pm     P m   P R
+   P m GR      R/m m  P D Pm     P m   G R
 parakīyā - bhā    ve jāhā    brajete pracār
 
  
 
 (11)
-  m     P R    P   m       P      RS       RP   RS'n
+  m     G R    G   m       G      RS       RG   RS'n
 śrī-jāhnavā-pā  da - padma   koriyā  smara    ṇ
 
-   S S/m m   P R      S 'n    'R'n       'n /m  m  P  R
+   S S/m m   G R      S 'n    'D'n       'n /m  m  G  R
 dīna kṛ    ṣṇa - dāsa      ko he    nāma   -   sańkīrtan
 
  

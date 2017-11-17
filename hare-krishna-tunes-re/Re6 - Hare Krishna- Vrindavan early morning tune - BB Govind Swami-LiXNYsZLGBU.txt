@@ -3,10 +3,10 @@
 (A,/)D     FE D    A,/D     D  ED C    Bb, F,/Bb,
 ha     re kṛṣ   ṇa       hare kṛṣ   ṇa
 
-   'n S   S/m  PR   S 'P/S     R  mPR    'R/R
+   'n S   S/m  GR   S 'P/S     R  mGR    'D/R
 kṛ    ṣṇa     kṛṣṇa         hare ha   re
 
- R    mPR    'R/R       PRS    'n  'm/'n
+ R    mGR    'D/R       GRS    'n  'm/'n
 hare rā   ma      hare rā   ma
  
    Bb,C    C/F F  ED    C G,/C    D  FED    A,/D (or D/A instead of "A,/D" when going to Part 2)
@@ -14,14 +14,14 @@ rā      ma       rā  ma        hare ha   re
 
 ========== Part 2 ==========
 
- R/D   P R/P RPm    P      m S/m SRP    R
+ R/D   P R/P RGm    P      m S/m SRG    R
 ha  re      kṛṣ  ṇa   hare      kṛṣ  ṇa
 
-    m   P R S 'P/S    R  mPR    'R/R R R/D
+    m   G R S 'P/S    R  mGR    'D/R R R/D
 kṛṣṇa kṛṣṇa        hare ha   re
 
-     P R/P  RPm    P       m S/m  SRP    R
+     P R/P  RGm    P       m S/m  SRG    R
 hare       rā   ma    hare       rā   ma
 
-   m    PR    S 'P/S    R  mPR    'R/R R R/D
+   m    GR    S 'P/S    R  mGR    'D/R R R/D
 rāma rā   ma         hare ha   re

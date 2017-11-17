@@ -9,7 +9,7 @@ LYRICS:
 D  P  D    P 'M  P
 rādhe syām rādhe syām
 
- m  P  m    P  S  R
+ m  G  m    G  S  R
 rādhe syām rādhe syām
 
 or
@@ -21,85 +21,85 @@ rādhe syām rādhe syām
 rādhe syām rādhe syām
 
 (Refrain)
-  R P         R  P  D P m
+  R G         R  G  D P m
 vraja-jana-mana-sukhakārī
 
-    P P/P  P    mP Rr  R
+    P G/P  G    mG Rr  R
 rādhe     syām syāmā  syām
 
  
 
 (1)
- R     P    P    D                      P    ND   P m PR
+ R     G    P    D                      P    ND   P m GR
 mor mukuṭa makarākṛta-kuṇḍala, gala vaijayantī - māla,
 
  D     P m  P    N                       S' R'S'  N D Pm
 mor mukuṭa makarākṛta-kuṇḍala, gala vaijayantī - māla,
 
- R P      R P    D P m
+ R G      R G    D P m
 caraṇana nūpura rasāla
 
-    P P/P P    mP Rr  R
+    P G/P G    mG Rr  R
 rādhe    syām syāmā  syām
 
  
 
 (2)
- R       P P        D                      P  N D  P m PR
+ R       G P        D                      P  N D  P m GR
 sundara vadana kamala-dala locana, bākī cita-vana-hārī,
 
  D       P   m  P P/N  N                  S' R'S'  N D Pm
 sundara vadana kamala-dala locana, bākī cita-vana-hārī,
 
- R P    R  P  D P m
+ R G    R  G  D P m
 mohana-vaḿśī-vihārī
 
-    P P/P  P    mP Rr  R
+    P G/P  G    mG Rr  R
 rādhe     syām syāmā  syām
 
  
 
 (3)
- R    P    P     D                 P  N D P m PR
+ R    G    P     D                 P  N D P m GR
 vṛndāvana mê dhenu carāve, gopī-jana manahārī
 
  D    P    m   P N                S' R'S' N D Pm
 vṛndāvana mê dhenu carāve, gopī-jana manahārī
 
-  R  P  R  P D   P m
+  R  G  R  G D   P m
 śrī govardhana-dhārī
 
-    P P/P P    mP Rr  R
+    P G/P G    mG Rr  R
 rādhe    syām syāmā  syām
 
  
 
 (4)
- R     P  P      D                 P N D Pm PR
+ R     G  P      D                 P N D Pm GR
 rādhā-kṛṣṇa mili aba dou, gaura-rūpa avatā rī
 
  D     P  m  P P/N N                S' R'S' N  D Pm
 rādhā-kṛṣṇa mili   aba dou, gaura-rūpa a vatā rī
 
- R  P     R  P   D P m
+ R  G     R  G   D P m
 kīrtana dharma pracārī
 
-    P P/P  P    mP Rr  R
+    P G/P  G    mG Rr  R
 rādhe     syām syāmā  syām
 
  
 
 (5)
- R     P  P    D                  P N D P m PR
+ R     G  P    D                  P N D P m GR
 tum vinā mere aur na koi, nāma-rūpa avatārī
 
- R P          R P DP m
+ R G          R G DP m
 caraṇana meń balihā rī,
 
- D   P m    P N             S' R'S' N  DP mP
+ D   P m    P N             S' R'S' N  DP mG
 nārāyaṇa balihārī, radhe syama sya ma syama
 
-    P P/P  P    mP Rr  R
+    P G/P  G    mG Rr  R
 rādhe     syām syāmā  syām
 
 

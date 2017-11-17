@@ -1,57 +1,57 @@
 ========== Part 1 ==========
 
- m P  RP m  P R  SR P
+ m G  RG m  G R  SR G
 hare kṛṣṇa hare kṛṣṇa
 
- R  S 'NS R  S'N'R 'N S S/m
+ R  S 'NS R  S'N'D 'N S S/m
 kṛṣṇa kṛṣṇa ha  re hare
 
- m P  RP m  P R  SR P 
+ m G  RG m  G R  SR G 
 hare rā ma hare rā ma
 
- R S 'NS R  S'N'R 'N S S/m
+ R S 'NS R  S'N'D 'N S S/m
 rāma rā ma ha  re hare
 
 ========== Part 1v2 ==========
 
- m P  RP m  P R  SR P
+ m G  RG m  G R  SR G
 hare kṛṣṇa hare kṛṣṇa
 
- R  S 'NS R  S'N 'R'N S S/m
+ R  S 'NS R  S'N 'D'N S S/m
 kṛṣṇa kṛṣṇa hare ha  re
 
- m P  RP m  P R  SR P 
+ m G  RG m  G R  SR G 
 hare rā ma hare rā ma
 
- R S 'NS R  S'N 'R'N S S/m
+ R S 'NS R  S'N 'D'N S S/m
 rāma rā ma hare ha  re
 
 ========== Part 2 ==========
 
-S/P P         D P  m  P P/P
+S/P P         D P  m  G G/P
 ha re kṛṣṇa hare kṛṣṇa
 
- P           D P  m P
+ P           D P  m G
 kṛṣṇa kṛṣṇa hare hare
 
-   m  P R    P  R S 'N'R
+   m  G R    G  R S 'N'D
 hare rāma hare rāma
 
-  'N  S R  PR S 'N S
+  'N  S R  GR S 'N S
 rāma rāma ha re hare
 
 ========== Part 2v2 ==========
 
-S/P P         D P  m  P P/P
+S/P P         D P  m  G G/P
 ha re kṛṣṇa hare kṛṣṇa
 
- P           D P  m P
+ P           D P  m G
 kṛṣṇa kṛṣṇa hare hare
 
-   m  P R    P  R S 'N'R
+   m  G R    G  R S 'N'D
 hare rāma hare rāma
 
-  'N  S R  P R  S'N S
+  'N  S R  G R  S'N S
 rāma rāma hare ha  re
 
 ========== Part 3 ==========
@@ -59,13 +59,13 @@ rāma rāma hare ha  re
  S         'N S R
 hare kṛṣṇa hare   kṛṣṇa
 
-             S RP     P/P
+             S RG     G/P
 kṛṣṇa kṛṣṇa hare hare
 
- P    D P  m P  PRmP  RS'N'R
+ P    D P  m G  GRmG  RS'N'D
 hare rāma hare rā    ma
 
-  'N  S R  PR S
+  'N  S R  GR S
 rāma rāma ha re hare
 
 ========== Part 3v2 ==========
@@ -73,12 +73,12 @@ rāma rāma ha re hare
  S         'N S  R
 hare kṛṣṇa hare kṛṣṇa
 
-             S R  P   P/P
+             S R  G   G/P
 kṛṣṇa kṛṣṇa hare hare
 
- P    D P  m P  PRmP  RS'N'R
+ P    D P  m G  GRmG  RS'N'D
 hare rāma hare rā    ma
 
-  'N  S R  PR S
+  'N  S R  GR S
 rāma rāma ha re hare
 

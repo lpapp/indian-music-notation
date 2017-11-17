@@ -3,13 +3,13 @@
  N   r' N d   Nd  'Mg   'Md  'M
 hare kṛṣ  ṇa ha   re   kṛṣ   ṇa
 
- d' M  g r  g r' N'd   Nr  N
+ d 'M  g r  g r' N'd   Nr  N
 kṛṣṇa kṛṣṇa ha  re    ha  re
 
  N   r' N d   Nd  'Mg  'Md  'M
 hare rā   ma ha   re   rā   ma
 
-d' M g r  g r' N'd  'Nr' N
+d 'M g r  g r' N'd  'Nr' N
 rāma rāma ha  re    ha  re
 
 ========== Part 2 ==========
@@ -20,10 +20,10 @@ hare kṛṣ   ṇa ha  re  kṛṣ   ṇa
  g     'Mg  r  g r   Nd   Nr   N
 kṛṣṇa kṛṣ   ṇa ha   re   ha   re
 
-g' M d  N d' M g  'Md  'M
+g' M d  N d 'M g  'Md  'M
 hare rāma ha   re rā   ma
 
-g' M d  N d' M g  'Md  'M
+g' M d  N d 'M g  'Md  'M
 rāma rāma ha   re ha   re
 
 ========== Part 3 ==========
@@ -34,10 +34,10 @@ hare kṛṣṇa ha    re   kṛṣ  ṇa
  d  N r'    g' r'  Nd   Nr'  N
 kṛṣṇa kṛṣṇa ha    re   ha   re
 
-r'    Nd' M d' M g  'Md  'M
+r'    Nd 'M d 'M g  'Md  'M
 hare rā  ma ha   re rā   ma
 
-r'    Nd' M d' M g  'Md  'M
+r'    Nd 'M d 'M g  'Md  'M
 rāma rā  ma ha   re ha   re
 
 ========== Part 4 ==========
@@ -59,27 +59,27 @@ rāma rāma  ha    re   hare
 'Md   N r'  g' r'  Nd   Nr'  N
 hare kṛṣṇa  ha    re   kṛṣ  ṇa
 
-r'  N  d' M  d' M g  'Md  'M
+r'  N  d 'M  d 'M g  'Md  'M
 kṛṣṇa kṛṣṇa  ha   re ha   re
 
 'Md   Nr'  g' r'  Nd   Nr'  N
 hare rāma  ha    re   rā   ma
 
-r' N d' M  d' M g  'Md  'M
+r' N d 'M  d 'M g  'Md  'M
 rāma rāma  ha   re ha   re
 
 ========== Part 6 ==========
 
- Nr' g' r'   Nr'  N r' N d' M d  'M g  'M
+ Nr' g' r'   Nr'  N r' N d 'M d  'M g  'M
 ha   re     kṛṣ  ṇa      hare kṛṣ      ṇa
 
- d' M  d' Mg  'M  d' Mg  r  g r' N'd 'N 'N/N
+ d 'M  d 'Mg  'M  d 'Mg  r  g r' N'd 'N 'N/N
 kṛṣṇa kṛṣ     ṇa  ha     re ha       re
 
- Nr'  g' r'   Nr'  N  r' N d  'M d' Mg  'M
+ Nr'  g' r'   Nr'  N  r' N d  'M d 'Mg  'M
 ha    re     rā   ma       ha re rā     ma
 
-d' M d' Mg  'M  d' Mg  r  g r' N'd 'N 'N/N
+d 'M d 'Mg  'M  d 'Mg  r  g r' N'd 'N 'N/N
 rāma rā     ma  ha     re ha       re
 
 ============================
@@ -187,10 +187,10 @@ rāma rāma hare hare
  N   r'    g' r'  N
 hare kṛṣṇa ha re kṛṣṇa
 
-r'  N   d' M d     N
+r'  N   d 'M d     N
 kṛṣṇa  kṛṣṇa hare hare
 
-d    'M   d' M g
+d    'M   d 'M g
 hare rāma hare rāma
 
 'Mg  r    'N
@@ -201,10 +201,10 @@ rāma rāma hare hare
  N   r'    g' r'  N
 hare kṛṣṇa ha re kṛṣṇa
 
-r'  N   d' M d     N
+r'  N   d 'M d     N
 kṛṣṇa  kṛṣṇa hare hare
 
-d    'M   d' M g
+d    'M   d 'M g
 hare rāma hare rāma
 
 'Mg  r    'd   'N

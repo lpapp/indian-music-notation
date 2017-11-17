@@ -16,55 +16,55 @@ kṛṣṇa! keśava! kṛṣṇa! keśava kṛṣṇa! keśava! pāhi mām!
 
 "Higher scale"
 
-  m         P m    P      m  P R  R/D          P     m    P SP  m
+  m         G m    P      m  G R  R/D          P     m    G SG  m
 Krishna Keshava, Krishna Keshava,      Krishna   Keshava pahi  mam
 
  F       E F   G    F  E D  D/A       G     F    E   C(C/)E (C/)F   (These chords can be applied at the other endings, I suppose)
 Rama Raghava, Rama Raghava,      Rama   Raghava raksha      m   am
 
 
-  m           P m P            m   P R R/D         P       m   P   S  P m
+  m           G m P            m   G R R/D         P       m   G   S  G m
 Krishna Krishna      Krishna Krishna        Krishna  Krishna Krishna Hare
 
 ========================================
 
 "Lower scale"
 
-  S        'N S R           S 'N'R 'R/P            R  S   'N'P'N S  
+  S        'N S R           S 'N'D 'D/G            R  S   'N'P'N S  
 Krishna Keshava,   Krishna Keshava,      Krishna  Keshava pahi  mam
 
- S      'N S R        S 'N'R 'R/P         R  S   'N  'P'N S
+ S      'N S R        S 'N'D 'D/G         R  S   'N  'P'N S
 Rama Raghava,   Rama Raghava,      Rama  Raghava raksha  mam
 
 
-  S          'NSR           S  'N'R 'R/P           R   S  'N  'P 'N S 
+  S          'NSR           S  'N'D 'D/G           R   S  'N  'P 'N S 
 Krishna Krishna   Krishna Krishna        Krishna Krishna Krishna Hare
 
 
 (1)
- P       R S'n  S  R  S 'n 'R  'R/m
+ G       R S'n  S  R  S 'n 'D  'D/m
 saḿsāra-dāvāna la-līḍha-lo ka-
 
-  m        P  mP      S  RP m
+  m        P  mG      S  RG m
 trāṇāya kāruṇya - ghanāgha natvam
 
-              P mP          m  PR R/D
+              G mP          m  GR R/D
 prāptasya kalyāṇa - guṇārṇavasya
 
-       P    m     P      S R Pm
+       P    m     G      S R Gm
 vande guroḥ   śrī - caraṇāravindam
 
 
- P   R   S   'n S RS'n     'R 'R/m
+ G   R   S   'n S RS'n     'D 'D/m
 hare   kṛṣṇa ha  re    kṛ ṣṇa
 
- m     P  mP    S     RP  m
+ m     P  mG    S     RG  m
 kṛṣṇa kṛṣṇa  ha   re ha  re
 
-        PmP       m PR R/D
+        GmP       m GR R/D
 hare rāma   hare rāma
 
-     P  m   P    S    RP  m
+     P  m   G    S    RG  m
 rāma   rāma   ha  re ha  re
 
 TRANSLATION

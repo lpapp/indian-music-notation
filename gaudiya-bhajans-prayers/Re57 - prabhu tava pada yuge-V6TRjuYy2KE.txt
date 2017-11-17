@@ -7,49 +7,49 @@ Language: Bengali
 LYRICS:
 
 (1)
-'R/R    R     P   mP R 'N/R 'N S 'R/S 'R 'R/S S S/P P    R    S'n  'R 'R/R
+'D/R    R     G   mG R 'N/R 'N S 'D/S 'D 'D/S S S/G G    R    S'n  'D 'D/R
 prabhu tava  pada - yu      ge   mo      ra     ni    ve   da      n
 
-P/D   D   P      m     P 'R/P 'R 'R/S S  S/P P     R    S'n    'R
+G/D   D   P      m     G 'D/G 'D 'D/S S  S/G G     R    S'n    'D
 nāhi māgi   deha - sukha,     vidyā,     dha   na,   ja      n
 
  
 
 (2)
- S   R R/m m  P   D     PD     P       D     PDP  m P
+ S   R R/m m  P   D     PD     P       D     PDP  m G
 nāhi   mā    gi swarga, ā  ra mokṣa nā   hi mā   gi
 
-P/D D       P       m P 'R/P 'R 'R/S S S/P P    R    S'n  'R
+G/D D       P       m G 'D/G 'D 'D/S S S/G G    R    S'n  'D
 nā kori prā rthanā kono vi      bhū    ti    ra   lā      gi’
 
 Then repeat the first line of (1)
  
 
 (3)
-'R/R  R       P    mPR 'N/R 'N    S 'R/S 'R'R/S S S/P P R    S'n  'R
+'D/R  R       G    mGR 'N/R 'N    S 'D/S 'D'D/S S S/G G R    S'n  'D
 nija-karma-gu   na  -  do      ṣe   je     je     ja  nma pā      i
 
-P/D       D P      m    P 'R/P 'R 'R/S S S/P P    R    Sn  'R 'R/R
+G/D       D P      m    G 'D/G 'D 'D/S S S/G G    R    Sn  'D 'D/R
 janme janme   jeno   tava      nā ma  -  gu    na   gā     i
 
 Then repeat the first line of (1)
  
 
 (4)
-SR R/m m P D     P  D   P/D P  D      PD  P m P
+SR R/m m P D     P  D   P/D P  D      PD  P m G
 ei mā  tra ā  śā   mama to mār   cara    ṇe
 
-P/D  D      P        m    P 'R/P 'R 'R/S S S/P P     R    S 'n  'R
+G/D  D      P        m    G 'D/G 'D 'D/S S S/G G     R    S 'n  'D
 a   hoitukī   bhakti   hṛde      jā ge     a     nuk   ṣa       ne
 
 Then repeat the first line of (1)
  
 
 (5)
-'R/R    R        P    mPR 'N/R 'N     S 'R/S 'R 'R/S S S/P P   R    S'n  'R
+'D/R    R        G    mGR 'N/R 'N     S 'D/S 'D 'D/S S S/G G   R    S'n  'D
 vi   ṣaye je prī   ti     e        be   ā       cha    ye    ā   mā         r
 
-P/D D      P       m    P 'R/P 'R   'R/S S  S/P P     R     S'n  'R
+G/D D      P       m    G 'D/G 'D   'D/S S  S/G G     R     S'n  'D
 se  i-mata   prīti   hauk      cara         ṇe     to    mā         r
 
 Then repeat the first line of (1)
@@ -57,20 +57,20 @@ Then repeat the first line of (1)
 
 (6)
 
-S/P S    R R/m mP D   P    D     P/D  P     D      PDP    m P
+S/G S    R R/m mP D   P    D     P/D  P     D      PDP    m G
 vi    pa   de sampade   tā   hā thā  kuk sa   ma-bhā   ve
 
-P/D  D       P        m    P 'R/P 'R 'R/S S S/P P     R   S'n  'R
+G/D  D       P        m    G 'D/G 'D 'D/S S S/G G     R   S'n  'D
 di  ne dine    vṛddhi   hauk      nā me     ra    pra   bhā    ve
 
 Then repeat the first line of (1)
  
 
 (7)
-'R/R  R        P    mPR    'N/R 'N    S 'R/S 'R  'R/S S S/P P    R    S'n  'R
+'D/R  R        G    mGR    'N/R 'N    S 'D/S 'D  'D/S S S/G G    R    S'n  'D
 paśu-pakṣi ho’   ye    thā         ki   swa     rge     vā    ni   ro      ye
 
-P/D D        P      m      P 'R/P 'R    'R/S S S/P P     R    S'n  'R
+G/D D        P      m      G 'D/G 'D    'D/S S S/G G     R    S'n  'D
 ta va bhakti   rahu   bhakti      vi no        da  -  hṛ   do      ye
 
 Then repeat the first line of (1)

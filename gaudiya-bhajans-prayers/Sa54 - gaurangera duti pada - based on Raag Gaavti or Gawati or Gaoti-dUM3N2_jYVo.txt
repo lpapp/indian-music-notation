@@ -8,82 +8,82 @@ LYRICS:
 
 (1)
 
- S    S/P   P m    P       DPmP    P m     P P/P PS        'n 'R
+ S    S/G   G m    P       DPmG    P m     P G/P GS        'n 'D
 gaurā ń    gera du   ṭi pada,   jā   r dhana sa     m pada,
 
 A,    C    DE          D C  DEDC    C/G (When finishing here: G,/C instead of C/G)
 se jā   ne    bhakati-rasa-sā    r
 
- P  D P/D P   P  D D/S'S'   R'P'R'S'     R'     P'     R'S'n   D   n PD S'n D n DP
+ P  D G/D G   P  D D/S'S'   R'G'R'S'     R'     G'     R'S'n   D   n PD S'n D n DP
 gaurāńge  ra madhu ra  -  līlā,       jā    r ka  rṇe pra  ve śilā,
 
-   D       P DPm       R/m  Rm   PDn DPmP
+   D       P DPm       R/m  Rm   PDn DPmG
 hṛdoya nirmala   bhelo     tā  r
 
-   P m    P P/P  P     R S   RPRS   S/D
+   P m    P G/P  G     R S   RGRS   S/D
 hṛdoya ni r     mala bhelo  tā    r
  
 (2)
 
- S     S/P P    m    P      DPmP       P  m    P     P   S     'n 'R
+ S     S/G G    m    P      DPmG       P  m    P     G   S     'n 'D
 je gau    rāńgera nā   ma lo     y, tā   ra ho   y premo   doy,
 
-'R   'R/S SRP      R S RPRS    S/P
+'D   'D/S SRG      R S RGRS    S/P
 tāre     mui  jāi bolihā    ri
 
 ( G  A E/A  E  G A A/C' C'    D'E'D'C'    D'   E' D'C'BbAG - repeat line)
 (gaurā ń   ga-guṇe te      jhure,      gaura nitai                      )
 
 
-  P  D P/D  P  P D D/S' S'    R'P'R'S'    R'    P'   R'S'n     D   n PD S'n D n DP
+  P  D G/D  G  P D D/S' S'    R'G'R'S'    R'    G'   R'S'n     D   n PD S'n D n DP
  gaurā ń   ga-guṇe te      jhure,      nitya-lī   lā tā  re sphure,
 
- D          P    D Pm    R/m Rm   PDn DPmP
+ D          P    D Pm    R/m Rm   PDn DPmG
 se jana bha  ka ti - adhi   kā rī
 
-    P m     PP         R  S  RPRS   S/D
+    P m     PG         R  S  RGRS   S/D
 se jana bha    ka ti - adhi kā   rī
  
 
 (3)
 
- S S/P P m   P      DPmP    P      m      P    S      'n 'R
+ S S/G G m   P      DPmG    P      m      G    S      'n 'D
 gaurāńgera sańgi-gaṇe,   ni   tya-siddha kori'   māne,
 
-'R    'R/S     SRP         R S  RPRS   S/P
+'D    'D/S     SRG         R S  RGRS   S/P
 se jā      y bra   jendra-suta-pā    ś
 
 (  G  A E/A  E  G  A A/C'C'    D'E'D'C'    D'   E' D'C'BbAG - repeat line)
 (śrī-ga u   ḍa-maṇḍa la  -  bhūmi,      gaura nitai                      )
 
-  P  D P/D  P  P  D D/S'S'    R'P'R'S'  R'   P'   R'S'n  D   n PD S'n D n DP
+  P  D G/D  G  P  D D/S'S'    R'G'R'S'  R'   G'   R'S'n  D   n PD S'n D n DP
 śrī-ga u   ḍa-maṇḍa la  -  bhūmi,     jebā jā  ne cin tāmaṇi,
 
- D       P     D Pm        R/m  Rm   PDn DPmP
+ D       P     D Pm        R/m  Rm   PDn DPmG
 tāra hoy   braja  -  bhūme     bā  s
 
-   P  mP P/P P           R S  RPRS   S/D
+   P  mP G/P G           R S  RGRS   S/D
 tāra ho  y     braja - bhūme bā    s
 
 (4)
 
- S    S/P   P m    P        DPmP     P m  P P/P  P   S      'n 'R
+ S    S/G   G m    P        DPmG     P m  P G/P  G   S      'n 'D
 gaura  -  prema-ra  sā  rṇave,   śe tarańge     jebā   ḍube,
 
-'R    'R/S    S    RP       R  S RPRS   S/P
+'D    'D/S    S    RG       R  S RGRS   S/P
 se rā      d hā-mā    dhava-antara  ńga
 
 ( G A E/A E  G A A/C'C'   D'E'D'C'   D'   E' D'C'BbAG - repeat line)
 (gṛhe bā    vane te    thāke,     gaura nitai                      )
     
     
- P D P/D P  P D D/S'S'   R'P'R'S'   R'   P'    R'S'n   D   n PD S'n D n DP
+ P D G/D G  P D D/S'S'   R'G'R'S'   R'   G'    R'S'n   D   n PD S'n D n DP
 gṛhe bā    vane te    thāke,    'hā gaurāń ga' bo' le ḍāke,
 
- D        P    D  Pm      R/m  Rm  PDn DPmP
+ D        P    D  Pm      R/m  Rm  PDn DPmG
 narottama   mā  ge   tāra     sa ńga
 
-   P m     P P/P P      R    S    RPRS    S/D
+   P m     P G/P G      R    S    RGRS    S/D
 naro   ttama       māge   tā  ra sań   ga
 
 

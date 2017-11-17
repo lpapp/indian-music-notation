@@ -1,66 +1,66 @@
 
-  R   P m  P  S/P S    R'N 'R  'R/R
+  R   G m  G  S/G S    R'N 'D  'D/R
 Bhaj gopaalan    deen dayaalan
 
- R        P  P/D D P   m   P P/P P                        P/N
+ R        G  G/D D P   m   P G/P G                        G/N
 vachan krpaala   n   taap ha ra  n (these two lines x 2)
 
     N            DN S'    R'  N  D  R/D
 sundar vana  maalan nayan vishaalan
 
- R      P P/D D P     m     P  P/P P R
+ R      G G/D D P     m     P  G/P G R
 roop rasaala  n   chi   tt haran
 
 =====
 
-  R   P m  P  S/P  S    R'N 'R  'R/R
+  R   G m  G  S/G  S    R'N 'D  'D/R
 Bhaj gopaalan     deen dayaalan
 
- R        P P/D D P   m   P   P/P P
+ R        G G/D D P   m   P   G/P G
 vachan krpaala  n   taap hara n
 
 =====
 
- R  P   m   P  S/P  S   R 'N     'R  'R/R
+ R  G   m   G  S/G  S   R 'N     'D  'D/R
 Vaarij vadanan     lajjit    madanan
 
-R       P  P/D D   Pm    P  P/P P P/N
+R       G  G/D D   Pm    P  G/P G G/N
 Aanand sadana  n pre m dharan
 
  N               DN S'     R' N/R'  N  D  R/D
 Mohan ghanashyaaman nayanabhi      raaman
 
- R        P P/D D   P  m  P  P/P P
+ R        G G/D D   P  m  P  G/P G
 Laavany ghaama  n chandr varan
 
 =====
 
-  R   P m  P  S/P  S    R'N 'R  'R/R
+  R   G m  G  S/G  S    R'N 'D  'D/R
 Bhaj gopaalan     deen dayaalan
 
- R        P P/D D   m   P P/P P
+ R        G G/D D   m   P G/P G
 Vachan krpaala  n taap ha ra  n
 
 =====
 
- R P   m  P  S/P  S     R 'N     'R  'R/R
+ R G   m  G  S/G  S     R 'N     'D  'D/R
 Mohan leelan     karuna      sheelan
 
- R        P P/D D   Pm     P  P/P P P/N
+ R        G G/D D   Pm     P  G/P G G/N
 Rasaghan leela  n ghaam paran
 
  N          DN S'   R' N  D  R/D
 Venu praveenan nity naveenan
 
-  R       P P/D D  Pm      P  P/D P
+  R       G G/D D  Pm      P  G/D G
 Priy jan deena  n de  vaparan
 
 =====
 
-  R   P m  P  S/P  S    R'N 'R  'R/R
+  R   G m  G  S/G  S    R'N 'D  'D/R
 Bhaj gopaalan     deen dayaalan
 
- R        P P/D D   m   P P/P P
+ R        G G/D D   m   P G/P P
 vachan krpaala  n taap ha ra  n
 
 

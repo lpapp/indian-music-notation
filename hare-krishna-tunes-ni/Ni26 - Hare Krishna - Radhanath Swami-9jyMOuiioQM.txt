@@ -1,31 +1,31 @@
 ========== Part 1 ==========
 
-'N   'R 'Nr      Rr' N r P   P/'M
+'N   'D 'Nr      Rr' N r G   G/'M
 hare    kṛṣ  ṇa hare   kṛṣṇa
 
-'M R/'M R  PR   r  'N'R 'Nr      'N/r
+'M R/'M R  GR   r  'N'D 'Nr      'N/r
 kṛ ṣ   ṇa kṛṣṇa    hare ha   re
 
-'N   'R 'Nr      Rr' N r P    P/'M
+'N   'D 'Nr      Rr' N r G    G/'M
 hare    rā   ma hare   rā  ma
 
-'M R/'M R  P Rr  'N'R 'Nr      'N/r
+'M R/'M R  G Rr  'N'D 'Nr      'N/r
 rā ma     rāma   hare ha   re
 
 => C#/A
 
 ========== Part 2 ==========
 
- D   d  'M     Pd' M  PR
+ D   d  'M     Gd 'M  GR
 hare    kṛṣṇa hare   kṛṣṇa
 
- P  R  P  Rr  'N'R 'Nr      r /D
+ G  R  G  Rr  'N'D 'Nr      r /D
 kṛṣṇa kṛṣṇa   hare ha   re
 
- D   d  'M    Pd' M  PR
+ D   d  'M    Gd 'M  GR
 hare    rāma hare   rā  ma
 
- P R  P Rr  'N'R 'Nr      r /D
+ G R  G Rr  'N'D 'Nr      r /D
 rāma rāma   hare ha   re
 
 => B,/C# when going back to Part 1
@@ -34,13 +34,13 @@ rāma rāma   hare ha   re
          Double-time
 ========== Part 3 ==========
 
-'N   'R 'N 'N/r  r           r /P
+'N   'D 'N 'N/r  r           r /G
 hare kṛṣṇa ha       re kṛṣṇa
 
- P    'M  P  R
+ G    'M  G  R
 kṛṣṇa kṛṣṇa hare hare
 
-      PR    r    'N'R 
+      GR    r    'N'D 
 hare rā  ma hare rā   ma
 
 'N   r
@@ -51,10 +51,10 @@ rāma rāma hare hare
  D   d     'M       
 hare kṛṣṇa hare kṛṣṇa
 
-    P d  'M  P   R
+    G d  'M  G   R
 kṛṣṇa kṛṣṇa hare   hare
 
-      PR    r    'N'R
+      GR    r    'N'D
 hare rā  ma hare rā   ma
 
 'N   r              r /D

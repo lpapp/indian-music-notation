@@ -1,70 +1,70 @@
 ========== Part 1 ==========
 
- R   'N    'R'N 'P/S 'P   'R 'R/P
+ R   'N    'D'N 'P/S 'P   'D 'D/G
 hare kṛṣṇa hare        kṛṣṇa
 
- P     m  P 'NR P  R S R
+ G     m  G 'NR G  R S R
 kṛṣṇa kṛṣṇa ha re hare
 
-     'N   'R'N'P/S 'P  'R 'R/P
+     'N   'D'N'P/S 'P  'D 'D/G
 hare rāma hare       rāma
 
- P    m P 'NR P  R S R
+ G    m G 'NR G  R S R
 rāma rāma ha re hare
 
 ========== Part 2 ==========
 
- R P  S  R P    P/D           P P
+ R G  S  R G    G/D           P G
 hare kṛṣṇa   ha     re  kṛṣṇa
 
-            R  P      R S R
+            R  G      R S R
 kṛṣṇa kṛṣṇa  ha re hare
 
-   P  S R P   P/D         P P
+   G  S R G   G/D         P G
 hare rāma   ha    re rāma
  
-          R   P      R S R
+          R   G      R S R
 rāma rāma   ha re hare
 
 ========== Part 3 ==========
 
- R P  P/d   d  D   d   N  D
+ R G  G/d   d  D   d   N  D
 hare kṛ    ṣṇa   hare kṛṣṇa
  
-S'  N  D d   D      P'MPR
+S'  N  D d   D      P'MGR
 kṛṣṇa kṛṣṇa hare hare
 
-   P P/d  d  D   d   N D
+   G G/d  d  D   d   N D
 hare rā   ma   hare rāma
 
-S' N  Dd   D      P'MPR
+S' N  Dd   D      P'MGR
 rāma rāma hare hare
 
 ========== Part 3v2 (With chords) ==========
 
- R P  P/d     P/D   P/d  P/N P/D D
+ R G  G/d     G/D   G/d  G/N G/D D
 hare kṛ    ṣṇa    hare   kṛ ṣṇa
  
-S'  N  D d   D      P'MPR
+S'  N  D d   D      P'MGR
 kṛṣṇa kṛṣṇa hare hare
 
-   P P/d    P/D   P/d   P/N P/D
+   G G/d    G/D   G/d   G/N G/D
 hare rā   ma    hare    rā  ma
 
-S' N  Dd   D      P'MPR
+S' N  Dd   D      P'MGR
 rāma rāma hare hare
 
 ========== Part 4 ==========
 
- D       N P      'M  P R 'N
+ D       N P      'M  G R 'N
 hare kṛṣṇa   hare kṛṣṇa
 
-    R  P  R S        'N'R
+    R  G  R S        'N'D
 kṛṣṇa kṛṣṇa   hare hare
 
- D      N P      'M P R 'N
+ D      N P      'M G R 'N
 hare rāma   hare rāma
 
-   R  P R S        'N'R
+   R  G R S        'N'D
 rāma rāma   hare hare
 

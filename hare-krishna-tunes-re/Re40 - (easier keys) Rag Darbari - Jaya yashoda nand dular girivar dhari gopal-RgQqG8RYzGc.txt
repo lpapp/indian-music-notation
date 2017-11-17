@@ -1,6 +1,6 @@
 ========== Part 1 ==========
 
-r  R R/m m    P r   R P   R P m D   mP R r  R
+r  R R/m m    G r   R G   R G m D   mG R r  R
 Jaya yashoda nand  dular girivar  dha ri gopal
 
  D/G G A G (G/C') C' A  G F     E E/G  G (E/G) E   C  D  D/G

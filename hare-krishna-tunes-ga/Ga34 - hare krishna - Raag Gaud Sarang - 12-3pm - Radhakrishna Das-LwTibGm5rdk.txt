@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
-S/P P     m  P    RS RP S/P
+S/G G     m  G    RS RG S/G
 ha re kṛṣṇa hare kṛṣṇa
 
- S  R  S'N SR  PR P  R S S/P
+ S  R  S'N SR  GR G  R S S/G
 kṛṣṇa kṛṣ ṇa  ha re hare
 
-   P  m    P    RS  RP S/P
+   G  m    G    RS  RG S/G
 hare rāma hare rā  ma
 
- S R  S'N SR  PR P  R S S/P
+ S R  S'N SR  GR G  R S S/G
 rāma rā  ma  ha re hare
 
 ========== Part 2 ==========
@@ -31,29 +31,29 @@ rāma rāma   hare hare
  D         PDN    D     P
 hare kṛṣṇa     hare kṛṣṇa
 
- D     Pm PR  m P  R S S/D
+ D     Pm GR  m G  R S S/D
 kṛṣṇa kṛṣṇa  hare hare
 
  D        PDN    D    P
 hare rāma     hare rāma
 
- D P  m  PR  m P  R S S/D
+ D P  m  GR  m G  R S S/D
 rāma rā ma  hare hare
 
 ============================
          Double-time
 ========== Part 4 ==========
 
- P          m
+ G          m
 hare kṛṣṇa hare kṛṣṇa
 
- P     R  S  R    P   S/P
+ G     R  S  R    G   S/G
 kṛṣṇa kṛṣṇa hare hare
 
  S R  S'N  S    R
 hare rāma hare rāma
 
- P R  P R  S        S/P
+ G R  G R  S        S/G
 rāma rāma hare hare
 
 ========== Part 5 ==========
@@ -106,10 +106,10 @@ hare kṛṣṇa hare kṛṣṇa
  N  D        P
 kṛṣṇa kṛṣṇa hare hare
 
- m         P    R
+ m         G    R
 hare rāma hare rāma
 
- P R       S        S/D
+ G R       S        S/D
 rāma rāma hare hare
 
 ========== Part 9 ==========
@@ -120,10 +120,10 @@ hare kṛṣṇa hare kṛṣṇa
 S'     N  D  P
 kṛṣṇa kṛṣṇa hare hare
 
- m         P    R
+ m         G    R
 hare rāma hare rāma
 
- P R       S        S/D
+ G R       S        S/D
 rāma rāma hare hare
 
 ========== Part 10 ==========
@@ -134,10 +134,10 @@ hare kṛṣṇa hare kṛṣṇa
  N     D     P
 kṛṣṇa kṛṣṇa hare hare
 
- D    P    m    P R
+ D    P    m    G R
 hare rāma hare rāma
 
- m P  R    S        S/D
+ m G  R    S        S/D
 rāma rāma hare hare
 
 ========== Part 11 ==========
@@ -148,8 +148,8 @@ hare kṛṣṇa hare kṛṣṇa
 S'     N  D  P
 kṛṣṇa kṛṣṇa hare hare
 
- D    P    m    P R
+ D    P    m    G R
 hare rāma hare rāma
 
- m P  R    S        S/D
+ m G  R    S        S/D
 rāma rāma hare hare

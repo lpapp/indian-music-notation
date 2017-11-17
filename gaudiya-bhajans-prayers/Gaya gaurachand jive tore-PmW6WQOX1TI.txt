@@ -8,10 +8,10 @@ LYRICS:
 
 (refrain)
 
- R     P P/P P    'M R   P R S R
+ R     G G/P P    'M R   G R S R
 gāy gorā cā    nd jīver tore
 
-       P P/P P 'M R  P R
+       G G/P P 'M R  G R
 hare kṛṣ ṇa    hare hare 
 
  
@@ -33,7 +33,7 @@ Then repeat the refrain
  
 
 (2)
-R   P P/P P          'M  R     P R S P
+R   G G/P P          'M  R     G R S G
 ekbār bo    l rasanā u ccaiḥ-sware
 
 Then repeat the second line of the refrain
@@ -44,7 +44,7 @@ Then repeat the second line of the refrain
 S'           N D    N       DP      R/P
 nandera nandan,  ya   śoda-jī  van,
 
-  R          P P/P P    'M R   P R S R
+  R          G G/P P    'M R   G R S R
 śrī-rādhā-ra  ma    ṇ, prema-bhare
 
  
@@ -56,7 +56,7 @@ nandera nandan,  ya   śoda-jī  van,
     S'       N D    N    D       P        R/P
 śrī-madhusūdan,  go   pī - prāna - dhana,
 
- R        P P/P P     'M  R  P R  S R
+ R        G G/P P     'M  R  G R  S R
 muralī-va   da    na, nṛtya kore’
 
  'MP  D         NS'   N P/N  P   D          D/S'
@@ -65,7 +65,7 @@ muralī-va   da    na, nṛtya kore’
 S'          N D    N          DP       R/P
 a gha-nisūdan,  pū   tanā - ghā  tana,
 
-  R         P P/P P     'M    R  P R S R
+  R         G G/P P     'M    R  G R S R
 brahma-vimo   ha    na, ūr dhva-kare
 
 

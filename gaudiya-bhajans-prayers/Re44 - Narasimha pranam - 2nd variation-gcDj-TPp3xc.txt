@@ -7,53 +7,53 @@ Language: Sanskrit
 
 LYRICS:
 
- R P   m  PDP   mP R
+ R G   m  PDP   mG R
 namas te narasimhaya
 
-R/D    Pm P m  PmP R
+R/D    Pm G m  PmG R
 prahladahlada-dayine
 
- R S PR S  'n SP  m P R
+ R S GR S  'n SG  m G R
 hiranya ka sipor vakshah
 
  D      n  D  PS'  n    D
 hiranya ka   sipor vakshah
 
- Dn  DP mP  m  PmP R
+ Dn  DP mG  m  PmG R
 sila-tanka-nakhalaye
 
 =========================================
 
-R S  P  R  S'n S   P   m P  R
+R S  G  R  S'n S   G   m G  R
 ito nrisimhah parato nrisimho
 
 D      n   D   P  S'  n     D
 ito nrisimhah parato nrisimho
 
- Dn   D P  m P  m P   m P  R
+ Dn   D P  m G  m P   m G  R
 yato yato yami tato nrisimhah
 
- R S    P R  S'n    S   P   m P  R
+ R S    G R  S'n    S   G   m G  R
 bahir nrisimho    hridaye nrisimho
 
  D       n   D   P  S'  n     D
 bahir nrisimho hridaye nrisimho
 
-  D n  D  P m   P m P    m P  R   
+  D n  D  P m   G m P    m G  R   
 nrisimham adim saranam prapadye
 
 =========================================
 
- R      P  m      P D n  D P  m  P  m   P m   P  R P R S
+ R      G  m      P D n  D P  m  P  m   P m   G  R G R S
 tava kara-kamala-vare        nakham adbhuta-sringam
 
- P      m P    m   P S'     n   D
+ G      m P    m   G S'     n   D
 dalita-hiranyakasipu-tanu-bhringam
 
- R   P   mP R        P mP R         P m    P D n  D P m P
+ R   G   mG R        G mG R         G m    P D n  D P m P
 kesava dhrita-narahari-rupa jaya jagadisa hare
 
- P        m P  R P R S   P      m PS' n  D
+ P        m G  R G R S   G      m PS' n  D
 jaya jagadisa hare      jaya jagadisa hare
 
 ========== End of the prayer ==========

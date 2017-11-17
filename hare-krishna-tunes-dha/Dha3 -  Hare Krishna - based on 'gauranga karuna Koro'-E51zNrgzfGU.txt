@@ -3,11 +3,11 @@
 R/D        R/P R/D P   m    S/m
 hare kṛṣṇa ha  re   kṛ  ṣṇa
 
-S/P  S/m P  S  R m  P R 'R/R
+S/P  S/m G  S  R m  G R 'D/R
 kṛṣ  ṇa kṛṣṇa hare hare
 
-   R         P  mPm    S/m
+   R         G  mPm    S/m
 hare rāma hare rā   ma
 
-S/P S/m P S  R m  P R 'R/R
+S/P S/m G S  R m  G R 'D/R
 rā  ma rāma hare hare

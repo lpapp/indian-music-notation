@@ -2,54 +2,54 @@
       Sri Ram Jaya Ram
 ========== Part 1 ==========
  
-  SR P R     P R  S 'R/S 'R 'R/R  R   S
+  SR G R     G R  S 'D/S 'D 'D/R  R   S
 Sri Ra    m Jaya Ra      m  Jaya Jaya   Ram
 
 ========== Part 1v2 (Simplified) ==========
  
-  SR P      R  S 'R/S 'R 'R/R  R    S
+  SR G      R  S 'D/S 'D 'D/R  R    S
 Sri Ra m Jaya Ra      m  Jaya Jaya Ram
 
 ========== Part 2 ==========
 
-'R 'R/R  R            P    R    S   'R/S
+'D 'D/R  R            G    R    S   'D/S
 Sri     Ram Jaya Ram Jaya Jaya Ram
 
 ========== Part 3 ==========
 
-  R           SR    P    m P  R S    S/m
+  R           SR    G    m G  R S    S/m
 Sri Ram Jaya Ra  m Jaya Jaya Ra   m
 
 ========== Part 4 ==========
 
-  m           Pm    P    R S  R P   m
+  m           Pm    G    R S  R G   m
 Sri Ram Jaya Ra  m Jaya Jaya Ra   m
 
 ============================
           Sitaram
 ========== Part 5 ==========
 
- S R P         R   S'R'R/R    R   S
+ S R G         R   S'D'D/R    R   S
 Sitaram Sitara  m Sitara   m Sitaram
 
 ========== Part 5v2 ==========
 
- S R P     R P R    S 'R 'R/R  R   S
+ S R G     R G R    S 'D 'D/R  R   S
 Sitaram Sitara   m Si ta ram  Sitaram
 
 ========== Part 5v3 ==========
 
- S R P     R S 'R  'R/R  R     S
+ S R G     R S 'D  'D/R  R     S
 Sitaram Sitara   m Si   taram Sitaram
 
 ========== Part 6 ==========
 
-'R  'R/R         R   P   R   S
+'D  'D/R         R   G   R   S
 Sitaram Sitaram Sitaram Sitaram
 
 ========== Part 7 ==========
 
- R           SR    P   m P    R   S  S/m
+ R           SR    G   m G    R   S  S/m
 Sitaram Sitara  m Sitara   m Sitaram
 
 ========== Part 8 ==========
@@ -61,22 +61,22 @@ Si taram Sitara  m Sitara  m Sitaram
           Radhe Syam
 ========== Part 9 ==========
 
- S  R  P       R  PR   S 'R 'R/R  R     S
+ S  R  G       R  GR   S 'D 'D/R  R     S
 Radhe Syam Radhe Syam Radhe Syam Radhe Syam
 
 ========== Part 9v2 ==========
 
- S R P          R  S 'R   'R/R   R    S
+ S R G          R  S 'D   'D/R   R    S
  Radhe Syam Radhe Sya   m Radhe Syam Radhe Syam
 
 ========== Part 10 ==========
 
-'R    'R/R  R                P    R     S   'R/S
+'D    'D/R  R                G    R     S   'D/S
 Radhe Syam Radhe Syam Radhe Syam Radhe Syam
 
 ========== Part 11 ==========
 
- R                SR   P     mP    R    S   S/m
+ R                SR   G     mG    R    S   S/m
 Radhe Syam Radhe Syam Radhe Syam Radhe Syam
 
 ========== Part 12 ==========

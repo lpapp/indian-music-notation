@@ -6,10 +6,10 @@ hare kṛ   ṣṇa hare kṛṣṇa
  m 'M d  'M R/'M R   r       r /m
 kṛṣṇa kṛṣṇa ha     re   hare
 
- m'M 'M/D D    d  D d' M
+ m'M 'M/D D    d  D d 'M
 hare rā     ma hare rā   ma
 
- m'M    d' M    R/'M R    r       r /m
+ m'M    d 'M    R/'M R    r       r /m
 rā   ma rā   ma ha     re    hare
 
 => C#/F#
@@ -71,7 +71,7 @@ kṛṣṇa kṛṣṇa hare hare
   r'    S'D         d
 ha   re rā  ma hare rāma
 
-      D d' M              'M/r'
+      D d 'M              'M/r'
 rāma rā      ma hare hare
 
 ========== Part 6 ==========

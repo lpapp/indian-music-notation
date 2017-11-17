@@ -10,52 +10,52 @@ LYRICS:
 CD  E    D   E  DC       D   D/G    G    F    ED(ED)C    C/G
 ei-bāro karuṇā ko  ro vaiṣṇa     va   go   sā         ñi
 
-   P         P/P P    P/P  P    Dn DPm    P  R R/P  P  mPRS
+   P         G/P G    G/P  P    Dn DPm    G  R R/P  P  mGRS
 pa   tita-pā       va     na tomā      bine ke     ho nā    i
 
  
 
 (2)
- S R P    R P  RS       R    R/P P    m    PRS   S/P P
+ S R G    R G  RS       R    R/P P    m    GRS   S/P P
 jāhāra nikaṭe ge  le pā   pa dū    re   jā     y
 
-  P/n  n     DP           Dn DPm    P     R  R/P P  mPRS
+  P/n  n     DP           Dn DPm    G     R  R/P P  mGRS
 e      mona do  yāla prabhu      ke   bā ko thā    pā    y
 
  
 
 (3)  
- S  R P    R P  RS     R  R/P P    m    PRS   S/P
+ S  R G    R G  RS     R  R/P P    m    GRS   S/P
 gańgāra paraśa hoile paścate    pā   va     n
 
- P         P/P P    P/P   P    Dn DPm   P  R R/P P     mPRS
+ P         G/P G    G/P   P    Dn DPm   G  R R/P P     mGRS
 darśane pa       vi     tra koro   -   ei to mā    ra gu    ṇ
 
  
 
 (4)
- S R    P   R P RS      R   R/P P    m    PRS   S/P P
+ S R    G   R G RS      R   R/P P    m    GRS   S/P P
 hari-sthāne aparā  dhe tāre ha    ri - nā     m
 
-   P/n  n     Dn  D P        Dn DPm    P  R R/P  P  mPRS
+   P/n  n     Dn  D P        Dn DPm    G  R R/P  P  mGRS
 to      mā sthāne     aparādhe      nāhi pa     ritrā    ṇ
 
  
 
 (5)
- S RP       R P  RS       R   R/P    P   m   PRS   S/P
+ S RG       R G  RS       R   R/P    P   m   GRS   S/P
 tomā  ra hṛdoye sa  dā go   vin   da - viśrā     m
 
- P         P/P P    P/P  P    Dn DPm    P   R    R/P P  mPRS
+ P         G/P G    G/P  P    Dn DPm    G   R    R/P P  mGRS
 govinda ko       he     na-mora      vaiṣṇa   va pa    rā    ṇ
 
  
 
 (6)
-  S R  P     R P RS       R R/P    P    m       PRS S/P P
+  S R  G     R G RS       R R/P    P    m       GRS S/P P
 prati-janme kori ā  śā cara     ṇe   ra   dhūli
 
-   P/n  n   D n  D P         Dn DPm   P    R    R/P  P  m    PRS
+   P/n  n   D n  D P         Dn DPm   G    R    R/P  P  m    GRS
 na      rotta me     koro doyā      ā   pa   nā     ra boli'
 
 

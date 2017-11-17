@@ -30,7 +30,7 @@ jaya          ti te 'dhikaḿ jan         ma nā   vrajaḥ
    d    'M R/'M R     'M    d  d /N  N n    d     'M        'M/r'
 śrayata i  n       di    rā         śa ś  va   da    tra hi
 
-r'        g'  r'     g'  r'   N n  d n d' M
+r'        g'  r'     g'  r'   N n  d n d 'M
 da yita dṛśya tāḿ di     kṣu tā    vakā     s
 
    d     'M R/'M R  'M d    d /N   N  n d   'M
@@ -39,13 +39,13 @@ tvayi dhṛtā       sava    s      tvāḿ vicin    vate
  
 
 (3) 
-g    g /'M 'M    d n  N    N/r'  r'   N n d  'M d n d' M
+g    g /'M 'M    d n  N    N/r'  r'   N n d  'M d n d 'M
 śara          d-udāśaye sā          dhu-jā   ta-sa       t-
 
-  d   'M R/'M R   'Md d /N  N n d' M       'M/r'
+  d   'M R/'M R   'Md d /N  N n d 'M       'M/r'
 sarasijo        dara  -   śrī-muṣā   dṛśā
 
-r'        g'  r'      g'   r'    N n  d n d' M
+r'        g'  r'      g'   r'    N n  d n d 'M
 su rata-nātha te  'śu     lka - dā    sikā
 
   d     'M R/'M R     'M d  d /N N   n  d   'M
@@ -54,13 +54,13 @@ vara-da ni        ghnato           neha kiḿ    vadhaḥ
  
  
 (4)
-g    g /'M 'M  d  n  N      N/r'  r'   N n  d   'Md n d' M
+g    g /'M 'M  d  n  N      N/r'  r'   N n  d   'Md n d 'M
 viṣa    -    jalāpyayād vyā           la-rā    kṣasā       d
 
-  d     'M R/'M  R'M d    d /N  N  n d' M       'M/r'
+  d     'M R/'M  R'M d    d /N  N  n d 'M       'M/r'
 var  ṣa-mā      rutā    d      vaidyutā   nalāt
 
-r'          g' r'     g'  r'     N n   d n  d' M
+r'          g' r'     g'  r'     N n   d n  d 'M
 vṛ ṣa-ma yā tmajād vi     ś   vato    bhayā      d
 
     d  'M R/'M  R'M  d  d /N  N n d  'M
@@ -84,13 +84,13 @@ sakha udeyivān sātvatāḿ kule
 
 ========== SB 10.31.5 ==========
 
-g  g /'M 'M   d  n  N     N/r'  r'   N/r'  N  n d    'M d n   d' M
+g  g /'M 'M   d  n  N     N/r'  r'   N/r'  N  n d    'M d n   d 'M
 vi ra       citābhayaṁ vṛ          ṣṇi   -   dhū   r ya te
 
   d     'M R/'M R   'M d    d /N  N n d   'M        'M/r'
 caraṇam ī         yuṣā    ṁ      saṁsṛter    bhayāt
 
-r'        g' r'     g'  r' N/r'  N n  d  n   d' M
+r'        g' r'     g'  r' N/r'  N n  d  n   d 'M
 ka ra-saroru haṁ kā    nta kā         ma-daṁ
 
   d     'M R/'M  R 'M  d  d /N   N n d  'M
@@ -98,13 +98,13 @@ ka ra-saroru haṁ kā    nta kā         ma-daṁ
 
 ========== SB 10.31.6 ==========
 
- g  g /'M 'M   d  n   N     N/r'  r'   N/r'  N n d  'Md  n  d' M
+ g  g /'M 'M   d  n   N     N/r'  r'   N/r'  N n d  'Md  n  d 'M
 vra       ja-janārti-han vī           ra       yo   ṣitā ṁ
 
   d    'M R/'M R    'M d  d /N  N   n d   'M   'M/r'
 nija-jana   -    smaya    -    dhvaṁsana-smita
 
-r'          g' r'    g'  r' N/r' N   n   d  n  d' M
+r'          g' r'    g'  r' N/r' N   n   d  n  d 'M
 bhaja sakhe bhavat-kiṅ   ka rī     ḥ    sma no
 
   d   'M R/'M R 'M  d  d /N  N n  d   'M
@@ -112,13 +112,13 @@ jalaruhā     na naṁ         cā ru dar   śaya
 
 ========== SB 10.31.7 ==========
 
- g  g /'M 'M    d n  N     N/r'  r'  N/r'  N n d  'Md  n  d' M
+ g  g /'M 'M    d n  N     N/r'  r'  N/r'  N n d  'Md  n  d 'M
 pra ṇa       ta-dehināṁ pā          pa   -   kar  ṣaṇa ṁ
 
-  d    'M R/'M R   'M  d  d /N   N n d' M       'M/r'
+  d    'M R/'M R   'M  d  d /N   N n d 'M       'M/r'
 tṛṇa-carā        nugaṁ         śrī-nike   tanam
 
-r'          g' r'     g' r' N/r'  N n    d n   d' M
+r'          g' r'     g' r' N/r'  N n    d n   d 'M
 phaṇi-phaṇārpi taṁ te    pa dā        m  bujaṁ
 
   d    'M R/'M R    'M  d  d /N  N  n  d   'M
@@ -126,27 +126,27 @@ kṛṇu kuce        ṣu naḥ         kṛndhi hṛc-chayam
 
 ========== SB 10.31.8 ==========
 
-g  g /'M 'M   d  n  N    N/r'  r'   N/r'  N n d   'Md  n   d' M
+g  g /'M 'M   d  n  N    N/r'  r'   N/r'  N n d   'Md  n   d 'M
 ma dhu      rayā girā val          gu   -   vā   kyayā
 
    d    'M R/'M R    'M d  d /N  N n d  'M   'M/r'
 budha-mano        jñayā         puṣkarekṣaṇa
 
-r'         g'    r'    g'  r' N/r'  N n  d n  d' M
+r'         g'    r'    g'  r' N/r'  N n  d n  d 'M
 vidhi-karī    r imā vī     ra mu      h  yatī      r
 
-  d    'M R/'M   R'M d  d /N  Nn d' M
+  d    'M R/'M   R'M d  d /N  Nn d 'M
 adhara-sī      dhunā        pyāyaya   sva naḥ
 
 ========== SB 10.31.9 ==========
 
-g  g /'M 'M    d  n   N     N/r'  r'   N n d  'Md  n  d' M
+g  g /'M 'M    d  n   N     N/r'  r'   N n d  'Md  n  d 'M
 ta va       kathāmṛ  taṁ ta          pta-jī   vana ṁ
 
-  d      'M R/'M R   'M  d  d /N  N n d' M       'M/r'
+  d      'M R/'M R   'M  d  d /N  N n d 'M       'M/r'
 kavibhir ī         ḍitaṁ         kalmaṣā   paham
 
-r'         g' r'      g'  r'  N/r'  N n  d n   d' M
+r'         g' r'      g'  r'  N/r'  N n  d n   d 'M
 śravaṇa-maṅga laṁ śrī     mad ā          tataṁ
 
    d    'M  R/'M R    'M d  d /N   Nn  d  'M
@@ -154,13 +154,13 @@ bhuvi gṛṇan        ti ye         bhūri-dā    janāḥ
 
 ========== SB 10.31.10 ==========
 
- g  g /'M 'M   d    n  N     N/r'  r'   N/r'  N n d   'Md  n  d' M
+ g  g /'M 'M   d    n  N     N/r'  r'   N/r'  N n d   'Md  n  d 'M
 pra ha       sitaṁ priya-pre           ma   -   vī   kṣaṇa ṁ
 
   d   'M R/'M R     'M d  d /N    N n     d   'M        'M/r'
 viharaṇa ṁ       ca te         dhyā    na-maṅ    galam
 
-r'          g'    r'     g' r' N/r'  N n  d  n   d' M
+r'          g'    r'     g' r' N/r'  N n  d  n   d 'M
 ra hasi saṁ    vi do  yā    hṛ di         spṛśaḥ
  
   d    'M R/'M R   'M  d  d /N   N n d   'M
@@ -168,7 +168,7 @@ kuhaka no        manaḥ         kṣobhayan    ti hi
 
 ========== SB 10.31.11 ==========
 
-g  g /'M 'M    d       n  N     N/r'  r'   N/r'  N n  d  'Md  n  d' M
+g  g /'M 'M    d       n  N     N/r'  r'   N/r'  N n  d  'Md  n  d 'M
 ca la       si    yad vrajāc cā           ra       ya n  paśū n
 
   d    'M R/'M R     'M  d  d /N  N n      d  'M        'M/r'
@@ -182,13 +182,13 @@ kalilatā         ṁ manaḥ         kā nta ga    cchati
 
 ========== SB 10.31.12 ==========
 
-g  g /'M 'M   d  n  N    N/r'  r'  N/r'  N n d  'Md  n  d' M
+g  g /'M 'M   d  n  N    N/r'  r'  N/r'  N n d  'Md  n  d 'M
 di na   -   parikṣaye nī           la  -   kun  tala i       r
 
-  d' M R/'M R    'M  d  d /N  N n        d  'M       'M/r'
+  d 'M R/'M R    'M  d  d /N  N n        d  'M       'M/r'
 vanaru hā     na naṁ         bi    bhrad ā     vṛtam
 
-r'        g' r'    g'  r' N/r'  N n  d n   d' M
+r'        g' r'    g'  r' N/r'  N n  d n   d 'M
 ghana-rajasvalaṁ da   rśa ya      n  muhu       r
 
     d  'M  R/'M R     'M  d  d /N N n    d  'M
@@ -196,41 +196,41 @@ manasi na  ḥ       smaraṁ        vī   ra ya    cchasi
 
 ========== SB 10.31.13 ==========
 
- g  g /'M 'M    d n   N     N/r'  r'  N/r'  N n  d   'Md n  d' M
+ g  g /'M 'M    d n   N     N/r'  r'  N/r'  N n  d   'Md n  d 'M
 pra ṇa       ta-kāma-daṁ pa           d    ma jā    rcitaṁ
 
-   d    'M R/'M R    'M  d  d /N     N n   d' M      'M/r'
+   d    'M R/'M R    'M  d  d /N     N n   d 'M      'M/r'
 dharaṇi-ma ṇ       ḍanaṁ          dhye yam ā    padi
 
 r'         g'    r'    g' r' N/r'  N   n  d  n  d  'M
 caraṇa-paṅ    ka jaṁ śan  ta ma      ṁ    ca te
 
-  d    'M R/'M R    'M d     d /N N n d' M
+  d    'M R/'M R    'M d     d /N N n d 'M
 ramaṇa na ḥ      stane    ṣv      arpayā   dhi-han
 
 ========== SB 10.31.14 ==========
 
-g  g /'M 'M    d   n  N     N/r'  r'  N/r'  N  n d  'Md n  d' M
+g  g /'M 'M    d   n  N     N/r'  r'  N/r'  N  n d  'Md n  d 'M
 u  ra       ta-vardhanaṁ śo           ka   -   nā   śanaṁ
 
-   d    'M R/'M R   'M d  d /N  N  n  d' M        'M/r'
+   d    'M R/'M R   'M d  d /N  N  n  d 'M        'M/r'
 svarita-ve        ṇunā         suṣṭhu cu   mbitam
 
-r'       g' r'      g' r'  N/r'  N n  d n  d' M
+r'       g' r'      g' r'  N/r'  N n  d n  d 'M
 i tara-rā   ga-vismā   ra  ṇa      ṁ  nṛṇā      ṁ
 
-  d    'M R/'M R    'M  d  d /N   Nn d' M
+  d    'M R/'M R    'M  d  d /N   Nn d 'M
 vitara vī        ra nas te     'dharām    ṛtam
 
 ========== SB 10.31.15 ==========
 
-g  g /'M 'M    d    n  N    N/r'  r'  N/r'  N  n d  'Md n  d' M
+g  g /'M 'M    d    n  N    N/r'  r'  N/r'  N  n d  'Md n  d 'M
 a  ṭa       ti yad bhavān a       h   ni       kā   nanaṁ
 
    d    'M    R/'M R   'M d  d /N   N  n d  'M     'M/r'
 truṭi yu   gā        yate         tvām a pa śyatām
 
-r'        g'   r'      g'  r'  N/r'  N n  d  n  d' M
+r'        g'   r'      g'  r'  N/r'  N n  d  n  d 'M
 kuṭila-kun   talaṁ śrī  -  mu  kha     ṁ  ca te
 
   d   'M R/'M R   'M d    d /N  N  n    d   'M
@@ -238,13 +238,13 @@ jaḍa udī       kṣatā    ṁ      pa  kṣma-kṛd    dṛśām
 
 ========== SB 10.31.16 ==========
 
-g  g /'M 'M   d  n  N      N/r'  r'  N/r'  N  n d    'Md n  d' M
+g  g /'M 'M   d  n  N      N/r'  r'  N/r'  N  n d    'Md n  d 'M
 pa ti   -   sutānvaya-bhrā           tṛ   -   bā   ndhavā        n
 
- d   'M R/'M R    'M d       d /N Nn  d' M       'M/r'
+ d   'M R/'M R    'M d       d /N Nn  d 'M       'M/r'
 ativila ṅ       ghya te 'nty      acyutā   gatāḥ
 
-r'       g'   r'    g' r'   N/r'  N n  d n  d' M
+r'       g'   r'    g' r'   N/r'  N n  d n  d 'M
 gati-vidas  tavo dgī   ta - mo         hitā      ḥ
 
   d    'M R/'M R   'M  d  d /N N   n d   'M
@@ -252,44 +252,44 @@ kitava yo        ṣitaḥ        kas tyajen    niśi
 
 ========== SB 10.31.17 ==========
 
-g  g /'M 'M    d  n  N     N/r'  r'     N/r'  N n d  'Md n  d' M
+g  g /'M 'M    d  n  N     N/r'  r'     N/r'  N n d  'Md n  d 'M
 ra ha       si saṁvidaṁ hṛ            c-cha     yo   dayaṁ
 
-   d   'M R/'M R   'M  d  d /N  Nn  d' M        'M/r'
+   d   'M R/'M R   'M  d  d /N  Nn  d 'M        'M/r'
 prahasitā        nanaṁ        prema-vī   kṣaṇam
 
-r'         g' r'     g' r'   N/r'  N n  d  n  d' M
+r'         g' r'     g' r'   N/r'  N n  d  n  d 'M
 bṛhad-uraḥ śriyo  vī    kṣya dhā        ma te
 
-     d     'M R/'M R   'M d  d /N  N n d' M
+     d     'M R/'M R   'M d  d /N  N n d 'M
 muhu    r ati   -   spṛhā         muhyate   manaḥ
 
 ========== SB 10.31.18 ==========
  
- g  g /'M 'M     d  n     N      N/r'  r'  N/r'   N n  d  'M d  n   d' M
+ g  g /'M 'M     d  n     N      N/r'  r'  N/r'   N n  d  'M d  n   d 'M
 vra         ja-vana u  kasāṁ vya           k     ti r aṅ  ga te
 
   d    'M R/'M R      'M     d  d /N  Nn   d   'M       'M/r'
 vṛjina-ha n       try a  laṁ         viśva-maṅ    galam
 
-r'          g' r'      g'    r' Nn     d n   d' M
+r'          g' r'      g'    r' Nn     d n   d 'M
 tyaja manāk ca nas tva     t-sp ṛ   hātmanā       ṁ
 
-    d    'M  R/'M R     'M  d    d /N  N  n d' M
+    d    'M  R/'M R     'M  d    d /N  N  n d 'M
 sva-jana-hṛ         d-rujā     ṁ      yan niṣū   danam
 
 ========== SB 10.31.19 ==========
 
-'M/n  n  d   n  d n      d n    d n           d' M
+'M/n  n  d   n  d n      d n    d n           d 'M
          yat te sujāta-caraṇāmburuhaṁ staneṣu
 
-   d  'M   R/'M R           'M      'M/n     n   Nn d' M        'M/r'
+   d  'M   R/'M R           'M      'M/n     n   Nn d 'M        'M/r'
 bhītāḥ   śana      iḥ priya    dadhīma    hi    kar      kaśeṣu
 
-r'                         g' r'  N/r'  N    n    d' M
+r'                         g' r'  N/r'  N    n    d 'M
 te nāṭavīm aṭasi tad vyathate             na kiṁ svi   t
  
-   d' M    R/'M R     'M     'M/n     n     d  d /N N n   d' M
+   d 'M    R/'M R     'M     'M/n     n     d  d /N N n   d 'M
 kūrpā   dibhi     r bhramati       dhīr  bhava d-ā      yuṣā   ṁ naḥ
 
 Finish with F#/C'

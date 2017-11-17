@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
- P   S     R  P    m  P P/P
+ G   S     R  G    m  P G/P
 hare   kṛṣṇa hare kṛṣṇa
 
- P    S     R  P    m P P/P
+ G    S     R  G    m P G/P
 kṛṣṇa   kṛṣṇa hare hare
 
- P   S    R  P    m P P/P
+ G   S    R  G    m P G/P
 hare   rāma hare rāma
 
- P   S    R  P    m P P/P
+ G   S    R  G    m P G/P
 rāma   rāma hare hare
 
 ========== Part 2 ==========
@@ -44,16 +44,16 @@ rāma rāma hare      hare
          Double-time
 ========== Part 4 ==========
 
- P         S/P  S       R
+ G         S/G  S       R
 hare kṛṣṇa     hare kṛṣṇa
 
- P     m     P        P/P P
+ G     m     P        G/P G
 kṛṣṇa kṛṣṇa hare hare
 
- P        S/P S      R
+ G        S/G S      R
 hare rāma    hare rāma
 
- P    m    P
+ G    m    P
 rāma rāma hare hare
 
 ========== Part 5 ==========
@@ -81,7 +81,7 @@ kṛṣṇa kṛṣṇa hare hare
       N   S'   R'
 hare rāma hare rāma
 
-S' N  R'M  P
+S' N  D'M  P
 rāma rāma hare hare
 
 ========== Part 6v2 (Slightly different distribution) ==========

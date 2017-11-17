@@ -7,10 +7,10 @@ Language: Bengali
 LYRICS
 
 (1)
- P   R S  'n SRS 'n   'R 'R/m m       P  mP    S/P S R P  m
+ G   R S  'n SRS 'n   'D 'D/m m       P  mG    S/G S R G  m
 jīv jāgo, jī     v  jāgo,       gauracānda  bo           le
 
-         PmP      m PR R/D     D P mP    S/P S R P m P
+         GmP      m GR R/D     D P mG    S/G S R G m G
 kota nidrā   jāo māyā   -   piśācīra  ko          le
 
  
@@ -25,26 +25,26 @@ bhuliyā rohile tumi  avidyāra bha  re
 
 (3)
 
-m/n    n       DP       D P mPR    R/D
+m/n    n       DP       D P mGR    R/D
 tomāre loite āmi  hoinu avatā   ra
 
-  D    P  m         P    S/P S  RP m
+  D    P  m         G    S/G S  RG m
 āmi binā bandhu āra   ke ā che to māra
 
 
 (4)
-P      R        S   'n S R S 'n 'R  'R/m m
+G      R        S   'n S R S 'n 'D  'D/m m
 enechi auṣadhi māyā nāśibāro lā gi'
 
-                       PmP S/P S RP  m
+                       PmG S/G S RG  m
 hari-nāma mahā-mantra lao     tumi  māgi'
 
 
 (5)
-  m             P  mP            m PR R/D
+  m             G  mP            m GR R/D
 bhakativinoda prabhu - caraṇe pariyā
 
-     D    P    m      P  SRP m
+     D    P    m      G  SRG m
 sei hari-nāma-mantra loilo  māgiyā
 
 

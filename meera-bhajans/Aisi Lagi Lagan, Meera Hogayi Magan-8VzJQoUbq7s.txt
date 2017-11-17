@@ -5,20 +5,20 @@ Book Name: None
 Language: Braja Bhasa
 
 (1)
-R r   R R/m m  P m  R/m Rr   R R/m m  P m  m/D 
+R r   R R/m m  G m  R/m Rr   R R/m m  G m  m/D 
 aisi lā gī    lagan    mīrā ho ga yī magan
 
- D  N   S'  N    D    P   P/P  PP n   D m P
+ D  N   S'  N    D    P   G/P  GP n   D m G
 vo to gali gali hari guṇa     gā  ne lagī
 
- Rr  R R/m m    P m  R   r   R R/m m  P m
+ Rr  R R/m m    G m  R   r   R R/m m  G m
 mahalo me    ń palī vana ke jo ga  n calī
 
- m/D D  N   S'  N D P P/P  P   P   n   D m P
+ m/D D  N   S'  N D P G/P  G   P   n   D m G
 mī     rā rānī dīvānī     kahā   ne   lagī
 
 ---
-R r   R R/m m  P m  R/m Rr  'N  P    r     R   R/D
+R r   R R/m m  G m  R/m Rr  'N  G    r     R   R/D
 aisi lā gī    lagan    mīrā ho ga yī    magan
 ---
  
@@ -37,12 +37,12 @@ baiṭhī san toń   ke sańga, rańgī mo  hana ke rańga
 mīrā    pre     mī   prītama ko manā  ne lagī
 
 ---
- D    R'   S'    N    D   P  P n   D m P
+ D    R'   S'    N    D   G  P n   D m G
 vo to gali gali hari guṇa   gā ne lagī
 
 Then repeat (1)
 
-R r   R R/m m  P m  R/m Rr  'N  P    r     R   R/D
+R r   R R/m m  G m  R/m Rr  'N  G    r     R   R/D
 aisi lā gī    lagan    mīrā ho ga yī    magan
  ---
 
@@ -60,12 +60,12 @@ duḥkhe lākhoń   sahe, mukhse go  vinda kahe
 mīrā go    vi  nda gopāla gā  ne lagī
 
 ---
- D    R'   S'    N    D   P  P n   D m P
+ D    R'   S'    N    D   G  P n   D m G
 vo to gali gali hari guṇa   gā ne lagī
 
 Then repeat (1)
 
-R r   R R/m m  P m  R/m Rr  'N  P    r     R   R/D
+R r   R R/m m  G m  R/m Rr  'N  G    r     R   R/D
 aisi lā gī    lagan    mīrā ho ga yī    magan
  ---
 

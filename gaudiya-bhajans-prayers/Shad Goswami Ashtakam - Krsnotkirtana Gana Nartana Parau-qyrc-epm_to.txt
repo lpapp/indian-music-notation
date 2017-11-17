@@ -7,117 +7,117 @@ Language: Sanskrit
 LYRICS
 
 (1)
- R  P  R  P R  P P/P  P     m    P mPR     PR  P         P/P   P  mPR R/D
+ R  G  R  G R  G G/P  P     m    G mGR     GR  G         G/P   P  mGR R/D
 kṛṣṇotkīrtana-gā     na-nartana-parau  premāmṛ    tāmbho  -   nidhī
 
-  D          n    D P    m    P mPR     P  R P     P/P P    mPR
+  D          n    D P    m    G mGR     G  R G     G/P P    mGR
 dhīrādhīra-jana-priyau priya-karau  nirmatsarau pū       jitau
 
-     P  R  P  R P P/P   P    m         P m P R     P R P    P/P P    mPR R/D
+     G  R  G  R G G/P   P    m         G m G R     G R G    G/P P    mGR R/D
 śrī-caitanya-kṛpā  -  bharau   bhuvi bhuvo     bhārāvahantā       rakau
 
-    D        n  D P   m        P m  P R      P    R  P   P/P  P m  P R
+    D        n  D P   m        G m  G R      G    R  G   G/P  P m  G R
 vande rūpa-sanātanau    raghu-yugau      śrī - jīva-gopā     lakau
 
  
 
 (2)
- R P  R   P  R P P/P    P     m    P m  P R         P  R  P      P/P P    m  P R R/D
+ R G  R   G  R G G/P    P     m    G m  G R         G  R  G      G/P P    m  G R R/D
 nānā-śāstra-vicā     ra   ṇaika-nipuṇau       sad-dharma-saḿsthā       pakau
 
- D           n  D P    m     P m P R     P   R P    P/P  P mPR
+ D           n  D P    m     G m G R     G   R G    G/P  P mGR
 lokānāḿ hita-kāriṇau tri-bhuvane     mānyau śaraṇyā     karau
 
-    P  R  P     R P P/P  P      m     P m P R  P  R P       P/P  P m  P R R/D
+    G  R  G     R G G/P  P      m     G m G R  G  R G       G/P  P m  G R R/D
 rādhā-kṛṣ   ṇa-padā     ravinda - bhajanā     nandena mattā     likau
 
-    D        n  D P   m        P m  P R      P    R  P   P/P  P m  P R
+    D        n  D P   m        G m  G R      G    R  G   G/P  P m  G R
 vande rūpa-sanātanau    raghu-yugau      śrī - jīva-gopā     lakau
 
 
 (3)
-  R  P  R  P  R P P/P P      m  P  m  P R       P  R  P         P/P   P m  P R R/D
+  R  G  R  G  R G G/P P      m  G  m  G R       G  R  G         G/P   P m  G R R/D
 śrī-gaurāṇga-guṇā    nuvarṇana-vidhau     śraddhā-sam   ṛddhy-a     nvitau
 
- D          n   D P   m    P  m P R      P  R  P   P/P  P  m   P R
+ D          n   D P   m    G  m G R      G  R  G   G/P  P  m   G R
 pāpottāpa-nikṛntanau tanu-bhṛtā     ḿ govinda-gānā      mṛtaiḥ
 
-  P  R  P      P/P  P    m    P m  P R     P  R  P    P/P  P m  P R
+  G  R  G      G/P  P    m    G m  G R     G  R  G    G/P  P m  G R
 ānandāmbudhi-var  dhanaika-nipuṇau     kaivalya-nistā     rakau
 
-    D        n  D P      m        P m  P R      P    R  P   P/P  P m  P R
+    D        n  D P      m        G m  G R      G    R  G   G/P  P m  G R
 vande rūpa-sanāta   nau    raghu-yugau      śrī - jīva-gopā     lakau
 
  
 
 (4)
-  R   P  R  P  R P P/P    P  m   P    m P R     P   R P    P/P    P  m P R   R/D
+  R   G  R  G  R G G/P    P  m   G    m G R     G   R G    G/P    P  m G R   R/D
 tyaktvā tūrṇam aśe ṣ   a-maṇḍala - pati  -  śreṇīḿ sadā tu     ccha-va     t
 
-  D           n  D P   m   P m P R     P R  P     P/P P   m  P R
+  D           n  D P   m   G m G R     G R  G     G/P P   m  G R
 bhūtvā dīna-gaṇeśakau karuṇayā     kaupīna-kanthā     śritau
 
-   P   R P  R P P/P   P   m  P   m P R     P R  P     P/P P    m P R   R/D
+   G   R G  R G G/P   P   m  G   m G R     G R  G     G/P P    m G R   R/D
 gopī-bhāva-rasā mṛ   tābdhi-laharī  -  kallola-magnau       muhu     r
 
-    D        n  D P   m        P m  P R      P    R  P   P/P  P m  P R
+    D        n  D P   m        G m  G R      G    R  G   G/P  P m  G R
 vande rūpa-sanātanau    raghu-yugau      śrī - jīva-gopā     lakau
 
 
 (5)
- R P   R P R  P  P/P     P m    P m P R     P  R P   P/P  P m P R R/D
+ R G   R G R  G  G/P     P m    G m G R     G  R G   G/P  P m G R R/D
 kūjat-kokila-haḿ     sa-sārasa-gaṇā     kīrṇe mayūrā     kule
 
-   D         n    D  P m    P m P R     P     R  P    P/P  P m P R
+   D         n    D  P m    G m G R     G     R  G    G/P  P m G R
 nānā-ratna-nibaddha-mūla-viṭapa  -  śrī - yukta-vṛndā     vane
 
-    P  R  P      P/P P       m       P m    P R    P   R P      P/P  P m P R R/D
+    G  R  G      G/P P       m       G m    G R    G   R G      G/P  P m G R R/D
 rādhā-kṛṣ   ṇam aha     r-niśaḿ prabhajatau     jīvārthadau yau     mudā
 
-    D        n  D P   m        P m  P R      P    R  P   P/P  P m  P R
+    D        n  D P   m        G m  G R      G    R  G   G/P  P m  G R
 vande rūpa-sanātanau    raghu-yugau      śrī - jīva-gopā     lakau
 
 
 (6)
- R    P  R  P R  P P/P   P       m    P  m P R    P R P   P/P  P m  P R R/D
+ R    G  R  G R  G G/P   P       m    G  m G R    G R G   G/P  P m  G R R/D
 sańkhyā-pūrvaka-nā    ma - gāna-natibhiḥ       kālāvasānī  -  kṛtau
 
-      D     n  D P m  P   m  P R     P  R  P    P/P P  m  P R
+      D     n  D P m  G   m  G R     G  R  G    G/P P  m  G R
 nidrāhāra-vihārakādi-vijitau     cātyanta-dīnau    ca yau
 
-    P  R  P     R P    P/P P     m       P m P R  P  R P    P/P  P m  P R R/D
+    G  R  G     R G    G/P P     m       G m G R  G  R G    G/P  P m  G R R/D
 rādhā-kṛṣ   ṇa-gu   ṇa-sm  ṛ ter   madhurimā     nandena sammo  hitau
 
-    D        n  D P   m        P m  P R      P    R  P   P/P  P m  P R
+    D        n  D P   m        G m  G R      G    R  G   G/P  P m  G R
 vande rūpa-sanātanau    raghu-yugau      śrī - jīva-gopā     lakau
 
 
 (7)
- R  P  R  P  R P P/P    P  m    P m P R    P  R  P    P/P  P m P R R/D
+ R  G  R  G  R G G/P    P  m    G m G R    G  R  G    G/P  P m G R R/D
 rādhā-kuṇḍa-taṭe     kalinda-tanayā  -  tīre ca vaḿśī     vaṭe
 
-       D     n D   P    m   P m P R     P    R P     P/P P m P R
+       D     n D   P    m   G m G R     G    R G     G/P P m G R
 premonmāda-vaśād aśeṣa - daśayā    grastau pramattau    sadā
 
-   P  R   P  R P P/P    P      m      P    m  P R     P  R  P  P/P P    m P R R/D
+   G  R   G  R G G/P    P      m      G    m  G R     G  R  G  G/P P    m G R R/D
 gāyantau ca kadā     ha   rer    guṇa - varaḿ     bhāvābhibhūtau     mudā
 
 
-    D        n  D P   m        P m  P R      P    R  P   P/P  P m  P R
+    D        n  D P   m        G m  G R      G    R  G   G/P  P m  G R
 vande rūpa-sanātanau    raghu-yugau      śrī - jīva-gopā     lakau
 
 
 (8)
- R  P  R   P R  P P/P    P    m       P m P R      P  R  P   P/P P    m  P R R/D
+ R  G  R   G R  G G/P    P    m       G m G R      G  R  G   G/P P    m  G R R/D
 he rādhe vraja-de     vī   ke   ca lalite      he nanda-sūno       kutaḥ
 
-    D            n   D  P m P    m P R    P  R  P   P/P  P m  P R
+    D            n   D  P m G    m G R    G  R  G   G/P  P m  G R
 śrī - govardhana-kalpa-pādapa-tale     kālindī-vane     kutaḥ
 
-    P  R P     R  P  P/P  P   m    P m P R     P    R P     P/P  P m  P R R/D
+    G  R G     R  G  G/P  P   m    G m G R     G    R G     G/P  P m  G R R/D
 ghoṣantā   v iti sar va  to vraja-pure     khedair mahā-vih     valau
 
-    D        n  D P   m        P m  P R      P    R  P   P/P  P m  P R
+    D        n  D P   m        G m  G R      G    R  G   G/P  P m  G R
 vande rūpa-sanātanau    raghu-yugau      śrī - jīva-gopā     lakau
 
 Finish with A,/D

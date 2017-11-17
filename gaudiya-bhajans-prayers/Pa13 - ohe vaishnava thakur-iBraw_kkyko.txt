@@ -7,75 +7,75 @@ Language: Bengali
 LYRICS:
 
 (1)
-P         D P   m P    S/P  S   S/P  P        m P R
+P         D P   m G    S/G  S   S/G  G        m G R
 ohe! vaiṣṇaba ṭhākura,     doyā     ra sāgara,
 
-     PmP  RS      R
+     GmG  RS      R
 e dāse   ko  ruṇā   kori'
 
- P    m P   R    P    P/P P    D  S' N D
+ G    m G   R    G    G/P P    D  S' N D
 diyā pada-chāyā,   śodho    he āmāya,
 
- P D P  m P m R/m  R P m  P R
+ P D P  m G m R/m  R G m  G R
 tomāra caraṇa    dho     ri
 
  
 
 (2) 
-  P    m P  R     P  P/P  P    D D/S'S'  N      D 
+  G    m G  R     G  G/P  P    D D/S'S'  N      D 
 chaya bega domi',   cha  ya doṣa śo        dhi',
 
-  P D  P m  P m  R/m  RPm  PR
+  P D  P m  G m  R/m  RGm  GR
 chaya guṇa deho'     dā   se
 
-  P    mP    R     P   P/P P    D   D/S' S'  N D
+  G    mG    R     G   G/P P    D   D/S' S'  N D
 chaya sa  t-sańga,   deho'   he ā māre,
 
- P D  P  m  P m R/m R P m  P R
+ P D  P  m  G m R/m R G m  G R
 bosechi sańgera ā         śe
 
  
 
 (3)
-'N   S      S/P  P    P/P P   P/P P  mPR
+'N   S      S/G  G    G/P P   G/P G  mGR
 e kā   kī ā     māra, nā hi pāya    ba   la,
 
-      P R  S     R
+      G R  S     R
 hari-nāma-sańkīrtane
 
- P    m P  R     P      P/P    P     D D/S' S'  N D
+ G    m G  R     G      G/P    P     D D/S' S'  N D
 tumi kṛpā kori',   śra      ddhā-bindu di      yā,
 
- P D   P  m  P m  R/m R P m  P R
+ P D   P  m  G m  R/m R G m  G R
 deho' kṛṣṇa-nāma-dha        ne
 
  => B,/D
 
 
 (4)
-'N     S    S/P  P      P/P  P   P/P P  m P R
+'N     S    S/G  G      G/P  P   G/P G  m G R
 kṛṣṇa se to     māra, kṛṣ   ṇa dīte    pāro,
 
-     P  R S   R    
+     G  R S   R    
 tomāra śakati āche
 
-P    m   P  R   P    P/P   P     D    D/S' S'    N  D
+G    m   G  R   G    G/P   P     D    D/S' S'    N  D
 āmi to' kāńgāla,  'kṛṣ    ṇa' 'kṛṣṇa'         boli',
 
-  PD  Pm     P  m R/m RPm   PR
+  PD  Pm     G  m R/m RGm   GR
 dhāi ta  va pāche    pā   che
 
 
 ---
 => D/F#   
 
-  'M  P                'M P 'M
+  'M  P                'M G 'M
 doyā vaiṣṇaba ṭhākura, doyā vaiṣṇaba ṭhākura
 
  E D  E                   (E/G) GF#  E     D            D/F#
 doyā    vaiṣṇaba ṭhākura,      doyā vaiṣṇa   ba ṭhākura
 
-  'M  P       'M P 'M
+  'M  P       'M G 'M
 jaya gurudeva jaya gurudeva
 
  E D  E       (E/G)  GF#  E   D
@@ -84,7 +84,7 @@ jaya gurudeva       jaya guru   deva
              EF# G  D/G    F# EF# D/F#   (E/F#)
 Nitai Gaura Haribo       l Haribo      l
 
- P R P 'N/P    P    P/P P    'M  P   R     'R/R
+ G R G 'N/G    G    G/P P    'M  G   R     'D/R
 Haribo      l Nitai       Gaura Hari   bol
 ---
 

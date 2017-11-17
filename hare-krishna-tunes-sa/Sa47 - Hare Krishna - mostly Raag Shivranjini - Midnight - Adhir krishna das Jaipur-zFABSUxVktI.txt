@@ -87,13 +87,13 @@ rāma  rāma hare hare
  P    S'     n   Dn  S'n DP
 hare kṛṣṇa hare kṛṣ ṇa
 
- P  m  P      g   Rg  P
+ P  m  G      g   Rg  P
 kṛṣṇa kṛṣṇa hare ha  re
 
  P   S'     n  Dn  S'n DP
 hare rāma hare rā  ma
 
- P m  P     g   Rg  P
+ P m  G     g   Rg  P
 rāma rāma hare ha  re
 
 ========== Part 8 ==========

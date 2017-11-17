@@ -3,13 +3,13 @@
  C D D# D#/G  G       A   A/C' C' (A/C')  AG
 hare    kṛ       ṣṇa hare                kṛ  ṣṇa
 
- DP     g   R   g R 'R'R/S  S
+ DP     g   R   g R 'D'D/S  S
 kṛ  ṣṇa kṛṣṇa hare  ha     re
 
  C D D# D#/G  G     A    A/C' C' (A/C')  AG
 hare    rā      ma ha re                rā ma
 
- DP    g  R   g R 'R 'R/S S
+ DP    g  R   g R 'D 'D/S S
 rā  ma rāma hare  ha     re
 
 (or:
@@ -43,7 +43,7 @@ kṛṣṇa kṛ   ṣ  ṇa hare   hare
  D   P      g     R
 hare   rāma hare rāma
 
-g     R'R 'R/S S
+g     R'D 'D/S S
 rāma rāma ha      re hare
 
 => C/G
@@ -59,7 +59,7 @@ kṛ ṣṇa kṛṣṇa ha    re hare
      D/S'S' P      g
 hare rā    ma hare rāma
 
- R   g R    'R   'R/S S    S/P
+ R   g R    'D   'D/S S    S/P
 rāma rā  ma hare     hare
 
 ========== Part 5 ==========
@@ -67,13 +67,13 @@ rāma rā  ma hare     hare
 C'   (A/C') A     G   (D#/G) D#
 hare       kṛṣṇa hare        kṛṣṇa
 
- R    g   R 'R   'R/S  S   S/S'
+ R    g   R 'D   'D/S  S   S/S'
 kṛṣṇa kṛṣṇa hare      hare
 
 C'   (A/C') A G      (D#/G) D#
 hare       rāma hare        rāma
 
- R   g  R 'R   'R/S S
+ R   g  R 'D   'D/S S
 rāma rāma hare     hare
 
 

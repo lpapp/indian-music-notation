@@ -7,62 +7,62 @@ Language: Bengali
 LYRICS
 
 (1)
- P m P R    S       'R/S 'R  'R/S  S   RS     'R/S
+ G m G R    S       'D/S 'D  'D/S  S   RS     'D/S
 parama   ka   ruṇa,        pahū   dui ja  na
 
-'R   'R/S S     R P P/P Pm     P R R/m
+'D   'D/S S     R G G/P Pm     G R R/m
 nitā      i gauraca     n  dra
 
- m                     Pm    P
+ m                     Pm    G
 saba avatāra-sāra śiroma  ṇi
 
-       R S    R P     mP    RS
+       R S    R G     mG    RS
 kevala   ānanda - kan    da
 
 => C/E
  
 
 (2)
-  P m   P R   S   'R/S 'R    'R/S  S       R S   'R/S
+  G m   G R   S   'D/S 'D    'D/S  S       R S   'D/S
 bhajo bhajo bhāi,        cai      tanya nitā   i
 
-'R 'R/S     S       R  P   P/P P m P R R/m
+'D 'D/S     S       R  G   G/P P m G R R/m
 su      dṛḍha biśwāsa ko        ri
 
- m                         Pm     P
+ m                         Pm     G
 viṣaya chāḍiyā, se rase maji  yā,
 
-         R S    R  Pm PRS S/P
+         R S    R  Gm GRS S/G
 mukhe bolo   hari ha ri
 
  
 
 (3)
- P  m P R   S   'R/S 'R      'R/S  S      R S    'R/S
+ G  m G R   S   'D/S 'D      'D/S  S      R S    'D/S
 dekho ore bhāi,          tri  -  bhuvane nā   i,
 
-'R 'R/S  S      R  P P/P P  m P R R/m
+'D 'D/S  S      R  G G/P P  m G R R/m
 e  mo   na doyāla dā       tā
  
- m                          P m P
+ m                          P m G
 paśu pākhī jhure, pāṣāṇa vidare,
 
-        R   S    R  Pm   PRS S/P
+        R   S    R  Gm   GRS S/G
 śuni' jāńra   guṇa-gā  thā
 
  
 
 (4)
- P  m P  R S    'R/S 'R    'R/S  S    RS     'R/S
+ G  m G  R S    'D/S 'D    'D/S  S    RS     'D/S
 saḿsāre majiyā,         rohi    li pori  yā,
 
-'R 'R/S S        RP   P/P P  m P R R/m
+'D 'D/S S        RG   G/P P  m G R R/m
 se     pade nahilo  ā       śa
 
-m                         P m P
+m                         P m G
 āpana karama, bhuñjāye śamana,
 
-        RS    RP   m PRS S/P
+        RS    RG   m GRS S/G
 kahoye lo  cana-dā  sa
 
 Then repeat (1)

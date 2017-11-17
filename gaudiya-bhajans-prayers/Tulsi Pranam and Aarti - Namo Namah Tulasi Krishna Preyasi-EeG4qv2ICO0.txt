@@ -10,22 +10,22 @@ LYRICS:
 
 Key sequence is flexible.
 
- P        R            R/'N 'N       R     P     P/P
+ G        R            R/'N 'N       R     G     G/P
 vṛndāyai tulasī-devyai     priyāyai keśavasya ca
 
-    P          P    R   'N            R    P
+    P          G    R   'N            R    G
 viṣṇu-bhakti-prade devī satya vatyai namo namaḥ
 
 === Extra, played, but not mentioned ===
 
- P R P   R   S S/P       m      P RP RS
+ G R G   R   S S/P       m      G RG RS
 Tulasi Krishna     Preha   sri namo na  mah
 
 === End ===
  
 === Extra, played, but not mentioned (version 2) ===
 
- m P   R       S S/P       S/m     m  P RP RS     S/P
+ m G   R       S S/P       S/m     m  G RG RS     S/G
 Tulasi   Krishna     Preha     sri   namo na  mah
 
 This is also used for ending the bhajan with.
@@ -33,10 +33,10 @@ This is also used for ending the bhajan with.
 === End ===
 
 (1)
- P RP  R S     S/P P R P  R  S S/P        m      P RP  RS      S/m
+ G RG  R S     S/G G R G  R  S S/P        m      G RG  RS      S/m
 namo  na   maḥ    tulasī kṛṣṇa   -  preya    si namo  na  maḥ
 
-  m P  D       n  D P    DPm    PmP    R S RPmPm
+  m P  D       n  D P    DPm    PmG    R S RGmPm
 braje rādhā-kṛṣṇa  -  sevā   pābo   ei abilā     ṣī
 
  
@@ -54,7 +54,7 @@ kṛ    pā  ko     ri'  koro   tāre   vṛndāvana-vā    si
         P D    n  DP      P/S'  S'   n   DP     D    Pm   m/D
 mora ei   abhi   lā  ṣa,      vilāsa kuñje  dio   vā   sa
 
-   P D   n  DP    DPm    PmP     R S  RPmPm
+   P D   n  DP    DPm    PmG     R S  RGmPm
 nayana heribo  sadā   yuga   la-rūpa-rā     śi
 
  
@@ -63,7 +63,7 @@ nayana heribo  sadā   yuga   la-rūpa-rā     śi
         P  D   n    D P  P/S'     S'n    DP      D     P m m/D
 ei nive   dana    dhara,       sakhīra anu  gata    koro
 
-     m/n  DP    DPm    PmP       R S  RPmPm    m/D
+     m/n  DP    DPm    PmG       R S  RGmPm    m/D
 sevā-ad  hi  kāra   diye   koro nīja dā     sī
 
  
@@ -72,29 +72,29 @@ sevā-ad  hi  kāra   diye   koro nīja dā     sī
  m    P              P/S' S' n  DP       D            
 dīna kṛṣṇa-dāse koy,      ei yena  mora hoy
 
-       n   D P      D P  m    P R   Pm    m/D
+       n   D P      D P  m    G R   Gm    m/D
 śrī-rādhā-govinda-preme sadā yena bhā  si
 
 --- Different variation
 
-       n   D P      D P  m    P R   SRP m m/D
+       n   D P      D P  m    G R   SRG m m/D
 śrī-rādhā-govinda-preme sadā yena bhā  si
 
 --- Different variation (simple)
 
-       n   D P      m    P    R S   RP  m m/D
+       n   D P      m    G    R S   RG  m m/D
 śrī-rādhā-govinda-preme sadā yena bhā  si
  
 --- Different variation
 
-          n  D P     DPm     PmP       R S   RPmP m
+          n  D P     DPm     PmG       R S   RGmP m
 śrī-rādhā-go     vinda - preme   sadā yena bhā   si
 
 (6)*
  m         P        P/S' S'       n  DP       D
 yāni kāni ca pāpāni     brahma-hatyādi  kāni ca
 
-     n  D   P    m      P      R   S R  P m
+     n  D   P    m      G      R   S R  G m
 tāni tāni praṇaśyanti pradakṣiṇaḥ pade pade
 
 =============================================

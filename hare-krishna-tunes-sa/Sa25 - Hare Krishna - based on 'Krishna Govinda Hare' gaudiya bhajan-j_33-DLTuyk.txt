@@ -2,13 +2,13 @@
 
 Starting from C or D, Govinda Prabhu plays both ways... If the previous ends with 'D', it seems to be better to start with 'D', otherwise 'C' is fine.
 
- Rg   R  S   'n   'R'n  S
+ Rg   R  S   'n   'D'n  S
 hare kṛṣṇa   hare kṛṣ  ṇa
 
       R       S  R      P  m g  Rg m
 kṛṣṇa   kṛṣṇa   hare ha   re
 
- Rg   R S 'n    'R'n  S
+ Rg   R S 'n    'D'n  S
 hare rāma hare rā    ma
 
      R      S  R      P  m g  Rg m
@@ -16,27 +16,27 @@ rāma   rāma   hare ha   re
 
 ========== Part 2 ==========
 
- P          m    P  m R/m R
+ G          m    G  m R/m R
 hare kṛṣṇa hare kṛṣṇa
 
-    m  P  m g       R S S/P
+    m  P  m g       R S S/G
 kṛṣṇa kṛṣṇa hare hare
 
- P         m    P m R/m R
+ G         m    G m R/m R
 hare rāma hare rāma
 
-   m  P m g       R S S/P
+   m  P m g       R S S/G
 rāma rāma hare hare
 
 ========== Part 3 ==========
 
- D   P/D  P     m    P  m R/m R
+ D   G/D  G     m    G  m R/m R
 hare     kṛṣṇa hare kṛṣṇa
 
     m  P  m g       R S S/D
 kṛṣṇa kṛṣṇa hare hare
 
- D   P/D  P    m    P m R/m R
+ D   G/D  G    m    G m R/m R
 hare     rāma hare rāma
 
    m  P m g       R S S/D

@@ -1,18 +1,18 @@
 =============== Part 1 ===============
 
- P             mP   R
+ G             mG   R
 jaya jagannath,    jaya jagannatha, 
 
- m        PR    S
+ m        GR    S
 jaya baladeva, jaya subhadra,
  
 =============== Part 2 ===============
 
- P             m  P R             P  m         P     R     S
+ P             m  G R             G  m         G     R     S
 jagannatha svami nayana patha gami     nayana patha gami bhavatu me
 
 
- P               m P  R             Pm              P  R    S
+ P               m G  R             Gm              G  R    S
 Nilachale swami tumi jaya jagannath    mayapure swami tumi jaya jagannath
 
 ( G              F E  D             EF               E  D    C

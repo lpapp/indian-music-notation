@@ -8,24 +8,24 @@ LYRICS:
 
 (1)
 
- R    P  R  P  DP m    P P        m P R
+ R    G  R  G  DP m    P G        m G R
 jaya rādhā-mādha va jaya   kuñja-bihārī
 
- R    D            P  m    P  P      m   P R
+ R    D            P  m    P  G      m   G R
 jaya gopī-jana-vallabha jaya giri-vara-dhārī
 
 
 (2)
 
- m           P   P      m  P  R
+ m           P   G      m  G  R
 yaśodā-nandana braja-jana-rañjana
 
 === Optional ===
- D      P  m P   P      m  P  R
+ D      P  m P   G      m  G  R
 yaśodā-nandana braja-jana-rañjana
 === ======= ===
 
- R P m  D P  P    P m P R
+ R G m  D P  G    P m G R
 yāmuna-tīra-vana-cā    rī
 
 

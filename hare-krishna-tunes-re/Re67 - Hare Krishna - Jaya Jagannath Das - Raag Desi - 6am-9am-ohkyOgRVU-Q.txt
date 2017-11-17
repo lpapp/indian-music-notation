@@ -3,17 +3,17 @@
  R m  PDP m g     RS
 hare kṛṣ ṇa hare kṛṣṇa
 
-'n 'R'n  Sg     R    S
+'n 'D'n  Sg     R    S
 kṛṣ  ṇa kṛṣ ṇa hare hare
 
  R m  PDP m g     RS
 hare rā  ma hare rā ma
 
-'n 'R'n Sg     R    S
+'n 'D'n Sg     R    S
 rā   ma rā ma hare hare
 
 (or, depending on the mood:
-'n 'R'n Sg     R S
+'n 'D'n Sg     R S
 rā   ma rā ma hare hare)
 
 ========== Part 2 ==========
@@ -166,7 +166,7 @@ hare kṛṣṇa hare kṛṣṇa
  g'          R    S
 kṛṣṇa kṛṣṇa hare hare
 
-'n   'R   'n    S
+'n   'D   'n    S
 hare rāma hare rāma
 
 g     R    S
@@ -180,7 +180,7 @@ hare kṛṣṇa hare kṛṣṇa
  m g'        R    S
 kṛṣṇa kṛṣṇa hare hare
 
-'n   'R   'n    S
+'n   'D   'n    S
 hare rāma hare rāma
 
 g     R    S
@@ -194,7 +194,7 @@ hare kṛṣṇa hare kṛṣṇa
  m g'        R    S
 kṛṣṇa kṛṣṇa hare hare
 
-'n   'R'n  S   g
+'n   'D'n  S   g
 hare rāma hare rāma
 
  R    S

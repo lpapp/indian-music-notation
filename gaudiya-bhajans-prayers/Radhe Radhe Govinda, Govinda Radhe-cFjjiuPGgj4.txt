@@ -8,10 +8,10 @@ LYRICS:
 
 ========== Part 1 ==========
 
- m     P  R    Pm       P    R  S    RP     RS'n
+ m     G  R    Gm       G    R  S    RG     RS'n
 rādhe rādhe go    vinda   govinda rā    dhe
 
-    S S/m m   P  R S 'n 'R'n    'n /m m   P  R    R/m
+    S S/m m   G  R S 'n 'D'n    'n /m m   G  R    R/m
 rādhe rā    dhe go   vinda    govi      nda rādhe
 
 => D/A
@@ -21,7 +21,7 @@ rādhe rā    dhe go   vinda    govi      nda rādhe
  A    F     G  A C' Bb     A (Bb A)    Bb C' Bb  A BbAGF
 rādhe   rādhe go       vinda        go    vinda rādhe
 
-    P  m  PR    R/m m  P  D Pm    P  m  P  R    R/D
+    P  m  GR    R/m m  P  D Pm    P  m  G  R    R/D
 rādhe rādhe  go       vinda    go   vinda rādhe
 
 

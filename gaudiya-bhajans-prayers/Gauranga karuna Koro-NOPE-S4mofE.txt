@@ -7,34 +7,34 @@ Language: Bengali
 LYRICS:
 
 (1)
-R/D        R/P R/D  Pm    S/m S/P m  P S  RmPR    'R/R R
+R/D        R/P R/D  Pm    S/m S/P m  G S  RmGR    'D/R R
 gaurāńga karu  ṇā  ko  ro     dī na hīna ja    ne
 
- R          P  m   Pm     S/m S/P m   P  S RmPR    'R/R R/D
+ R          G  m   Pm     S/m S/P m   G  S RmGR    'D/R R/D
 mosamo pati   ta pra  bhu     nā hi tribhūva    ne
 
  
 
 (2)
-R/D        R/P R/D  Rm     S/m S/P  m  P  S RmPR    'R/R R
+R/D        R/P R/D  Rm     S/m S/P  m  G  S RmGR    'D/R R
 dante tṛṇa dha ri  ga  ura     ḍā  ki he tomā    re
 
- R        P   m Pm     S/m  S/P m P  S  RmPR
+ R        G   m Pm     S/m  S/P m G  S  RmGR
 kṛpā kari   eso ā  mār      hṛ daya mandi    re
 
  
 
 (3)
-R/D        R/P R/D  P   m S/m  S/P m P  S  RmPR    'R/R R
+R/D        R/P R/D  P   m S/m  S/P m G  S  RmGR    'D/R R
 jadi dayā nā       karibe      pa tita dekhi    yā
 
- R          P  mPm      S/m  S/P m P  S RmPR     R/D
+ R          G  mPm      S/m  S/P m G  S RmGR     R/D
 patita pāva   na   nāma      ki sera lāgi    yā
 
  
 
 (4)
-R/D         PD  P  m   S/m S/P m P  S RmPR     'R/R R
+R/D         PD  P  m   S/m S/P m G  S RmGR     'D/R R
 paḍechi bhava  tuphāne     nā hika nistā   ra
 
   D           E G       C/F C/G F  E C  DFE    D (inconsistent recording?)
@@ -43,10 +43,10 @@ paḍechi bhava  tuphāne     nā hika nistā   ra
  
 
 (5)
-R/D          R/P R/D  P     m    S/m S/P m  P S RmPR    'R/R R
+R/D          R/P R/D  P     m    S/m S/P m  G S RmGR    'D/R R
 śrī kṛṣṇa caita  n   ya pra  bhu     dā ser anudā    sa
 
-  R        P   m  Pm    S/m S/P m  P S  RmPR
+  R        G   m  Pm    S/m S/P m  G S  RmGR
 prārthanā karaye sa  dā     na rottama dā    sa
 
 WORD FOR WORD TRANSLATION: Gauranga Karuna Koro

@@ -8,7 +8,7 @@ LYRICS:
 
 (1)
 
- P  S/P  S R  P       m P P/P P
+ G  S/G  S R  G       m P G/P G
 gāy     gorā madhur sware
 
  P D    D/S' S'  N    D  P     N S' R' D/R' D S'  NS' P/S'
@@ -29,7 +29,7 @@ hare rāma hare rāma    rāma rāma hare   hare
  P D        D/S' S'     N D P     N  S'R' D/R'  D    S'  NS'
 gṛhe thāko,      vane thāko,   sadā 'hari'     bole'    ḍāko,
 
-P/S'  S'       NS'  N S' ND     NS'R' S' N  D  'M    P P/P
+P/S'  S'       NS'  N S' ND     NS'R' S' N  D  'M    P G/P
 sukhe duḥkhe bhulo nā'ko,    vadane   hari-nām koro re
 
  

@@ -1,12 +1,12 @@
 ========== Part 1 ==========
 
- P      d Pm    PP m 
+ P      d Pm    GP m 
 hare kṛṣṇa   hare kṛṣṇa
 
 m/n  n   D  P  md   P
 kṛṣ  ṇa kṛṣṇa hare hare
 
- P     d Pm    PP m
+ P     d Pm    GP m
 hare rāma   hare rāma
 
 m/n  n   D P  md   P
@@ -33,7 +33,7 @@ rāma rāma hare hare
  P               d  P
 hare kṛṣṇa hare kṛṣṇa
 
-  m    P  P  m
+  m    G  P  m
 kṛṣṇa kṛṣṇa hare hare
 
 m/n  n     D    P  
@@ -65,13 +65,13 @@ rāma rāma hare hare
  P               d  P
 hare kṛṣṇa hare kṛṣṇa
 
-  m    P  P  m
+  m    G  P  m
 kṛṣṇa kṛṣṇa hare hare
 
  P             d  P
 hare rāma hare rāma
 
- m    P P  m
+ m    G P  m
 rāma rāma hare hare
 
 ============================

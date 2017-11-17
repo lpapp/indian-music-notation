@@ -1,12 +1,12 @@
 ========== Part 1 ==========
 
-d  Pm  P  m  Pm Pd  r /d   r
+d  Pm  G  m  Gm Pd  r /d   r
 hare  kṛṣṇa ha re         kṛṣṇa
 
  g  mg  r S n   Sr   S   r  g  m P d
 kṛṣṇa   kṛṣ ṇa hare hare
 
-d  Pm P m  Pm Pd  r /d  r
+d  Pm G m  Gm Pd  r /d  r
 hare rāma ha re         rāma
 
 g  mg  r S n   Sr   S   r  g  m P d
@@ -14,10 +14,10 @@ rāma   rā  ma hare hare
 
 ========== Part 2 (Double speed) ==========
 
-d     P  m  P    m
+d     P  m  G    m
 hare kṛṣṇa hare kṛṣṇa
 
- P  m  P d  r /d  r
+ G  m  P d  r /d  r
 kṛṣṇa kṛṣṇa hare  hare
 
 g     mg  r  S n

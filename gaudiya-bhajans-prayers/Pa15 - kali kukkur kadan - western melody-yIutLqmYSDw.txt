@@ -7,10 +7,10 @@ Language: Bengali
 LYRICS:
 
 (1)
- P      d  P m P P/P P  m     m/n      n   D P m    m/d    d    P
+ P      d  P m G G/P P  m     m/n      n   D P m    m/d    d    P
 kali-kukkura           kadana       ya    di            cā    o   (he)
 
-            d  P m      P     P/P P  m       m/n
+            d  P m      G     G/P P  m       m/n
 kali-yuga pāvana,    kali-bha    ya-nā śana,
 
     n        DP   m m/d  d    P
@@ -19,7 +19,7 @@ kali-yuga pāvana,    kali-bha    ya-nā śana,
  
 
 (2)
- P          d  P m       P P/P  P   m          m/n
+ P          d  P m       G G/P  P   m          m/n
 gadādhara-mādana,  nitā’ye     ra prāṇa-dhana,
 
 n             D   P m m/d  d m
@@ -37,7 +37,7 @@ The last two lines of (1) can be repeated.
 
 
 (3)
- P          d  P  m      P P m       m/n
+ P          d  P  m      G P m       m/n
 nadīyā-śaśadhara,   māyāpura-īśvara,
 
 n        D  P m m/d  d  P    P/S'
@@ -55,7 +55,7 @@ The last two lines of (1) can be repeated.
  
 
 (4)
- P             d  P  m    P  P/P P   m      m/n
+ P             d  P  m    G  G/P P   m      m/n
 sārvabhauma-śodhana,   gajapati  -  tāraṇa,
 
   n        D P    m m/d  d  P    P/S'
@@ -73,7 +73,7 @@ The last two lines of (1) can be repeated.
  
 
 (5)
-  P           d  P m        P P/P P   m      m/n
+  P           d  P m        G G/P P   m      m/n
 vraja-rasa-bhāvana,  duṣṭa ma ta  -  śātana,
 
   n       D     P    m m/d  d  P    P/S'

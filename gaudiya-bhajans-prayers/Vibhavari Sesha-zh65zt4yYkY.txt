@@ -8,13 +8,13 @@ LYRICS:
 
 (1)
 
- P         R S  'n S R     S'n 'R    'R/m m
+ G         R S  'n S R     S'n 'D    'D/m m
 vibhāvarī śeṣa, ā   loka-prave   śa,
 
-             P  m P    S/P S R P  m
+             P  m G    S/G S R G  m
 nidrā chāri' uṭho   jī              va
 
-           P m  P          m P R R/D
+           G m  P          m G R R/D
 bolo hari hari,   mukunda murāri,
 
    A     G     F   E     C/E C D E F     (F can at the end always go for the last syllable)
@@ -29,25 +29,25 @@ nṛsiḿha vāmana, śrī-madhusūdana,
              n  D P   Dn  D P m
 brajendra-nandana   śyāma
 
-m/n       n  D  P     D  P  m P R  R/D
+m/n       n  D  P     D  P  m G R  R/D
 pūtanā-ghātana,   kaiṭabha-śātana,
 
- D    P   m     P S/P S R P m
+ D    P   m     G S/G S R G m
 jaya dāśarathi-rā             ma
 
  
 
 (3)
- P        R S  'n  S  R  S'n 'R  'R/m
+ G        R S  'n  S  R  S'n 'D  'D/m
 yaśodā dulāla, go vinda-gopā la,
 
- m      P  m PS   RP  m
+ m      P  m GS   RG  m
 vṛndāvana puranda    ra
 
-              P m P          m P R  R/D
+              G m P          m G R  R/D
 gopī-priya-jana,    rādhikā-ramaṇa,
 
-    D     P  m   P    S/P S R P m
+    D     P  m   G    S/G S R G m
 bhuvana -sundara - ba          ra
 
  
@@ -59,25 +59,25 @@ rāvāṇāntakara, mākhana-taskara,
           n    D P   D n  D P m m/n
 gopī-jana-vastra - hā  rī
 
-     n        D P       D  P  mPR     R/D
+     n        D P       D  P  mGR     R/D
 brajera rākhāla,  gopa-vṛnda-pā   la,
 
- D         P     m   P S/P S R P  m
+ D         P     m   G S/G S R G  m
 citta-hārī   baḿśī-dhā           rī
 
  
 
 (5)
- P        R  S     'n S  R  S 'n     'R      'R/m m
+ G        R  S     'n S  R  S 'n     'D      'D/m m
 yogīndra-bandana, śrī - nanda  -  nan  dana,
 
-               P m  P S/P S R P m
+               P m  G S/G S R G m
 braja-jana-bhaya - hā          rī
 
-          P m  P         m P R  R/D
+          G m  P         m G R  R/D
 navīna nīrada,   rūpa manohara,
 
-   D    Pm      P S/P S R P m
+   D    Pm      G S/G S R G m
 mohana-baḿśī-bihā          rī
 
  
@@ -89,25 +89,25 @@ yaśodā-nandana,    kaḿsa-nisūdana,
           n   D PD n  D P m m/n
 nikuñja-rāsa-vilā  sī
 
-        n    D P    D  P m P R  R/D
+        n    D P    D  P m G R  R/D
 kadamba-kānana,  rāsa-parāyaṇa,
 
-  D      P    m     P S/P S R P m
+  D      P    m     G S/G S R G m
 bṛnda-vipina  -  nivā          sī
 
  
 
 (7)
-P       R   S    'n  S R  S'n 'R        'R/m m
+G       R   S    'n  S R  S'n 'D        'D/m m
 ānanda-vardhana, prema - nike    tana,
 
-              P m P    S/P S R P  m
+              P m G    S/G S R G  m
 phula-śara-jojaka   kā           ma
 
-           P m P          m P R  R/D
+           G m P          m G R  R/D
 gopāńganā-gaṇa,  citta-vinodana,
 
-      D P       m     P S/P S R P m
+      D P       m     G S/G S R G m
 samasta - guṇa-gaṇa-dhā             ma
 
  
@@ -119,10 +119,10 @@ jāmuna-jīvana, keli-parāyaṇa,
               n   D PD n  D P m m/n
 mānasa-candra -  cako  ra
 
-  n           D P   DP   m     P R R/D  
+  n           D P   DP   m     G R R/D  
 nāma-sudhā-rasa,  gāo   kṛṣṇa-jaśa
 
-   D     P         m   P    S/P S R P m
+   D     P         m   G    S/G S R G m
 rā   kho   vacana mana   mo          ra
 
 

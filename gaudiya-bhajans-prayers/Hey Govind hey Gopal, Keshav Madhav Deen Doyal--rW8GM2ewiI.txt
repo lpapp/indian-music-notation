@@ -8,50 +8,50 @@ LYRICS:
 
 (1)
 
- P            m  P   mPR
+ G            m  P   mGR
 he govinda he   gopā     la
 
-       R/P       P m   P  m    P  P/N
+       R/P       P m   P  m    G  G/N
 keśava     mādhava   dī  na doyāl
 
  
 
 (2)
 
-P/N   N       S'   ND                N D       PmPR
+G/N   N       S'   ND                N D       PmGR
 tumi parama doyā      l prabhu, parama   doyā       l
 
-       R/P        P   mP m    P  P/N
+       R/P        P   mP m    G  G/N
 keśava      mādhava  dī na doyāl
 
  
 
 (3)
 
- NS'  N D             N D  P      m P R
+ NS'  N D             N D  P      m G R
 pīta basana pari mayūrera śikha dhori
 
-        R/P   P    m P  m     P   P/N
+        R/P   P    m P  m     G   G/N
 muralīr vāṇī tule bole rādhā nām
 
  
 
 (4)
 
-P/N N          S'   ND                 ND       PmPR
+G/N N          S'   ND                 ND       PmGR
 tu mi madera gopā      la prabhu, madera   gopā      la
 
-       R/P       P  mP  m    P  P/N
+       R/P       P  mP  m    G  G/N
 keśava     mādhava dī  na-doyāl
 
  
 
 (5)
 
-P/N N  S' N   D           N  D  P m P R
+G/N N  S' N   D           N  D  P m G R
 bhava bhaya bhañjana śrī madhu sūdana
 
-       R/P        P  m P  m P     P/N 
+       R/P        P  m P  m G     G/N 
 vipada     bhañjana tumi nārāyaṇa
 
 

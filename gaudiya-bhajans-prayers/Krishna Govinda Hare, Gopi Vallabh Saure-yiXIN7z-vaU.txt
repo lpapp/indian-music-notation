@@ -17,22 +17,22 @@ gopī-vallabha   śau re
 
  
 (2)
-  P         m   P m  R/m R      m P   m g   R S S/P
+  G         m   G m  R/m R      m P   m g   R S S/G
 śrīnivāsa, dāmodara,       śrī-rāma, mu rā re
 
 -> C/A
 
-    D P     m   P m R/m R       m P   m g   R S S/P
+    D G     m   G m R/m R       m P   m g   R S S/G
 śrīnivāsa, dāmodara,       śrī-rāma, mu rā re
 
 
 
-S/P P             m  P m  R/m R    m  P   m g  R S S/P
+S/G G             m  G m  R/m R    m  P   m g  R S S/G
 na  nda-nandana, mādhava,       nṛsiḿha, kaḿsāre
 
 -> C/A
 
-S/D D   P            m  P m  R/m R    m  P   m g  R S S/P
+S/D D   G            m  G m  R/m R    m  P   m g  R S S/G
 na  nda  - nandana, mādhava,       nṛsiḿha, kaḿsāre
 
 TRANSLATION

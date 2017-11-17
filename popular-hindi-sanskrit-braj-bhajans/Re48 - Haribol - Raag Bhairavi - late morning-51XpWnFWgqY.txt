@@ -3,12 +3,12 @@
  R  R/D     n  DP       m   P D m/D
 Haribol Haribol   Hari Haribol
 
- m P R S  R P m P   m    Rg  R
+ m G R S  R G m P   m    Rg  R
 Haribol  Haribol   Hari Haribol
 
 ========== Part 2 ==========
 
- R      P m P P  m    Rg  R
+ R      G m G P  m    Rg  R
 Hari Haribol    Hari Haribol
 
 ========== Part 3 ==========
@@ -24,6 +24,6 @@ Haribol Haribol Hari Hari bol
  D   P   DS'n    D    P m  P D m/D
 Haribol Haribol Hari Hari bol
 
- m P R S  R P m P m    Rg   R
+ m G R S  R G m P m    Rg   R
 Haribol  Haribol Hari Hari bol
 
