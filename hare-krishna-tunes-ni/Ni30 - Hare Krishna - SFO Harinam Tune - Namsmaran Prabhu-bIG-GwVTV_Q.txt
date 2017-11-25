@@ -1,0 +1,117 @@
+========== Part 1 ==========
+
+M/n n        d n  d M     g/M g r r/d
+Ha re Kṛṣṇa Hare Kṛ   ṣṇa
+
+  d              M  d n N n d M M/n
+Kṛṣṇa Kṛṣṇa Hare   Hare
+ 
+M/n n       d n  d M    g/M g r r/d
+Ha re Rāma Hare Rā   ma
+
+   d              M  d n N n d M M/n
+Rā   ma Rāma Hare   Hare
+
+========== Part 1 (Simplified) ==========
+
+M/n n        d n  d M
+Ha re Kṛṣṇa Hare Kṛ ṣṇa
+
+ d               M  d n d M M/n
+Kṛṣṇa Kṛṣṇa Hare   Hare
+ 
+M/n n       d n  d M
+Ha re Rāma Hare Rā   ma
+
+ d             M  d n d M M/n
+Rāma Rāma Hare   Hare
+
+========== Part 2 ==========
+
+r'           g'    r'     N n d
+Hare Kṛṣṇa Hare Kṛ    ṣṇa
+
+        n    N n  d M    M/r'
+Kṛṣṇa Kṛṣṇa Hare Ha   re
+
+r'          g'    r'    N n d
+Hare Rāma Hare Rā    ma
+
+        n  N n  d M    M/r'
+Rāma Rāma Hare Ha   re
+
+========== Part 2v2 (elaborate) ==========
+
+M/r' r'           g'    r'     N/'r N n d g/d
+Ha   re Kṛṣṇa Hare Kṛ    ṣṇa
+
+    d   n    N n  d M    r/M M/r'
+Kṛṣṇa Kṛṣṇa Hare Ha   re
+
+  r'        g'    r'    N/r' N n d g/d
+Hare Rāma Hare Rā    ma
+
+   d    n     N n  d M    r/M M/r'
+Rāma Rā   ma Hare Ha   re
+
+============================
+         Double-time
+========== Part 3 ==========
+
+ n          d n  d    M
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+          g  r        r/d
+Kṛṣṇa Kṛṣṇa Hare Hare
+
+ d                M    M/n
+Hare Rāma Hare Rā   ma
+
+ n N    n     d   M      M/n
+Rāma Rā   ma Hare   Hare
+
+========== Part 3v2 ==========
+
+ n          d n  d    M
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+          g  r        r/d
+Kṛṣṇa Kṛṣṇa Hare Hare
+
+   d              M M/n
+Hare Rāma Hare Rā   ma
+
+ n N  n d      M   M/n
+Rāma Rāma Hare   Hare
+
+=> M/r'
+
+========== Part 4 ==========
+
+M/r'r'         g'       r'
+Ha  re Kṛṣṇa Hare Kṛṣṇa
+
+        N'/r N     n    d   g/d
+Kṛṣṇa Kṛṣ      ṇa Hare Hare
+
+      d n     N    n d
+Hare Rā   ma Hare Rā   ma
+
+ n    d M              M/r'
+Rāma Rā   ma Hare Hare
+
+=> M/n
+
+========== Repeat Part 1 ==========
+
+========== Repeat Part 3 ==========
+
+========== Repeat Part 1 ==========
+
+========== Finish with Part 1 (last line different) ==========
+
+...
+   d       n  N n   d M    M/n
+Rā   ma Rāma Hare  Ha   re
+
+Finish: r/M
