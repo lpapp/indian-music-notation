@@ -1,0 +1,33 @@
+========== Part 1 ==========
+
+   r    r/D D      d       M G M      d G/d    G g r 'N/r 'N 'N/r  r g   G  G/M M        G/M G r/G r     R   r
+Shri Ra       dhey   Shri Ra     dhey       Shri                  Ra   dhey        Jay Shri           Ra   dhey
+
+========== Part 1v2 ==========
+
+   r    r/D   D  d       M G/M G   M  d G/d    G g  r 'N/r 'N 'N/r   r  g  G  G/M M G/M    G r/G  r R   r
+Shri Ra     dhey   Shri Ra       dhey       Shri   Ra              dhey   Ja  y         Shri     Ra   dhey
+
+=> r/G
+
+========== Part 2 ==========
+
+   G G/M M  M/D D  N  N/r' r'      N/r' N N/R' R' r'       r'/G'
+Shri Ra    dhey   Jai         Shri Ra                dhey
+
+  G'    g'  r'  N/r' N        N/r' r' r'/G' G' R'      r'/R'
+Shri Ra    dhey         Jay Shri      Ra          dhey          
+
+=> r'/R' (and D/r')
+
+========== Part 3 ==========
+
+  r'        R'r' N/r' N       D  d      D
+Shri Radhey Jai         Shri Ra    dhey
+
+        d    M  G/M G R     R/M    M G/M G  R R/r r      r/r'
+Shri Ra    dhey         Jay     Shri       Ra       dhey
+
+========== Repeat Part 1 ==========
+
+Finish with: d'/r (and r)
