@@ -1,0 +1,79 @@
+========== Part 1 ==========
+
+-- variation 1
+
+r    r/D   D d               M G  M d      Gg  r'N rgGM     G  r     R  r
+Jai Jaga  nna   th Swami Jai Jaganna   th, Jai Balade    v, Jai   Subhadra Ma
+
+-- variation 2
+
+ r    r/D     D          d      M G  M d     G/d G   g  r'N rgG G/M M G/M     G  r     R  r
+Jai Jaga  nna   th Swami   Jai Jaganna   th,       Jai Balade             v, Jai   Subhadra Ma
+
+-- variation 3
+
+ r       r/D D           d   M G  M d     G/d G   g  r'N rgG G/M M G/M     G r/G r     R  r
+Jai Jaganna    th Swami Jai Jaganna   th,       Jai Balade             v, Jai      Subhadra Ma
+
+-- variation 4 (common)
+
+ r       r/D D          d   M   G/M G   M d     G/d G   g  r'N rgG G/M M G/M     G r/G r     R  r
+Jai Jaganna    th Swami   Jai Jaga    nna   th,       Jai Balade             v, Jai      Subhadra Ma
+
+========== Part 2 ==========
+
+ G   M   M/D D      N   N/r' r'  N/r' N N/R' R'    r'    r'/G'  G'    g'r' N/r' N     r'  R' R'/M' M'  R'/M' R'r'    G/r'
+Jai Jaganna    th Swami      Jai        Ja      gannath,        Jai Balade         v, Jai Su bha      dra         Ma
+
+========== Part 3 ==========
+
+-- variation 1
+
+r'             R'r' N/r' N     D       d     D     d M G/M G R      R/M M    G/M G   R r    r/r' r'
+Jai Jagannath Swami        Jai   Jagannath, Jai Balade         v, Jai     Subha    dra   Ma
+
+-- variation 2
+
+r'             R'r' N/r' N     D       d     D     d M G/M G R    R/M  M  G/M G   R    r        r/r' r'
+Jai Jagannath Swami        Jai   Jagannath, Jai Balade         v,     Ja      i  Subha   dra Ma
+
+========== Part 4 ==========
+
+-- variation 1
+ r             r/D D       d   M    G/M G  M d    G/d G    g r 'N r  g    G    G/M  M G/M G    r/G r  R r
+Jai Jagannath Swa    mi Nayana   Patha    Ga   mi       Na     yana Patha   Ga     mi Bha   va       Tume
+
+-- variation 2
+ r             r/D D       d   M    G/M G  M d    G/d G    g r 'N/r 'N  r  g  G G/M  M G/M G      r/G r  R r
+Jai Jagannath Swa    mi Nayana   Patha    Ga   mi       Nayana         Patha Ga     mi        Bha va    Tume
+
+-- variation 3
+ r             r/D D       d   M    G/M G  M d    G/d G    g r 'N/r 'N  r  G G/M M     G/M G      r/G r  R r
+Jai Jagannath Swa    mi Nayana   Patha    Ga   mi       Nayana         Patha Ga     mi        Bha va    Tume
+
+=> r/G
+
+========== Part 5 ==========
+
+-- variation 1
+
+ G   G/M   M     D    N   r'  N/r' N N/R' R'    r'   r'/G' G'    g'  r'   N/r' N      r'  R'M' R'r'     G/r'
+Nila     Chale Swami Tumi Jai        Ja      gannath       Mayapur  Swami        Tumi Jai Jaganna   th
+
+-- variation 2
+
+ G   G/M   M     D    N   r'     N/r' N N/R' R' r' r'/G' G'         g'  r' N/r' N         r'       R' R/M' M' R/M' R' r'     G/r'
+Nila     Chale Swami Tumi    Jai        Ja   ganna         th Mayapur  Swami        Tumi    Jai Ja ga     nna            th
+
+========== Part 6 ==========
+
+r'               R' r' N/r'  N   D       d      D      d  M    G/M  G R R/M   M G     R r r/r'
+Jai Jagannath Swami Na      yana   Patha   Gami   Nayana Patha     Gami     Bha   va Tume
+
+========== Part 7 (Finish) ==========
+
+ r       r/D D d      M   G/M G   M d     G/d G   g  r'N rgG G/M M G/M     G r/G r     R  r
+Jai Jaganna      th Jai Jaga    nna   th,       Jai Balade             v, Jai      Subhadra Ma
+
+Finish: d'/r
+
