@@ -1,0 +1,45 @@
+========== Part 1 ==========
+
+ D    P    M   G/M G  G/M M      G/M G
+Hare Kṛṣṇa   Hare     Kṛ     ṣṇa
+
+  R    G    G/P  P M G/M G R    R/D
+Kṛṣṇa Kṛṣṇa     Hare Ha      re
+
+ D    P   M   G/M G G/M M    G/M G
+Hare Rāma   Hare    Rā    ma
+
+   R  G   G/P  P M G/M G R    R/D
+Rāma Rāma     Hare Ha      re
+
+========== Part 2 ==========
+
+ D    N D P   P/N  N D M/D M     P
+Hare Kṛ   ṣṇa     Hare Kṛ    ṣṇa
+
+  D    P M G/M G G/M  M P  M G/M G R    R/D
+Kṛṣṇa Kṛ   ṣ  ṇa     Hare Ha         re
+
+ D    N D P    P/N  N D M/D  M   P
+Hare Rā     ma     Hare     Rāma
+
+   D  P M G/M G    G/M M P  M G/M G R    R/D
+Rāma Rā         ma    Hare Ha         re
+
+========== Part 3 ==========
+
+ D    P       M   G/M G  M    G/M G
+Hare    Kṛṣṇa   Hare    Kṛṣṇa
+
+  R    G    G/P  P M G/M G R    R/D
+Kṛṣṇa Kṛṣṇa     Hare Ha      re
+
+ D    N D P    P/N  N D M/D M   M/P
+Hare Rā     ma     Hare    Rāma
+
+ P D     P M M/G G    G/M  M M/P P  M G/M G R    R/D
+Rā   ma Rā         ma     Ha    re Ha         re
+
+========== Finish ==========
+
+=> Finish: 'D/R
