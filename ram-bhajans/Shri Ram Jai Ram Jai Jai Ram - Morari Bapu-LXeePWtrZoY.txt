@@ -1,0 +1,80 @@
+========== Part 1 ==========
+
+   d  N N/r' r'            N/r'  N N/G' G' g'/G' g'      r'/g' r'     d/r'
+Shri Ra m    Jai Ram Jai Jai    Ra               m Jai Jai        Ram
+
+========== Part 1v2 ==========
+
+   d d/N N    N/r' r'           N/r'  N N/G' G' g'/G' g'      r'/g' r'     d/r'
+Shri    Ram Jai       Ram Jai Jai    Ra               m Jai Jai        Ram
+
+=> n/r'
+
+========== Part 2 ==========
+
+   n    M/n M   M/n    n            N   n    d/n d     G/d
+Shri Ra     m Jai   Ra   m Jai Jai Ram Jai Jai     Ram
+
+========== Part 2v2 ==========
+
+   G G/M  M  M/n          n            N   n    d/n d     G/d
+Shri     Ra      m Jai Ra   m Jai Jai Ram Jai Jai     Ram
+
+========== Part 3 ==========
+
+   G G/M  M   d   d/r' r' r'/g' g' N/g' Nnd        M d   n   M/n  M G/M G
+Shri     Ram    Jai    Ra       m      Jai  Jai Ra   m Jai Jai   Ra       m
+
+=> r/G
+
+========== Part 4 ==========
+
+   r   'N/r 'N 'N/r  r r/G  G G/M M M/d d     G/d
+Shri Ram    Ja i    Ra m   Ja i  Ja i     Ram     
+
+   G  g 'N/g 'N  'N/g    g         r/g r
+Shri Ra m    Jai      Ra   m Jai Jai     Ram
+
+=> r/G
+
+========== Part 5 ==========
+
+   G G/M  M  M/n        n        
+Shri     Ra      m Jai Ram Jai Jai Ram
+
+          N       n    d/n d    G/d G
+Shri Ram Jai Ram Jai Jai     Ra     m
+
+========== Repeat Part 3 ==========
+
+=> G/d
+
+========== Repeat Part 1v2 ==========
+
+========== Part 6 ==========
+
+   d d/N N    N/r' r'      d/r'  r'   N/r'  N N/G' G' g'/G' g'      r'/g' r'    n/r' n
+Shri    Ram Jai       Ram      Jai  Jai    Ra               m Jai Jai        Ra      m
+
+========== Part 2 ==========
+========== Part 2v2 ==========
+========== Part 3 ==========
+========== Part 4 ==========
+
+Finish with 'd/r.
+
+============================
+Extra - one saptak up (tar)
+========== Part 6 ==========
+
+  r'   N/r'  N N/r' r' r'/G' G'  G'/M' M' M'/d' d'     G'/d'
+Shri Ram    Ja i    Ra m       Jai     Ja i       Ram     
+
+  G' g' N/g'  N     N/g'  g'    r'/g' r'
+Shri Ra m    Jai Ra     m Jai Jai       Ram
+
+=> d/r'
+
+========== Repeat Part 1v2 ==========
+
+Finish with r
