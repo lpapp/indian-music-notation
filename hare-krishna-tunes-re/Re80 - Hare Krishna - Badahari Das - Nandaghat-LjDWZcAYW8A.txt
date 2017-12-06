@@ -1,0 +1,82 @@
+========== Part 1 ==========
+
+ R R/G  G G/M M     G/M G    R/G  R r/R r 'N/r 'N    'N/G G
+Ha     re Kṛ    ṣṇa       Ha     re Kṛ         ṣ  ṇa
+
+  G/M  M M/P P     M/P M    R/M  R R/M M G/M G    R/G R
+Kṛṣ   ṇa Kṛ    ṣṇa       Ha     re Ha          re
+
+ R R/M  G G/M M    G/M G    R/G  R r/R r 'N/r 'N    'N/G G
+Ha     re Rā    ma       Ha     re Rā            ma
+
+   G/M M M/P P    M/P M    R/M  R R/M M G/M G    R/G R
+Rā    ma Rā    ma       Ha     re Ha          re
+
+=> G/M
+
+========== Part 2 ==========
+
+ M M/P  P P/D D     P/D P    M/P M  G/M G R/G R     R/G G
+Ha     re Kṛ    ṣṇa       Ha    re Kṛ           ṣṇa
+
+ G G/M  M M/P P     M/P M    R/M  R R/M M G/M G    G/M M
+Kṛ ṣ   ṇa Kṛ    ṣṇa       Ha     re Ha          re
+
+ M M/P  P P/D D    P/D P    M/P  M G/M G R/G R    R/G G
+Ha     re Rā    ma       Ha     re Rā          ma
+
+ G G/M  M M/P P    M/P M    R/M R R/M M G/M G    G/M M
+Rā     ma Rā    ma       Ha    re Ha          re
+
+
+============================
+         Double-time
+========== Part 3 ==========
+
+ R R/G  G G/M M                G/M
+Ha     re Kṛ    ṣṇa Hare Kṛṣṇa
+
+ G R/G  R r/R r   'N/r 'N        'N/G G
+Kṛ ṣ   ṇa Kṛ  ṣṇa      Hare Hare
+
+   G/M M M/P P            M/P  M
+Ha    re Rā    ma Hare Rā     ma
+
+   R/M       R R/M  M   G/M G      R/G
+Rā     ma Rā   ma  Hare       Hare
+
+========== Part 3v2 ==========
+
+ R R/G  G G/M M G/M G G/M  M         
+Ha     re Kṛ    ṣ     ṇa  Hare Kṛṣṇa
+
+  G/M G    R/G R r/R  r 'N/r 'N        'N/G G
+Kṛṣ     ṇa Kṛ    ṣ   ṇa      Hare Hare
+
+   G/M M M/P P            M/P  M
+Ha    re Rā    ma Hare Rā     ma
+
+   R/M  R    R/M  M       G/M G      R/G
+Rā     ma Rā     ma  Hare       Hare
+
+=> G/M
+
+========== Part 4 ==========
+
+ M M/P P P/D D                P/D
+Ha re    Kṛ    ṣṇa Hare Kṛṣṇa
+
+ P M/P M G/M G     R/G  R        R/G G
+Kṛ ṣ  ṇa Kṛ    ṣṇa     Hare Hare
+
+   G/M  M M/P P           M/P
+Ha     re Rā    ma Hare Rāma
+
+ M R/M  R   R/M  M      G/M  G   G/M
+Rā     ma Rā    ma Hare     Hare
+
+=> R/G
+
+======= Repeat Part 1 =======
+
+Finish with 'D/R
