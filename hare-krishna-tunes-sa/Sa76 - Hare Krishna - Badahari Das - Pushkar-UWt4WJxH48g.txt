@@ -1,0 +1,55 @@
+========== Part 1 ==========
+
+ S S/R R R/G G G/m m G/m G R/G R R/P   P   P/D  D   P/D  P G/P G   R/G R
+Ha          re                       Kṛṣṇa     Hare     Kṛ     ṣṇa
+
+      S/R S   S/R R    R/G  G   R/G R    S/R S
+Kṛṣṇa       Kṛṣ     ṇa     Hare       Ha       re
+
+ S S/R R R/G G G/m m G/m G R/G R R/P    P    P/D  D   P/D  P G/P G    R/G R
+Ha          re                       Rā   ma     Hare     Rā       ma
+
+     S/R S    S/R R    R/G  G   R/G R    S/R S
+Rāma       Rā       ma     Hare       Ha       re
+
+=> S/P
+
+========== Part 2 ==========
+
+ P   G/P G   G/P P    P/D  D D/S' S' N/S' N D/N  D P/D P P/D  D P/D
+Hare       Kṛṣ     ṇa     Ha      re            Kṛ     ṣ     ṇa
+
+ P G/P G    R/G R       R/G  G G/P  P G/P  G R/G R S/R  S S/P
+Kṛ ṣ     ṇa       Kṛṣṇa     Ha     re     Ha           re
+
+ P   G/P G    G/P P    P/D  D D/S' S' N/S' N D/N  D P/D P P/D  D P/D
+Hare       Rā       ma     Ha      re            Rā           ma
+
+ P G/P G    R/G R      R/G  G G/P  P G/P  G R/G R S/R  S S/P
+Rā       ma       Rāma     Ha     re     Ha           re
+
+===== Increase the pace =====
+
+======= Repeat Part 1 =======
+
+======= Repeat Part 2 =======
+
+=> S/S'
+
+========== Part 3 ==========
+
+S'         D/S' D   P/D  P    G/P
+Hare Kṛṣṇa     Hare     Kṛṣṇa
+
+ G    R/G  R    S/R  S        S/S'
+Kṛṣṇa     Kṛṣṇa     Hare Hare
+ 
+S'      D/S' D      P/D  P G/P
+Hare Rā     ma Hare     Rā     ma
+
+ G   R/G  R S/R  S        S/S'
+Rāma     Rā ma  Hare Hare
+
+======= Repeat Part 1 =======
+
+Finish with 'P/S
