@@ -44,7 +44,7 @@ rāma rāma hare hare
          Double-time
 ========== Part 4 ==========
 
-g     R     S         'd /S
+ g    R     S         'd /S
 hare kṛṣṇa hare kṛṣṇa
 
  'd    'n    'n /R  R      g
@@ -58,14 +58,14 @@ rāma rāma hare hare
 
 ========== Part 5 ==========
 
- Sg   m     Sg   P
+ S g  m     S g  P
 hare kṛṣṇa hare kṛṣṇa
 
- d     P  m g     R
+ d     P  m  g    R
 kṛṣṇa kṛṣṇa hare hare
 
- Sg   m    Sg   P
+ S g  m    S g  P
 hare rāma hare rāma
 
-d     P m g     R
+ d    P m  g    R
 rāma rāma hare hare
