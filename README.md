@@ -43,4 +43,19 @@ next part does not start where the previous ends, there is normally a way to
 smootly change from the previous to the next. This is indicated with "=>" after
 each part. E.g. "=> P/S'" would mean that the previous part ends with Pa, and
 the next part starts with Taar saptak Sa, so a smooth transition between the two
-part would mean pressing down both Madhya saptak Pa and Taar saptak Sa.
+parts would mean pressing down both Madhya saptak Pa and Taar saptak Sa.
+
+* At some point in the history of this repository, I started becoming more
+verbose with the notes for the tunes. This ended up generating more notes
+because I started noting down the transition between two notes, e.g. from Sa to
+Re. It was indicated as "S R" before, but it is now indicated as "S S/R R",
+where "S/R" is the transition between the two notes. It gives a bit more harmony
+and smoothness to the tune, but this is not essential to play. The change can be
+more exclusive. This can be easily left out at most of the transition,
+especially for a beginner, for whom, this may be too confusing and verbose.
+
+* There is currently no plan to put all these notes into proper rhythm
+indication as it is already time-consuming to keep writing notes for Prabhuji's
+videos. But if someone is happy to volunteer with adding rhythm notation to the
+notes, that would be most welcome. It would surely bring these notes to the next
+level.
