@@ -66,3 +66,6 @@ indication as it is already time-consuming to keep writing notes for Prabhuji's
 videos. But if someone is happy to volunteer with adding rhythm notation to the
 notes, that would be most welcome. It would surely bring these notes to the next
 level.
+
+* Note are sometimes in brackets. This is to indicate that they can be played or
+left out optionally as the harmonium player desires.
