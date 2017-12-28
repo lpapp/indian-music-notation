@@ -9,6 +9,13 @@ All credit goes to "krishnabhakta" for making these wonderful videos.
 
 How to use the notes:
 
+* An octave of a harmonium contains W1 B1 W2 B2 W3 W4 B3 W5 B4 W6 B5 W7 keys,
+which is the sequence of white and black keys. In these notations, Sa is placed
+on the first white key of an octave. This is because Prabhuji normally makes the
+videos with the hqrmonium scaled to "C#". This can be strange at first as
+non-scalable harmoniums are normally set to "C", and the common placement of Sa
+is the first black key (B1), normally.
+
 * When multiple notes are pressed at the same, "slash" ("/") separates the
 simultaneous notes from each other, e.g. S/P means Sa and Pa pressed at the same
 time
