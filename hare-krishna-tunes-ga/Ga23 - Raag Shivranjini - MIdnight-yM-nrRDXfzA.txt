@@ -23,7 +23,7 @@ kṛṣṇa kṛṣṇa ha   re hare
  P    DS' n     Dn
 hare rāma hare rāma
 
- D m  D   n  S'n   D P  
+ D m  D   n  S'n   D P
 rāma rāma ha   re hare
 
 ============================
@@ -44,7 +44,7 @@ rāma rāma hare hare
 
 ========== Part 2 ==========
 
- P    D    S' 
+ P    D    S'
 hare kṛṣṇa hare kṛṣṇa
 
  n     D    n
@@ -53,7 +53,7 @@ kṛṣṇa kṛṣṇa hare hare
  D    m    D
 hare rāma hare rāma
 
-n S' n  D  P  
+n S' n  D  P
 rāma rāma hare hare
 
 ============================

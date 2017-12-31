@@ -6,7 +6,7 @@ Ha       re     Kṛṣṇa     Ha         re      Kṛ   ṣṇa
   m/d  d d/n  n       d/n d d/r' r' n/r'  n M/n  M M/d d m/d m g/m  g g/d
 Kṛṣ   ṇa     Kṛṣṇa Ha                    re     Ha                 re
 
- d m/d m    g/m  g   r/g  r 'n/r 'n    'n/g  g   g/m m 
+ d m/d m    g/m  g   r/g  r 'n/r 'n    'n/g  g   g/m m
 Ha       re     Rāma     Ha         re      Rāma
 
    m/d  d d/n  n      d/n d d/r' r' n/r'  n M/n  M M/d d m/d m g/m  g g/d
@@ -38,7 +38,7 @@ Ha       re     Kṛṣṇa     Ha                     re    Kṛ   ṣṇa
   m/d  d d/n  n       d/n d d/r' r' n/r'  n M/n  M M/d d m/d m g/m  g g/d
 Kṛṣ   ṇa     Kṛṣṇa Ha                    re     Ha                 re
 
- d m/d m    g/m  g   g/m  m g/m g r/g r 'n/r 'n 'n/g  g   g/m m 
+ d m/d m    g/m  g   g/m  m g/m g r/g r 'n/r 'n 'n/g  g   g/m m
 Ha       re     Rāma     Ha                     re   Rāma
 
    m/d  d d/n  n      d/n d d/r' r' n/r'  n M/n  M M/d d m/d m g/m  g g/d

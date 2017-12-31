@@ -1,12 +1,12 @@
 ========== Part 1 ==========
 
-R/D Dn   D G/D G   R  RG'M G 'n  'D
+R/D Dn   D G/D G   R  RGM  G 'n  'D
 ha      re kṛ    ṣṇa ha   re kṛ ṣṇa
 
  'D'n  R'n R     GR R/D D   n D R/D
 kṛṣ   ṇa     kṛṣṇa  ha re hare
 
-   Dn  D G/D G R  RG'M G 'n 'D
+   Dn  D G/D G R  RGM  G 'n 'D
 ha    re rā   ma ha   re rā ma
 
 'D'n  R'n R    GR R/D  D   n  D R/D
@@ -14,13 +14,13 @@ rā   ma     rāma  ha  re hare
 
 ========== Part 2 ==========
 
-R/D D n           D 'M 'M/n     n D
+R/D D n           D M  M /n     n D
 ha    re kṛṣṇa ha   re kṛṣ   ṇa
 
    n  R'n R'         n  Dn  R'   R/R'
 kṛ ṣ  ṇa     kṛṣṇa ha  re   hare
 
-R/D D n          D 'M 'M/n    n D
+R/D D n          D M  M /n    n D
 ha    re rāma ha   re rā    ma
 
    n R'n R'         n  Dn  R'   R/R'

@@ -4,10 +4,10 @@
 hare   kṛ ṣ      ṇa             hare kṛṣ        ṇa
 
 S'    n /S' n  P/n   P m      g /m g  S/g  S S/P P d  P m S/m
-kṛṣṇa       kṛ ṣ    ṇa   hare      ha re  
+kṛṣṇa       kṛ ṣ    ṇa   hare      ha re
 
  S S/g  g  S/g  S S/P  P d  P m    P d  P g /P g  R 'n /R 'n
-ha      re rā         ma        hare rā   ma  
+ha      re rā         ma        hare rā   ma
 
    S  R g  g /P P m g /m g     R S    S/P
 rāma rā        ma        hare ha   re
@@ -18,11 +18,11 @@ rāma rā        ma        hare ha   re
 ha      re    kṛ ṣ   ṇa        hare     kṛṣ    ṇa
 
   Bb    C'D'     D#'D'C'    BC' Bb/C' Bb A (F/A A G/A) G
-kṛṣ  ṇa kṛ   ṣṇa ha     re hare  
+kṛṣ  ṇa kṛ   ṣṇa ha     re hare
 
- P P/n     n     P/n   P D m/D m  P D D/S'S'N S'    n /S' n  D 
-ha      re    rā      ma         hare     rā     ma  
- 
+ P P/n     n     P/n   P D m/D m  P D D/S'S'N S'    n /S' n  D
+ha      re    rā      ma         hare     rā     ma
+
    Bb    C'D'   D#'D'C'   B   C' Bb/C' Bb A (F/A A G/A) G
 rā    ma rā  ma ha     re   hare
 
@@ -32,10 +32,10 @@ S'    S'/g'  g'  R' n /R'n     D m  P m g /m g     S/g  S S/P P d  P m
 ha re            kṛ ṣ       ṇa     hare      kṛṣṇa
 
   G   G# G D#/G D#    D Bb,/D Bb,  C C/D# D#  D C    C/C' C' (G/C' C')
-kṛṣṇa kṛ        ṣ  ṇa             ha re      ha   re  
+kṛṣṇa kṛ        ṣ  ṇa             ha re      ha   re
 
 S' S'/g'  g'  R' n /R' n  D m  P m g /m g    S/g  S S/P P d  P m
-ha re         rā       ma     hare      rāma  
+ha re         rā       ma     hare      rāma
 
    G    G# G D#/G D#    D Bb,/D Bb,  C C/D# D#  D C    C/C' C' (G/C' C')
 rā   ma rā           ma             ha re      ha   re
@@ -46,10 +46,10 @@ rā   ma rā           ma             ha re      ha   re
 ha      re kṛṣ   ṇa             ha re kṛ    ṣ   ṇa
 
   g     g /m m m/n  n  D m/D m    m/d  d   P   m P m g /m g  R S
-kṛṣ  ṇa     kṛ ṣ    ṇa         ha      re hare  
+kṛṣ  ṇa     kṛ ṣ    ṇa         ha      re hare
 
  S S/g  g     S/g  S  R 'n /R 'n   S  R R/m m G m    g /m g  R
-ha      re rā     ma              ha re rā        ma  
+ha      re rā     ma              ha re rā        ma
 
    g     g /m  m m/n  n   D m/D m    m/d  d   P   m P m g /m g  R S
 rā    ma      rā      ma          ha      re hare
@@ -74,10 +74,10 @@ S'   S'/g'  g'  R'   n /R' n      D   m/D  m
 hare            kṛ ṣ          ṇa hare     kṛṣṇa
 
  P  m g /m g     S/g  S    S/P  P
-kṛṣṇa      kṛṣṇa ha     re     hare  
+kṛṣṇa      kṛṣṇa ha     re     hare
 
       DP  m g /m g  R    'n /R 'n
-hare rā  ma      hare rā           ma  
+hare rā  ma      hare rā           ma
 
  S   S/g  g      R   S      S/S'
 rāma rā      ma hare   hare
@@ -88,10 +88,10 @@ S' S'/g'  g'  R' n /R'n      D   P   m   g /m
 ha        re  kṛ      ṣ  ṇa hare   kṛṣṇa
 
 g        S/g  S S/P    P    d  P m
-kṛṣṇa kṛ ṣ   ṇa     ha   re hare  
+kṛṣṇa kṛ ṣ   ṇa     ha   re hare
 
    P d  P g /P g     R 'n /R 'n
-hare rā   ma   hare rā           ma  
+hare rā   ma   hare rā           ma
 
  C   C/D# D#     D   C      C/C' (G/C')
 rāma rā      ma hare   hare
@@ -102,10 +102,10 @@ S' S'/g'  g'  R' n /R'n      D   m/D m       g /m
 ha        re  kṛ      ṣ  ṇa hare       kṛṣṇa
 
 g        S/g  S S/P    P    d  P m
-kṛṣṇa kṛ ṣ   ṇa     ha   re hare  
+kṛṣṇa kṛ ṣ   ṇa     ha   re hare
 
    P d  P g /P g     R 'n /R 'n
-hare rā   ma   hare rā           ma  
+hare rā   ma   hare rā           ma
 
  C   C/D# D#     D   C      C/C' (G/C')
 rāma rā      ma hare   hare
@@ -116,10 +116,10 @@ rāma rā      ma hare   hare
 ha re      kṛṣṇa hare       kṛ ṣṇa
 
  SR   R/m m   G  m   g /m g  R
-kṛṣṇa kṛ    ṣṇa hare      hare  
+kṛṣṇa kṛ    ṣṇa hare      hare
 
  R g   m m/n     n    m/n   md
-ha re rā      ma hare      rāma  
+ha re rā      ma hare      rāma
 
  P        m m/g  g      R   S
 rāma rāma   ha      re hare
@@ -132,10 +132,10 @@ rāma rāma   ha      re hare
 ha re      kṛṣṇa   hare     kṛṣṇa
 
  P  D D/S'S' N   S'   n /S' n  D
-kṛṣṇa kṛ     ṣṇa hare       hare  
+kṛṣṇa kṛ     ṣṇa hare       hare
 
-  n  S'R'        
-hare rāma hare rāma  
+  n  S'R'
+hare rāma hare rāma
 
 g' R'    S'N    S'   n /S' n  D P
 rā    ma rā  ma hare       hare

@@ -30,7 +30,7 @@ Shri     Ram    Jai    Ra       m      Jai  Jai Ra   m Jai Jai   Ra       m
 ========== Part 4 ==========
 
    r   'N/r 'N 'N/r  r r/G  G G/M M M/d d     G/d
-Shri Ram    Ja i    Ra m   Ja i  Ja i     Ram     
+Shri Ram    Ja i    Ra m   Ja i  Ja i     Ram
 
    G  g 'N/g 'N  'N/g    g         r/g r
 Shri Ra m    Jai      Ra   m Jai Jai     Ram
@@ -39,7 +39,7 @@ Shri Ra m    Jai      Ra   m Jai Jai     Ram
 
 ========== Part 5 ==========
 
-   G G/M  M  M/n        n        
+   G G/M  M  M/n        n
 Shri     Ra      m Jai Ram Jai Jai Ram
 
           N       n    d/n d    G/d G
@@ -68,7 +68,7 @@ Extra - one saptak up (tar)
 ========== Part 6 ==========
 
   r'   N/r'  N N/r' r' r'/G' G'  G'/M' M' M'/d' d'     G'/d'
-Shri Ram    Ja i    Ra m       Jai     Ja i       Ram     
+Shri Ram    Ja i    Ra m       Jai     Ja i       Ram
 
   G' g' N/g'  N     N/g'  g'    r'/g' r'
 Shri Ra m    Jai Ra     m Jai Jai       Ram

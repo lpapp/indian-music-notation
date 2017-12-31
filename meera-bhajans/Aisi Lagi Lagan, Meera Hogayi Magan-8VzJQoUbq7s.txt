@@ -5,7 +5,7 @@ Book Name: None
 Language: Braja Bhasa
 
 (1)
-R r   R R/m m  G m  R/m Rr   R R/m m  G m  m/D 
+R r   R R/m m  G m  R/m Rr   R R/m m  G m  m/D
 aisi lā gī    lagan    mīrā ho ga yī magan
 
  D  N   S'  N    D    P   G/P  GP n   D m G
@@ -21,7 +21,7 @@ mī     rā rānī dīvānī     kahā   ne   lagī
 R r   R R/m m  G m  R/m Rr  'N  G    r     R   R/D
 aisi lā gī    lagan    mīrā ho ga yī    magan
 ---
- 
+
 
 (2)
  DN  P P/N N         S' R'S' N  D
@@ -46,7 +46,7 @@ R r   R R/m m  G m  R/m Rr  'N  G    r     R   R/D
 aisi lā gī    lagan    mīrā ho ga yī    magan
  ---
 
-(3) 
+(3)
  D N  P P/N  N        S' R'S'  N  D
 rāṇā ne vi  ṣa diyā māno a m ṛta piyā
 

@@ -7,7 +7,7 @@ Language: Bengali
 LYRICS:
 
 (1)
-G/D     D    NS'ND 'M/D 'M P G/P     G G/P P P/N N D Pm G
+G/D     D    NS'ND M /D M  P G/P     G G/P P P/N N D Pm G
 prabhu tava pada - yu     ge     mo    ra    ni   veda    n
 
 => E/E' E'
@@ -16,7 +16,7 @@ prabhu tava pada - yu     ge     mo    ra    ni   veda    n
 nāhi māgi    deha - sukha,     vi     dyā, dha   na, ja     n
 
 Repeat the first line of (1)
- 
+
 => E/G
 
 
@@ -28,19 +28,19 @@ nāhi mā     gi swarga,     āra mokṣa nāhi mā     gi
 nā kori prā    rthanā    kono       vi     bhū     tira lā    gi’
 
 Repeat the first line of (1)
- 
+
 => E/A
 
 
 (3)
-G/D   D     NS'ND 'M/D 'M P G/P G G/P P P/N N  D  Pm G G/G' G'
+G/D   D     NS'ND M /D M  P G/P G G/P P P/N N  D  Pm G G/G' G'
 nija-karma-guna    -   doṣe je    je    ja   nma pā  i
 
             R'      S'   N    G/N G    G/P P P/N N  D  Pm G
 janme janme    jeno   ta   va       nā    ma-gu    na gā  i
 
 Repeat the first line of (1)
- 
+
 
 (4)
 PD D/S'S' R' G'   R'G'      R'  G'    R'    G'R' S' N N/G'
@@ -50,10 +50,10 @@ ei mā    tra ā śā      mama tomār  ca    ra      ṇe
 ahoitukī    bhakti    hṛde       jā     ge a    nukṣa   ne
 
 Repeat the first line of (1)
- 
+
 
 (5)
-G/D D        NS'ND 'M/D 'M P G/P G G/P P P/N N D  Pm G G/G' G'
+G/D D        NS'ND M /D M  P G/P G G/P P P/N N D  Pm G G/G' G'
 vi ṣaye je prīti        e be ā     cha   ye    ā mā  r
 
          R'      S'   N  G/N G    G/P  P P/N N  D Pm G
@@ -70,18 +70,18 @@ vipa de     sampade     tāhā thākuk sama  -  bhā     ve
 dine dine  vṛddhi   hauk       nā    me ra    prabhā     ve
 
 Repeat the first line of (1)
- 
+
 
 (7)
-G/D   D     N S' D P  'M/D 'M  P  G/P G  G/P P  P/N N  D Pm  G G/G' G'
+G/D   D     N S' D P  M /D M   P  G/P G  G/P P  P/N N  D Pm  G G/G' G'
 paśu-pakṣi ho’ye     thā      ki swa    rge    vā     niro  ye
 
             R'     S'      N G/N  G G/P  P P/N N D    Pm  G
 tava bhakti   rahu    bhakti     vi     no da  -   hṛdo  ye
 
 Repeat the first line of (1)
- 
-Finish with 'N/G
+
+Finish with B,/E
 
 
 TRANSLATION

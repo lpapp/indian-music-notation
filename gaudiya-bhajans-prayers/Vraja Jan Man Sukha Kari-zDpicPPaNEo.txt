@@ -6,7 +6,7 @@ Language: Braja Bhasa
 
 LYRICS:
 
-D  P  D    P 'M  P
+D  P  D    P M   P
 rādhe syām rādhe syām
 
  m  G  m    G  S  R
@@ -27,7 +27,7 @@ vraja-jana-mana-sukhakārī
     P G/P  G    mG Rr  R
 rādhe     syām syāmā  syām
 
- 
+
 
 (1)
  R     G    P    D                      P    ND   P m GR
@@ -42,7 +42,7 @@ caraṇana nūpura rasāla
     P G/P G    mG Rr  R
 rādhe    syām syāmā  syām
 
- 
+
 
 (2)
  R       G P        D                      P  N D  P m GR
@@ -57,7 +57,7 @@ mohana-vaḿśī-vihārī
     P G/P  G    mG Rr  R
 rādhe     syām syāmā  syām
 
- 
+
 
 (3)
  R    G    P     D                 P  N D P m GR
@@ -72,7 +72,7 @@ vṛndāvana mê dhenu carāve, gopī-jana manahārī
     P G/P G    mG Rr  R
 rādhe    syām syāmā  syām
 
- 
+
 
 (4)
  R     G  P      D                 P N D Pm GR
@@ -87,7 +87,7 @@ kīrtana dharma pracārī
     P G/P  G    mG Rr  R
 rādhe     syām syāmā  syām
 
- 
+
 
 (5)
  R     G  P    D                  P N D P m GR

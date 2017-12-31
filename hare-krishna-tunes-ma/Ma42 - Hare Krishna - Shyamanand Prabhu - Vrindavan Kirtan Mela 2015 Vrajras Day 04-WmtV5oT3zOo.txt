@@ -116,7 +116,7 @@ hare kṛ  ṣ ṇa hare kṛṣ ṇa
 g'        m' g' R' S'   D/S'
 kṛ ṣṇa kṛṣṇa ha re hare
 
- D   D/S' S'   R'   S'R'  
+ D   D/S' S'   R'   S'R'
 hare      rāma hare rā  ma
 
 g'      m'    g' R' S'   D/S'
@@ -142,7 +142,7 @@ rā       ma  rāma hare    hare
 
 ========== Part 8 ==========
 
-m/D D              
+m/D D
 ha re kṛṣṇa hare kṛṣṇa
 
   P    D D/S'S'   n  D  P m
@@ -184,4 +184,4 @@ rā     ma rāma hare hare
 
 ========== Repeat Part 1 ==========
 
-Finish with S/m
+Finish with C/F

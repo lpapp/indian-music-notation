@@ -14,13 +14,13 @@ rā ma rāma hare hare
 
 ========== Part 2 ==========
 
- P      'M  G    R
+ P      M   G    R
 hare kṛṣṇa hare kṛṣṇa
 
  G     m  D  P m  G   G/P
 kṛṣṇa kṛṣṇa hare hare
 
- P     'M  G    R
+ P     M   G    R
 hare rāma hare rāma
 
  G    m D  P m  G   G/P
@@ -34,7 +34,7 @@ hare kṛṣṇa hare kṛṣṇa
  G     m  D  P m  G   G/D
 kṛṣṇa kṛṣṇa hare hare
 
- D P  N D  P m  G R 
+ D P  N D  P m  G R
 hare rāma hare rāma
 
  G    m D  P m  G   G/D

@@ -1,6 +1,6 @@
 ========== Part 1 ==========
 
- P      d Pm    GP m 
+ P      d Pm    GP m
 hare kṛṣṇa   hare kṛṣṇa
 
 m/n  n   D  P  md   P
@@ -36,10 +36,10 @@ hare kṛṣṇa hare kṛṣṇa
   m    G  P  m
 kṛṣṇa kṛṣṇa hare hare
 
-m/n  n     D    P  
+m/n  n     D    P
 hare rāma hare rāma
 
- m   'M    m
+ m   M     m
 rāma rāma hare hare
 
 ============================

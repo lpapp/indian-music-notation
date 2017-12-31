@@ -7,110 +7,110 @@ Language: Bengali
 LYRICS:
 
 (1)
- G G/D     D  'M        P  'M G     G/D  D  'M  G r  'N
+ G G/D     D  M         P  M  G     G/D  D  M   G r  'N
 mā     na sa,     deho,    geho, jo ki     chu mo r
 
-r      'N r' M  G    r  'N         'd  'N'D    'D/G
+r      'N r M   G    r  'N         'd  'N'D    'D/G
 arpilū    tuwā pade,       nanda-kiśo       r!
 
- 
+
 
 (2)
- G G/D D      d  D d  'M   d  D N   d Dd   'MG
+ G G/D D      d  D d  M    d  D N   d Dd   M G
 sampa    de vipade,      jīvane - mara     ṇe
 
 --- High pitch variation
 
- G r'            N r' N  D    d 'M   d  D N   d Dd  'MG 
+ G r'            N r' N  D    d M    d  D N   d Dd  M G
 sa     mpa    devi      pade,      jīvane - mara    ṇe
 ---
 
- G G/D D      'M       P 'M G 'N/G 'Nr  RG  'N/G 'N    'D
+ G G/D D      M        P M  G 'N/G 'Nr  RG  'N/G 'N    'D
 dā     y mama    gelā,   tuwā      o-pada bara           ṇe
 
- 
+
 
 (3)
- G G/D D         d  D d  'M       d  D  N   d  D d  'MG
+ G G/D D         d  D d  M        d  D  N   d  D d  M G
 mā ro    bi rākhobi    -    jo icchā   tohā      rā
 
 --- High pitch variation
 
- G r'            N  r' N       D d 'M        d  D  N   d Dd  'MG 
+ G r'            N  r' N       D d M         d  D  N   d Dd  M G
 mā     ro    bi rā       khobi    -    jo icchā   tohā      rā
 ---
 
- G G/D  D  'M   P  'M G 'N/G 'N   r  R  G 'N/G 'N 'D
+ G G/D  D  M    P  M  G 'N/G 'N   r  R  G 'N/G 'N 'D
 ni     tya-dāsa   prati      tuwā    adhi kā      rā
 
- 
+
 
 (4)
- G G/D     D   d D d  'M     d   D N     d     D d  'M G
+ G G/D     D   d D d  M      d   D N     d     D d  M  G
 ja     nmā obi moe        icchā ja   di    to       r
 
 --- High pitch variation
- G r'    N   r'   ND d 'M      d   D  N   d     Dd  'MG 
+ G r'    N   r'   ND d M       d   D  N   d     Dd  M G
 ja n  mā obi     moe        icchā ja   di    to     r
 ---
 
-  G G/D   D 'M       P 'M G 'N/G 'N r   RG 'N/G 'N'D
+  G G/D   D M        P M  G 'N/G 'N r   RG 'N/G 'N'D
 bha     kta  -  gṛhe   jani      janma hau mo        r
 
- 
+
 
 (5)
 
- G   G/D   D   d  D d  'M      d   DN    d Dd  'MG
+ G   G/D   D   d  D d  M       d   DN    d Dd  M G
 kīṭa-ja  nma hau            jathā tu  wā dā    s
 
 --- High pitch variation
- Gr'        Nr' ND d 'M    d   DN    d Dd  'MG 
+ Gr'        Nr' ND d M     d   DN    d Dd  M G
 kīṭa-janma ha   u       jathā tu  wā dā    s
 ---
 
- G G/D  D'M       P  'M  G 'N/G 'Nr  R  G   'N/G   'N'D
+ G G/D  DM        P  M   G 'N/G 'Nr  R  G   'N/G   'N'D
 ba     hi   r-mukha brahma      jan me nāhi      ā      ś
 
- 
+
 
 (6)
-  G      G/D D    d  D d  'M    d  D N    d      Dd  'MG
+  G      G/D D    d  D d  M     d  D N    d      Dd  M G
 bhukti - mukti-spṛhā          vihīna   je    bha    kta
 
 --- High pitch variation
-  G r'         N   r' N D d 'M   d  DN    d      Dd  'MG 
+  G r'         N   r' N D d M    d  DN    d      Dd  M G
 bhukti - mukti - spṛ   hā      vihīna je     bha    kta
 ---
 
- G G/D D    'M    P 'M G 'N/G 'N r  RG    'N/G    'D
+ G G/D D    M     P M  G 'N/G 'N r  RG    'N/G    'D
 la       bhai  te   tāko      sańga a  nu      ra    kta
 
- 
+
 
 (7)
- G  G/D D     d  D d  'M   d  D N   d Dd  'MG
+ G  G/D D     d  D d  M    d  D N   d Dd  M G
 janaka,   jananī,        dayita,  tana    y
 
 --- High pitch variation
- Gr'       Nr' N D d 'M    d  DN   d Dd  'MG 
+ Gr'       Nr' N D d M     d  DN   d Dd  M G
 janaka, jana    nī,      dayita, tana    y
 ---
 
-  G G/D      D    'M     P 'M   'N/G  'Nr   RG     'N/G 'N'D
+  G G/D      D    M      P M    'N/G  'Nr   RG     'N/G 'N'D
 pra     bhu,   gu    ru,   pati   -   tuhū sa  rva-mo       y
 
- 
+
 
 (8)
-  G  G/D D  d Dd 'M   d    DN    d Dd  'MG
+  G  G/D D  d Dd M    d    DN    d Dd  M G
 bhakati vinoda      kohe, śu  no kā    na!
 
 --- High pitch variation
-  Gr'     Nr' N D d 'M   d   DN    d Dd  'MG 
+  Gr'     Nr' N D d M    d   DN    d Dd  M G
 bhakativino    da      kohe, śuno kāna!
 ---
-  G G/D   D 'M       P 'M G 'N/G 'Nr  RG   'N/G 'N'D
+  G G/D   D M        P M  G 'N/G 'Nr  RG   'N/G 'N'D
 rā      dhā - nātha!   tuhū      hāmāra  parā       ṇa
 
 
@@ -128,9 +128,9 @@ TRANSLATION
 4) If it is Your will that I be born again, then may it be in the home of Your devotee.
 
 5) May I be born again even as a worm, so long as I may remain Your devotee. I have no desire to be born as a Brahma averse to You.
- 
+
 6) I yearn for the company of that devotee who is completely devoid of all desire for worldly enjoyment or liberation.
- 
+
 7) Father, mother, lover, son, Lord, preceptor, and husband; You are everything to me.
 
 8) Thakura Bhaktivinoda says, "O Kana, please hear me! O Lord of Radha, You are my life and soul!"

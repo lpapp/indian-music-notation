@@ -1,11 +1,11 @@
 =============== Part 1 ===============
 
  G             mG   R
-jaya jagannath,    jaya jagannatha, 
+jaya jagannath,    jaya jagannatha,
 
  m        GR    S
 jaya baladeva, jaya subhadra,
- 
+
 =============== Part 2 ===============
 
  P             m  G R             G  m         G     R     S
@@ -18,5 +18,5 @@ Nilachale swami tumi jaya jagannath    mayapure swami tumi jaya jagannath
 ( G              F E  D             EF               E  D    C
  mayapure swami tumi jaya jagannath    Nilachale swami tumi jaya jagannath)
 ^^^ fun ^^^
- 
+
 ================= End =================

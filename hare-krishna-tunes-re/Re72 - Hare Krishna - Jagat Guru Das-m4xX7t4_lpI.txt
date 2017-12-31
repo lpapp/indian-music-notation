@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
-r  r /n  n        N    n     'M/n  'M   'M/n  n  g /n
+r  r /n  n        N    n     M /n  M    M /n  n  g /n
 ha re       kṛṣṇa   ha    re kṛ       ṣ       ṇa
 
-g   g /n  n        N    n     P/n  P d     'Mm
+g   g /n  n        N    n     P/n  P d     M m
 kṛṣ ṇa       kṛṣṇa   ha    re     ha    re
 
-     'Md  m/d   m      'Md  d /r'
+     M d  m/d   m      M d  d /r'
 hare rāma         hare rāma
 
-r'       d /r' d  n d  m/d   m'M r /'M r  g  r
+r'       d /r' d  n d  m/d   mM  r /M  r  g  r
 rā ma rā       ma hare      hare
 
 => C#/C#'
@@ -19,27 +19,27 @@ rā ma rā       ma hare      hare
 r'         g'    r'    n /r'  n   n /N N
 hare kṛṣṇa    ha    re        kṛ  ṣ      ṇa
 
-            r' N d /N d n  'M/n  'Md 'M 'M/r'
+            r' N d /N d n  M /n  M d M  M /r'
 kṛṣṇa kṛṣṇa hare      hare
 
        r'  g'    r'    n /r'  n  n /N N    N/g'  g'  r'  N/r'  N
 hare rāma     ha    re        rā        ma
 
-          r'    N    d /N d n  'M/n  'M d  'M 'M/r'
+          r'    N    d /N d n  M /n  M  d  M  M /r'
 rāma rāma    ha   re      hare
 
 ========== Part 3 ==========
 
-'M/n  n      N N/r'  r'     N/r'  N n  d         n     d  'M
+M /n  n      N N/r'  r'     N/r'  N n  d         n     d  M
 ha       re kṛ ṣ        ṇa                hare kṛṣ  ṇa
 
-'M/n  n      d 'M  m g   r g   m'M r /'M r  g  r  r /n
+M /n  n      d M   m g   r g   mM  r /M  r  g  r  r /n
 kṛ       ṣṇa kṛṣ  ṇa   ha  re hare
 
-n     N N/r'  r'     N/r'  N n  d          n     d  'M
+n     N N/r'  r'     N/r'  N n  d          n     d  M
 hare rā          ma                hare rā    ma
 
-'M/n  n     d 'M m g   r g   m'M r /'M r  g  r  r /n
+M /n  n     d M  m g   r g   mM  r /M  r  g  r  r /n
 rā       ma rā  ma   ha  re hare
 
 ============================

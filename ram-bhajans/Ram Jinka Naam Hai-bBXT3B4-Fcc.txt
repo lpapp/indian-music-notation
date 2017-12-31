@@ -1,78 +1,76 @@
 =====
 
-g     G  'M  G        'M G g           G  'M   G
+g     G  M   G        M  G g           G  M    G
 Raam jinaka naam hai,         Ayodhya jinaka dhaam hai
 
-G/d  d         D  N D d  'M GRG G/d
+G/d  d         D  N D d  M  GRG G/d
 Ai   se shree raghunaath ko,
 
-G/d  d         D  N D d  'M GR     G 'MP 'M   G         'M G R        G 'MP 'M   G
+G/d  d         D  N D d  M  GR     G M P M    G         M  G R        G M P M    G
 Ai   se shree raghunaath ko,   baarambaa r  pranaam hai           baarambaa r  pranaam hai
 
 =====
 
-G/d   d      D   N   Dd  'M  G       G/D     D             G/D G 'M d
+G/d   d      D   N   Dd  M   G       G/D     D             G/D G M  d
 Kau  shalya jinakee maa  ta hai,(x2)     Dasharath jinake ba   a ba hain
 
-G/d  d     D  N  D d  'M  GRG G/d
+G/d  d     D  N  D d  M   GRG G/d
 Ai   se krpa nidhaan  ko,
 
-G/d  d     D  N  D d  'M  G R     G 'MP 'M   G         'M G R     G 'MP 'M  G
+G/d  d     D  N  D d  M   G R     G M P M    G         M  G R     G M P M   G
 Ai   se krpa nidhaan  ko,     baarambaa r  pranaam hai        baarambaa r pranaam hai
 
 Then Part 1
 
 =====
 
-G/d  d     DN D d  'M    G          G/D      D           G 'M d
+G/d  d     DN D d  M     G          G/D      D           G M  d
 Vish vaamitr yagy  rakhavaare, (x2)      Gautam naaree ahalya taare
 
 
-G/d  d     D    N  D d  'M  GRG G/d
+G/d  d     D    N  D d  M   GRG G/d
 Ai   se karuna nidhaan  ko,
 
-G/d   d     D    N  D d  'M GR     G 'MP 'M  G         'M G R     G 'MP 'M  G
+G/d   d     D    N  D d  M  GR     G M P M   G         M  G R     G M P M   G
 Ai    se karuna nidhaan  ko,   baarambaa r pranaam hai        baarambaa r pranaam hai
 
 Then Part 1
 
 =====
 
-G/d  d      D  N  Dd  'M G          G/D        D       G'M   d
+G/d  d      D  N  Dd  M  G          G/D        D       GM    d
 Raa  ja janak ke taa  p mitae, (x2)     Seeta byaahi ayodhya lae,
 
-G/d  d      DN  D d  'M  GRG G/d
+G/d  d      DN  D d  M   GRG G/d
 Ai   se seeta  naath ko,
 
-G/d  d      DN D d  'M GR     G 'MP 'M  G         'M G R     G 'MP 'M  G
+G/d  d      DN D d  M  GR     G M P M   G         M  G R     G M P M   G
 Ai   se seeta naath ko,   baarambaa r pranaam hai        baarambaa r pranaam hai
 
 Then Part 1
 
 =====
 
-G/d  d         DN  Dd 'M  G             G/D   D             G   'M   d
+G/d  d         DN  Dd M   G             G/D   D             G   M    d
 Pee  t vachan se  vipin  sidhaare, (x2)      sang jaanakee lakshman pyaare
 
-G/d  d          DN  D d  'M GRG G/d
+G/d  d          DN  D d  M  GRG G/d
 Sa   baree ke priy raam  ko,
 
-G/d        d    DN  D d  'M GR      G 'MP 'M  G         'M G R      G 'MP 'M  G
+G/d        d    DN  D d  M  GR      G M P M   G         M  G R      G M P M   G
 Sa   baree ke priy raam  ko,    baarambaa r pranaam hai         baarambaa r pranaam hai
 
 Then Part 1
 
 =====
 
-G/d  d          DN  Dd  'M   G          G/D           D      G    'M  d
+G/d  d          DN  Dd  M    G          G/D           D      G    M   d
 Dha  nush baan ke dhaa  ran haare, (x2)     Raakshas maaree kasht sab taare
 
-G/d  d       DN  D d  'M  GRG G/d
+G/d  d       DN  D d  M   GRG G/d
 Ha   numaan ke praan  ko,
 
-G/d  d       DN  D d  'M  GR     G 'MP 'M  G         'M G R      G 'MP 'M  G
+G/d  d       DN  D d  M   GR     G M P M   G         M  G R      G M P M   G
 Ha   numaan ke praan  ko,    baarambaa r pranaam hai         baarambaa r pranaam hai
 
-=== Repeat Part 1 ===
-
-Finish with 'N/G
+Then Part 1 (Finish with B,/E)

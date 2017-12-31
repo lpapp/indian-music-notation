@@ -1,64 +1,64 @@
 ========== Part 1 =========
 
-'D'M  P'M G 'D/G  'D G 'MG R r' N'D
+'DM   PM  G 'D/G  'D G M G R r' N'D
 hare kṛṣ ṇa       hare kṛṣṇa
 
-'D/'M 'M  D  P 'M GR G R 'D/R
+'D/M  M   D  P M  GR G R 'D/R
 kṛṣ   ṇa kṛṣṇa hare hare
 
-'D'M  P'M  G 'D/G  'D G 'MG R r' N'D
+'DM   PM   G 'D/G  'D G M G R r' N'D
 hare rā   ma       hare rā ma
 
-'D/'M 'M  D P 'M GR  G R 'D/R
+'D/M  M   D P M  GR  G R 'D/R
 rā    ma rāma hare  hare
 
 ========== Part 2 =========
 
-R/D 'M  D          ND  P P/N
+R/D M   D          ND  P P/N
 ha  re kṛṣṇa hare kṛ ṣṇa
 
-    N          R' r'     N D 'M P D
+    N          R' r'     N D M  P D
 kṛṣṇa kṛṣṇa hare      ha  re
 
-  'M  D         ND P P/N
+  M   D         ND P P/N
 hare rāma hare rā ma
 
-   N        R' r'     N D 'M P D
+   N        R' r'     N D M  P D
 rāma rāma hare     ha  re
 
 ========== Part 3 =========
 
- D'M  D       N P    'M  G
+ DM   D       N P    M   G
 hare kṛṣṇa hare   kṛ   ṣṇa
 
-            'M D 'MG R 'MPD
+            M  D M G R M PD
 kṛṣṇa kṛṣṇa hare ha re
 
-  'M  D      NP   'M G
+  M   D      NP   M  G
 hare rāma hare  rā  ma
 
-          'M D 'MG R 'D/R
+          M  D M G R 'D/R
 rāma rāma hare ha re
 
 ===========================
          Double-time
 ========== Part 4 =========
 
-'D   'D/'M 'M
+'D   'D/M  M
 hare kṛṣ   ṇa hare kṛṣṇa
 
-       P 'M  G         'D/G 'D
+       P M   G         'D/G 'D
 kṛṣṇa kṛṣṇa hare hare
 
       G
 hare rāma hare rāma
 
-'M G  R     r  'N   'D
+M  G  R     r  'N   'D
 rāma rāma hare hare
 
 ========== Part 5 =========
 
- D      'M  D
+ D      M   D
 hare kṛṣṇa hare kṛṣṇa
 
  N     D     P        P/N
@@ -67,20 +67,20 @@ kṛṣṇa kṛṣṇa hare hare
    N             R'
 hare rāma hare rāma
 
-r'    N         'M PD
+r'    N         M  PD
 rāma rāma hare  hare
 
 ========== Part 6 =========
 
- D      'M  D       N P
+ D      M   D       N P
 hare kṛṣṇa hare kṛṣṇa
 
-         'M  G
+         M   G
 kṛṣṇa kṛṣṇa hare hare
 
-               'M D
+               M  D
 hare rāma hare rāma
 
-'M    G    R   'M PD
+M     G    R   M  PD
 rāma rāma hare hare
 

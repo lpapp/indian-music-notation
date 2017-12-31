@@ -8,10 +8,10 @@ LYRICS:
 
 (refrain)
 
-'M  GR   G 'M G  R 'N R 'N  'D
+M   GR   G M  G  R 'N R 'N  'D
 rādhe jaya jaya mādhava-dayite
 
-r    G d    D  P 'M G  R'M G
+r    G d    D  P M  G  RM  G
 gokula-taruṇī-maṇḍala-mahite
 
 (1)
@@ -19,7 +19,7 @@ gokula-taruṇī-maṇḍala-mahite
 'Dr  G   d  D          d N D
 dāmodara-rati-vardhana-ve śe
 
- P    'M G   'M  P ND P'M G 
+ P    M  G   M   P ND PM  G
 hari-niṣkuṭa-vṛndā-vipineśe
 
 (2)
@@ -27,7 +27,7 @@ hari-niṣkuṭa-vṛndā-vipineśe
 'D   r  Gd   D           d N D
 vṛṣabhānūdadhi-nava-śaśi-lekhe
 
-P   'M  G      'M  P N D  P'M  G
+P   M   G      M   P N D  PM   G
 lalitā-sakhi guṇa-ramita-viśākhe
 
 
@@ -36,7 +36,7 @@ lalitā-sakhi guṇa-ramita-viśākhe
 'Dr  G  d     D           d  N D
 karuṇāḿ kuru mayi karuṇā-bharite
 
- P     'M G  'M  PN D P 'M   G
+ P     M  G  M   PN D P M    G
 sanaka-sanātana-varṇita-carite
 
 
@@ -44,7 +44,7 @@ WORD FOR WORD TRANSLATION: Radhe Jaya Jaya Madhava Dayite
 
 TRANSLATION
 
-(Refrain) O Radha! O beloved of Madhava! O You who are worshiped by all the young girls of Gokula! All glories unto You! All glories unto You! 
+(Refrain) O Radha! O beloved of Madhava! O You who are worshiped by all the young girls of Gokula! All glories unto You! All glories unto You!
 
 1) You who dress Yourself in such a way as to increase Lord Damodara's love and attachment for You! O queen of Vrndavana, which is the pleasure grove of Lord Hari!
 

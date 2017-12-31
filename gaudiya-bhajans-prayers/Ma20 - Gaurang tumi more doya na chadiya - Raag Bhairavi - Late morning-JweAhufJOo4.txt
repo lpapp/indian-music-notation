@@ -7,51 +7,51 @@ Language: Bengali
 LYRICS:
 
 (1)
-'M          P    D P   P/N  N    D P  D   P'M    GR R/'M
+M           P    D P   P/N  N    D P  D   PM     GR R/M
 gaurāńga tumi more         dayā nā  chāḍi     ha
 
 --- variation with different modulation in the voice
-'M          P    D P P/N N D P 'M  'M/N  N      D P P/N  ND   P'M    G'MGR R/'M
+M           P    D P P/N N D P M   M /N  N      D P P/N  ND   PM     GM GR R/M
 gaurāńga tumi more                      dayā nā         chā  ḍi   ha
 ---
 
 --- Simplified variation
-'M          P    D      P    P/N  ND  P'M     'M/r'
+M           P    D      P    P/N  ND  PM      M /r'
 gaurāńga tumi more dayā   nā     chā ḍi   ha
 ---
 
-'M/r'          r'   R'r' N D      P    P/N N   D   P'M
+M /r'          r'   R'r' N D      P    P/N N   D   PM
 gau    rāńga tumi more       dayā   nā       chā  ḍi   ha
 
-'M D P  D'M    G/'M G     R    G'MP'M
+M  D P  DM     G/M  G     R    GM PM
 ā pana kariyā rā      ńgā   caraṇe    rākhiha
 
- 
+
 
 (2)
-'M P D  P D        P   P/N N  D N P/N P D  P 'M
+M  P D  P D        P   P/N N  D N P/N P D  P M
 tomāra caraṇa lāgi   saba    teyā gi      nu
 
-'M D P  D'M    G/'M G    R    G'MP  'M
+M  D P  DM     G/M  G    R    GM P  M
 śītala caraṇa pā      yā   śaraṇa   lainu
 
 Repeat the last two lines of (1)
 
 (3)
-'M P D P  D           P   P/N N  D N P/N P D  P'M
+M  P D P  D           P   P/N N  D N P/N P D  PM
 e kule    o kule mui    dilu    tilāñja      li
 
-'M  D P  D'M    G/'M G     R    G'M P 'M
+M   D P  DM     G/M  G     R    GM  P M
 rākhiho caraṇe mo       re    āpanāra bali’
 
- 
+
 
 (4)
-'M P D P D                 P   P/N N   D   N P/N P D  P 'M
+M  P D P D                 P   P/N N   D   N P/N P D  P M
 vāsudeva     ghoṣe    bale   cara     ṇe dha ri      yā
 
 (or:
-'M P D P P/N     N D       P   P/N N   D   N P/N P D  P 'M
+M  P D P P/N     N D       P   P/N N   D   N P/N P D  P M
 vāsudeva     ghoṣe    bale   cara     ṇe dha ri      yā    )
 
 

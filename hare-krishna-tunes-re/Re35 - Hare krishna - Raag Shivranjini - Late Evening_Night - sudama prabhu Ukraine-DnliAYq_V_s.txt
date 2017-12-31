@@ -16,53 +16,53 @@ rā  ma rāma hare ha         re
          Double-time
 ========== Part 2 ==========
 
-r          g    'M d
+r          g    M  d
 hare kṛṣṇa hare kṛṣṇa
 
  D
 kṛṣṇa kṛṣṇa hare hare
 
-d         'M   g
+d         M    g
 hare rāma hare rāma
 
- D   d    'M        r /'M
+ D   d    M         r /M
 rāma rāma hare hare
 
 ============================
          Single-time
 ========== Part 3 ==========
 
-r g     'M d        D    d 'M
+r g     M  d        D    d M
 hare kṛṣṇa    hare kṛṣṇa
 
- D    d  'M g     Dd  'M r /'M
+ D    d  M  g     Dd  M  r /M
 kṛṣṇa kṛṣṇa hare ha   re
 
-r g    'M d        D   d 'M
+r g    M  d        D   d M
 hare rāma    hare rāma
 
- D   d 'M g     Dd  'M r /'M
+ D   d M  g     Dd  M  r /M
 rāma rāma hare ha   re
 
 ========== Part 4 ==========
 
-'Md 'M d D D/r'  r'  Ng'    r'   N r'  ND
+M d M  d D D/r'  r'  Ng'    r'   N r'  ND
 hare   kṛṣ ṇa             hare  kṛṣṇa
 
-   d 'M    d  'Mg        Dd  'M
+   d M     d  M g        Dd  M
 kṛṣṇa   kṛṣṇa      hare ha   re
 
-'Md 'M d  D D/r'  r'  N g'    r'  Nr'  ND
+M d M  d  D D/r'  r'  N g'    r'  Nr'  ND
 hare   rā   ma              hare rāma
 
-  d 'M   d  'Mg        Dd  'M
+  d M    d  M g        Dd  M
 rāma   rāma      hare ha   re
 
 ============================
          Double-time
 ========== Part 5 ==========
 
-'M         d 'M d   D D/r'
+M          d M  d   D D/r'
 hare kṛṣṇa hare kṛṣṇa
 
       r'           N    N/g'
@@ -71,37 +71,37 @@ kṛṣṇa kṛ ṣṇa hare hare
 g'        r'    N
 hare rāma hare rāma
 
-     r' N  D   d 'M
+     r' N  D   d M
 rāma rāma hare hare
 
 ============================
          Single-time
 ========== Part 6 ==========
 
-'Md  'M d   D   D/r'  r'     Ng'
+M d  M  d   D   D/r'  r'     Ng'
 hare kṛṣṇa hare       kṛ ṣṇa
 
-         r'   N     r' NDd 'M
+         r'   N     r' NDd M
 kṛṣṇa kṛṣṇa  hare hare
 
-'Md  'Md   D   D/r'    r'  Ng'
+M d  M d   D   D/r'    r'  Ng'
 hare rāma hare       rāma
 
-     r'    N     r' NDd 'M
+     r'    N     r' NDd M
 rāma rāma hare hare
 
 ========== Part 7 (Variation of first double-time) ==========
 
-'M/r'      r'
+M /r'      r'
 hare kṛṣṇa hare kṛṣṇa
 
 g'     r'   N  D
 kṛ ṣṇa kṛ ṣṇa hare hare
 
-d         'M   g
+d         M    g
 hare rāma hare rāma
 
-      Dd  'M        'M/r'
+      Dd  M         M /r'
 rāma rāma hare hare
 
 Play this above after the first double-time
@@ -110,44 +110,44 @@ Play this above after the first double-time
 Transitions are up in the air, so there can be a few variationS
 ========== Part 8 ==========
 
-'M/r' r'    g'     r'   ND
+M /r' r'    g'     r'   ND
 hare  kṛṣṇa hare   kṛ ṣṇa
 
-         d  'M g   Dd 'M 'M/r'
+         d  M  g   Dd M  M /r'
 kṛṣṇa kṛṣṇa hare  ha  re
 
           r'     g' r' N D
 hare rāma ha re  rā     ma
 
-     d 'M g     Dd 'M 'M/r'
+     d M  g     Dd M  M /r'
 rāma rāma hare ha  re
 
 ========== Part 8v2 ==========
 
-'M/r'       r'   g'    r'  ND
+M /r'       r'   g'    r'  ND
 hare  kṛṣṇa hare    kṛ ṣ  ṇa
 
-         d 'M g      Dd 'M 'M/r'
+         d M  g      Dd M  M /r'
 kṛṣṇa kṛṣṇa   hare  ha  re
 
           r'    g'  r' N D
 hare rāma ha re     rā  ma
 
-d    'M   g     Dd 'M
+d    M    g     Dd M
 rāma rāma hare ha  re
 
 ========== Part 8v3 (This sounds the best, Govinda Prabhu says) ==========
 
-'M/r'       g' r' N    D d 'M
+M /r'       g' r' N    D d M
 hare  kṛṣṇa ha re  kṛṣṇa
 
- D       d 'M g      Dd 'M 'M/r'
+ D       d M  g      Dd M  M /r'
 kṛṣṇa kṛṣṇa   hare  ha  re
 
-          g' r' N    D d 'M
+          g' r' N    D d M
 hare rāma ha re   rāma
 
- D   d 'M g     Dd 'M
+ D   d M  g     Dd M
 rāma rāma hare ha  re
 
 Double-times can be played in a chopping style as well; the mrdanga player might

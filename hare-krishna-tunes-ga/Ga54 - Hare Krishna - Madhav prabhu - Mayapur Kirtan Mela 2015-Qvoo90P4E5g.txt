@@ -65,7 +65,7 @@ Hare     Kṛ      ṣ ṇa      Hare     Kṛ      ṣ ṇa
 
  P    P/n  n n/S' S'  S'/G' G'    R'/G' R' n/R'  n n/S' S' P/S'
 Kṛṣṇa     Kṛ        ṣ       ṇa Ha       re      Ha      re
- 
+
  P   P/n  n n/S' S' P/S'  P   P/n  n n/S' S' P/S'
 Hare     Rā      ma      Hare     Rā      ma
 
@@ -105,7 +105,7 @@ Hare     Kṛṣ ṇa     Hare Kṛṣṇa
 
  P P/n  n n/S' S'        P/S'
 Kṛṣṇa  Kṛṣṇa   Hare Hare
- 
+
  P P/n n    n/G'    G'     R'/G'
 Ha re    Rā      ma Hare Rāma
 

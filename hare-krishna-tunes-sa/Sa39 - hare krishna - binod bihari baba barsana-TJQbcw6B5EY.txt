@@ -36,7 +36,7 @@ rāma rāma   ha      re hare
 
 ========== Part 3 ==========
 
-E'   D' E'      D'F'E' D'C'BAG	
+E'   D' E'      D'F'E' D'C'BAG
 hare kṛṣṇa hare kṛṣ ṇa
 
 (this could have been, but not... in the audio reverse-engineered)
@@ -45,7 +45,7 @@ kṛṣṇa kṛṣṇa hare hare)
 
 E(/G E)   F  G A A/C'C' B  A G G/E'
 kṛ   ṣṇa kṛṣṇa   ha    re hare
- 
+
 G'   R'G'      R'm'G' R'S'NDP
 hare rāma hare rā  ma
 
@@ -73,7 +73,7 @@ Then play Part 2.
  D    P  D       Pn  D PmGR R/P
 hare kṛṣṇa hare kṛṣ ṇa
 
-    P  m  G R  m G  R S S/D  
+    P  m  G R  m G  R S S/D
 kṛṣṇa kṛṣṇa   hare hare
 
  D    P D       Pn  D PmGR R/P

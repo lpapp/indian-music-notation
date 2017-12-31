@@ -15,7 +15,7 @@ rā     ma rā      ma                   ha   re     hare
 
 ========== Part 2 ==========
 
-R'     S' R' S' n  P/n  P   P/n  n  n /g'  g' R'g'  
+R'     S' R' S' n  P/n  P   P/n  n  n /g'  g' R'g'
 hare kṛṣ  ṇa              hare             kṛ ṣ ṇa
 
   R'   S'n  D   P m m/D  D n  n /S' S' D/S' D n  P/n  P m m/R'
@@ -86,4 +86,4 @@ rāma rā        ma hare      hare
 
 ========== Repeat Part 1 ==========
 
-Finish with 'D/R
+Finish with A,/D

@@ -1,45 +1,45 @@
 ========== Part 1 ==========
 
-r  R  'M    D    d
+r  R  M     D    d
 hare kṛṣṇa hare kṛṣṇa
 
- 'Mm  R R/d  d   m  m'M m  Rr
+ M m  R R/d  d   m  mM  m  Rr
 kṛṣ  ṇa kṛ   ṣ  ṇa ha  re hare
 
 r' S'R' r'   S'r' S'  Dd
 ha   re rāma ha   re rāma
 
-'Mm  R R/d  d     m'M m  Rr
+M m  R R/d  d     mM  m  Rr
 rā  ma rā     ma ha  re hare
 
 ========== Part 2 ==========
 
-r  R  'M D r' S' R'r'
+r  R  M  D r' S' R'r'
 hare kṛṣṇa ha re kṛṣ  ṇa
 
  S'   r'    S'r' S'D d  d /m'
 kṛṣṇa kṛṣṇa hare ha  re
 
-m''M'm'R'r'    S' D R'r'
+m'M' m'R'r'    S' D R'r'
 hare rā  ma ha   re rāma
 
-S'r' S'Dd  'Mm R r
+S'r' S'Dd  M m R r
 rāma rā ma ha re hare
 
 ============================
          Double-time
 ========== Part 3 ==========
 
-r        R 'M
+r        R M
 hare kṛṣṇa hare kṛṣṇa
 
  D          d
 kṛṣṇa kṛṣṇa hare hare
 
-'M    m   R/d  d
+M     m   R/d  d
 hare rāma ha   re rāma
 
- m   'M m  R   r
+ m   M  m  R   r
 rāma rāma hare hare
 
 ========== Part 4 ==========
@@ -64,15 +64,15 @@ hare kṛṣṇa hare kṛṣṇa
  S'   r' S'  D   d
 kṛṣṇa kṛṣṇa hare hare
 
-'M    m   R/d  d
+M     m   R/d  d
 hare rāma ha   re rāma
 
-'M    m    R   r
+M     m    R   r
 rāma rāma hare hare
 
 ========== Part 6 ==========
 
-r        R 'M    D
+r        R M     D
 hare kṛṣṇa hare kṛṣṇa
 
 D/r'  r'    S' R'   r'   r /g'
@@ -88,14 +88,14 @@ rā    ma rāma hare hare
 
 ========== Part 7 ==========
 
-m'      'M' m'R' r'
+m'      M'  m'R' r'
 hare kṛṣṇa  hare kṛṣṇa
 
  S'    D    R'   r'
 kṛṣṇa kṛṣṇa hare hare
 
 
-m'     'M' m'R' r'
+m'     M'  m'R' r'
 hare rāma  hare rāma
 
 S'    D   R'   r'
@@ -103,7 +103,7 @@ rāma rāma hare hare
 
 ========== Part 8 ==========
 
-m'      'M' m'R' r'
+m'      M'  m'R' r'
 hare kṛṣṇa  hare kṛṣṇa
 
  S'    D    R'   r'
@@ -113,19 +113,19 @@ kṛṣṇa kṛṣṇa hare hare
 S'   r' S'  D   d
 hare rā ma hare rāma
 
-'M    m    R   r
+M     m    R   r
 rāma rāma hare hare
 
 ========== Part 9 ==========
 
-r        R 'M    D
+r        R M     D
 hare kṛṣṇa hare kṛṣṇa
 
 D/r'  r'    S' R'   r'   r /g'
 kṛṣ   ṇa kṛṣṇa hare hare
 
 
-S'        r'  
+S'        r'
 hare rāma hare rāma
 
 

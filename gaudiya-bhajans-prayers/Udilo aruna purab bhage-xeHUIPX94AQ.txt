@@ -7,37 +7,37 @@ Language: Bengali
 LYRICS
 
 (1)
-m'M m g  r       'Nr  g r   'N'n      'n /'M
+mM  m g  r       'Nr  g r   'N'n      'n /M
 udilo a     ruṇa pū   raba-bhā    ge,
 
- 'M        n  d 'Mm   r   g m 'M   
+ M         n  d M m   r   g m M
 dwija-maṇi    gorā  a   mani  jāge,
 
-'M         m'M d        'M  m g  g /n
+M          mM  d        M   m g  g /n
 bhakata-samūha    loiyā sāthe,
 
-  n  d 'M     m     r g m 'M
+  n  d M      m     r g m M
 gelā nagara  -  brā       je
 
- 
+
 
 (2)
- 'M        d   n      d   n    n /r'
+ M         d   n      d   n    n /r'
 'tāthaī tāthaī    bājalo khol,
 
-   r'       N   n d     n    N          n  d  'M     'M/N
+   r'       N   n d     n    N          n  d  M      M /N
 ghana ghana   tāhe   jhājera   ro          l,
 
-            N    n d    n d  'Mmg      g /n
+            N    n d    n d  M mg      g /n
 preme ḍhala   ḍhala   soṇāra a ń   ga,
 
-    n d     'M       mr g m 'M
+    n d     M        mr g m M
 caraṇe   nū    pura bā      je
 
- 
+
 
 (3)
-'M      'M/n  n  S'       r'       S' S'/g'  g'  r'
+M       M /n  n  S'       r'       S' S'/g'  g'  r'
 mukunda       mā    dhava      yādava ha             ri,
 
 r' /m
@@ -49,7 +49,7 @@ miche nida-baśe gelo re rāti,
 
 divasa śarīra-sāje
 
- 
+
 
 (4)
 
@@ -64,7 +64,7 @@ ebe nā bhajile yaśodā-suta,
 
 carame poribe lāje
 
- 
+
 
 (5)
 
@@ -79,7 +79,7 @@ tabe keno ebe alasa hoy,
 
 nā bhaja hṛdoya-rāje
 
- 
+
 
 (6)
 
@@ -94,7 +94,7 @@ nāmāśraya kori' jatane tumi,
 
 thākaha āpana kāje
 
- 
+
 
 (7)
 
@@ -109,7 +109,7 @@ avidyā-timira-tapana-rūpe,
 
 hṛd-gagane birāje
 
- 
+
 
 (8)
 
@@ -147,4 +147,4 @@ TRANSLATION
 
 Remarks/ Extra Information:
 
-This song is typically sung in Raga Bangala in either Prabhupada or Bangla Ektal. 
+This song is typically sung in Raga Bangala in either Prabhupada or Bangla Ektal.

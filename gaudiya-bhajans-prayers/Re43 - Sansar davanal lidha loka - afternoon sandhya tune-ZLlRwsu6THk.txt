@@ -50,13 +50,13 @@ romāñca -kampāśru-tarańga-bhājo
  G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
- 
+
 
 (3)
 
   R         Gm         G  P m
 śrī-vigrahārādhana-nitya-nānā-
- 
+
  G    m  G   R r  R  G  m G R
 śṛńgāra-tan-mandira-mārjanādau
 
@@ -66,7 +66,7 @@ yuktasya bhaktāḿś ca niyuñjato 'pi
  G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
- 
+
 
 (4)
 
@@ -82,7 +82,7 @@ kṛtvaiva tṛptiḿ bhajataḥ sadaiva
  G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
- 
+
 
 (5)
 
@@ -98,7 +98,7 @@ prati-kṣaṇāsvā  dana-lolupasya
  G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
- 
+
 
 (6)
 
@@ -114,7 +114,7 @@ tatrāti-dākṣyād ati-vallabhasya
  G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
- 
+
 
 (7)
 
@@ -130,14 +130,14 @@ kintu prabhor yaḥ priya eva tasya
  G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
- 
+
 
 (8)
 
  R          Gm            G P m
 yasya prasādād bhagavat-prasādo
 
- G     m G R  r   R G   m G   R 
+ G     m G R  r   R G   m G   R
 yasyāprasādān na gatiḥ kuto 'pi
 
 R/D             n  DP    D    P  mG   m
@@ -146,7 +146,7 @@ dhyāyan stuvaḿs tasya yaśas tri-sandhyaḿ
  G     m G    R r  R G m G  R
 vande guroḥ śrī-caraṇāravindam
 
- 
+
 
 (9)
 

@@ -1,26 +1,26 @@
 ========== Part 1 ==========
 
-'N     r  Gg r    g r  Gg  r g  r' N 'N/'M
+'N     r  Gg r    g r  Gg  r g  r' N 'N/M
 hare kṛṣ ṇa     ha    re   kṛṣ  ṇa
 
-   'M   d    Dd  'M Gg  r  g r  Gg  r g  r' N
+   M    d    Dd  M  Gg  r  g r  Gg  r g  r' N
 kṛṣṇa kṛ   ṣṇa   ha     re          ha   re
 
-        r  Gg r    g r  Gg  r g  r' N 'N/'M
+        r  Gg r    g r  Gg  r g  r' N 'N/M
 hare rā   ma     ha    re   rā   ma
 
-  'M   d  Dd   'M Gg  r  g r  Gg  r g  r' N
+  M    d  Dd   M  Gg  r  g r  Gg  r g  r' N
 rāma rā  ma    ha     re          ha   re
 
 ========== Part 2 ==========
 
-'M     d  D d N Dd  'M NDND d 'M   D   d  'M
+M      d  D d N Dd  M  NDND d M    D   d  M
 hare kṛṣ ṇa                       hare kṛṣṇa
 
-         d   Dd  'MGg  r  g r Gg  r g  r' N
+         d   Dd  M Gg  r  g r Gg  r g  r' N
 kṛṣṇa kṛ   ṣṇa   ha    re         ha   re
 
-'M      d   D d N Dd  'M NDND d 'M  D   d 'M
+M       d   D d N Dd  M  NDND d M   D   d M
 hare rā    ma                      hare rāma
 
         d   Dd   mGg  r  g r Gg  r g  r' N
@@ -42,68 +42,68 @@ rāma rāma hare hare
 
 ========== Part 4 ==========
 
-'M    D    d     G 'M
+M     D    d     G M
 hare kṛṣṇa hare kṛṣṇa
 
-       D    d     G'M
+       D    d     GM
 kṛṣṇa kṛṣṇa hare hare
 
-      D   d     G'M
+      D   d     GM
 hare rāma hare rāma
 
-      D   d     G'M
+      D   d     GM
 rāma rāma hare hare
 
 ========== Part 5 ==========
 
-'M          D
+M           D
 hare kṛṣṇa hare kṛṣṇa
 
-d            G   'M
+d            G   M
 kṛṣṇa kṛṣṇa hare hare
 
            D
 hare rāma hare rāma
 
-d          G   'M
+d          G   M
 rāma rāma hare hare
 
 ========== Part 6 ==========
 
-'M/N
+M /N
 Jaya Krishna Balarama
 
 n d  n
 Jaya Krishna Balarama
 
-d 'M d
+d M  d
 Jaya Krishna Balarama
 
- Nn  d       'M
+ Nn  d       M
 Jaya Krishna Balaram
 
 
-'M/N
+M /N
 Jaya Prabhupada
 
 n d  n
-Jaya Prabhupada 
-
-d 'M d
 Jaya Prabhupada
 
- Nn  d      'M
+d M  d
+Jaya Prabhupada
+
+ Nn  d      M
 Jaya Prabhupada
 
 
-'M/N
+M /N
 Jaya Gaura Nitai
 
 n d  n
 Jaya Gaura Nitai
 
-d 'M d
+d M  d
 Jaya Gaura Nitai
 
- Nn  d  'M
+ Nn  d  M
 Jaya Gaura Nitai

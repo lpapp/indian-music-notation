@@ -14,13 +14,13 @@ ka dācit kālindī-taṭa-vipina-sańgītaka-ravo
 g r  g  m g r    'n r  g  mg  r     m   g
 mudābhīrī-nārī-vada na-kamalāsvāda-madhupaḥ
 
-d            n  d 'M   d 'M  m  g  r     mg
+d            n  d M    d M   m  g  r     mg
 ramā-śambhu-brahmāmara-pati-gaṇeśārcita-pado
 
 'n r  g   m   g r    'n r  g   m g r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī bhavatu me
 
-d             n d    'M    d  'M  mg r    m     g
+d             n d    M     d  M   mg r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī   bhavatu me
 
 (2)
@@ -31,15 +31,15 @@ bhuje savye veṇuḿ śira si śikhi-puccham kaṭi-taṭe
 'n r g    m g  r    'n r g   mg  r      m   g
 du kūlaḿ netrānte saha cara-kaṭākṣaḿ vidadhate
 
-d           n  d   'M d   'M  m g  r    mg
+d           n  d   M  d   M   m g  r    mg
 sadā śrīmad-vṛndāvana-vasati-līlā-paricayo
 
 'n r  g   m   g r    'n r  g   m g r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī bhavatu me
 
-d             n d    'M    d  'M  mg r    m     g
+d             n d    M     d  M   mg r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī   bhavatu me
- 
+
 
 (3)
 
@@ -49,15 +49,15 @@ ma hāmbhodhes tīre kana ka-rucire nīla-śikhare
 'n r    g  mg  r     'n r  g  m g  r     m  g
 va san prāsādāntaḥ saha ja-balabhadreṇa balinā
 
-d        n   d          'Md    'M  mg r  m   g
+d        n   d          M d    M   mg r  m   g
 subhadrā-madhya-sthaḥ sakala-sura-sevāvasara-do
 
 'n r  g   m   g r    'n r  g   m g r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī bhavatu me
 
-d             n d    'M    d  'M  mg r    m     g
+d             n d    M     d  M   mg r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī   bhavatu me
- 
+
 (4)
 
 'n r  g  mg r     'n r  g  mg   r     m  g
@@ -66,13 +66,13 @@ kṛ pā-pārāvāraḥ saja la-jalada-śreṇi-ruciro
 'n r  g  m g r       'n g    m g  r       m g
 ra mā-vāṇī-rāmaḥ sphurad-amala-pańkeruha-mukhaḥ
 
-d           n  d       'M d 'M  m g  r     m  g
+d           n  d       M  d M   m g  r     m  g
 surendrair ārādhyaḥ śruti-gaṇa-śikhā-gīta-carito
 
 'n r  g   m   g r    'n r  g   m g r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī bhavatu me
 
-d             n d    'M    d  'M  mg r    m     g
+d             n d    M     d  M   mg r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī   bhavatu me
 
 (5)
@@ -83,15 +83,15 @@ rathārūḍho gacchan pathi milita-bhūdeva-paṭalaiḥ
 'n r   g  m  g r      'n r g   mg r       m  g
 stuti-prādurbhāvam prati-padam upākarṇya sadayaḥ
 
-d            n   d     'M   d 'M m  g   r   m  g
+d            n   d     M    d M  m  g   r   m  g
 dayā-sindhur bandhuḥ sakala jagatāḿ sindhu-sutayā
 
 'n r  g   m   g r    'n r  g   m g r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī bhavatu me
 
-d             n d    'M    d  'M  mg r    m     g
+d             n d    M     d  M   mg r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī   bhavatu me
- 
+
 (6)
 
 'n r   g   mg r     'n r g   mg   r      m  g
@@ -100,13 +100,13 @@ pa ra-brahmāpīḍaḥ kuva laya-dalotphulla-nayano
 n r g   mg  r     'n r  g  mg   r      m  g
 nivāsī nīlādrau nihi ta-caraṇo 'nanta-śirasi
 
-d         n  d    'M   d 'M  mg  r     m g
+d         n  d    M    d M   mg  r     m g
 rasānando rādhā-sarasa-vapur-ālińgana-sukho
 
 'n r  g   m   g r    'n r  g   m g r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī bhavatu me
 
-d             n d    'M    d  'M  mg r    m     g
+d             n d    M     d  M   mg r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī   bhavatu me
 
 (7)
@@ -117,13 +117,13 @@ na vai yāce rājyaḿ na ca kanaka-māṇikya-vibhavaḿ
 'n r g    m  g  r     'n r  g  m g  r    m      g
 na yāce 'haḿ ramyāḿ saka la jana-kāmyāḿ vara-vadhūm
 
-d         n d     'M    d 'M m g r   m  g
+d         n d     M     d M  m g r   m  g
 sadā kāle kāle pramatha-patinā gīta-carito
 
 'n r  g   m   g r    'n r  g   m g r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī bhavatu me
 
-d             n d    'M    d  'M  mg r    m     g
+d             n d    M     d  M   mg r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī   bhavatu me
 
 (8)
@@ -134,18 +134,18 @@ ha ra tvaḿ saḿsāraḿ druta-taram asāraḿ sura-pate
 'n r   g    mg r     'n r   g  mg   r       mg
 ha ra tvaḿ pāpānāḿ vita tiḿ a parāḿ yādava-pate
 
-d          n  d    'M   d 'M m g  r     mg
+d          n  d    M    d M  m g  r     mg
 a ho dīne 'nāthe nihita-caraṇo niścitam idaḿ
 
 'n r  g   m   g r    'n r  g   m g r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī bhavatu me
 
-d             n d    'M    d  'M  mg r    m     g
+d             n d    M     d  M   mg r    m     g
 ja gannāthaḥ svāmī naya na-patha-gāmī   bhavatu me
 
 (9)
 
-r /m                    r /'M
+r /m                    r /M
 jagannāthāṣṭakaḿ punyaḿ yaḥ paṭhet prayataḥ śuciḥ
 
 r /m                   g              r
@@ -177,7 +177,7 @@ face resembles a spotless full-blown lotus. The best of demigods and sages
 worship Him, and the Upanisads sing His glories. May that Jagannatha Svami be
 the object of my vision.
 
-     
+
 5) When Lord Jagannatha moves along the road on His Rathayatra car, at every
 step large assemblies of brahmanas loudly chant prayers and sing songs for His
 pleasure. Hearing their hymns, Lord Jagannatha becomes very favorably disposed

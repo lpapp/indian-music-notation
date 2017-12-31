@@ -1,5 +1,5 @@
 ========== Part 1 ===========
- 
+
  R S  R  G  R S  R  G
 hare kṛṣṇa hare kṛṣṇa
 
@@ -48,10 +48,10 @@ hare kṛṣṇa hare kṛṣṇa
  P     m     G    R
 kṛṣṇa kṛṣṇa hare hare
 
-R'   S'    N    D  
+R'   S'    N    D
 hare rāma hare rāma
 
- P    m    G    R 
+ P    m    G    R
 rāma rāma hare hare
 
 ========== Part 5 ===========

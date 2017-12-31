@@ -8,13 +8,13 @@ LYRICS:
 
 (refrain)
 
- R     G G/P P    'M R   G R S R
+ R     G G/P P    M  R   G R S R
 gāy gorā cā    nd jīver tore
 
-       G G/P P 'M R  G R
-hare kṛṣ ṇa    hare hare 
+       G G/P P M  R  G R
+hare kṛṣ ṇa    hare hare
 
- 
+
 
 (1)
 D/A  A       G    A A/C' C'  B  A 0  A          G    A A/C' C' B A A/C' C'
@@ -30,42 +30,42 @@ hare rāma     ha   re rā  ma      rā   ma rā  ma     hare ha  re
 hare kṛṣṇa hare
 
 Then repeat the refrain
- 
+
 
 (2)
-R   G G/P P          'M  R     G R S G
+R   G G/P P          M   R     G R S G
 ekbār bo    l rasanā u ccaiḥ-sware
 
 Then repeat the second line of the refrain
 
- 'M P   D          NS'   N P/N P  D        D/S'
+ M  P   D          NS'   N P/N P  D        D/S'
 (bolo) nandera nandan,  ya śo    da-jīvan,
 
 S'           N D    N       DP      R/P
 nandera nandan,  ya   śoda-jī  van,
 
-  R          G G/P P    'M R   G R S R
+  R          G G/P P    M  R   G R S R
 śrī-rādhā-ra  ma    ṇ, prema-bhare
 
- 
+
 
 (3)
- 'MP    D         N   S'   N P/N P D              D/S'
+ M P    D         N   S'   N P/N P D              D/S'
 (bol) śrī-madhusū   dan,  gopī   -   prāna-dhana,
 
     S'       N D    N    D       P        R/P
 śrī-madhusūdan,  go   pī - prāna - dhana,
 
- R        G G/P P     'M  R  G R  S R
+ R        G G/P P     M   R  G R  S R
 muralī-va   da    na, nṛtya kore’
 
- 'MP  D         NS'   N P/N  P   D          D/S'
+ M P  D         NS'   N P/N  P   D          D/S'
 (bol) agha-nisūdan,  pū     tanā - ghātana,
 
 S'          N D    N          DP       R/P
 a gha-nisūdan,  pū   tanā - ghā  tana,
 
-  R         G G/P P     'M    R  G R S R
+  R         G G/P P     M     R  G R S R
 brahma-vimo   ha    na, ūr dhva-kare
 
 

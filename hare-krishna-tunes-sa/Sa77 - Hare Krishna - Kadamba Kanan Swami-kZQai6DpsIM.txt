@@ -171,7 +171,7 @@ Rā       ma    Rā          ma  Ha     re     Hare
 S'/G' G'            R'/G' R' S'/R' S'    S'/R'
 Ha    re Kṛṣṇa Hare       Kṛ ṣ        ṇa
 
-R'    D/R'      
+R'    D/R'
 Kṛṣṇa     Kṛṣṇa Hare Hare
 
      R'        D/R'  D D/S'
@@ -187,7 +187,7 @@ Rāma Rāma Hare Hare
 S'/G' G'            R'/G' R' S'/R' S'    S'/R'
 Ha    re Kṛṣṇa Hare       Kṛ       ṣ  ṇa
 
-R'       
+R'
 Kṛṣṇa Kṛṣṇa Hare Hare
 
 D/R'         R'   D/R'    D D/S'
@@ -213,7 +213,7 @@ Kṛṣṇa     Kṛ ṣ   ṇa     Hare Hare
                     P/D
 Hare Rāma Hare Rāma
 
- D P/D  P    G/P G G/P  P       
+ D P/D  P    G/P G G/P  P
 Rā     ma Rā       ma  Hare Hare
 
 => P/D

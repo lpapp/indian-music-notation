@@ -20,7 +20,7 @@ bolo hari hari,   mukunda murāri,
    A     G     F   E     C/E C D E F     (F can at the end always go for the last syllable)
 rā   ma kṛṣṇa haya   grī             va
 
- 
+
 
 (2)
  m         P      D     P D      D/S' S'
@@ -35,7 +35,7 @@ pūtanā-ghātana,   kaiṭabha-śātana,
  D    P   m     G S/G S R G m
 jaya dāśarathi-rā             ma
 
- 
+
 
 (3)
  G        R S  'n  S  R  S'n 'D  'D/m
@@ -50,7 +50,7 @@ gopī-priya-jana,    rādhikā-ramaṇa,
     D     P  m   G    S/G S R G m
 bhuvana -sundara - ba          ra
 
- 
+
 
 (4)
  m        P D        P  D       D/S' S'
@@ -65,7 +65,7 @@ brajera rākhāla,  gopa-vṛnda-pā   la,
  D         P     m   G S/G S R G  m
 citta-hārī   baḿśī-dhā           rī
 
- 
+
 
 (5)
  G        R  S     'n S  R  S 'n     'D      'D/m m
@@ -80,7 +80,7 @@ navīna nīrada,   rūpa manohara,
    D    Pm      G S/G S R G m
 mohana-baḿśī-bihā          rī
 
- 
+
 
 (6)
  m         P    D         P D      D/S' S'
@@ -95,7 +95,7 @@ kadamba-kānana,  rāsa-parāyaṇa,
   D      P    m     G S/G S R G m
 bṛnda-vipina  -  nivā          sī
 
- 
+
 
 (7)
 G       R   S    'n  S R  S'n 'D        'D/m m
@@ -110,7 +110,7 @@ gopāńganā-gaṇa,  citta-vinodana,
       D P       m     G S/G S R G m
 samasta - guṇa-gaṇa-dhā             ma
 
- 
+
 
 (8)
  m        P     D    P D      D/S' S'
@@ -119,7 +119,7 @@ jāmuna-jīvana, keli-parāyaṇa,
               n   D PD n  D P m m/n
 mānasa-candra -  cako  ra
 
-  n           D P   DP   m     G R R/D  
+  n           D P   DP   m     G R R/D
 nāma-sudhā-rasa,  gāo   kṛṣṇa-jaśa
 
    D     P         m   G    S/G S R G m

@@ -137,7 +137,7 @@ kṛṣṇa kṛṣṇa hare hare
  R    m    P m  P
 hare rāma hare rāma
 
-g          R    S    
+g          R    S
 rāma rāma hare hare
 
 ========== Part 11 ==========
@@ -151,7 +151,7 @@ kṛṣṇa kṛṣṇa hare hare
 g'     R' S'   n
 hare rāma hare rāma
 
-S'n  d     P    
+S'n  d     P
 rāma rāma hare hare
 
 ========== Part 12 ==========

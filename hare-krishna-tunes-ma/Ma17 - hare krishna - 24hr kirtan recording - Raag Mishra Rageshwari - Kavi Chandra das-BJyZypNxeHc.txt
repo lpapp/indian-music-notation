@@ -1,60 +1,60 @@
 ========== Part 1 ==========
 
- m   'M d  n  N      n d    'Md 'Mm
+ m   M  d  n  N      n d    M d M m
 hare kṛṣṇa      hare kṛṣ ṇa
 
-      d 'M  m g  'N/g  'N   r    r /m
+      d M   m g  'N/g  'N   r    r /m
 kṛṣṇa kṛ  ṣṇa          hare hare
 
- m   'Md  n  N      n d  'Md 'Mm
+ m   M d  n  N      n d  M d M m
 hare rāma      hare rāma
 
-     d 'M  mg  'N/g  'N   r    r /m
+     d M   mg  'N/g  'N   r    r /m
 rāma rā   ma           hare hare
 
 (or
 
-m    'M g  'N/g  'N   r    r /m
+m    M  g  'N/g  'N   r    r /m
 rāma rā ma       hare hare)
 
 
 ========== Part 2 ==========
 
- m   'Mm   g  'N/g  'N   r     r /m
+ m   M m   g  'N/g  'N   r     r /m
 hare kṛṣṇa          hare kṛṣṇa
 
- m    d 'M   m g  'N/g  'N   r    r /m
+ m    d M    m g  'N/g  'N   r    r /m
 kṛṣṇa kṛ   ṣṇa          hare hare
 
- m   d 'M m g  'N/g  'N   r    r /m
+ m   d M  m g  'N/g  'N   r    r /m
 hare rā  ma          hare rāma
 
- m   d 'M m g  'N/g  'N   r    r /m
+ m   d M  m g  'N/g  'N   r    r /m
 rāma rā  ma          hare hare
 
 ========== Part 3 ==========
 
- m   'M d  n  N      n  d
+ m   M  d  n  N      n  d
 hare kṛṣṇa      hare kṛṣṇa
 
-d /g'  g'    r' N  n  N n  d    'Md 'Mm
+d /g'  g'    r' N  n  N n  d    M d M m
 kṛ     ṣ  ṇa kṛṣṇa    hare hare
 
- m   'Md  n  N      n d  d /g'
+ m   M d  n  N      n d  d /g'
 hare rāma      hare rāma
 
-g'   r'  Nn   Nn  d    'Md 'Mm
+g'   r'  Nn   Nn  d    M d M m
 rāma rā ma   hare hare
 
 ========== Part 4 ==========
 
- m   'M d  n    n /r' r'
+ m   M  d  n    n /r' r'
 hare kṛṣṇa hare kṛ    ṣ  ṇa
 
 g'     r'   S'n   Nn  d  d /r'     r' N n  N n  d
 kṛ ṣṇa kṛ ṣ ṇa   hare ha        re
 
- m   'Md  n    n /r' r'
+ m   M d  n    n /r' r'
 hare rāma hare rā       ma
 
 g'   r' S'n   Nn  d  d /r'     r' N n  N n  d
@@ -64,7 +64,7 @@ rāma rā ma   hare ha        re
          Double-time
 ========== Part 5 ==========
 
- m      'M d    n
+ m      M  d    n
 hare kṛṣṇa hare kṛṣṇa
 
 n /r'     r'
@@ -78,21 +78,21 @@ rāma rāma hare hare
 
 ========== Part 6 ==========
 
- m   'M d        N n
+ m   M  d        N n
 hare kṛṣṇa hare kṛṣṇa
 
 d
 kṛṣṇa kṛṣṇa hare hare
 
-d /g'  g' r' N n  
+d /g'  g' r' N n
 ha     re rāma hare rāma
 
- N   n d  'M    m
+ N   n d  M     m
 rāma rāma hare hare
 
 ========== Part 6.2? (Prabhu playing "inconsistently") ==========
 
- m      'M d    n
+ m      M  d    n
 hare kṛṣṇa hare kṛṣṇa
 
  N    n     d
@@ -101,7 +101,7 @@ kṛṣṇa kṛṣṇa hare hare
 d /g'  g'      r' S' n
 ha     re rāma ha re rāma
 
- N   n d  'M    m
+ N   n d  M     m
 rāma rāma hare hare
 
 ========== Part 7 ==========
@@ -109,10 +109,10 @@ rāma rāma hare hare
 g'   r'   N n
 hare kṛ ṣṇa hare kṛṣṇa
 
-C#'    B Bb G#        F/G#	
+C#'    B Bb G#        F/G#
 kṛṣṇa kṛṣṇa hare hare
 
- m     'M d      n
+ m     M  d      n
 hare rāma hare rāma
 
  N   n    d
@@ -123,10 +123,10 @@ rāma rāma hare hare
 g'   r'   N n
 hare kṛ ṣṇa hare kṛṣṇa
 
-C#'    B Bb G#        F/G#	
+C#'    B Bb G#        F/G#
 kṛṣṇa kṛṣṇa hare hare
 
- m     'M d      n
+ m     M  d      n
 hare rāma hare rāma
 
  N   n d  d /r'
@@ -140,7 +140,7 @@ hare kṛ ṣṇa hare kṛṣṇa
 g'    r'   N n    d
 kṛṣṇa kṛ ṣṇa hare hare
 
- m     'M d      n
+ m     M  d      n
 hare rāma hare rāma
 
  N   n    d
@@ -148,13 +148,13 @@ rāma rāma hare hare
 
 ========== Part 10 ==========
 
- m      'M d       n
+ m      M  d       n
 hare kṛṣṇa hare kṛṣṇa
 
  N    n  d
 kṛṣṇa kṛṣṇa hare hare
 
- m   'Mg    'D/g  'D
+ m   M g    'D/g  'D
 hare rāma hare    rāma
 
 r         r /m

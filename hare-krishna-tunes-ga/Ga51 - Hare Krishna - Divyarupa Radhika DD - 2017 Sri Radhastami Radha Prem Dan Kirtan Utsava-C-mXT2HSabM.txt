@@ -47,7 +47,7 @@ rāma rā       ma          hare hare
  R G  G/P P D P m P D      P  D
 hare kṛ     ṣṇa       hare   kṛṣṇa
 
- N          D P m       P G/P  G m G R 
+ N          D P m       P G/P  G m G R
 kṛṣṇa kṛṣṇa       hare ha     re
 
    G G/P P D  P m P D      P  D
@@ -61,7 +61,7 @@ rāma rāma       hare ha    re
  R G  G/P P D P m P D      P P/N N D
 hare kṛ     ṣṇa       hare   kṛ      ṣṇa
 
- N          D P m       P G/P  G m G R 
+ N          D P m       P G/P  G m G R
 kṛṣṇa kṛṣṇa       hare ha     re
 
    G G/P P D  P m P D      P P/N N D
@@ -94,7 +94,7 @@ hare kṛṣṇa       hare kṛ     ṣṇa
   N         D P m    P    G/P  G G/N
 kṛṣṇa kṛṣṇa       hare ha     re
 
-   N         D N S'         N D P m    
+   N         D N S'         N D P m
 ha   re rāma        hare rāma
 
         P P/N N D           N
@@ -108,7 +108,7 @@ hare kṛṣṇa        hare kṛṣṇa
         P   P/N N D           N
 kṛṣṇa kṛṣṇa         hare hare
 
-          D N S'         N D P m 
+          D N S'         N D P m
 hare rāma        hare rāma
 
         P    P/N N D
@@ -221,7 +221,7 @@ kṛṣṇa kṛṣṇa     hare   hare
                 D P
 hare rāma hare rā   ma
 
- m      P G/P G        
+ m      P G/P G
 rāma rā   ma hare hare
 
 => E/B
@@ -232,4 +232,4 @@ rāma rā   ma hare hare
 
 ========== Repeat Part 1 ==========
 
-Finish with 'm/'D
+Finish with F,/A,

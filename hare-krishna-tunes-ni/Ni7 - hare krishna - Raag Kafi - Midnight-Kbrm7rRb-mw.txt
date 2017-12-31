@@ -1,59 +1,59 @@
 ========== Part 1 ==========
 
-'N R R/P P 'M    PD P'M G Rr
+'N R R/P P M     PD PM  G Rr
 hare kṛ   ṣṇa hare kṛṣ ṇa
 
-    G  D  P   'MGR  G'M GRr' N
+    G  D  P   M GR  GM  GRr' N
 kṛṣṇa kṛṣṇa hare   hare
 
-   R  R/P P 'M    PD P'M G Rr
+   R  R/P P M     PD PM  G Rr
 hare rā     ma hare rā  ma
 
-   G  D P   'MGR  G'M GRr' N
+   G  D P   M GR  GM  GRr' N
 rāma rāma hare   hare
 
 ========== Part 2 ==========
 
-'M P  N  D   R'  ND P
+M  P  N  D   R'  ND P
 hare kṛṣṇa hare kṛṣṇa
 
-   'M  G'Md     D  P'M
+   M   GM d     D  PM
 kṛṣṇa kṛṣ ṇa hare hare
 
    P  N D   R'  ND P
 hare rāma hare rā ma
 
-  'M  G'Md     D  P'M
+  M   GM d     D  PM
 rāma rā  ma hare hare
 
 ============================
          Double-time
 ========== Part 3 ==========
 
-'N R  P    'M
+'N R  P    M
 hare kṛṣṇa hare kṛṣṇa
 
-    P  D  P 'M G  Rr
+    P  D  P M  G  Rr
 kṛṣṇa kṛṣṇa hare hare
 
    G  D P
 hare rāma hare rāma
 
-'M G  R G 'M        'N/'M
+M  G  R G M         'N/M
 rāma rāma hare hare
 
 ========== Part 4 ==========
 
-'M P  N     D
+M  P  N     D
 hare kṛṣṇa hare kṛṣṇa
 
 R'     N  D  P
 kṛṣṇa kṛṣṇa hare hare
 
-  'M  G'M d
+  M   GM  d
 hare rāma hare rāma
 
- D    P   'M
+ D    P   M
 rāma rāma hare hare
 
 Then Part 1 to conclude

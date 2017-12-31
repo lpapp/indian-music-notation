@@ -13,8 +13,8 @@ boro sukher   khabor gā   i
  F           D#    (D/D#) D  D/Bb
 boro sukher     khabor   gāi
 
-n           D   P      m         P D P             
-surabhi-kuñjete   nāme   r hāṭ khule’  che 
+n           D   P      m         P D P
+surabhi-kuñjete   nāme   r hāṭ khule’  che
 
 
         Dn  S' n  m/n
@@ -22,7 +22,7 @@ surabhi-kuñjete   nāme   r hāṭ khule’  che
 
    m g        R    R/P P
 (kho   da ni   tāi)
- 
+
 
 (2)
  S         R    R/P  P m
@@ -30,21 +30,21 @@ boro mojār   kathā  tā   y
 
  m          g          R  R/n
 boro mojār     kathā  tāy
-  
+
  n            D      P    m           P    D    P
 śraddhā-mūlye   śuddha-nā   ma sei hā   ṭete bikāy
 
- 
+
 --- Refrain
         Dn  S' n  m/n
 (gaura nitā       i)
- 
+
   mg    R/g   R   R/P
 (gau ra ni   tāi)
 
   P     Dn  S' n  m/n
 (gaura nitā       i)
- 
+
   mg    R/g   R
 (gau ra ni   tāi)
 ---
@@ -56,7 +56,7 @@ jata bhakta-bṛnda     basi’
 
  m          g       R       R/n
 jata bhakta  -  bṛnda basi’
- 
+
 n         D     P    m            P D P
 adhikārī dekhe’   nā   ma becche daro   kasi’
 
@@ -74,7 +74,7 @@ n           D    P      m        P  D P
 āmār sańge calo,   mahā   janer kāche   jāi
 
 Repeat refrain.
- 
+
 
 (5)
  S          R R/P P m
@@ -87,7 +87,7 @@ n         D   P      m        P  D P
 dasturi loibo   āmi,   pūrṇa ha’be   kāma
 
 Repeat refrain.
- 
+
 
 (6)
  S         R       R/P    P m
@@ -100,7 +100,7 @@ boro doyāl nityā   nanda
 śraddhā-mātra   lo’ye   den   parama - ā  nanda
 
 Repeat refrain.
- 
+
 
 (7)
 S              R    R/P  P  m
@@ -113,7 +113,7 @@ ek-bār dekhle cakṣe jal
 ‘gaura’ bole’ nitāi  den   sakala sambal
 
 Repeat refrain.
- 
+
 
 (8)
  S          P    R/P  P    m
@@ -126,7 +126,7 @@ n             D    P      m       P DP
 jāti, dhana, vidyā,  bala   nā kore a  pekṣā
 
 Repeat refrain.
- 
+
 
 (9)
 S           R   R/P   P  m
@@ -139,7 +139,7 @@ n            D     P m       P D  P
 gṛhe thāko, bane thāko, nā thāke jañjāl
 
 Repeat refrain.
- 
+
 
 (10)
 S         R    R/P P m
@@ -152,7 +152,7 @@ n         D  P      m        P DP
 ācaṇḍāle den   nāma   nitāi doyā  moy
 
 Repeat refrain.
- 
+
 
 (11)
   S        R          R/P    P m

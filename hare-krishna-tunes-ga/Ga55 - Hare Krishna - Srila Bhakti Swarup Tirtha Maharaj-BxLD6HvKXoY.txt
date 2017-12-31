@@ -2,10 +2,10 @@
 
  G G/m m G/m  G R/G R S/R S      S/G G R/G R S/R S    S/G G
 Ha re        Kṛ       ṣ     ṇa Hare    K   ṛ ṣ     ṇa
- 
+
   G/P  P P/D  D D/n  n D/n D   G/D G G/D  D P/D  P G/P
 Kṛṣ   ṇa     Kṛ ṣ   ṇa       Hare        Ha     re
- 
+
  G G/m m G/m  G R/G R S/R S      S/G G R/G  R S/R S    S/G G
 Ha re        Rā             ma Hare        Rā       ma
 
@@ -16,10 +16,10 @@ Rā     ma     Rā     ma       Hare        Ha     re
 
  G G/m m G/m  G R/G R S/R S     S/G G R/G R  S/R  S S/G G
 Ha re        Kṛ           ṣṇa Hare        Kṛ ṣ   ṇa
- 
+
   G/P  P P/D  D D/n n   D/n D   G/D G G/D  D P/D P    G/P
 Kṛṣ   ṇa     Kṛ     ṣṇa       Hare        Ha       re
- 
+
  G G/m m G/m  G R/G R S/R S      S/G G R/G  R S/R S    S/G G
 Ha re        Rā             ma Hare        Rā       ma
 
@@ -72,10 +72,10 @@ Rā   ma     Rāma       Hare        Ha     re
 
  G G/m m G/m  G R/G R S/R S     S/G G R/G R   S/R S    S/G G
 Ha re        Kṛ           ṣṇa Hare          Kṛṣ     ṇa
- 
+
   G/P  P P/D  D D/n  n D/n D   G/D G G/D D P/D  P G/P
 Kṛṣ   ṇa     Kṛ ṣ   ṇa       Hare    Ha        re
- 
+
  G G/P  P P/D D D/S' S'    n/S' n    D/n D    P/D P P/S' S'    D/S'
 Ha     re       Rā      ma        Ha       re       Rā      ma
 

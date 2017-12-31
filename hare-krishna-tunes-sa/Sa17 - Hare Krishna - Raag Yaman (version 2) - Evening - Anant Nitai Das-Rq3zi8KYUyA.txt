@@ -3,27 +3,27 @@
  S'N  R     SRG R  G
 hare kṛṣṇa ha  re kṛṣṇa
 
-'N  R   P'M   R  P      RGR  S
+'N  R   PM    R  P      RGR  S
 kṛṣṇa kṛ    ṣṇa hare ha     re
 
  S'N  R    SRG  R  G
 hare rāma ha   re rāma
 
-'N R  P'M  R  P     RGR S
+'N R  PM   R  P     RGR S
 rāma rā   ma hare ha   re
 
 ========== Part 2 ==========
 
- G'M  P   'MG    'MP 'M  P
+ GM   P   M G    M P M   P
 hare kṛṣṇa    ha     re kṛṣṇa
 
- G 'M  D    'MDS'    NDND P
+ G M   D    M DS'    NDND P
 kṛṣṇa kṛṣṇa ha   re ha   re
 
- G'M  P   'MG   'MP 'M  P
+ GM   P   M G   M P M   P
 hare rāma     ha    re rāma
 
- G'M  D   'MDS'    NDND P
+ GM   D   M DS'    NDND P
 rāma rāma ha   re ha   re
 
 ========== Part 3 ==========

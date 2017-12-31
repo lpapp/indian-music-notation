@@ -1,54 +1,54 @@
 ========== Part 1 ==========
 
- N   d 'M g  d 'M g  r S r
+ N   d M  g  d M  g  r S r
 hare kṛ  ṣṇa ha   re kṛ ṣṇa
 
-'N     'M, 'd S  r  S r
+'N     'M 'd S  r  S r
 kṛṣṇa  kṛ ṣṇa  ha  re hare
 
- N   d 'M g  d 'M g  r S r
+ N   d M  g  d M  g  r S r
 hare rā   ma ha   re rā  ma
 
-'N   'M,'d S  r  S r
+'N   'M'd S  r  S r
 rāma rā ma  ha  re hare
 
 ========== Part 2 ==========
 
-'N   'M, 'd S   r  S r
+'N   'M 'd S   r  S r
 hare kṛ ṣṇa   ha  re kṛṣṇa
 
-'N    'M, 'd S   r  S r
+'N    'M 'd S   r  S r
 kṛṣṇa kṛ ṣṇa   ha  re hare
 
- Sr  g    'Mg  r   Sr
+ Sr  g    M g  r   Sr
 hare rāma ha   re rāma
 
- Sr  g    'Mg  r   Sr
+ Sr  g    M g  r   Sr
 rāma rāma ha   re hare
 
 ========== Part 3 ==========
 
-g' M  d N  'Md  S'   r'
+g M   d N  M d  S'   r'
 hare kṛ   ṣṇa   hare kṛ ṣṇa
 
- N    d 'M  g  d 'M g  r S r
+ N    d M   g  d M  g  r S r
 kṛṣṇa kṛ   ṣṇa ha   re ha  re
 
-g' M d N 'Md  S'   r'
+g M  d N M d  S'   r'
 hare rā  ma   hare rāma
 
- N   d 'M g  d 'M g  r S r
+ N   d M  g  d M  g  r S r
 rāma rā   ma ha   re ha  re
 
 ========== Part 4 ==========
 
-g' M  d N  'Md  S'   r'
+g M   d N  M d  S'   r'
 hare kṛ   ṣṇa   hare kṛ ṣṇa
 
 S'    r'     S'r'     Nd
 kṛṣṇa kṛ ṣṇa ha   re hare
 
-g' M d N 'Md  S'   r'
+g M  d N M d  S'   r'
 hare rā  ma   hare rāma
 
 S'   r'   S'r'     Nd
@@ -56,41 +56,41 @@ rāma rāma ha   re hare
 
 ========== Part 5 ==========
 
-S'r'  g'    'M'g'  r' S' r'
+S'r'  g'    M' g'  r' S' r'
 hare  kṛṣṇa ha     re kṛṣṇa
 
-S' r'  g'     'M'g'  r'  S'r'
+S' r'  g'     M' g'  r'  S'r'
 kṛṣṇa  kṛ ṣṇa ha     re  hare
 
- N   d 'M g  d 'M g  r S r
+ N   d M  g  d M  g  r S r
 hare rā   ma ha   re rā  ma
 
-'N   'M,'d S  r  S r
+'N   'M'd S  r  S r
 rāma rā ma  ha  re hare
 
 ========== Part 6 ==========
 
-g' M  d N  'Md  S'   r'
+g M   d N  M d  S'   r'
 hare kṛ   ṣṇa   hare kṛ ṣṇa
 
-S' r'  g'     'M'g'  r'  S'r'
+S' r'  g'     M' g'  r'  S'r'
 kṛṣṇa  kṛ ṣṇa ha     re  hare
 
-g' M d N 'Md  S'   r'
+g M  d N M d  S'   r'
 hare rā  ma   hare rāma
 
-S'r'  g'   'M'g'  r'  S'r'
+S'r'  g'   M' g'  r'  S'r'
 rāma  rāma ha     re  hare
 
 ========== Part 7 ==========
 
-g'         'M'g'  r'  S' r'
+g'         M' g'  r'  S' r'
 hare kṛṣṇa ha     re  kṛṣṇa
 
  B    G#F#  D# G#F# D# C#C C# (C#/D#')
 kṛṣṇa kṛ   ṣṇa ha   re ha  re
 
-g'        'M'g'  r'  S'r'
+g'        M' g'  r'  S'r'
 hare rāma ha     re  rāma
 
  B   G#F# D# G#F# D# C#C C# (C#/D#')
@@ -101,13 +101,13 @@ rāma rā   ma ha   re ha  re
 C'C#' D#'   F#'D#'C#'C'   C#' (B/C#')
 hare  kṛṣṇa ha    re   kṛṣṇa
 
- N    d 'M d  d /S' S'r' S' r'
+ N    d M  d  d /S' S'r' S' r'
 kṛṣṇa kṛ  ṣṇa       hare    hare
 
 C'C#' D#'  F#'D#' C#'C'   C#'  (B/C#')
 hare  rāma ha     re    rāma
 
- N   d 'M d  d /S' S'r' S' r'
+ N   d M  d  d /S' S'r' S' r'
 rāma rā   ma       hare    hare
 
 ============================
@@ -120,7 +120,7 @@ hare kṛṣṇa hare kṛṣṇa
 F#' D#' C#'    C'   C#'   (B/C#')
 kṛ ṣṇa  kṛ ṣṇa hare hare
 
- N        d 'M d    d /S'
+ N        d M  d    d /S'
 hare rāma hare rāma
 
 S'   r' S' r'
@@ -128,13 +128,13 @@ rāma rā ma hare hare
 
 ========== Part 10 ==========
 
- N         d 'M g
+ N         d M  g
 hare kṛṣṇa hare kṛṣṇa
 
-d  'M g  r   S   r
+d  M  g  r   S   r
 kṛṣṇa kṛṣṇa hare hare
 
-'N        'M,  'd S
+'N        'M  'd S
 hare rāma hare rāma
 
      r  S r
@@ -142,13 +142,13 @@ rāma rāma hare hare
 
 ========== Part 11 ==========
 
-'N         'M,  'd  S
+'N         'M  'd  S
 hare kṛṣṇa hare kṛṣṇa
 
       r   S r
 kṛṣṇa kṛṣṇa hare hare
 
-'N        'M,  'd S
+'N        'M  'd S
 hare rāma hare rāma
 
      r  S r
@@ -159,32 +159,32 @@ rāma rāma hare hare
  S   r     g
 hare kṛṣṇa hare kṛṣṇa
 
-'M g  r      S   r
+M  g  r      S   r
 kṛṣṇa kṛṣṇa hare hare
 
  S   r    g
 hare rāma hare rāma
 
-'Mg  r     S   r
+M g  r     S   r
 rāma rāma hare hare
 
 ========== Part 13 ==========
 
-g    'M    d  N 'M d  d /S'
+g    M     d  N M  d  d /S'
 hare kṛṣṇa hare kṛṣṇa
 
 S'          r'
 kṛṣṇa kṛṣṇa hare hare
 
- N        d 'M g
+ N        d M  g
 hare rāma hare rāma
 
-d 'M g r   S   r
+d M  g r   S   r
 rāma rāma hare hare
 
 ========== Part 14 ==========
 
-g    'M    d  N 'M d  d /S'
+g    M     d  N M  d  d /S'
 hare kṛṣṇa hare kṛṣṇa
 
 S'          r'
@@ -201,13 +201,13 @@ rāma rāma hare hare
 S'   r'    g'
 hare kṛṣṇa hare kṛṣṇa
 
-'M' g'  r'     S'   r'
+M'  g'  r'     S'   r'
 kṛ ṣṇa  kṛ ṣṇa hare hare
 
 S'   r'   g'
 hare rāma hare rāma
 
-'M'g'  r'    S'   r'
+M' g'  r'    S'   r'
 rā ma  rā ma hare hare
 
 ========== Part 16 ==========
@@ -215,7 +215,7 @@ rā ma  rā ma hare hare
 S'   r'      g'
 hare kṛ  ṣṇa hare kṛṣṇa
 
-'M' g'  r'     S'   r'
+M'  g'  r'     S'   r'
 kṛ ṣṇa  kṛ ṣṇa hare hare
 
 S'        r'

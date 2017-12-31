@@ -17,39 +17,39 @@ hare kṛṣṇa      hare kṛṣṇa kṛṣṇa kṛṣṇa      hare hare
  P D      D/S' S'    N D P    N S'R' D/R'  DS'  NS'
 hare rāma      hare rāma   rāma rāma      hare hare
 
-P/S' S'     NS'  N S' ND      N S' R' S' N D 'M P
+P/S' S'     NS'  N S' ND      N S' R' S' N D M  P
 hare kṛṣṇa hare kṛṣṇa     kṛṣṇa kṛṣṇa hare   hare
 
-P/S' S'    NS'  NS' ND    N S'R' S' N D 'M P
+P/S' S'    NS'  NS' ND    N S'R' S' N D M  P
 hare rāma hare rāma    rāma rāma hare   hare
- 
+
 
 (2)
 
  P D        D/S' S'     N D P     N  S'R' D/R'  D    S'  NS'
 gṛhe thāko,      vane thāko,   sadā 'hari'     bole'    ḍāko,
 
-P/S'  S'       NS'  N S' ND     NS'R' S' N  D  'M    P G/P
+P/S'  S'       NS'  N S' ND     NS'R' S' N  D  M     P G/P
 sukhe duḥkhe bhulo nā'ko,    vadane   hari-nām koro re
 
- 
+
 
 (3)
 
  P    D   D/S' S'      N   D P     N S' R' D/R'  DS'  N  S'
 māyā-jāle      baddha ho 'ye,   ācho miche      kāja lo 'ye,
 
-P/S'S'    NS'  N S' ND       N S' R'   S'ND 'M    P
+P/S'S'    NS'  N S' ND       N S' R'   S'ND M     P
 ekhona cetana pe'ye,    'rādhā-mādhav' nā m bolo re
 
- 
+
 
 (4)
 
  P D   D/S' S'     NDP          NS'R'  DS'     P/S'
 jīvana      hoilo śe   ṣa, nā bhajile hṛṣīkeśa
 
-P/S'S'     NS' NS' ND      NS'R'   S'ND        'M    P
+P/S'S'     NS' NS' ND      NS'R'   S'ND        M     P
 bhaktivinodopade      śa, ekbā   r nā   m-rase māto re
 
 
@@ -71,7 +71,7 @@ names of Radha-Madhava.
 4) Your life may end at any moment, and you have not served the Lord of the
 senses, Hrsikesa. Take this advice of Bhaktivinoda Thakura: "Just once, relish
 the nectar of the holy name!"
- 
+
 Remarks/ Extra Information:
 
 This song is heard in Raga Jhinjhoti or Raga Bangala in Dadra Tala or Lopha

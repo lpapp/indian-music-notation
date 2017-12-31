@@ -92,7 +92,7 @@ Then Part 1
          Double-time
 ========== Part 7 ==========
 
- S    R             
+ S    R
 hare kṛṣṇa hare kṛṣṇa
 
  S     R  P g
@@ -106,7 +106,7 @@ rāma rāma hare hare
 
 ========== Part 8 ==========
 
-   R             S             
+   R             S
 hare kṛṣṇa hare kṛṣṇa
 
  R     P    g

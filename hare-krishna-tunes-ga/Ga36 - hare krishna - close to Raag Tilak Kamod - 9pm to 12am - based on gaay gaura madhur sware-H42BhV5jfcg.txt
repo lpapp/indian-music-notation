@@ -31,13 +31,13 @@ rāma    rāma ha re     hare
 S'          NS'  N S' ND
 hare kṛṣṇa hare kṛṣṇa
 
-    N S' R' S' N D 'M    P
+    N S' R' S' N D M     P
 kṛṣṇa kṛṣṇa hare      hare
 
 P/S' S'   NS'  NS' ND
 hare rāma hare rāma
 
-   N S'R' S' N D 'M    P
+   N S'R' S' N D M     P
 rāma rāma hare      hare
 
 ============================
@@ -81,7 +81,7 @@ kṛṣṇa kṛṣṇa hare hare
       N   S'   R'
 hare rāma hare rāma
 
-S' N  D'M  P
+S' N  DM   P
 rāma rāma hare hare
 
 ========== Part 6v2 (Slightly different distribution) ==========
@@ -95,6 +95,6 @@ kṛṣṇa kṛṣṇa hare hare
       N   S'   R'
 hare rāma hare rāma
 
-S' N  D   'M    P
+S' N  D   M     P
 rāma rāma hare hare
 

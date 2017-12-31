@@ -16,12 +16,12 @@ rā     ma rāma    hare  ha           re
 
 ========== Part 2 ==========
 
-r'          d /r'  d     n     d   
+r'          d /r'  d     n     d
 ha re kṛṣṇa           ha    re    kṛṣṇa
 
    n    d  m/d  m    g    r  g  g /d  d  m/d  m m/d  d  n  n /r'  r'
 kṛ ṣ ṇa kṛ      ṣ ṇa    hare ha       re
- 
+
           d /r'  d     n     d
 hare rāma           ha    re    rāma
 
@@ -93,8 +93,8 @@ rāma rā            ma hare hare
 r    g      m   m/d  d  n
 hare kṛṣṇa hare      kṛṣṇa
 
-            r' S' n d  m/d  m S/'M
-kṛṣṇa kṛṣṇa ha re hare 
+            r' S' n d  m/d  m S/M
+kṛṣṇa kṛṣṇa ha re hare
 
 r     mg      mg  r' n  'n /g
 hare rā   ma hare rā    ma
@@ -117,7 +117,7 @@ hare rā     ma  ha     re rā         ma
 
 m'g'     r' n     r'         r' /m'
 rā    ma rā    ma ha re hare
- 
+
 ========== Part 8 ==========
 
 r'                     d /r'
@@ -129,9 +129,9 @@ kṛṣṇa kṛṣṇa hare hare
      n d  m/d   m      g r
 hare rā        ma hare rā   ma
 
-g    g /d  d  m/d  m 
+g    g /d  d  m/d  m
 rāma rā           ma hare hare
 
 ========== Repeat Part 1 ==========
 
-Finish with 'd/r
+=> Finish with G#,/C#

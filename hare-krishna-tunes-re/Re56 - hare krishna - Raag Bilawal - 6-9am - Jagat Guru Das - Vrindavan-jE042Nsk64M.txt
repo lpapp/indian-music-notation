@@ -14,16 +14,16 @@ Rama Rama Ha     re Hare
 
 ========== Part 2 ==========
 
-  m'M d        D# d  'M  m 'M
+  mM  d        D# d  M   m M
 Hare Krishna            Hare Krishna
 
- 'M    m   g   g /d   d D#'M m
+ M     m   g   g /d   d D#M  m
 Krishna Krishna        Hare Hare
 
-  m'M d      D# d  'M  m 'M
+  mM  d      D# d  M   m M
 Hare Rama            Hare Rama
 
-'M   m  g g /d  d D#'M m
+M    m  g g /d  d D#M  m
 Rama Rama       Hare Hare
 
 ========== Part 3 ==========
@@ -56,28 +56,28 @@ Rama Rama  Hare   Hare
 
 ========== Part 5 ==========
 
- m 'M   D#      S' n  r'  
+ m M    D#      S' n  r'
 Ha re  Krishna  Ha re Krishna
 
-S'   n   d   'M D#d  'M  'M m
+S'   n   d   M  D#d  M   M  m
 Krishna Krishna Hare     Hare
 
- m'M  D#   S' n  r'
+ mM   D#   S' n  r'
 Hare  Rama Ha re Rama
- 
-S'n  d 'M  D#d  'M'M m
+
+S'n  d M   D#d  M M  m
 Rama Rama  Hare   Hare
 
 ========== Part 6 ==========
 
- m'M  D#  d  m  m g   r    S
+ mM   D#  d  m  m g   r    S
 Hare Krishna   Ha re Krishna
 
-  S  r   'n   S r  r /'M 'M  m 
+  S  r   'n   S r  r /M  M   m
 Krishna Krishna    Ha       re Hare
 
- m'M  D#d  m  mg  r  S
+ mM   D#d  m  mg  r  S
 Hare  Rama   Hare Rama
- 
- Sr  'n  S r  r /'M'M m 
+
+ Sr  'n  S r  r /M M  m
 Rama Ra ma    Ha     re Hare

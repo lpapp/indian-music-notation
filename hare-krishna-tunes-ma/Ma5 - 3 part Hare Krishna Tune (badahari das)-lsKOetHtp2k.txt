@@ -1,84 +1,84 @@
 ========== Part 1 ==========
 
-'M    m r g    'Md     n  'M/n
+M     m r g    M d     n  M /n
 hare kṛṣṇa   hare   kṛṣṇa
 
-'M     m r  g' Mm   g
+M      m r  g M m   g
 kṛṣṇa kṛṣṇa hare  hare
 
-'M    mr g    'Md    n
+M     mr g    M d    n
 hare rāma   hare   rāma
 
-'M    mr g    'Mm   g
+M     mr g    M m   g
 rāma rāma   hare  hare
 
 ========== Part 2 ==========
 
-n    S' r'  S'n d  m   d  r' S'n  d 'Mm'M
+n    S' r'  S'n d  m   d  r' S'n  d M mM
 hare kṛṣṇa           hare kṛ ṣ ṇa
 
-    m    r g    'Md    n
+    m    r g    M d    n
 kṛṣṇa kṛṣṇa   hare   hare
 
-     S' r'    S'n d  m   d  r' S'n     d 'Mm'M
+     S' r'    S'n d  m   d  r' S'n     d M mM
 hare rā     ma         hare rā      ma
 
-   m   r g    'Md    n
+   m   r g    M d    n
 rāma rāma   hare   hare
 
 ========== Part 3 ==========
 
-g'       m' r' S'n       S' r' g'    r' S'd 'M
+g'       m' r' S'n       S' r' g'    r' S'd M
 ha re kṛṣṇa         hare    kṛ ṣ  ṇa
 
-    m    r g    'Md    n
+    m    r g    M d    n
 kṛṣṇa kṛṣṇa   hare   hare
 
-g'     m' r' S'n       S' r' g'    r' S'd 'M
+g'     m' r' S'n       S' r' g'    r' S'd M
 hare rāma         hare    rā    ma
 
-   m   r g    'Md    n
+   m   r g    M d    n
 rāma rāma   hare   hare
 
 ========== Part 4 (Part 1 with chords) ==========
 
-r /'M    m r g    'Md     n  'M/n
+r /M     m r g    M d     n  M /n
 hare    kṛṣṇa   hare   kṛṣṇa
 
-       m r  g' Mm   g  r  r /'M
+       m r  g M m   g  r  r /M
 kṛṣṇa kṛṣṇa hare  hare
 
-      mr  g    'Md    n  'M/n
+      mr  g    M d    n  M /n
 hare rāma    hare   rāma
 
-      mr  g' Mm   g  r  r /'M
+      mr  g M m   g  r  r /M
 rāma rāma hare  hare
 
 ========== Part 5 (Part 2 with chords) ==========
 
-g /n  S'   r'  S'n d  m   d  r' S'n  d 'Mm'M
+g /n  S'   r'  S'n d  m   d  r' S'n  d M mM
 hare    kṛṣṇa           hare kṛ ṣ ṇa
 
-    m    r g    'Md    n  g /n
+    m    r g    M d    n  g /n
 kṛṣṇa kṛṣṇa   hare   hare
 
-     S'  r'     S'n d  m   d  r' S' n  d 'Mm'M
+     S'  r'     S'n d  m   d  r' S' n  d M mM
 hare   rā   ma           hare rā    ma
 
-   m   r g    'Md    n
+   m   r g    M d    n
 rāma rāma   hare   hare
 
 ========== Part 6 (Part 3 with chords) ==========
 
-n /g'       m' r' S'n       S' r' g'  r' S'd 'M
+n /g'       m' r' S'n       S' r' g'  r' S'd M
 ha    re kṛṣṇa         hare    kṛ ṣṇa
 
-    m    r g    'Md    n  n /g'
+    m    r g    M d    n  n /g'
 kṛṣṇa kṛṣṇa   hare   hare
 
-          m'   r' S'n       S' r' g'    r' S'd 'M
+          m'   r' S'n       S' r' g'    r' S'd M
 ha   re rā  ma         hare    rā    ma
 
-   m   r g   'Md    n
+   m   r g   M d    n
 rāma rāma  hare   hare
 
