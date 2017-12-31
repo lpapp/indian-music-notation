@@ -17,7 +17,7 @@ s/D#,$/'g/g
 s/D#,/'g /g
 s/E,/'G/g
 s/F,/'m/g
-s/F#/'M/g
+s/F#,/'M/g
 s/Bb,$/'n/g
 s/Bb,/'n /g
 s/B,/'N/g
