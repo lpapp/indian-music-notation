@@ -164,14 +164,44 @@ Rā       ma  Rā         ma Hare Hare
 
 ========== Part 5 ==========
 
+'N 'N/r  r r/R  R  R/M     M   G/M G   R/G R r/R r
+Ha      re     Kṛṣ     ṇa Hare       Kṛṣ           ṇa
 
-Hare Kṛṣṇa Hare Kṛṣṇa
+      r/G  G    G/M M R/M  R r/R  r 'N/r 'N
+Kṛṣṇa     Kṛṣṇa Ha        re     Ha         re
 
+'N 'N/r  r r/R  R R/M  M    M/P  P M/P M G/M  G R/G R r/R r
+Ha      re     Rā     ma Ha     re           Rā             ma
 
-Kṛṣṇa Kṛṣṇa Hare Hare
+     r/G  G G/M  M R/M R    r/R r    'N/r 'N    'M/'N
+Rāma     Rā ma  Ha       re       Ha         re
 
+========= Part 5v2 =========
 
-Hare Rāma Hare Rāma
+'N 'N/r  r r/R  R R/M  M    M/P  P M/P M G/M G    R/G R r/R r    r/G
+Ha      re     Kṛ ṣ   ṇa Ha     re             Kṛ     ṣ       ṇa
 
+   G           G/M  M R/M  R r/R  r 'N/r 'N 'M/'N
+Kṛ   ṣṇa Kṛṣṇa     Ha     re     Ha      re
 
-Rāma Rāma Hare Hare
+'N 'N/r  r r/R  R R/M  M    M/P  P M/P M G/M  G R/G R r/R r
+Ha      re     Rā     ma Ha     re           Rā             ma
+
+     r/G  G G/M  M R/M  R r/R  r 'N/r 'N    'M/'N
+Rāma     Rā ma  Ha     re     Ha         re
+
+========= Part 1v4 =========
+
+'N 'N/r  r r/R  R R/M    M G/M G    R/G  R r/R r     'D/r 'D/r/G 'D/G
+Ha      re     Kṛ ṣ   ṇa         Ha     re Kṛ    ṣṇa
+
+  G      G/M M R/M R   r/R  r r/R  R r/R  r 'N/r 'N    'M/'N
+Kṛṣṇa Kṛ           ṣṇa     Ha     re     Ha         re
+
+'N 'N/r  r r/R  R R/M    M G/M G    R/G R    r/R  r 'D/r r r/G
+Ha      re     Rā     ma         Ha       re     Rā ma
+
+   G       G/M M R/M R r/R  r r/R  R r/R  r 'N/r 'N    'M/'N
+Rā   ma Rā       ma        Ha     re     Ha         re
+
+Finish: 'M/'N
