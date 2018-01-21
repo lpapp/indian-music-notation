@@ -1,0 +1,35 @@
+========== Part 1 ==========
+
+ r   r/m   m        m/P P m/P   m g/m g g/m  m m/P P P/d d P/d  P P/d  d
+Raghuna  n   dan Ra           gha     v     Ra           m     Ha     re
+
+     P/d  P m/P m g/m g      g/m  m m/M M M/n    n d/n  d M/d M M/d d M/d M    m/M m    r/m
+Siya     Ra             m Ha     re           Siya     Ra                 m Ha       re
+
+========= Part 1v2 =========
+
+ r      r/m   m        m/P P m/P m     g/m g g/m  m m/P P P/d d P/d  P P/d  d
+Raghuna     n   dan Ra             gha     v     Ra       m         Ha     re
+
+     P/d  P m/P m g/m g    g/m m    m/M M M/n    n    d/n  d M/d M M/d d M/d M    m/M m    r/m
+Siya     Ra           m Ha       re           Si   ya     Ra             m     Ha       re
+
+========== Part 2 ==========
+
+ m m/d  d d/S'   S'            S'/r' r' S'/r' S' n/S' n d/n d P/d  P P/d  d g/d
+Ra    ghu      nan  dan Raghav       Ra                     m     Ha     re
+
+ g   g/m  m     m/M  M M/n n      d/n  d M/d M M/d d M/d M    m/M  m
+Siya     Ram Ha     re       Siya     Ra                 m Ha     re
+
+========= Part 2v3 =========
+
+ m m/d  d d/S'          S'     S'/r' r' S'/r' S' n/S' n d/n d P/d  P P/d  d g/d
+Ra    ghu      nan  dan Raghav       Ra                 m         Ha     re
+
+   g    g/m  m     m/M  M M/n n      d/n  d M/d M M/d d M/d M    m/M m
+Si   ya     Ram Ha     re       Siya     Ra                 m Ha       re
+
+=> r/m
+
+Finish: r/m
