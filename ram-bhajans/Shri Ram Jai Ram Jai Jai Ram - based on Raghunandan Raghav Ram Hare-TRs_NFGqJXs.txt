@@ -1,0 +1,9 @@
+========== Part 1 ==========
+
+   r r/m  m    m/P P m/P  m g/m g   g/m  m m/P P P/d  d P/d P P/d  d P/d P m/P m
+Shri     Ram Jai         Ra       m     Ja     i     Ja     i     Ra              m
+
+   m m/P P m/P  m g/m g   g/m  m  m/M  M M/n n   d/n  d M/d M M/d d M/d  M  m/M  m  r/m
+Shri           Ra       m     Jai     Ra       m     Ja     i           Jai     Ram
+
+========== Part 2 ==========
