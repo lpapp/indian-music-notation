@@ -12,7 +12,7 @@ hare rāma hare rā    ma
      d    n     N n d  M
 rāma rāma    hare hare
 
-=> G#/C#'
+=> d /r'
 
 ========== Part 2 ==========
 
@@ -56,7 +56,7 @@ hare rāma hare rā    ma
 g  g /d  d             n  d  M
 rā       ma rāma hare ha     re
 
-=> F#/C#'
+=> M /r'
 
 ========== Part 4 ==========
 
@@ -118,7 +118,7 @@ hare rā    ma hare rāma
 M    d    n    d M  g /M
 rāma rāma hare hare
 
-=> F#/C#'
+=> M /r'
 
 ========== Part 7 ==========
 
@@ -176,7 +176,7 @@ hare rāma hare rāma
 n    d    M
 rāma rāma hare hare
 
-=> F#/Bb
+=> M /n
 
 ========== Part 9 ==========
 

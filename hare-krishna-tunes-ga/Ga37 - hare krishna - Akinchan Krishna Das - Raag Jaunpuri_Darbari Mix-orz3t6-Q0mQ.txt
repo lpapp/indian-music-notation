@@ -59,13 +59,13 @@ rā ma rāma           ha re hare
 n        N r' N  n d  M  m
 hare kṛṣṇa hare kṛṣṇa
 
- F          F#G#  BBb (G# F#)
+ m          M d   Nn  (d  M )
 kṛṣṇa kṛṣṇa hare hare
 
 n       D r' N n d  M  m
 hare rāma hare rāma
 
- F        F#G#  BBb (G# F#)
+ m        M d   Nn  (d  M )
 rāma rāma hare hare
 
 ========== Part 6 ==========
@@ -149,7 +149,7 @@ kṛṣṇa kṛṣṇa hare hare
  m     M  d
 hare rāma hare rāma
 
- B   BbG# Bb
+ N   n d  n
 rāma rāma hare hare
 
 ========== Part 11 ==========
@@ -163,7 +163,7 @@ kṛṣṇa kṛṣṇa hare hare
  m     M  d
 hare rāma hare rāma
 
- B   Bb   G#   F#
+ N   n    d    M
 rāma rāma hare hare
 
 ========== Part 11 ==========

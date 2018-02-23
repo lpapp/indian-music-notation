@@ -3,13 +3,13 @@
  N   P   M   G   M G  RGM  R/M  R/M /D R/D
 hare   kṛṣ  ṇa hare  kṛṣṇa
 
- A     G F#  GF#  E   (B,/E) E/B
+ D     P M   PM   G   ('N/G) G/N
 kṛṣṇa kṛṣṇa hare hare
 
  N   P    M  G   M G  RG M  R/M  R/D
 hare   rā   ma hare  rā  ma
 
-   A     GF#  GF#  E   (B,/E) E/B
+   D     PM   PM   G   ('N/G) G/N
 rā   ma rāma hare hare
 
 

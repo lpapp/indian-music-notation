@@ -14,13 +14,13 @@ rāma rāma    hare hare
 
 ========== Part 2 ==========
 
-C'(D'C')   BbG# F G# C' Bb      G#  G D# F G# G
+S'(R'S')   n d  m d  S' n       d   P g  m d  P
 ha re     kṛṣṇa            hare kṛṣṇa
 
    d   Pm g  P m      g R S
 kṛṣṇa kṛṣ ṇa     hare ha re
 
-C'(D'C') BbG# F G# C' Bb      G# G D# F G# G
+S'(R'S') n d  m d  S' n       d  P g  m d  P
 ha re    rāma            hare rāma
 
   d   Pm g  P m      g R S S/S'
@@ -107,6 +107,6 @@ kṛṣṇa kṛṣṇa hare hare
   n              d
 hare rāma hare rāma
 
-Bb   G#    G F D#(D)
+n    d     P m g (R)
 rāma rāma hare hare
 

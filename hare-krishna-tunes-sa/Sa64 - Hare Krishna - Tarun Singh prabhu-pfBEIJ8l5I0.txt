@@ -3,16 +3,16 @@
  S   g   m   P       d P m P
 hare   kṛṣṇa   hare  kṛṣṇa
 
-G#  GF    D#    F D# FG    FD# (C/D#)
+d   Pm    g     m g  mP    mg  (S/g )
 kṛṣṇa  kṛ   ṣṇa   hare  ha  re
 
  S   g     m    P      d P m P
 hare    rā   ma   hare rā ma
 
-G# GF    D#   F D# FG    F D# (C/D#)
+d  Pm    g    m g  mP    m g  (S/g )
 rāma  rā   ma   hare  ha   re
 
-=> D#/G
+=> g /P
 
 ========== Part 2 ==========
 
@@ -28,7 +28,7 @@ hare    rā   ma            hare    rā   ma
      n     d     n    S' n P
 rāma    rā    ma    hare ha  re
 
-=> C/G
+=> S/P
 
 ============================
          Double-time
@@ -46,7 +46,7 @@ hare rāma hare rāma
 d  P  m   g         S/g
 rāma rāma hare hare
 
-=> D#/G
+=> g /P
 
 ========== Part 4 ==========
 

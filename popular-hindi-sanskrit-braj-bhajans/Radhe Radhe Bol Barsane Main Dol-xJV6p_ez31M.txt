@@ -3,13 +3,13 @@ Lyrics:
  R  G        G/M  M      G/M  G R       G        G/M   M     G/M  G R
 Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
 
- E      D D/F# F# E/F# E D Bb,/D Bb,      Bb,/E     E      E/F# F#    E/F#  E    D      (A,/D)
+ G      R R/M  M  G/M  G R 'n /R 'n       'n /G     G      G/M  M     G/M   G    R      ('D/R)
 Barsane   me      i     Do            l,        ke mukh se      Radhe      Radhe   Bol
 
  R  G        G/M  M      G/M  G R       G        G/M   M     G/M  G R
 Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
 
- E      D D/F# F# E/F# E D Bb,/D Bb,      Bb,/E     E      E/F# F#    E/F#  E    D     (A,/D)
+ G      R R/M  M  G/M  G R 'n /R 'n       'n /G     G      G/M  M     G/M   G    R     ('D/R)
 Barsane   me      i     Do            l,        ke mukh se      Radhe      Radhe   Bol
 
 R/M  M  G/M   G    R        G     G/M  M       G/M   G       R       R/P
@@ -21,7 +21,7 @@ Radhe Radhe Radhe Radhe, Radhe        Jai Shri Ra         dhe
  R  G        G/M  M      G/M  G R       G        G/M   M     G/M  G R
 Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
 
- E      D D/F# F# E/F# E D B,/D B,     B,/E     E      E/F# F#    E/F#  E    D      (A,/D)
+ G      R R/M  M  G/M  G R 'N/R 'N     'N/G     G      G/M  M     G/M   G    R      ('D/R)
 Barsane   me      i     Do          l,      ke mukh se      Radhe      Radhe   Bol
 
 

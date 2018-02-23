@@ -1,6 +1,6 @@
 ========== Part 1 ==========
 
-Bb,(Bb,/C) C (C/D#) D#  F F/Bb Bb G#  GF    F/G#
+'n ('n /S) S (S/g ) g   m m/n  n  d   Pm    m/d
 ha        re        kṛṣṇa ha      re kṛṣṇa
 
 d   P  mg R   g  S/g  S      r  S 'P/S 'P
@@ -20,7 +20,7 @@ hare kṛ    ṣ ṇa        hare kṛṣ   ṇa
 'P 'd  'n   S   'n r      S S/m
 kṛṣṇa  kṛ ṣṇa hare     hare
 
- F   (F/G#) G# G F D#    D D# C# C
+ m   (m/d ) d  P m g     R g  r  S
 hare        rāma      hare    rāma
 
 r  S 'n 'd 'P'd 'n       'D'n
