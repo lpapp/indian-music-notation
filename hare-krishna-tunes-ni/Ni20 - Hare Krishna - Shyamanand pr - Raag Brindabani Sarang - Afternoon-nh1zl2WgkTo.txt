@@ -87,24 +87,24 @@ rāma  rāma ha     re  hare
 g'         M' g'  r'  S' r'
 hare kṛṣṇa ha     re  kṛṣṇa
 
- B    G#F#  D# G#F# D# C#C C# (C#/D#')
+ N    d M   g  d M  g  r S r  (r /g' )
 kṛṣṇa kṛ   ṣṇa ha   re ha  re
 
 g'        M' g'  r'  S'r'
 hare rāma ha     re  rāma
 
- B   G#F# D# G#F# D# C#C C# (C#/D#')
+ N   d M  g  d M  g  r S r  (r /g' )
 rāma rā   ma ha   re ha  re
 
 ========== Part 8 ==========
 
-C'C#' D#'   F#'D#'C#'C'   C#' (B/C#')
+S'r'  g'    M' g' r' S'   r'  (N/r' )
 hare  kṛṣṇa ha    re   kṛṣṇa
 
  N    d M  d  d /S' S'r' S' r'
 kṛṣṇa kṛ  ṣṇa       hare    hare
 
-C'C#' D#'  F#'D#' C#'C'   C#'  (B/C#')
+S'r'  g'   M' g'  r' S'   r'   (N/r' )
 hare  rāma ha     re    rāma
 
  N   d M  d  d /S' S'r' S' r'
@@ -117,7 +117,7 @@ rāma rā   ma       hare    hare
 S'   r'    g'
 hare kṛṣṇa hare kṛṣṇa
 
-F#' D#' C#'    C'   C#'   (B/C#')
+M'  g'  r'     S'   r'    (N/r' )
 kṛ ṣṇa  kṛ ṣṇa hare hare
 
  N        d M  d    d /S'

@@ -1,4 +1,4 @@
-/^[CDEFGAB',#b/ ]*$/{
+/^[CDEFGAB',#b/() ]*$/{
 s/G,/'P/g
 s/G#,$/'d/g
 s/G#,/'d /g

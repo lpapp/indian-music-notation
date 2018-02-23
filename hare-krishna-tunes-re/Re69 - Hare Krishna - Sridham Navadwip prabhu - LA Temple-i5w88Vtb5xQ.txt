@@ -1,12 +1,12 @@
 ========== Part 1 ==========
 
-C# (C#/F#) F#    G#F# G#   A      G# F#F  G#
+r  (r /M ) M     d M  d    D      d  M m  d
 ha         re kṛ         ṣṇa hare    kṛ  ṣṇa
 
  D d  M   mR    m  Rr
 kṛṣṇa kṛṣṇa  hare ha   re
 
-C# (C#/F#) F#    G#F#G#  A      G# F#F G#
+r  (r /M ) M     d M d   D      d  M m d
 ha         re rā        ma hare    rā  ma
 
  Dd  M  mR    m  Rr
@@ -159,7 +159,7 @@ rāma   rāma hare hare
 M    d      D
 hare kṛṣṇa hare kṛṣṇa
 
-G#    F#  F (F/G#) G#
+d     M   m (m/d ) d
 kṛṣṇa kṛṣṇa        hare hare
 
  D   d M   m    R   R/m

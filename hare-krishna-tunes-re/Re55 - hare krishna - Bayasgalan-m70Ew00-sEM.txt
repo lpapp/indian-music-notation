@@ -3,13 +3,13 @@
  R R/M  M   DN DN D ND M    RM  M /D D M
 ha re      kṛṣṇa hare     kṛṣṇa
 
-      E  DB,B,/E E F# E   F#E  DB,(B,/D) D
+      G  R'N'N/G G M  G   M G  R'N('N/R) R
 kṛṣṇa   kṛṣ     ṇa      hare  ha        re
 
  R R/M  M   DN DN  D N D M R M  M /D D M
 ha re      rā ma  hare   rā  ma
 
-     E  DB,B,/E E F# E   F#E  DB,(B,/D) D
+     G  R'N'N/G G M  G   M G  R'N('N/R) R
 rāma   rā      ma      hare  ha        re
 
 ========== Part 2 ==========

@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
-C#D# F#G# A      G# F#D# (D#/G#) G# F#
+r g  M d  D      d  M g  (g /d ) d  M
 hare kṛṣ ṇa hare    kṛṣ          ṇa
 
-F#A G#  F#    D#C# D# (D#/F#) F#  C#/F#
+M D d   M     g r  g  (g /M ) M   r /M
 kṛ  ṣṇa kṛṣṇa hare ha         re
 
-C#D# F#G# A      G# F#D# (D#/G#) G# F#
+r g  M d  D      d  M g  (g /d ) d  M
 hare rā  ma hare    rā           ma
 
-F#A G# F#   D#C# D# (D#/F#) F# C#/F#
+M D d  M    g r  g  (g /M ) M  r /M
 rā  ma rāma hare ha         re
 
 ============================

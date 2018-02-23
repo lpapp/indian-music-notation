@@ -70,4 +70,4 @@ Then repeat Part 1.
 
 ============================
 
-Then finish with C#/F#
+Finish: C#/F#

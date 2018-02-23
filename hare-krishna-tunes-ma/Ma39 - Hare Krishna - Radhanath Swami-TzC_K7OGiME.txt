@@ -3,10 +3,10 @@
 M  G  M G   R       GR r      'D/r
 hare kṛ   ṣṇa hare kṛ     ṣṇa
 
-C#  D  E     DF#  E D (A,/D) D/F#
+r   R  G     RM   G R ('D/R) R/M
 kṛṣṇa kṛṣṇa hare hare
 
-F# E  F#ED (A,/D)   EDC#    A,/C#
+M  G  M GR ('D/R)   GRr     'D/r
 hare rā    ma hare rā    ma
 
 r  R  G    RM   G R R/M
@@ -149,10 +149,10 @@ rāma rā   ma     hare hare
 M  G  M G   R       GR r      'D/r
 hare kṛ   ṣṇa hare kṛ     ṣṇa
 
-C#  D  E     D D/F#  E D (A,/D) D/F#
+r   R  G     R R/M   G R ('D/R) R/M
 kṛṣṇa kṛṣṇa ha re   hare
 
-F# E  F#ED (A,/D)   EDC#    A,/C#
+M  G  M GR ('D/R)   GRr     'D/r
 hare rā    ma hare rā    ma
 
 C# D  E    D D/F#  E D (D/F# or finish: A,/D)
