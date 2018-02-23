@@ -1,4 +1,5 @@
 /^[CDEFGAB',#b/() ]*$/{
+/^[[:space:]]*[DG][[:space:]]*$/b
 s/G,/'P/g
 s/G#,$/'d/g
 s/G#,/'d /g
