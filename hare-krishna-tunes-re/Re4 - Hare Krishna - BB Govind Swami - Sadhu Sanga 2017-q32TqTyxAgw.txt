@@ -1,0 +1,112 @@
+========== Part 1 ==========
+
+ R   R/m    m   m/P  P P/D  D   P/D D    m/P m G/m G    R/G R S/R S S/P
+Hare     Kṛ   ṣ     ṇa     Hare       Kṛ     ṣ       ṇa
+
+ P    m/P m G/m  G R/G R    'n/R 'n 'n    'n   'n/m m
+Kṛṣṇa           Kṛ ṣ     ṇa      Ha    re Hare
+
+     m/P  P m/P  m G/m  G G/m  m G/m G R/G R    S/R  S 'n/S 'n
+Hare     Rā     ma     Ha     re             Rā     ma
+
+   'n/S S S/m  m G/m  G R/G R   'D/R
+Rā        ma  Rā     ma       Hare   Hare
+
+========= Part 1v2 =========
+
+ R   R/m  m  m/P  P P/D  D   P/D D m/P  m G/m G R/G R S/R S S/P
+Hare     Kṛṣ     ṇa     Hare           Kṛ ṣ     ṇa
+
+ P m/P m G/m  G R/G  R 'n/R 'n 'n    'n   'n/m m
+Kṛṣṇa        Kṛ ṣ   ṇa      Ha    re Hare
+
+     m/P  P m/P  m G/m  G G/m  m G/m G R/G R    S/R  S 'n/S 'n
+Hare     Rā     ma     Ha     re             Rā     ma
+
+   'n/S  S S/m  m G/m  G R/G R      'D/R      R
+Rā      ma     Rā     ma       Hare      Hare
+
+========= Part 1v3 =========
+
+ R R/m    m   m/P  P P/D  D   P/D D m/P  m G/m G R/G R S/R S S/P
+Ha re  Kṛ   ṣ     ṇa     Hare           Kṛ ṣ     ṇa
+
+ P m/P m G/m  G R/G R    'n/R 'n           'n/m
+Kṛṣṇa        Kṛ ṣ     ṇa         Hare Hare
+
+ m   m/P  P m/P  m G/m G    G/m  m G/m G R/G R    S/R  S 'n/S 'n
+Hare     Rā     ma       Ha     re             Rā     ma
+
+   'n/S S S/m  m G/m  G R/G R      'D/R      R
+Rā        ma  Rā     ma       Hare      Hare
+
+========== Part 2 ==========
+
+ R R/m    m   m/P  P P/D  D   D/n  n D/n D    D/n
+Ha re  Kṛ   ṣ     ṇa     Hare     Kṛ ṣ     ṇa
+
+ n D/n D P/D P m/P  m G/m G       G/P P      R/P P m/P
+Kṛ     ṣ ṇa        Kṛ ṣ     ṇa Ha       re Hare
+
+ m m/P  P    P/n n D/n D    P/D P    m/P m    G/m  G R/G R S/R  S 'n/S 'n
+Ha     re Rā             ma       Ha       re     Rā           ma
+
+   'n/S S S/m  m G/m  G R/G R      'D/R
+Rā        ma  Rā     ma       Hare      Hare
+
+========= Part 2v2 =========
+
+ R R/m       m   m/P  P P/D  D         D/n
+Ha     re Kṛ   ṣ     ṇa     Hare Kṛṣṇa
+
+ n D/n D   P/D P m/P  m G/m  G G/P    P    P/D  D P/D  P m/P
+Kṛ     ṣṇa           Kṛ ṣ   ṇa     Ha   re     Ha     re
+
+ m m/P  P P/n n D/n  D P/D  P m/P  m G/m  G R/G R S/R  S 'n/S 'n
+Ha     re Rā        ma     Ha     re     Rā           ma
+
+   'n/S S S/m  m G/m  G R/G R      'D/R      R
+Rā        ma  Rā     ma       Hare      Hare
+
+========== Part 3 ==========
+
+
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+
+Kṛṣṇa Kṛṣṇa Hare Hare
+
+
+Hare Rāma Hare Rāma
+
+
+Rāma Rāma Hare Hare
+
+========== Part 4 ==========
+
+
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+
+Kṛṣṇa Kṛṣṇa Hare Hare
+
+
+Hare Rāma Hare Rāma
+
+
+Rāma Rāma Hare Hare
+
+========== Part 5 ==========
+
+
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+
+Kṛṣṇa Kṛṣṇa Hare Hare
+
+
+Hare Rāma Hare Rāma
+
+
+Rāma Rāma Hare Hare
+
