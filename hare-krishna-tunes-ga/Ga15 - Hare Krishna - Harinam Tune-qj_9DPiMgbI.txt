@@ -1,0 +1,45 @@
+========== Part 1 ==========
+
+ G G/P P    G/P  G G/P P    G/P  G G/P  P G/P G    R/G R S/R  S S/G
+Ha       re     Kṛ ṣ     ṇa     Ha     re       Kṛ     ṣ     ṇa
+
+ G R/G R    R/G  G  R/G  R R/G G G/P    P G/P  G R/G R S/R  S S/G
+Kṛ ṣ     ṇa     Kṛṣ     ṇa           Hare     Ha           re
+
+ G G/P P    G/P  G G/P P    G/P  G G/P  P G/P G    R/G R S/R  S S/G
+Ha       re     Rā       ma     Ha     re       Rā           ma
+
+ G R/G  R R/G G    R/G  R R/G G    G/P  P G/P  G R/G R S/R  S S/G
+Rā     ma       Rā     ma       Ha     re     Ha           re
+
+========= Part 1v2 =========
+
+ G G/P  P G/P G    G/D D P/D  P G/P  G G/P  P G/P G    R/G R S/R  S S/G
+Ha     re       Kṛ     ṣ     ṇa     Ha     re       Kṛ     ṣ     ṇa
+
+ G R/G  R R/G  G R/G  R R/G G    G/P  P G/P  G R/G R S/R  S S/G
+Kṛ ṣ   ṇa     Kṛ ṣ   ṇa       Ha     re     Ha           re
+
+ G G/P  P G/P  G G/D D P/D  P G/P  G G/P  P G/P G    R/G R S/R S    S/G
+Ha     re     Rā           ma     Ha     re       Rā             ma
+
+ G R/G  R R/G  G R/G  R R/G  G G/P  P G/P  G R/G R S/R S    S/G
+Rā     ma     Rā     ma     Ha     re     Ha             re
+
+========= Part 1v3 =========
+
+ G G/P  P G/P  G G/P P    G/P  G G/P  P G/P G    R/G R S/R  S S/G
+Ha     re     Kṛ ṣ     ṇa     Ha     re       Kṛ     ṣ     ṇa
+
+ G R/G  R R/G  G R/G  R R/G  G G/P P    G/P  G R/G R S/R  S S/G
+Kṛ ṣ   ṇa     Kṛ ṣ   ṇa     Ha       re     Ha           re
+
+ G G/P  P G/P  G G/P P    G/P  G G/P  P G/P G    R/G R S/R S    S/G
+Ha     re     Rā       ma     Ha     re       Rā             ma
+
+ G R/G  R R/G  G R/G  R R/G  G G/P  P G/P  G R/G R S/R S 'P/S S
+Rā     ma     Rā     ma     Ha     re     Ha             re
+
+
+ S                 'P/S
+Gaura Premanande Hari   haribol
