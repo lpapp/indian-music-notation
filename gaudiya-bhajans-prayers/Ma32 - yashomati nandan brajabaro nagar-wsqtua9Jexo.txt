@@ -7,8 +7,8 @@ Language: Bengali
 LYRICS:
 
 (1)
- F     E  F       (D#/F) D#     (D#/G)  G  FD#  DC      Bb,/C
-yaśomatī-nandana,           bra        ja-baro-nā  gara,
+ m     G  m       (g/F) g     (g/P)  P  m g  RS      'n/S
+yaśomatī-nandana,         bra       ja-baro-nā  gara,
 
 'n        'n /S S       S/m m G P  m  m/D
 go kula - ra      ñjana kā        na
