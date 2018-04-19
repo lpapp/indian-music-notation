@@ -1,0 +1,14 @@
+========== Part 1 ==========
+
+ E D  C A,  E D  C A,
+hare kṛṣṇa hare kṛṣṇa
+
+ E     D  C A,G, A,B,
+kṛṣṇa kṛṣṇa hare hare
+
+ D C B, C  D C B, C
+hare rāma hare rāma
+
+ G      F  G F  E
+rāma rāma hare hare
+

@@ -1,0 +1,15 @@
+========== Part 1 ==========
+
+     F E  D  E  F  E D C  D  E
+    ha   re kṛṣṇa ha  re kṛṣṇa
+
+     D C B,  C  D  C B, A, B, C
+    kṛṣ  ṇa kṛṣṇa ha    re hare
+
+     F E D  E F  E D C  D E
+    ha  re rāma ha  re rāma
+
+     D C B,  C D  C B, A, B, C
+    rā   ma rāma ha    re hare
+
+============================

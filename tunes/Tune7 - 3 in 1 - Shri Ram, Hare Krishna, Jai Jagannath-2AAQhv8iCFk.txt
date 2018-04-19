@@ -1,0 +1,60 @@
+========== Part 1 ==========
+
+  F#         G F# E                 F# G
+Shri Rama Jaya Rama Jaya Jaya Rama
+
+   G        F#  E D
+Shri Rama Jaya Rama Jaya Jaya Rama
+
+========== Part 2 ==========
+
+D/A              GF# E         
+Sitaram sitaram sitaram sitaram
+
+  F# G      F#   E D
+sitaram sitaram sitaram sitaram
+
+========== Part 3 ==========
+
+F#            G  F# E
+hare kṛṣṇa hare kṛṣṇa
+
+                   F# G
+kṛṣṇa kṛṣṇa hare hare
+
+            F#  E   D
+hare rāma hare rāma
+
+
+rāma rāma hare hare
+
+========== Part 4 ==========
+
+ A               G F#
+hare kṛṣṇa hare kṛṣṇa
+
+ E                 F#
+kṛṣṇa kṛṣṇa hare hare
+
+ G          F#  E   D
+hare rāma hare rāma
+
+
+rāma rāma hare hare
+
+========== Part 5 ==========
+
+F#         G F#  E             F# G
+Jaya Jagannath  Jaya Jagannath
+
+ G       F# E  D
+Jaya Baladeva Jaya Subhadra
+
+ A            G F# E            F# G
+Jaganatha Swami Nayana Patagami
+
+         F# E     D
+Nayana Patagami Bhavatume
+
+ A            G F# E            F# G
+Jaganatha Swami Nayana Patagami
