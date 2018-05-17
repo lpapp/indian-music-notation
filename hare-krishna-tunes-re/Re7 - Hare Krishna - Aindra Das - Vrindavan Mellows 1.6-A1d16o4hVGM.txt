@@ -82,31 +82,159 @@ Ha     re     Rā             ma Ha     re     Rā             ma
  P   m/P m    G/m G R/G R    S/R  S 'n/S 'n 'n/S  S 'n/S 'n 'D/'n 'D    'D/R R
 Rāma       Rā             ma     Ha      re      Ha                  re
 
+========= Part 2v3 =========
+
+ R   R/G  G  G/m  m G/m  G G/m  m G/m  G G/m  m G/m G R/G R S/R S S/R R
+Hare     Kṛṣ     ṇa     Ha     re     Kṛ ṣ   ṇa
+
+  R/G G    G/m  m  m/P P    m/P m      G/m  G R/G R    'D/R R
+Kṛṣ     ṇa     Kṛṣ       ṇa       Hare     Ha       re
+
+     R/G  G G/m m S/m m G/m  G G/m m    G/m  G G/m  m G/m G R/G R S/R S S/R R
+Hare     Rā       ma        Ha       re     Rā     ma
+
+   R/G G    G/m  m m/P P    m/P m      G/m  G R/G R    'D/R
+Rā       ma     Rā       ma       Hare     Ha       re
+
 ========== Part 4 ==========
 
+'D/R R    R/G  G    G/m  m S/m  
+Ha     re     Kṛṣṇa     Ha     re Kṛṣṇa
 
-Hare Kṛṣṇa Hare Kṛṣṇa
+ m G/m  G G/m  m G/m G   R/G R      'D/R   
+Kṛ ṣ   ṇa     Kṛ     ṣṇa       Hare      Hare
 
+   R    R/G  G G/m  m      m/P P    R/P P m/P  m
+Ha   re     Rā     ma Hare       Rā           ma
 
-Kṛṣṇa Kṛṣṇa Hare Hare
+   G/m  G    R/G  R      'D/R
+Rā     ma Rā     ma Hare      Hare
 
+========= Part 4v2 =========
 
-Hare Rāma Hare Rāma
+'D/R R    R/G  G  G/m  m    S/m  
+Ha     re     Kṛṣ     ṇa Ha     re Kṛṣṇa
 
+ m G/m  G G/m  m G/m G R/G  R   'D/R   
+Kṛ ṣ   ṇa     Kṛ     ṣ ṇa  Hare      Hare
 
-Rāma Rāma Hare Hare
+   R    R/G  G G/m  m      m/P  P R/P P m/P  m
+Ha   re     Rā     ma Hare     Rā           ma
 
-========== Part 5 ==========
+   G/m  G    R/G R         'D/R
+Rā     ma Rā       ma Hare Ha   re
 
+========= Part 2v4 =========
 
-Hare Kṛṣṇa Hare Kṛṣṇa
+'D/R R    R/G  G  G/m  m G/m  G G/m  m G/m  G  G/m m G/m  G R/G R S/R S S/R R
+Ha     re     Kṛṣ     ṇa     Ha     re     Kṛ  ṣ         ṇa
 
+   R/G G   G/m m   m/P P R/P P m/P  m   G/m  G R/G R    'D/R
+Kṛ     ṣṇa       Kṛṣ     ṇa        Hare     Ha       re
 
-Kṛṣṇa Kṛṣṇa Hare Hare
+ R   R/G G    G/m m    G/m  G G/m  m G/m  G G/m  m G/m G R/G R S/R S S/R R
+Hare       Rā       ma     Ha     re     Rā     ma
 
+   R/G G    G/m  m m/P P    m/P m      G/m  G R/G R
+Rā       ma     Rā       ma       Hare     Ha       re
+   
+========= Part 1v3 =========
 
-Hare Rāma Hare Rāma
+ R R/G  G G/m  m G/m G R/G R     S/R S    'n/S 'n 'n/S  S 'n/S 'n 'D/'n 'D
+Ha     re     Kṛ             ṣṇa       Ha      re      Kṛ               ṣ  ṇa
 
+   'D/'n 'n    'n/R  R R/G G   R/G R    R/G G    G/m  m   m/P P m/P m G/m G R/G R
+Kṛ       ṣ  ṇa      Kṛ     ṣṇa       Ha       re     Hare
 
-Rāma Rāma Hare Hare
+   R/G  G G/m  m G/m G R/G R    S/R S    'n/S 'n 'n/S  S 'n/S 'n 'D/'n 'D
+Ha     re     Rā             ma       Ha      re      Rā                  ma
 
+   'D/'n 'n    'n/R     R R/G  G R/G R    R/G  G G/m  m   m/P P m/P m G/m G R/G R
+Rā          ma      Rā        ma       Ha     re     Hare
+
+========= Part 1v4 =========
+
+ R R/G G    G/m  m G/m G R/G R   S/R S    'n/S 'n 'n/S  S 'n/S   'n 'D/'n 'D
+Ha       re     Kṛ           ṣṇa       Ha      re      Kṛ      ṣ             ṇa
+
+   'D/'n 'n     'n/R    R R/G G   R/G R    R/G  G G/m  m   m/P P m/P m G/m G R/G R
+Kṛ          ṣṇa      Kṛ       ṣṇa       Ha     re     Hare
+
+   R/G  G G/m  m G/m G R/G R    S/R  S 'n/S 'n 'n/S  S 'n/S 'n 'D/'n 'D
+Ha     re     Rā             ma     Ha      re      Rā                  ma
+
+   'D/'n 'n 'n/R R    R/G  G R/G R    R/G  G G/m  m   m/P P m/P m G/m G R/G R
+Rā          ma     Rā     ma       Ha     re     Hare
+
+========= Part 4v3 =========
+
+ R   R/G  G    G/m  m
+Hare     Kṛṣṇa     Hare Kṛṣṇa
+
+  G/m G    G/m  m G/m G   R/G  R
+Kṛṣ     ṇa     Kṛ     ṣṇa     Hare Hare
+
+     R/G  G G/m  m      m/P  P m/P m
+Hare     Rā     ma Hare     Rā       ma
+
+   G/m  G    R/G  R      'D/R
+Rā     ma Rā     ma Hare      Hare
+   
+========= Part 4v4 =========
+
+'D/R R    R/G  G    G/m m   S/m
+Ha     re     Kṛṣṇa       Hare  Kṛṣṇa
+
+ m G/m G   G/m  m G/m G R/G R      'D/R
+Kṛ     ṣṇa     Kṛ     ṣ ṇa    Hare      Hare
+
+ R   R/G  G G/m m         m/P P    R/P P m/P  m
+Hare     Rā       ma Hare       Rā           ma
+
+   G/m  G    R/G  R      'D/R
+Rā     ma Rā     ma Hare      Hare
+   
+========= Part 2v5 =========
+
+ R   R/G  G  G/m  m S/m m G/m  G G/m  m G/m  G G/m m G/m  G R/G R S/R S S/R R
+Hare     Kṛṣ     ṇa           Ha     re     Kṛ ṣ         ṇa
+
+   R/G G   G/m  m  m/P P    m/P  m      G/m  G R/G  R 'D/R
+Kṛ     ṣṇa     Kṛṣ       ṇa        Hare     Ha     re
+
+'D/R R    R/G  G G/m m    S/m m G/m  G G/m  m G/m  G G/m  m G/m G R/G R S/R S S/R R
+Ha     re     Rā       ma           Ha     re     Rā     ma
+
+   R/G G    G/m m    m/P P    m/P  m   G/m  G R/G  R R/m
+Rā       ma       Rā       ma     Hare     Ha     re
+
+========= Part 3v3 =========
+
+ m m/P  P P/D  D D/n n D/n D P/D  P m/P m    m/P  P P/D  D D/n n D/n D P/D P m/P
+Ha     re     Kṛ           ṣ     ṇa       Ha     re     Kṛ           ṣ ṇa
+
+ m m/P P   P/D D    D/n n D/n D P/D  P m/P m    m/P P    P/D  D   D/n n D/n D P/D P m/P m
+Kṛ     ṣṇa       Kṛ           ṣ     ṇa       Ha       re     Hare
+
+   G/m  G G/m  m G/m G R/G R    'D/R  R S/R  S S/R  R R/G G G/m  m S/m m m/P
+Ha     re     Rā             ma      Ha     re     Rā           ma
+
+ P   m/P  m G/m G R/G R    S/R  S 'n/S 'n 'n/S  S 'n/S 'n 'D/'n 'D    'G/'D 'D 'D/R R
+Rāma     Rā             ma     Ha      re      Ha                  re
+
+========= Part 1v5 =========
+
+ R R/G  G G/m  m G/m G R/G R     S/R S    'n/S 'n 'n/S  S 'n/S 'n   'D/'n 'D 'G/'D 'D
+Ha     re     Kṛ             ṣṇa       Ha      re      Kṛ         ṣ       ṇa
+
+   'D/'n 'n    'n/R    R R/G G   R/G R    R/G  G G/m  m   m/P P m/P m G/m G R/G
+Kṛ       ṣ  ṇa      Kṛ       ṣṇa       Ha     re     Hare
+
+ R R/G  G G/m  m G/m G R/G R    S/R  S 'n/S 'n 'n/S  S 'n/S 'n 'D/'n 'D
+Ha     re     Rā             ma     Ha      re      Rā                  ma
+
+   'D/'n 'n 'n/R    R R/G  G R/G R    R/G  G G/m  m   m/P P m/P m G/m G R/G R 'D/R
+Rā       ma      Rā       ma       Ha     re     Hare
+
+'D/R                                                  R (release R)
+Ga   ura Premanande Hariharibol Aindra Prabhu Ki Jaya
