@@ -128,26 +128,21 @@ R/P
  P P/M  M G/M G R/G R    R/G  G    G/m  m G/m G     R/G R    R/G  G G/m  m G/m   G S/G  S S/R  R     R/P P
 ni     tā     i   -   pa     da-ka     ma       la,       ko     ṭi  -  ca n   dra  -  su     śītala
 
- P P/M  M G/M G R/G R      R/G  G G/m  m G/m G     R/G  R R/G  G G/m  m G/m G    S/G  S S/R  R     R/P
-ni     tā     i   -   pada  -  ka     ma       la,     ko     ṭi  -  ca     ndra  -  su     śītala
+ P P/M  M G/M G R/G R      R/G  G G/m  m G/m G     R/G  R R/G  G G/m  m G/m   G S/G  S S/R  R     R/P
+ni     tā     i   -   pada  -  ka     ma       la,     ko     ṭi  -  ca n   dra  -  su     śītala
 
-R/P   P    M/P  M   G/M  G R/G R      R/G G G/m m G/m G   R/G
-je  chāyāy     jaga     ta       jurā                   y
+R/P     P  M/P  M   G/M G    R/G R      R/G G G/m m G/m G   R/G
+je  chāyāy     jaga       ta       jurā                   y
 
- R R/G   G G/m m    G/m G    R/G  R R/G  G S/G S S/R  R
-je     chā       yā     y ja     ga     ta           jurāy
+ R R/G   G G/m m    G/m G    R/G  R R/G  G S/G S S/R  R   R/P
+je     chā       yā     y ja     ga     ta           jurā     y
 
- R R/G G       G/P P P/D  D D/N  N   N/S'  S' N/S' N  D/N    D D/N   N P/N  P P/D  D           R/D R
-he       no ni           tā i   bine      bhā      i,     rā       dhā  -  kṛ ṣ   ṇa pāite nāi
+ P P/M  M G/M G R/G R      R/G  G G/m  m G/m G     'N/G G S/G G R/G  R R/G  G G/m  m G/m   G S/G    S S/R R  'D/R 
+ni     tā     i   -   pada  -  ka     ma       la,                  ko     ṭi  -  ca n   dra  -  su   ś     īta   la
 
- R R/G  G G/P    P P/D D    D/N N      N/S'  S' N/S' N  D/N  D D/N   N P/N  P P/D  D           P/D P
-he     no     ni         tā     i bine      bhā      i,     rā     dhā  -  kṛ ṣ   ṇa pāite nāi
 
- P          M/P   M   G/M G      R/G R     R/G G G/m m G/m G   R/G
-dṛḍha kori'     dharo       nitā     ir pā                   y
-
- R R/G   G G/m m    G/m  G R/G R     R/G  G S/G S    S/R  R       R/P P
-dṛ     ḍha       ko     ri'      dha     ro       ni     tāir pāy
+'D/R                           R   (release R)
+Ga   ura Premanande Hariharibo   l
 
 
 WORD FOR WORD TRANSLATION: Nitai Pada Kamala
