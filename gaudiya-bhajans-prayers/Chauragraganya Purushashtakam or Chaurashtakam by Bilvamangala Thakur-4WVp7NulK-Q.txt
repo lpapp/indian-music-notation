@@ -106,17 +106,17 @@ astonishingly wonderful thief I have never seen or heard of anywhere!
 
 (5)
 
-  d   M/d   M
-dhana     m   ca manam ca tathendriyani
+  d   M/d   M    G/M  G    g/G  g g/G  G G/M   M  G/M   G g/G  g r/g  r r/g
+dhana     m   ca     manam     ca     ta     then     dri     ya     ni
 
+  g g/M   M    M/d  d d/N N M/N  M   M/d  d    M/d M g/M g g/M M G/M G G/M
+pra     namsca     hrtva        mama     sarva     m     e       va
 
-pranamsca hrtva mama sarvam eva
+     N         n/N  d d/N  N N/S' S' N/S'  N  n/N  n d/n  d g/d
+palayase kutra     dh r   to             ’dya     ca u   ra
 
-
-palayase kutra dhrto ’dya caura
-
-
-tvam bhakti-damnasi maya niruddhah
+   g g/M   M    M/d  d  d/N N    M/N    M M/d d M/d  M g/M  g g/M M  G/M G   G/d
+tvam     bhakti  -  dam na    si     maya           ni     ru       ddha   h
 
  
 
@@ -127,17 +127,17 @@ can You run to? I have caught You with the rope of my devotion.
 
 (6)
 
+G/d d   M/d M G/M G           g/G  g g/G  G G/M  M G/M  G g/G  g  r/g     r   r/g
+chi   n      at     si ghoram     ya     ma  -  pa     sa  -  ban     dha   m
 
-chinatsi ghoram yama-pasa-bandham
+  g   g/M M     M/d d     d/N    N   M/N   M   M/d d M/d  M g/M  g  M G/M G G/N
+bhina       tsi       bhi     ma   m     bhava-pa        sa  -  ban   dha m
 
+G/N     N             n/N  n n/N N N/S' S' N/S' N n/N  n     d/n   d  g/d
+chi nat   si sarvasya     sa       ma           s     ta-ban     dham
 
-bhinatsi bhimam bhava-pasa-bandham
-
-
-chinatsi sarvasya samasta-bandham
-
-
-naivatmano bhakta-krtam tu bandham
+ g  g/M  M    M/d  d d/N     N     M/N  M  M/d d M/d  M g/M  g g/M M G/M G   G/d d
+nai     vatma     no     bha   kta  -  krtam         tu     ba n     dha   m
 
  
 
@@ -149,17 +149,17 @@ but You are unable to cut the knot fastened by Your own loving devotees.
 
 (7)
 
+ d  M/d  M   G/M  G      g/G  g g/G G G/M M G/M  G g/G   g r/g  r r/g g
+man  -  mana     se tama     sa   -   ra        si  -  gho     re
 
-man-manase tamasa-rasi-ghore
+     g/M M    M/d  d d/N  N     M/N  M   M/d d M/d  M g/M g g/M M      G/M G   G/N
+kara       gr     he     duhkha  -  maye           ni ba          ddha       h
 
+     N             n/N  n n/N  N  N/S' S' N/S' N    n/N  n d/n  d g/d
+labhasva he caura!     ha     re!                ci     ra     ya
 
-karagrhe duhkha-maye nibaddhah
-
-
-labhasva he caura! hare! ciraya
-
-
-sva-caurya-dosocitam eva dandam
+  g g/M  M  M/d   d d/N N    M/N  M  M/d d M/d  M g/M  g g/M M G/M G G/d d
+sva  -  caurya - do so    ci     tam     e     va     da n     da  m
 
  
 
@@ -172,21 +172,42 @@ appropriate punishment for Your crimes of thievery!
 
 (8)
 
+ d M/d  M G/M    G              g/G  g g/G  G G/M    M G/M  G g/G  g r/g  r r/g g
+ka     ra     gr   he vasa sada     hr     da     ye       ma     di     ye
 
-karagrhe vasa sada hrdaye madiye
+        g/M M     M/d  d   d/N  N    M/N   M      M/d  d M/d  M g/M  g g/M  M G/M G G/N
+mad-bha       kti     pasa  -  drdha  -  bandhana  -  ni s   ca     la h   sa n
 
+        N                 n/N  n n/N  N N/S'  S' N/S' N   n/N  n d/n   d g/d
+tvam kr   sna he! pralaya  -  ko     ti  -  sata      nta     re     ’pi
 
-mad-bhaktipasa-drdha-bandhana-niscalah san
+   g  g/M M   M/d  d d/N  N  M/N      M    M/d d    M/d  M g/M  g g/M M G/M G    G/d d
+sa   rva  sva  -  ca u   ra!     hrdayan-nahi    mo     ca     ya             mi
 
-
-tvam krsna he! pralaya-koti-satantare ’pi
-
-
-sarvasva-caura! hrdayan-nahi mocayami
-
- 
 
 O Krishna, thief of my everything! The noose of my devotion remaining forever
 tight, You will continue to reside in the prison-house of my heart because I
 will not release You for millions of aeons. This astaka is recited in the poetic
 meter known as ‘Upajati’.
+
+
+========== Repeat ==========
+
+
+(1)
+
+  d   M/d M G/M   G        g/G  g g/G  G G/M  M G/M G    g/G  g r/g  r  r/g
+vraje           prasiddham     na     va     ni       ta  -  ca u   ram
+
+ g   g/M M     M/d  d d/N N      M/N  M M/d d M/d  M g/M  g g/M M G/M G   G/N
+gopa       nga     na na    m cadu   ku           la  -  ca     u ra    m
+
+    N          n/N  n n/N  N N/r'   r' N/r' N    n/N  n d/n  d  g/d
+ane   ka-janma r   ji     ta  -  pa           pa  -  ca u   ram
+
+   g  g/M M     M/d  d    d/N   N M/N    M    M/d d M/d M   g/M  g g/M M G/M G G/d
+ca   ura    gra     ganya     m       pu   ru sa  m      na     ma       mi
+
+
+Finish: G/d (release G/d)
+
