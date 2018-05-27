@@ -61,108 +61,113 @@ keśava dhṛta  -  śū         ka       ra   -   rū        pa     jaya jaga  
  
 
 (4)
- n                  P/n    n P/n  n P/n   P  m/P m       R/m  R R/m m m/P P m/P m R/m  R S/R S 'n/S 'n   'm/'n 'n
+ n                  P/n    P P/n  n P/n   P  m/P m       R/m  R R/m m m/P P m/P m R/m  R S/R S 'n/S 'n   'm/'n 'n
 tava kara-kamala-va     re       na     kham     adbhuta  -  śṛ           ń           ga               ḿ
 
 'n 'n/S  S S/R  R S/R  S S/R  R R/m   m R/m R    R/m  m m/P  P m/P m    m/P  P P/n  n     m/n   m/n/S' m/S'
 da      li     ta  -  hi     ra     ṇya       ka     śi     pu   -   ta     nu  -  bhṛńga     m
 
-S'           n/S' n      n/S' S' S'/R' R' S'/R' S' n/S' n    m/n    m      m/P  P P/S'       S' n/S'  n
+S'           n/S' n      n/S' S' S'/R' R' S'/R' S' n/S' n    m/n    m      m/P  P P/S'       S' n/S'  n m/n
 keśava dhṛta   -    nara      ha       ri   -   rū        pa     jaya jaga     dī      śa ha         re
 
 
  
 
 (5)
+  n               P/n    P    P/n  n P/n P   m/P    P   R/m  R R/m m m/P P m/P m R/m  R   S/R S 'n/S 'n  'm/'n 'n
+chalayasi vikrama     ṇe   ba     li     m a     dbhuta  -  vā                       mana
 
-chalayasi vikramaṇe balim adbhuta-vāmana
+'n 'n/S  S S/R  R S/R   S S/R  R R/m m R/m R    R/m  m m/P  P   m/P m    m/P P    P/n  n     n/S' S'
+pa      da  -  na     kha  -  nī             ra  -  ja     nita   -   ja       na  -  pāvana
 
-
-pada-nakha-nīra-janita-jana-pāvana
-
-
-keśava dhṛta-vāmana-rūpa jaya jagadīśa hare
+S'            n/S' n    n/S' S'    S'/R' R' S'/R' S' n/S' n    m/n    m       m/P  P   P/S'       S' n/S'  n
+keśava dhṛta    -    vā         ma       na   -   rū        pa     ja   ya ja     gadī      śa ha         re
 
 
  
 
 (6)
+  n                 P/n  P    P/n  n P/n P   m/P  m     R/m R    R/m m m/P P m/P m R/m R      S/R S 'n/S 'n
+kṣatriya-rudhira-ma     ye ja     ga     d-a     pagata   -   pā                          pam
 
-kṣatriya-rudhira-maye jagad-apagata-pāpam
+ n' 'n/S  S S/R  R S/R  S S/R  R R/m  m R/m R    R/m  m m/P  P   m/P m     m/P  P P/n  n    n/S' S'
+sna      pa     ya     si     pa     ya       si     śa     mita   -   bha     va  -  tāpam
 
-
-snapayasi payasi śamita-bhava-tāpam
-
-
-keśava dhṛta-bhṛgupati-rūpa jaya jagadiśa hare
+S' P/S'            S' n/S'  n n/S' S'    S'/R' R' S'/R' S' n/S' n    m/n  m        m/P  P P/S'    S' n/S'  n m/n n
+ke      śava dhṛta    -    bhṛgu      pa       ti   -   rū        pa     jaya jaga     di śa   ha         re
 
 
  
 
 (7)
+ n                P/n    P    P/n n P/n  P   m/P m      R/m R R/m  m m/P P m/P m R/m R     S/R S 'n/S 'n 'm/'n 'n
+vitarasi dikṣu ra     ṇe   di     k  -  pati   -   kama           nī                   yaḿ
 
-vitarasi dikṣu raṇe dik-pati-kamanīyaḿ
+'n 'n/S  S S/R  R S/R   S S/R  R R/m m R/m R    R/m  m m/P  P  m/P m    m/P P    P/n  n    n/S' S' P/S'
+da      śa  -  mu     kha  -  ma u           li  -  ba     lim       ra       ma     ṇīyam
 
-
-daśa-mukha-mauli-balim ramaṇīyam
-
-
-keśava dhṛta-rāma-śarīra jaya jagadiśa hare
+P/S'         S' n/S' n     n/S' S' S'/R' R' S'/R' S' n/S'  n m/n    m         m/P  P   P/S'    S' n/S'  n m/n
+ke   śava dhṛta    -    rā               ma   -   śa rī   ra     ja   ya jaga     diśa      ha         re
 
 
  
 
 (8)
+ n                 P/n    P    P/n  n P/n  P  m/P m      R/m R    R/m m m/P P m/P m R/m R      S/R S 'n/S 'n
+vahasi vapuṣi viśa     de   va     sa     naḿ       jala       dā                         bhaḿ
 
-vahasi vapuṣi viśade vasanaḿ jaladābhaḿ
+'n 'n/S  S S/R  R S/R  S S/R   R R/m m R/m R    R/m  m m/P  P   m/P m    m/P  P P/n  n     n/S' S' P/S'
+ha      la  -  ha     ti  -  bhī             ti  -  mi     lita   -   ya     mu     nābham
 
-
-hala-hati-bhīti-milita-yamunābham
-
-
-keśava dhṛta-haladhara-rūpa jaya jagadiśa hare
+P/S'         S' n/S' n     n/S' S' S'/R'  R'   S'/R' S' n/S' n    m/n    m      m/P  P P/S'    S' n/S'  n
+ke   śava dhṛta    -    ha      la       dhara   -   rū        pa     jaya jaga     di śa   ha         re
 
  
 
 
 (9)
+ n               P/n   P    P/n  n P/n  P m/P m       R/m  m R/m m m/P P m/P m R/m  R  S/R S 'n/S 'm/'n 'n
+nindasi yajña-vi     dher a     ha     ha       śruti  -  jā                       taḿ
 
-nindasi yajña-vidher ahaha śruti-jātaḿ
+'n 'n/S S    S/R  R S/R  S S/R  R R/m  m R/m R    R/m m m/P P    m/P m    m/P  P P/n   n    n/S' S'
+sa        da     ya  -  hṛ     da     ya       da     r     śita   -   pa     śu  -  ghātam
 
-
-sadaya-hṛdaya darśita-paśu-ghātam
-
-
-keśava dhṛta-buddha-śarīra jaya jagadīśa hare
+P/S'            S' n/S' n    n/S'   S' S'/R' R' S'/R' S' n/S' n    m/n      m      m/P  P P/S'    S' n/S'  n m/n
+ke   śava dhṛta     -     bu      ddha   -   śa       rī        ra     jaya   jaga     dī śa   ha         re
 
 
  
 
 (10)
+m/n  n                 P/n P    P/n  n P/n  P   m/P m   R/m  R R/m m m/P P m/P m R/m  R  S/R S 'n/S 'n
+m   leccha-nivaha-nidhane    ka     la     yasi       kara  vā                       laḿ
 
-mleccha-nivaha-nidhane kalayasi karavālaḿ
+ 'n 'n/S S S/R  R S/R  S S/R R R/m  m R/m R     R/m  m m/P P       m/P  m m/P  P P/n    n     n/S' S' P/S'
+dhū            ma     ke           tu       m i     va       kim a     pi     ka     rā   lam
 
-
-dhūmaketum iva kim api karālam
-
-
-keśava dhṛta-kalki-śarīra jaya jagadīśa hare
+P/S'            S' n/S' n   n/S' S' S'/R' R' S'/R' S' n/S' n    m/n       m   m/P  P P/S'       S' n/S'  n m/n
+ke   śava dhṛta     -     kal    ki   -   śa       rī        ra     jaya jaga     dī      śa ha         re
 
 
  
 
 (11)
-
-
-śrī-jayedeva-kaver idam uditam udāraḿ
-
-
-śṛṇu sukha-daḿ śubha-daḿ bhava-sāram
-
-
-keśava dhṛta-daśa-vidha-rūpa jaya jagadīśa hare
-
+m/n  n          P/n    P     P/n  n  P/n P   m/P m     R/m R   R/m m m/P P m/P m R/m R     S/R S 'n/S 'n 'm/'n 'n
+śrī-jayedeva-ka     ve   r i     dam     udi       tam     udā                         raḿ
  
+'n 'n/S  S S/R  R S/R S     S/R   R R/m m R/m  R R/m   m m/P  P  m/P   m m/P  P P/n  n    n/S' S' P/S'
+śṛ      ṇu     su       kha   -  da     ḿ     śu     bha  -  daḿ     bha     va  -  sāram
+
+P/S'        S' n/S' n  n/S' S' S'/R'  R' S'/R' S' n/S' n    m/n    m      m/P  P P/S'    S' n/S'  n m/n m/n/S' m/S'
+ke  śava dhṛta   -   daśa - vi       dha   -   rū        pa     jaya jaga     dī śa   ha         re
+
+--- Repeat ---
+m/S'        S' n/S' n  n/S' S' S'/R'  R' S'/R' S' n/S' n    m/n    m      m/P  P P/S'    S' n/S' n    m/n n n/S' S' P/S'
+ke  śava dhṛta   -   daśa - vi       dha   -   rū        pa     jaya jaga     dī śa   ha           re
+
+P/S'        S' n/S' n     n/S'  S' S'/R'  R' S'/R' S' n/S' n    m/n       m   m/P P      P/S'    S' n/S' n    m/n m/n/S' m/S'
+ke  śava dhṛta   -   daśa   -   vi       dha   -   rū        pa     jaya jaga       dīśa      ha           re
+--------------
 
 
 (12)
