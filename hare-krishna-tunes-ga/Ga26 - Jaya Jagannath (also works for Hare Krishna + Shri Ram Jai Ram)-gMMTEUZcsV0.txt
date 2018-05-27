@@ -1,22 +1,37 @@
 =============== Part 1 ===============
 
- G             mG   R
-jaya jagannath,    jaya jagannatha,
+ G           mG      R               R/m m
+jaya jaganna    th, jaya jagannatha,
 
- m        GR    S
-jaya baladeva, jaya subhadra,
+            GRS                    S/G
+jaya balade     va, jaya subhadra,
+
+============== Part 1v2 ==============
+
+ G           mG      R               R/m m
+jaya jaganna    th, jaya jagannatha,
+
+            GR      S             S/G
+jaya balade    va, jaya subhadra,
 
 =============== Part 2 ===============
 
- P             m  G R             G  m         G     R     S
-jagannatha svami nayana patha gami     nayana patha gami bhavatu me
+ P             m  G R              Gm            G  R   S            S/P
+jagannatha svami nayana patha gami    nayana patha gami   bhavatu me
+
+ G             m  G    R              R/m            G  R   S            S/G
+jagannatha sva   mi nayana patha gami     nayana patha gami   bhavatu me
+
+--- version 2
+ G             m  G    R              G m            G  R   S            S/G
+jagannatha sva   mi nayana patha gami     nayana patha gami   bhavatu me
+---
 
 
- P               m G  R             Gm              G  R    S
-Nilachale swami tumi jaya jagannath    mayapure swami tumi jaya jagannath
+ P               m G  R           Gm                 G  R   S                S/P
+Nilachale swami tumi jaya jaganna    th mayapure swami tumi   jaya jagannath
 
-( G              F E  D             EF               E  D    C
- mayapure swami tumi jaya jagannath    Nilachale swami tumi jaya jagannath)
-^^^ fun ^^^
 
-================= End =================
++ "fun" (mistake):
+ P              m G  R           Gm                  G  R    S
+mayapure swami tumi jaya jaganna    th Nilachale swami tumi jaya jagannath

@@ -1,15 +1,15 @@
 ========== Part 1 ==========
 
-   G       m  G   R
+   G       m  G   R          R/m m
 Shri Ram Jai Ram Jai Jai Ram
 
-   m       G  R   S
-Shri Ram Jai Ram Jai Jai Ram
+           G  R S               S/G G
+Shri Ram Jai Ra   m Jai Jai Ram
 
 ========== Part 2 ==========
 
  P               m G R
 Sitaram sitaram sitaram sitaram
 
-   G m       G   R   S
-sitaram sitaram sitaram sitaram
+   G m         G    R   S             S/P
+sitaram sitara   m sita   ram sitaram

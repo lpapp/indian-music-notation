@@ -1,28 +1,28 @@
 ========== Part 1 ==========
 
-  F#         G F# E                 F# G
+  M          P M  G                 M  P
 Shri Rama Jaya Rama Jaya Jaya Rama
 
-   G        F#  E D
+   P        M   G R
 Shri Rama Jaya Rama Jaya Jaya Rama
 
 ========== Part 2 ==========
 
-D/A              GF# E         
+R/D              PM  G
 Sitaram sitaram sitaram sitaram
 
-  F# G      F#   E D
+  M  P      M    G R
 sitaram sitaram sitaram sitaram
 
 ========== Part 3 ==========
 
-F#            G  F# E
+M             P  M  G
 hare kṛṣṇa hare kṛṣṇa
 
-                   F# G
+                   M  P
 kṛṣṇa kṛṣṇa hare hare
 
-            F#  E   D
+            M   G   R
 hare rāma hare rāma
 
 
@@ -30,13 +30,13 @@ rāma rāma hare hare
 
 ========== Part 4 ==========
 
- A               G F#
+ D               P M
 hare kṛṣṇa hare kṛṣṇa
 
- E                 F#
+ G                 M
 kṛṣṇa kṛṣṇa hare hare
 
- G          F#  E   D
+ P          M   G   R
 hare rāma hare rāma
 
 
@@ -44,17 +44,17 @@ rāma rāma hare hare
 
 ========== Part 5 ==========
 
-F#         G F#  E             F# G
+M          P M   G             M  P
 Jaya Jagannath  Jaya Jagannath
 
- G       F# E  D
+ P       M  G  R
 Jaya Baladeva Jaya Subhadra
 
- A            G F# E            F# G
+ D            P M  G            M  P
 Jaganatha Swami Nayana Patagami
 
-         F# E     D
+         M  G     R
 Nayana Patagami Bhavatume
 
- A            G F# E            F# G
+ D            P M  G            M  P
 Jaganatha Swami Nayana Patagami

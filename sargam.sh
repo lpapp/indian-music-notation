@@ -1,2 +1,3 @@
 #!/bin/bash
-sed -i -f mapping.sed "$1"
+SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+sed -i -f $SCRIPTDIR/mapping.sed "$1"

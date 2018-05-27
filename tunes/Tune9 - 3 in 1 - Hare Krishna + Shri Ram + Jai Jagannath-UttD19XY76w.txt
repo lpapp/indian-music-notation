@@ -2,72 +2,72 @@
          Double Time
 ========== Part 1 ==========
 
- C F D#  C     Bb,G#,
+ S m g   S     'n 'd
 hare kṛṣṇa hare kṛṣṇa
 
-Bb,    C
+'n     S
 kṛṣṇa kṛṣṇa hare hare
 
- C F D# C      Bb,G#,
+ S m g  S      'n 'd
 hare rāma hare rā ma
 
-Bb,   C
+'n    S
 rāma rāma hare hare
 
 ============================
          Double Time
 ========== Part 2 ==========
 
-Bb               G#Bb
+n                d n
 hare kṛṣṇa hare kṛṣṇa
 
-C'          BbG#  F
+S'          n d   m
 kṛṣṇa kṛṣṇa hare hare
 
- C F D# C      Bb,G#,
+ S m g  S      'n 'd
 hare rāma hare rā ma
 
-Bb,   C
+'n    S
 rāma rāma hare hare
 
 ========== Part 3 ==========
 
- C F D#  C Bb,G#, Bb, C
+ S m g   S 'n 'd  'n  S
 hare kṛṣṇa ha re  kṛṣṇa
 
- C  F  D# C Bb,G#, Bb, C
+ S  m  g  S 'n 'd  'n  S
 kṛṣṇa kṛṣṇa ha re  ha re
 
-Bb        G# Bb C'    Bb G# F
+n         d  n  S'    n  d  m
 hare rāma ha re rā ma
 
- C F D# C Bb,G#, Bb,C
+ S m g  S 'n 'd  'n S
 rāma rāma ha re  hare
 
 ========== Part 4 ==========
 
-   C  FD#  C   Bb,G#, Bb,   C
+   S  mg   S   'n 'd  'n    S
 Shri Rama Jaya Ra ma  Jaya Jaya Rama
 
-  Bb           G#Bb C'        BbG# F
+  n            d n  S'        n d  m
 Shri Rama Jaya Rama Jaya Jaya Ra  ma
 
 ========== Part 5 ==========
 
- C    FD#  C Bb, G#, Bb    C
+ S    mg   S 'n  'd  n     S
 Jaya Jagannath       Jaya Jagannath
 
- C    FD# C   Bb,G#, Bb    C
+ S    mg  S   'n 'd  n     S
 Jaya Baladeva        Jaya Subhadra
 
-Bb           G# BbC'       BbG#  F
+n            d  n S'       n d   m
 Jaganatha Swami Nayana Pataga   mi
 
- C FD#  C  Bb,G#,Bb,   C
+ S mg   S  'n 'd 'n    S
 Nayana Pataga mi Bhavatume
 
- C   FD#   C   Bb,G#,Bb,   C
+ S   mg    S   'n 'd 'n    S
 Nilacale Swami tu mi Jaya Jagannath
 
- C   FD#   C     Bb,G#,
+ S   mg    S     'n 'd
 Mayapure Swami puryatu  Jaya Jagannath 

@@ -1,14 +1,14 @@
 ========== Part 1 ==========
 
-Bb, C  D     C D  E
+'n  S  R     S R  G
 ha re kṛṣṇa hare kṛṣṇa
 
- D  E  F    Bb, C  D   C Bb,
+ R  G  m    'n  S  R   S 'n
 kṛṣṇa kṛṣṇa ha re hare
 
-Bb, C  D    C D  E
+'n  S  R    S R  G
 ha re rāma hare rāma
 
- D E  F   Bb, C  D   C Bb,
+ R G  m   'n  S  R   S 'n
 rāma rāma ha re hare
 

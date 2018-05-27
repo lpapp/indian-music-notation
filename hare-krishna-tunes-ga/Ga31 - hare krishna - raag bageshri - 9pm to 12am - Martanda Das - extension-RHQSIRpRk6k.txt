@@ -28,13 +28,13 @@ rāma rāma hare hare
 
 ========== Part 3 ==========
 
-r'      g'  r' Nd    n   N r'  N n  M  d
+r'      g'  r' Nnd    n  N r'  N n  M  d
 hare kṛṣṇa         hare kṛṣṇa
 
  G     g' N r  G M d
 kṛṣṇa kṛṣṇa hare hare
 
-r'     g'  r  N d   n   Sr'  N n  M  d
+r'     g'  r' Nnd    n  Nr'  N n  M  d
 hare rāma         hare rāma
 
  G   g' N r  G M d
