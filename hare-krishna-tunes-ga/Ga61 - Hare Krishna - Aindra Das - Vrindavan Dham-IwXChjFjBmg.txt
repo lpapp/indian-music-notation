@@ -508,28 +508,73 @@ Rāma      Rāma     Hare Hare
 
 ========== Part 12 ==========
 
+n/m'          m'    g'/m' g' g'/M' M'    m'/M' m' g'/m' g'    r'/g'  r' n/r' n
+Ha   re Kṛṣṇa    Ha                   re                   Kṛ       ṣṇa
 
-Hare Kṛṣṇa Hare Kṛṣṇa
+   n/N N   N/g' g' r'/g' r' N/r'  N      n/N n      n/m'
+Kṛ     ṣṇa      Kṛ       ṣ       ṇa Hare       Hare
 
+     m'    g'/m'    g' g'/M' M' m'/M' m' g'/m' g' r'/g' r' n/r' n
+Hare    Rā       ma          Ha       re       Rā       ma
 
-Kṛṣṇa Kṛṣṇa Hare Hare
+   n/N N N/g' g' r'/g' r' N/r'  N   n/N n      n/m'
+Rā       ma   Rā       ma      Hare       Hare
 
+========== Part 13 ==========
 
-Hare Rāma Hare Rāma
+n/m'    m' m'/M' M' m'/M' m'    g'/m' g' r'/g' r'    n/r' n
+Ha   re Kṛṣṇa    Ha          re                Kṛṣṇa
 
+   n/N N   N/g' g' r'/g' r' N/r'     N    n/N    n      n/m'
+Kṛ     ṣṇa      Kṛ       ṣ  ṇa    Ha   re     Ha   re
 
-Rāma Rāma Hare Hare
+     m'   m'/M' M' m'/M' m' g'/m' g'    r'/g' r'    n/r' n
+Hare    Rāma    Ha       re          Rā          ma
 
-========== Part 11 ==========
+   n/N N N/g' g' r'/g' r' N/r'  N   n/N  n   g/n g
+Rā       ma   Rā       ma      Hare     Hare
 
+========= Part 4v9 =========
 
-Hare Kṛṣṇa Hare Kṛṣṇa
+ g g/m m    m/d  d d/n  n         n/N N
+Ha       re     Kṛṣṇa  Hare Kṛṣṇa
 
+         n/N  n        g/n g
+Kṛṣṇa Kṛṣṇa  Hare Hare
 
-Kṛṣṇa Kṛṣṇa Hare Hare
+   g/m m    m/d  d d/n  n        n/N
+Ha       re     Rā ma  Hare Rāma
 
+ N     n/N n           g/n
+Rāma Rāma    Hare Hare
 
-Hare Rāma Hare Rāma
+========= Part 1v6 =========
 
+ g   g/n   n      n/N  N n/N n   d/n  d M/d M
+Hare     Kṛṣṇa Ha     re       Kṛṣ   ṇa
 
-Rāma Rāma Hare Hare
+    m/M  m g/m  g g/m  m   m/d  d M/d  M g/M g
+Kṛṣṇa   Kṛ ṣ   ṇa     Hare     Ha     re
+
+ g g/m m    m/d    d d/n  n d/n  d M/d  M m/M m m/d d
+Ha       re     Rā   ma  Ha     re     Rā       ma
+
+   M/d M m/M  m    g/m  g      'n/g      g
+Rā           ma Rā     ma Hare      Hare
+
+========= Part 1v7 =========
+
+ g g/n     n    n/N  N n/N n    d/n d M/d M
+Ha re  Kṛṣṇa Ha     re       Kṛ     ṣ ṇa
+
+    m/M m    g/m   g g/m  m   m/d d    M/d  M g/M g
+Kṛṣṇa     Kṛ     ṣṇa     Hare       Ha     re
+
+ g g/m  m    m/d d    d/n  n d/n  d M/d  M m/M m    m/d d
+Ha     re Rā       ma     Ha     re     Rā       ma
+
+   M/d  M m/M  m g/m g   'n/g
+Rā     ma     Rā ma    Hare   Hare
+
+'n/g                             g (release g)
+Ga   ura Premanande Hariharibol!
