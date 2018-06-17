@@ -1,0 +1,61 @@
+========== Part 1 ==========
+
+ P   M/P M G/M G   G/M  M     M/D  D   P/D P                M/P     M G/M  G G/M M     R/M R    'N/R 'N 'N/S S
+nama     o       m     vishnu  -  pada       ya krishna-pre     shtha     ya       bhu   -   ta      le
+
+    S/R R    R/M    M G/M G     R/G  R S/R  S 'N/S 'N    'N/P   P M/P  M G/M G   R/G  R R/G G 'N/G      G G/P
+sri       ma     te         bhakti  ve     da      n  ta   -  sva     mi       n i   ti na         mine
+
+--- version 2
+ P   M/P M G/M G G/M  M  M/D     D    P/D  P R/P       P     M/P M     G/M  G G/M M     R/M R    'N/R 'N 'N/S S
+nama     o       m   vishnu - pa   da     ya     krishna-pre     shtha     ya       bhu   -   ta      le
+
+    S/R R    R/M    M G/M G     R/G  R S/R  S 'N/S 'N    'N/P     P M/P  M G/M G   R/G  R R/G G      G/P
+sri       ma     te         bhakti  ve     da      n  ta   -  sva       mi       n i   ti na    mine
+---
+
+
+ P  M/P  M G/M G G/M M      M/D  D P/D P   R/P  P    M/P  M G/M  G     G/M  M R/M R    'N/R 'N 'N/S S
+namas   te             sarasva  te       deve  gaura  -  va     ni-pra     ca       ri      ne
+
+      S/R  R R/M M G/M G     R/G   R S/R  S 'N/S 'N 'N/P     P     M/P   M G/M  G R/G  R R/G  G      G/P
+nirvi     sesha     -     su     nya     va      di   -   pa   sca     tya  -  de     sa  -  tari ne
+
+========== Part 2 ==========
+
+       G/P P M/P   M   G/M  G G/M M     M/D D P/D P   R/P   P M/P   M G/M  G    G/M  M R/M R 'N/R 'N    'N/S S
+(jaya) sri   -   krish     na   -   cai             tanya pra     bhu     nitya     na n             da
+
+      S/R R    R/M    M G/M G         R/G  R S/R S       'N/S 'N   'N/P   P M/P  M G/M   G R/G   R R/G   G     G/P
+sri-a     dvai     ta         gadadha     ra       sriva      sadi  -   gau     ra  -  bha     kta  -  vrin da
+
+========== Part 3 ==========
+
+ P   M/P  M  G/M  G G/M M    M/D  D    P/D P   R/P
+hare     kṛṣ     ṇa       ha     re kṛ     ṣṇa
+
+    P     M/P  M G/M G   G/M M    R/M  R    'N/R 'N 'N/S S
+kṛ    ṣṇa     kṛ     ṣṇa       ha     re ha      re
+
+     S/R  R R/M M G/M G   R/G R S/R S    'N/S 'N 'N/P
+hare     rā ma          hare          rā      ma
+
+   P M/P  M G/M  G R/G  R R/G  G         G/P
+rā       ma     rā     ma     hare ha re
+
+========= Part 3v2 =========
+
+ P   M/P  M G/M  G G/M M    M/D    D P/D  P    R/P
+hare     kṛ ṣ   ṇa       ha     re       kṛṣṇa
+
+    P M/P M     G/M  G    G/M M    R/M    R     'N/R 'N 'N/S S
+kṛ          ṣṇa     kṛṣṇa       ha     re    ha      re
+
+     S/R  R R/M    M G/M  G   R/G R S/R S    'N/S 'N 'N/P
+hare     rā     ma       hare             rā      ma
+
+   P M/P  M G/M G    R/G  R R/G  G         G/P 'N/G
+rā       ma       rā     ma     hare ha re
+
+'N/G      G    (release G)
+Ha   ribo   l!
