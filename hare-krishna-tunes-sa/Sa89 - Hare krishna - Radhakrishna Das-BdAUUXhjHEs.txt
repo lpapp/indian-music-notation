@@ -1,0 +1,94 @@
+=========== Part 1 ==========
+
+ S 'D 'P 'D 'D/S S    'D 'P 'D 'D/S S S/G
+Ha    re Kṛṣṇa     Ha    re Kṛṣṇa
+
+   G   m  P     m G  R G
+Kṛ   ṣṇa Kṛṣṇa Hare Ha   re
+
+      m P m G R       G m G R S S/G
+Hare Rāma       Hare Rāma
+
+ G R  S'N 'D'P 'D 'D/S  S 'P/S
+Rāma Rāma Hare Ha      re
+
+=> S/P
+
+=========== Part 2 ==========
+
+   P        D n  DP   m m/D
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+ D  P  m  G  R S  R G
+Kṛṣṇa Kṛṣṇa Hare Hare
+
+      m P m G R       G m G R S S/G
+Hare Rāma       Hare Rāma
+
+ G R  S'N 'N'P 'D 'D/S  S 'P/S
+Rāma Rāma Hare Ha      re
+
+=============================
+         Double-time
+=========== Part 3 ==========
+
+ S   'P 'D 'D/S  S       S/G
+Hare Kṛṣṇa Ha   re Kṛṣṇa
+
+ G  R R/m  m  G
+Kṛṣṇa Kṛṣ ṇa Hare Hare
+
+        m  P       m G  R
+Hare Rā   ma Hare Rā   ma
+
+   G
+Rāma Rāma Hare Hare
+
+=========== Part 4 ==========
+
+ G       m  P    m  G R
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+          G m    G  R S S/G
+Kṛṣṇa Kṛṣṇa   Hare Hare
+
+   G  R S    'N   'D 'P
+Hare Rā   ma Hare Rā    ma
+
+'D    S 'P/S
+Rāma Rā ma   Hare Hare
+
+========== Part 4v2 =========
+
+ G       m  P    m  G R
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+          G  m G  R S S/G
+Kṛṣṇa Kṛṣṇa Hare Hare
+
+   G    R  S 'N   'D 'P 'D
+Hare Rā   ma Hare Rā    ma
+
+   'D/S  S    'P/S          S
+Rā      ma Rā      ma Hare Hare
+
+=> S/P
+
+=========== Part 5 ==========
+
+ P               D  n
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+ D     P  m m/D       D
+Kṛṣṇa Kṛṣṇa Ha  re Hare
+
+ P    m    G    R S
+Hare Rāma Hare Rāma
+
+ R    G
+Rāma Rāma Hare Hare
+
+=========== End =============
+
+'P/S                           'P (release)
+Ga   ura Premanande Hari haribol
