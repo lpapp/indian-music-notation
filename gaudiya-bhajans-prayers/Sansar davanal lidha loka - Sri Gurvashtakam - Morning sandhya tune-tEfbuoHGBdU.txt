@@ -1,141 +1,141 @@
 (1)
 
- E       D CBb,C  D  C Bb,A,
+ G       R S'n S  R  S 'n 'D
 saḿsāra-dāvānala-līḍha-loka-
 
-  F        G  FE    C  D E  F
+  m        P  mG    S  R G  m
 trāṇāya kāruṇya-ghanāghanatvam
 
-  F           E F  G      F  E D
+  m           G m  P      m  G R
 prāptasya kalyāṇa-guṇārṇavasya
 
- A       G    F  E   C D E  F
+ D       P    m  G   S R G  m
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (2)
 
- E       D   C Bb,C  D  C Bb,A,
+ G       R   S 'n S  R  S 'n 'D
 mahāprabhoḥ kīrtana-nṛtya-gīta-
 
- F          G F E   C  D E F
+ m          P m G   S  R G m
 vāditra-mādyan-manaso rasena
 
- F           E  FG          F E D
+ m           G  mP          m G R
 romāñca -kampāśru-tarańga-bhājo
 
- A       G    F  E   C D E F
+ D       P    m  G   S R G m
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (3)
 
-  E       D CBb, C  D  C Bb,A,
+  G       R S'n  S  R  S 'n 'D
 śrī-vigrahārādhana-nitya-nānā-
 
- F           GF E    C  D E F
+ m           Pm G    S  R G m
 śṛńgāra-tan-mandira-mārjanādau
 
- F            E    FG        F   E D
+ m            G    mP        m   G R
 yuktasya bhaktāḿś ca niyuñjato 'pi
 
- A       G    F  E   C D E  F
+ D       P    m  G   S R G  m
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (4)
 
- E        D   C Bb, C D    CBb,A,
+ G        R   S 'n  S R    S'n 'D
 catur-vidha-śrī-bhagavat-prasāda-
 
-  F            GF  E     C  D  E   F
+  m            Pm  G     S  R  G   m
 svādv-anna-tṛptān hari-bhakta-sańghān
 
- F         E FG             F  E D
+ m         G mP             m  G R
 kṛtvaiva tṛptiḿ bhajataḥ sadaiva
 
- A       G    F  E   C D E  F
+ D       P    m  G   S R G  m
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (5)
 
-  E       D  CBb, C D  CBb,A,
+  G       R  S'n  S R  S'n 'D
 śrī-rādhikā-mādhavayor apāra-
 
- F          GF E    C D  E  F
+ m          Pm G    S R  G  m
 mādhurya-līlā guṇa-rūpa-nāmnām
 
-  F          EFG          F ED
+  m          GmP          m GR
 prati-kṣaṇāsvā  dana-lolupasya
 
- A       G    F  E   C D E  F
+ D       P    m  G   S R G  m
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (6)
 
- E       D C Bb,C  E C  Bb, A,
+ G       R S 'n S  G S  'n  'D
 nikuñja-yūno rati-keli-siddhyai
 
- F           G  F  E C  D E F
+ m           P  m  G S  R G m
 yā yālibhir yuktir apekṣaṇīyā
 
- F          EF  G          F ED
+ m          Gm  P          m GR
 tatrāti-dākṣyād ati-vallabhasya
 
- A       G    F  E   C D E  F
+ D       P    m  G   S R G  m
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (7)
 
- E         D  C   Bb,CD C Bb,  A,
+ G         R  S   'n SR S 'n   'D
 sākṣād-dharitvena samasta-śāstrair
 
-F             G F  E C D  E   F
+m             P m  G S R  G   m
 uktas tathā bhāvyata eva sadbhiḥ
 
- F             EFG           F E
+ m             GmP           m G
 kintu prabhor yaḥ priya eva tasya
 
- A       G    F  E   C D E  F
+ D       P    m  G   S R G  m
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (8)
 
- E        D C  Bb, C D    CBb,A,
+ G        R S  'n  S R    S'n 'D
 yasya prasādād bhagavat-prasādo
 
- F         G F E    C   D E   F
+ m         P m G    S   R G   m
 yasyāprasādān na gatiḥ kuto 'pi
 
- F               E F G           F  E D
+ m               G m P           m  G R
 dhyāyan stuvaḿs tasya yaśas tri-sandhyaḿ
 
- A       G    F  E   C D E  F
+ D       P    m  G   S R G  m
 vande guroḥ śrī-caraṇāravindam
 
  
 
 (9)
 
-  E     D C  Bb,C    D C  Bb,A,
+  G     R S  'n S    R S  'n 'D
 śrīmad-guror aṣṭakam etad uccair
 
-  F          GFE      C   D E  F 
+  m          PmG      S   R G  m
 brāhme muhūrte  paṭhati prayatnāt
 
- F           EFG       F  E  D
+ m           GmP       m  G  R
 yas tena vṛndāvana-nātha sākṣāt
 
- A       G   F  E   C   D E F
+ D       P   m  G   S   R G m
 sevaiva labhyā januṣo’nta eva
