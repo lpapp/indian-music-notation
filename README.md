@@ -69,3 +69,13 @@ level.
 
 * Note are sometimes in brackets. This is to indicate that they can be played or
 left out optionally as the harmonium player desires.
+
+* There are connected notes, like S/R. This means that both keys are played
+simultaneously. This usually happens when transitioning from one note to
+another. When learning the basic melody initially, these can be left out. The
+melodies may seem a bit overwhelming with these. But these may provide some
+taste for advanced players. Doing smooth transitions between notes by holding
+both down temporary can increase the taste of the kirtan and bring more energy
+overall to the chanting. It is often used when a note is pressed for longer than
+the rest in the melody. It is good to have some chord effect then. But it is
+just variety that you do not need to put into your kirtan.
