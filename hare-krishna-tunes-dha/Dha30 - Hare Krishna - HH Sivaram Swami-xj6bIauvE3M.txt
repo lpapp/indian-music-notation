@@ -1,12 +1,12 @@
 ========== Part 1 ==========
 
-'d    S  g  d    m  R
+'d    S  g  d    m  g
 Hare Kṛṣṇa Hare Kṛṣṇa
 
    r      S 'd  S      r S 'n 'd
 Kṛ   ṣṇa Kṛṣṇa Hare Ha     re
 
-      S g  d    m R
+      S g  d    m g
 Hare Rāma Hare Rāma
 
    r      S 'd  S      r S 'n 'd
@@ -14,13 +14,13 @@ Rā    ma Rā ma Hare Ha     re
 
 =========  Part 1v2 =========
 
-'d    S  g  d    m  R
+'d    S  g  d    m  g
 Hare Kṛṣṇa Hare Kṛṣṇa
 
    r      S 'd  S      r S 'n 'd
 Kṛ   ṣṇa Kṛṣṇa Hare Ha     re
 
-      S g    d  m R
+      S g    d  m g
 Hare Rāma Hare Rāma
 
    r      S 'd  S      r S 'n 'd
@@ -90,16 +90,74 @@ Rā  ma Rāma            Ha   re Hare
 
 ========== Part 4 ==========
 
-g/d                d
+g/d                d  n
 Ha  re Kṛṣṇa Hare Kṛṣṇa
 
- n                    D'
+                      S'
 Kṛṣṇa Kṛṣṇa Hare Hare
 
-                n d
-Hare Rāma Hare Rāma
+                  n d
+Hare Rāma Hare Rā     ma
 
           S' n  d   g/d
 Rāma Rāma Hare Hare
 
-03:06
+========= Part 4v2 =========
+
+g/d    g/d   d g/d  d g/d   d
+Ha  re Kṛ  ṣṇa Ha  re Kṛ  ṣṇa
+
+ n
+Kṛṣṇa Kṛṣṇa Hare Hare
+
+S'                n d
+Hare Rāma Hare Rā     ma
+
+          S' n  d   g/d
+Rāma Rāma Hare Hare
+
+========== Part 3v3 ==========
+
+ g    d  n S'   n  dP m
+Hare Kṛṣṇa   Hare Kṛṣṇa
+
+    d  n  d g/d d g/d d g/d d d/S' S' n  d  P d g/d d g/d d g/d d g/d d g/d d
+Kṛṣṇa Kṛṣṇa                        Ha   re Hare
+
+g/d  g g/d g g/d d  n S' n  dP  m m/d d
+Ha  re Rā          ma Hare Rā  ma
+
+   g/d  d  n d d/g d S' n  d  P d g/d
+Rā     ma Rāma       Ha   re Hare
+
+=> 'd/d
+
+========= Part 1v3 =========
+
+'d    Sg    d    m  g
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+   r      S 'd  S      r S 'n 'd
+Kṛ   ṣṇa Kṛṣṇa Hare Ha     re
+
+      S g  d    m g
+Hare Rāma Hare Rā   ma
+
+   r      S 'd    S    r S 'n 'd
+Rā    ma Rā ma Hare Ha     re
+
+========= Part 1v4 =========
+
+'d    Sg    d    m  g
+Hare Kṛṣṇa Hare Kṛṣṇa
+
+   r      S 'd  S      r S 'n 'd
+Kṛ   ṣṇa Kṛṣṇa Hare Ha     re
+
+      S g  d    m g
+Hare Rāma Hare Rā   ma
+
+   r      S 'd    S    r S 'n 'd
+Rā    ma Rā ma Hare Ha     re
+
+04:05 (1v4)
