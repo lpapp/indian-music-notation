@@ -144,7 +144,7 @@ hare rāma hare   rā   ma
  P    d P  m P m g    m S/m m
 rāma rāma hare     hare
 
-========= Part 1v4 =========
+========= Part 1v5 =========
 
  S    g  S    g S 'n     S 
 hare kṛṣṇa hare      kṛṣṇa
@@ -188,18 +188,125 @@ hare rāma hare rā  ma
  dP     mg     m    g S
 rā  ma rā  ma hare hare
 
-========== Part 6 ==========
+========= Part 4v2 =========
 
-
+ S    g     S    g  S
 hare kṛṣṇa hare kṛṣṇa
 
+'n     S
+kṛṣṇa kṛṇa hare hare
 
-kṛṣṇa kṛṣṇa hare hare
+      g    S    g S 
+hare rāma hare rā    ma
 
-
-hare rāma hare rāma
-
-
+'n   S
 rāma rāma hare hare
 
-06:46
+========= Part 5v2 =========
+
+ S S/m 
+ha re  kṛṣṇa hare kṛṣṇa
+
+  m    P     d
+kṛṣṇa kṛṣṇa hare hare
+
+      n   S'    dP
+hare rāma hare rā  ma
+
+ dP     mg     m 
+rā  ma rā  ma hare hare
+
+=> m/S'
+
+========== Part 6 ==========
+
+m/S'    S'     n    d  n
+ha   re kṛṣṇa hare kṛṣṇa
+
+S'    m/S'
+kṛṣṇa kṛ   ṣṇa hare hare
+
+  S'    R'    g'   R'S'
+hare rā    ma hare rā   ma
+
+   n    R'S'     n d  P m m/S'
+rā   ma rā   ma hare hare
+
+========= Part 6v2 =========
+
+m/S'      S'      n d  n   
+ha   re kṛṣ   ṇa hare kṛṣṇa
+
+S'    m/S'
+kṛṣṇa      kṛṣṇa hare hare
+
+  S'    R'    g'   R'S'
+hare rā    ma hare rā   ma
+
+   n    R'S'     n d  P m
+rā   ma rā   ma hare hare
+
+=> m/d
+
+========== Part 7 ==========
+
+ d    n    S'    n  d
+hare kṛṣṇa hare kṛṣṇa
+
+ P     m     P    m g g/P
+kṛṣṇa kṛṣṇa hare hare
+
+      P    d    P m
+hare rāma hare rā   ma
+
+ P m  g       m        m/d
+rā   ma rāma hare hare
+
+========= Part 7v2  =========
+
+ d    n    S'    n  d
+hare kṛṣṇa hare kṛṣṇa
+
+ n  d  Pm    P    m   g   g/P
+kṛṣṇa kṛṣṇa hare hare
+
+      P    d    P m
+hare rāma hare rā   ma
+
+ P m  g       m
+rā   ma rāma hare hare
+
+=> S/m
+
+========= Part 1v6 =========
+
+ S    gS      g S 'n     S 'P/S S
+hare kṛṣṇa hare      kṛṣṇa
+
+ S    g     S    g S 'n    S
+kṛṣṇa   kṛṣṇa hare      hare
+ 
+     S/m         m  P d
+hare     rāma hare rāma
+
+ d n S' d  P d P  m g  m g S
+rāma rāma hare   ha   re
+
+========= Part 1v7 =========
+
+ S   S/g  gS      g S 'n     S
+hare     kṛṣṇa hare      kṛṣṇa
+
+ S     g     S g S 'n    S
+kṛṣṇa kṛṣṇa hare      hare
+ 
+     S/m         m  P d    g/d
+hare     rāma hare rā   ma
+
+ d n S' d  P d P m    g  m g S 'n S 'P/S
+rāma rāma hare     ha   re
+
+
+
+'P/S                       S (release S)
+Ni   tai Gaura Premanande Ha             riharibol!
