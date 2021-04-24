@@ -10,14 +10,14 @@ LYRICS:
   m     GR      G    m      G      R S      RG    RS'n
 'gaurāńga' boli   te   habe   pulaka - śarī    ra
 
-    C C/F F  E D    CBb,   A,Bb,        Bb,/F F  E D      D/A (Finish with A,/D at the very end)
-'hari ha    ri'  bo      lite    nayane ba'     be   nīra
+    S S/m m  G R    C 'n   'D 'n        'n/m m  G R      R/D (Finish with 'D/R at the very end)
+'hari ha    ri'  bo      lite    nayane ba'    be   nīra
 
 
 
 (2)
-A    F G  A    C'Bb  A  (Bb A)   BbC' BbA BbAGF
-āra kabe nitāi - cānder        koruṇā hoi be
+D    m P  D    S' n  D  (n D)    nS'  nD  nDPm
+āra kabe nitāi - cānder       koruṇā hoi be
 
     P m  GR    R/m m  P D Pm    P  m   G  R    R/m
 saḿsāra-bā  sa    nā mora    kabe tuccha ha'be
@@ -34,8 +34,8 @@ kabe hā   ma  he      rabo    śrī-bṛ     ndābana
 
 
 (4)
- A   F/A  F  G A    A/C' C' Bb A (Bb A)   BbC' Bb A BbAGF
-rūpa  -  raghunātha    -    pade        hoi be ā ku ti
+ D   m/D  m  P D    D/S' S'  n D (n D)   nS' n D nDPm
+rūpa  -  raghunātha    -    pade       hoibe ākuti
 
    P  m GR    R/m m   P D Pm       P m  G R    R/m
 kabe hāma  bu       jhabo    se jugala-pīriti
