@@ -3,14 +3,14 @@
 n     DP m  GP m  G  R 'D/R
 hare kṛṣṇa ha re kṛṣṇa
 
-A,  C  D (D/F)  F C/F C DC A,C Bb, Bb,/Bb
-kṛṣṇa kṛ  ṣ    ṇa    hare  ha  re
+'D  S  R (R/m)  m S/m  S RS 'DS'n 'n/n
+kṛṣṇa kṛ  ṣ    ṇa     hare  ha re
 
 n     DP m  GP m  G R 'D/R
 hare rā ma ha re rāma
 
-A, C  D (D/F) F C/F  C DC A,C Bb, Bb,/Bb
-rāma rā      ma     hare  ha  re
+'D S  R (R/m) m S/m  S RS 'DS'n 'n/n
+rāma rā      ma     hare  ha re
 
 ========== Part 1 v2 (but not so "cool", variaton for first four notes) ==========
 
@@ -28,14 +28,14 @@ rāma rāma hare  ha  re
 
 ========== Part 2 ==========
 
- D    E (E/G)  G G/Bb Bb    A C, Bb Bb/D'
-hare kṛ  ṣ    ṇa ha      re kṛṣ  ṇa
+ R    G (G/P)  P P/n n     DS' n n/R'
+hare kṛ  ṣ    ṇa ha    re kṛṣ ṇa
 
-D'    C'Bb A  GA BbA  GA GF (or  G  F) D/F
-kṛṣṇa kṛṣ ṇa ha  re  ha re  (   ha re)
+R'    S'n D  PD  nD  PA Pm (or  P  m) R/m
+kṛṣṇa kṛṣṇa ha  re  ha re  (   ha re)
 
- D    E (E/G) G G/Bb Bb    AC, Bb Bb/D'
-hare rā      ma ha      re rā  ma
+ R    G (G/P) P P/n n    DS'  n n/R'
+hare rā      ma ha    re rā  ma
 
 R'   S'n  D  PD n D  PD  Pm R/m
 rāma rā  ma ha  re  ha  re
@@ -126,4 +126,4 @@ hare rāma hare rāma
  P D n  D  P D  P m m/R'
 rāma rāma hare hare
 
-Then double-time for Part 1, then single-time, then finish with G,/Bb,
+Then double-time for Part 1, then single-time, then finish with 'P/'n
