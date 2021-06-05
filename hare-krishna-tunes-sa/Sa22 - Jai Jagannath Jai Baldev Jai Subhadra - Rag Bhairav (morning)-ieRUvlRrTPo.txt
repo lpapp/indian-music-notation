@@ -1,10 +1,10 @@
 =============== Part 1 ===============
 
- S    R    mP     D     n   D      P      m  P       D     m    G    R
-jaya jagannatha, jaya jagannatha, jaya jagannatha,(swami) jaya jagannatha
+ S    R    mPD              n  D    P         m  P       D     m    G    R
+jaya jaganna   tha, jaya jagannatha,  jaya jagannatha,(swami) jaya jagannatha
 
-S'      N DP   n    S' n   D   P      m PD    m    G     R
-jaya baladeva, jaya subhadra, jaya baladeva, jaya subhadra
+S'      N DPD      n    S' n  D   P      m PD      m    G     R
+jaya balade   va, jaya subhadra, jaya balade  va, jaya subhadra
 
 
 jagannatha svami nayana patha gami bhavatu me
