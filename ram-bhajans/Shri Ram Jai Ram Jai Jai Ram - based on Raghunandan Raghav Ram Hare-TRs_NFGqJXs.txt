@@ -1,9 +1,118 @@
 ========== Part 1 ==========
 
-   r r/m  m    m/P P m/P  m g/m g   g/m  m m/P P P/d  d P/d P P/d  d P/d P m/P m
-Shri     Ram Jai         Ra       m     Ja     i     Ja     i     Ra              m
+   r  m    P  m g    mP  dP  d P m
+Shri Ram Jai Ra   m Jai Jai Ra     m
 
-   m m/P P m/P  m g/m g   g/m  m  m/M  M M/n n   d/n  d M/d M M/d d M/d  M  m/M  m  r/m
-Shri           Ra       m     Jai     Ra       m     Ja     i           Jai     Ram
+   m P  m g    m   M n    dM  dM  m  r/m
+Shri   Ra   m Jai Ra   m Jai Jai Ram
+
+========= Part 1v2 =========
+
+   r  m    P  m g    mP  dP  d P m
+Shri Ram Jai Ra   m Jai Jai Ra     m
+
+   m P  m g    m   M n    d   M   m  r/m
+Shri   Ra   m Jai Ra   m Jai Jai Ram
 
 ========== Part 2 ==========
+
+   md S'          r'S'  n   d 
+Shri  Ram Jai Ram Jai  Jai Ram
+
+   g  m       Mn     d   M   m
+Shri Ram Jai Ra   m Jai Jai Ram
+
+========= Part 2v2 =========
+
+   md S'          r'S'  n  d 
+Shri  Ram Jai Ram Jai  Jai   Ram
+
+   g  m       Mn     d   M  m
+Shri Ram Jai Ra   m Jai Jai   Ram
+
+========= Part 1v3 =========
+
+   r r/m  m    P  m g    mP  dP  d P m
+Shri     Ram Jai Ra   m Jai Jai Ra     m
+
+   m P  m g    m   M M/n n  d   M   m  r/m
+Shri   Ra   m Jai Ra     m Jai Jai Ram
+
+========= Part 2v3 =========
+
+   md d/S'   S'      r'S'  n   d  g/d 
+Shri  Ra   m Jai Ram Jai  Jai Ram
+
+   g  m       M M/n n  d   M  m
+Shri Ram Jai Ra     m Jai Jai Ram
+
+
+============================
+========== Part 3 ==========
+============================
+
+ r   m     P mG    m P dP    d
+Sitaram Sitara  m Sitara  m Sitaram
+
+ P   mG    m   Mn    d   M   m
+Sitara  m Sitara  m Sitaram Sitaram
+
+========= Part 3v2 =========
+
+ r   m     P mG    m P dP    d      P
+Sitaram Sitara  m Sitara  m Sitaram
+
+     mG    m   Mn    d   M   m
+Sitara  m Sitara  m Sitaram Sitaram
+
+========= Part 3v3 =========
+
+ r r/m  m     P mG    m P dP    d      P
+Si ta  ram Sitara  m Sitara  m Sitaram
+
+     mG    m   M M/n n  d   M   m
+Sitara  m Sitara     m Sitaram Sitaram
+
+========== Part 4 ==========
+
+ m dS'          r'S' nd      
+Sitaram Sitaram Sitara  m Sitaram
+
+ g       m   Mn    d   M   m
+Sitaram Sitara  m Sitaram Sitaram
+
+========= Part 4v2 =========
+
+ m d d/S'   S'      r'S' nd      
+Sita ra   m Sitaram Sitara  m Sitaram
+
+ g   m       Mn        dMd    M   m
+Sitaram Sitara  m Sitara   m Sitaram
+
+============================
+========= Part 1v4 =========
+============================
+
+   r r/m  m    P  m g    mP  dP  d
+Shri     Ram Jai Ra   m Jai Jai Ram
+
+   P  m g    m   M M/n n  d   M   m  r/m
+Shri Ra   m Jai Ra     m Jai Jai Ram
+
+========= Part 2v4 =========
+
+   md d/S'   S'      r'S'  n   d  g/d 
+Shri  Ra   m Jai Ram Jai  Jai Ram
+
+   g  m       M M/n n    d   M   m
+Shri Ram Jai Ra       m Jai Jai Ram
+
+========= Part 2v5 =========
+
+   md d/S'     S'     r'S'  n  d     g/d 
+Shri  Ra   m Jai  Ram Jai  Jai   Ram
+
+   g  m       M M/n n    d   M  m
+Shri Ram Jai Ra       m Jai Jai   Ram
+
+=> S/m
