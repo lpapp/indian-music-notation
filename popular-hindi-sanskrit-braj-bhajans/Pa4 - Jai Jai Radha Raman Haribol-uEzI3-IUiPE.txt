@@ -1,10 +1,10 @@
 ========== Part 1 ==========
 
 'P  'n   S           'n S R m R
-Jai Jai Radha Ramana Haribol
+Jai Jai Radha Ramana Haribo     l
 
- R   P   m  R   'n S  R S    'n 'P
-Jai Jai Radha Ramana Haribol
+ R   P   m  R   'n S  R S   'n 'P
+Jai Jai Radha Ramana Haribo       l
 
 ========== Part 2 ==========
 
@@ -17,10 +17,10 @@ Jai Jai Radha Ramana Haribol
 ========== Part 3 ==========
 
  R   P   m  R   'n S  R   S R
-Jai Jai Radha Ramana Haribol
+Jai Jai Radha Ramana Haribo   l
 
- R   P   m  R   'n S  R S    'n 'P
-Jai Jai Radha Ramana Haribol
+ R   P   m  R   'n S  R S   'n 'P
+Jai Jai Radha Ramana Haribo       l
 
 
 
