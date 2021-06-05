@@ -1,29 +1,29 @@
 ========== Part 1 ==========
 
- R  R/D     n  DP       m   P D m/D
-Haribol Haribol   Hari Haribol
+ R   D       nDP         m     PD   m/D
+Haribol Haribo   l Hari Haribo    l
 
- m G R S  R G m P   m    Rg  R
-Haribol  Haribol   Hari Haribol
+ m G R S    R G m P    m    R g R
+Haribo   l Haribo   l Hari Haribol
 
 ========== Part 2 ==========
 
- R      G m G P  m    Rg  R
-Hari Haribol    Hari Haribol
+ R      G m G P    m    R g R
+Hari Haribo     l Hari Haribol
 
 ========== Part 3 ==========
 
- m   P  n   S'  R'     g' R'
+ m   P   n  S'  R'     g' R'
 Haribol Haribol Hari Hari bol
 
-S'   N   D   P       n     D
-Haribol Haribol Hari Hari bol
+S'     N    D   P        n    D
+Haribo   l Haribol Hari Hari bol
 
 ========== Part 4 ==========
 
- D   P   DS'n    D    P m  P D m/D
-Haribol Haribol Hari Hari bol
+ D     P    DS' n   D    P m  P D   m/D
+Haribo   l Haribol Hari Hari bo   l
 
- m G R S  R G m P m    Rg   R
-Haribol  Haribol Hari Hari bol
+ m G R S    R G m P    m    R g R
+Haribo   l Haribo   l Hari Haribol
 
