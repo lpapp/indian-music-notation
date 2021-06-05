@@ -1,0 +1,35 @@
+============= Part 1 =============
+
+   R      GR  S'NS  G         mG
+Shri Ram Jai Ra  m Jai Jai Ra   m
+
+   G  mG R      S 'N S      G   R
+Shri Ra  m Jai Ra    m Jai Jai Ram
+
+   R      GR  S'NS    G       mG
+Shri Ram Jai Ra    m Jai Jai Ra  m
+
+   G  mG R      S 'N S      G   R
+Shri Ra  m Jai Ra    m Jai Jai Ram
+
+============ Part 1v2 ============
+
+   R      GR  S'NS  G       mG
+Shri Ram Jai Ra  m Jai Jai Ra   m
+
+   G  mG R   S 'NS      G   R
+Shri Ra  m Jai Ram Jai Jai Ram
+
+============= Part 2 =============
+
+   M          GR    GM P
+Shri Ram Jai Ra  m Jai   Jai Ram
+
+   G  P   D   nD P      m   GR
+Shri Ram Jai Ra  m Jai Jai Ra  m
+
+   M          GR    GM P
+Shri Ram Jai Ra  m Jai   Jai Ram
+
+   G  P   D   nD P   m  G   R 
+Shri Ram Jai Ra  m Jai Jai Ram
