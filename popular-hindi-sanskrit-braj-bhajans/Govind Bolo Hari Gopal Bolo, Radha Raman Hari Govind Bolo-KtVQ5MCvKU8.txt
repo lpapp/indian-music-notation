@@ -1,10 +1,10 @@
 ========== Part 1 ==========
 
- G           S/G S       R   'D/R 'D 'D/S S    S/G G
-Govinda Bolo       Hari Gopa      la Bo     lo
+ G            S    R  'D  S   S/G
+Govinda Bolo Hari Gopala Bolo
 
- G           S/G S       R   'D/R 'D 'D/S S    S/G G
-Govinda Bolo       Hari Gopa      la Bo     lo
+ G            S    R   'D/R 'D 'D/S S    S/G G
+Govinda Bolo Hari Gopa      la Bo     lo
 
    G/P   P            D     G/D G G/P P    G/P G
 Ra     dha Raman Hari   Govin   d Bo    lo

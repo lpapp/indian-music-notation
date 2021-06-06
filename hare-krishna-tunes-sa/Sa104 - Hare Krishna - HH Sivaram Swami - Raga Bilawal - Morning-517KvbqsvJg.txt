@@ -125,10 +125,10 @@ rāma rāma hare hare
  G m  P
 hare kṛṣṇa hare kṛṣṇa
 
- D               P/D
+ D               m/D
 kṛṣṇa kṛṣṇa hare ha  re
 
-                P   P/S'
+                D   D/S'
 hare rāma hare rāma
 
    S'  N   P/N  P    m G G/P
@@ -139,10 +139,10 @@ rā    ma rāma  hare hare
 G/P     P
 ha  re kṛṣṇa hare kṛṣṇa
 
- D               P/D
+ D               m/D
 kṛṣṇa kṛṣṇa hare ha  re
 
-             P      P/S'
+             D      D/S'
 hare rāma hare rāma
 
    S'  N   P/N  P    m G G/P
