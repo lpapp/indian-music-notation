@@ -1,16 +1,16 @@
 ========== Part 1 ==========
 
- n   n/S' S' d/S' d    P/d P m/P m      m/d  d  d/n n    m/n
-Hare      Kṛ ṣ      ṇa             Hare     Kṛṣ       ṇa
+ n   n/S' S' d/S' d    P m      m/d  d  d/n n    m/n
+Hare      Kṛ ṣ      ṇa     Hare     Kṛṣ       ṇa
 
- n    n/S' S' d/S' d    P/d P m/P m      m/d  d d/n n    m/n   n m/n   n m/n
-Kṛṣṇa      Kṛ ṣ      ṇa             Hare     Ha       re
+ n    n/S' S' d/S' d    P m      m/d  d d/n n    m/n   n m/n   n m/n
+Kṛṣṇa      Kṛ ṣ      ṇa     Hare     Ha       re
 
-   n    n/S' S'    d/S'  d P/d P m/P m      m/d  d d/n  n m/n   n m/n   n m/n
-Ha   re         Rā      ma             Hare     Rā     ma
+   n    n/S' S'    d/S'  d P m      m/d  d d/n  n m/n   n m/n   n m/n
+Ha   re         Rā      ma     Hare     Rā     ma
 
- n   n/S' S'    d/S'  d P/d P m/P m   m/d  d d/n n    m/n   n m/n   n m/n
-Rāma         Rā      ma             Hare  Ha       re
+ n   n/S' S'    d/S'  d P m   m/d  d d/n n    m/n   n m/n   n m/n
+Rāma         Rā      ma     Hare  Ha       re
 
 ========= Part 1v2 =========
 
@@ -28,31 +28,31 @@ Rā           ma      Rā       ma       Hare  Ha     re
 
 ========== Part 2 ==========
 
-r'     S'/r' S' n/S' n n/S' S' S'/r' r'   r'/g' g' r'/g' r' S'/r' S' n/S' n n/r'
-Hare Kṛṣ     ṇa                         Hare    Kṛ          ṣ     ṇa
+r'     S'/r' S'  n S' r'   r'/g' g' r' S'/r' S' n/S' n n/r'
+Hare Kṛṣ     ṇa          Hare    Kṛ    ṣ     ṇa
 
-   r'        S'/r' S'   n/S' n n/S' S' S'/r' r'   r'/g' g'    r'/g' r' S'/r' S' n/S' n n/r'
-Kṛ    ṣṇa Kṛ       ṣ ṇa                         Hare       Ha                re
+   r'        S'/r' S'   n S' r'   r'/g' g'    r'/g' r' S' n n/r'
+Kṛ    ṣṇa Kṛ       ṣ ṇa         Hare       Ha          re
 
-   r'       S'/r' S' n/S' n n/S' S' S'/r' r'   r'/g' g' r'/g' r' S'/r' S' n/S' n m/n
-Ha    re Rā       ma                         Hare    Rā                ma
+   r'       S'/r' S' n/S' n S' r'   r'/g' g' r' S' n/S' n m/n
+Ha    re Rā       ma              Hare    Rā    ma
 
-   n n/S' S' d/S'  d P/d  P m/P m      m/d  d d/n  n m/n n n/r'
-Rā        ma      Rā     ma       Hare     Ha     re
+   n n/S' S' d/S'  d P/d  P m      m/d  d d/n  n m/n n n/r'
+Rā        ma      Rā     ma   Hare     Ha     re
 
 ========== Part 3 ==========
 
-r'      S'/r' S'  n/S' n n/S' S' S'/r' r'   r'/g' g' r'/g' r' S'/r' S'   n/S' n n/r'
-Hare Kṛ       ṣṇa                         Hare    Kṛ                ṣ ṇa
+r'      S'/r' S'  n/S' n S' r'   r'/g' g' r' S'/r' S'   n/S' n n/r'
+Hare Kṛ       ṣṇa              Hare    Kṛ          ṣ ṇa
 
-  r'   S'/r' S' n/S' n n/S' S' S'/r' r'   r'/g' g' r'/g' r' S'/r' S' n/S' n
-Kṛṣ ṇa       Kṛ ṣ      ṇa               Hare    Ha                re
+  r'   S'/r' S' n/S' n n/S' S' r'   r'/g' g' r' S' n/S' n
+Kṛṣ ṇa       Kṛ ṣ      ṇa         Hare    Ha    re
 
-     n/S' S' d/S'  d P/d P m/P m      m/d  d d/n  n m/n   n m/n   n m/n
-Hare      Rā      ma             Hare     Rā     ma
+     n/S' S' d/S'  d P m      m/d  d d/n  n m/n   n m/n   n m/n
+Hare      Rā      ma     Hare     Rā     ma
 
- n n/S' S' d/S'  d P/d P    m/P m      m/d  d d/n  n m/n   n m/n   n m/n
-Rā      ma      Rā       ma       Hare     Ha     re
+ n n/S' S' d/S'  d P/d P    m      m/d  d d/n  n m/n   n m/n   n m/n
+Rā      ma      Rā       ma   Hare     Ha     re
 
 ============================
          Double-time
@@ -64,8 +64,8 @@ Ha    re Kṛ      ṣ ṇa      Hare     Kṛ ṣ     ṇa
    m/d  d    d/n  n   m/n  n m/n n m/n
 Kṛṣṇa  Kṛṣṇa     Hare     Ha re
 
- n      n/S' S' d/S'  d      P/d  P m/P m
-Hare Rā              ma Hare     Rā       ma
+ n      n/S' S'  d      P/d  P m/P m
+Hare Rā         ma Hare     Rā       ma
 
    m/d     d d/n  n      m/n    n m/n m/n/r'
 Rā     ma Rā     ma Hare     Ha   re
