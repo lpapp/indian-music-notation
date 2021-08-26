@@ -1,6 +1,14 @@
 
-'N S 'N/g  g     R 'N  S R    S Rg P   g R S 'N S
+'N S 'N/g   g    R 'N  S R    S Rg P   g R S 'N S
 Jaya ya   shoda nanda dular, girivara dha ri gopal
 
- S/m m P    m   n P  mg       R R/m m R       'n   S S/m
-go    pa     l  go  pa   l go      pa   l  go     pal
+ S/m m  P m    n P mg      R R/m  m R       'n   S S/m
+go     pa   l go  pa  l go       pa   l  go     pal
+
+=== version 2 (slight variation) ===
+
+'N S  g       R 'N  S R    S Rg P   g R 'N  S
+Jaya yashoda nanda dular, girivara dha  ri gopal
+
+ S S/m m  P m    n P mg      R R/m m    R       'n   S S/m
+go       pa   l go  pa  l go         pa   l  go     pal
