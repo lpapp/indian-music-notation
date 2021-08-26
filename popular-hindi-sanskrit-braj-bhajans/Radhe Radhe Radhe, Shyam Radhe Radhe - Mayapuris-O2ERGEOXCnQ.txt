@@ -1,0 +1,146 @@
+ S     g  m  P S/P P S/P P S/P      P m S/m     m    g      mP   g R S 'P/S
+Radhe Radhe Ra                 dhe,         Shyam Ra   dhe Ra  dhe
+
+---- version 1v2 ----
+
+ S     g  m    P S/P      P m S/m         m  g  mP   g R S 'P/S
+Radhe Radhe Ra        dhe,         Shyam Radhe Ra  dhe
+
+---- version 1v3 ----
+
+ S     g  m    P S/P      S S/m     m     g  mP   g R S S/P 
+Radhe Radhe Ra        dhe,      Shyam Radhe Ra  dhe
+
+---- version 2 ----
+
+ P     nP   n S' P/S'      S' R' S' n D P  m        g m    P   g R S S/P
+Radhe Ra  dhe Ra      dhe,                Shyam Radhe   Ra   dhe
+
+---- version 2v2 ----
+
+ P     nP   n S' P/S'  S' R' S' n D P  m       g    m  P  g R S S/P
+Radhe Ra  dhe Ra      dhe,            Shyam Ra  dhe   Radhe
+
+---- version 2v3 ----
+
+ P     nP   n S' P/S' S' P/S' S' P/S' S' P/S'       S' R' S' n D P  m       g     m    P   g R S 'P/S
+
+Radhe Ra  dhe Ra                              dhe,                 Shyam Ra   dhe   Ra   dhe
+
+---- version 1v3 ----
+
+ S     g  m  P S/P P S/P P S/P      S S/m      m     g  mP   g R S S/P 
+Radhe Radhe Ra                 dhe,        Shyam Radhe Ra  dhe
+
+---- version 3 ----
+
+ S     g     S    'n      'P   'n     S
+Radhe Radhe Radhe Radhe, Shyam Radhe Radhe
+
+---- version 4 ----
+
+S'    g'    S'     n      D     n    S' P/S' S' P/S' S' P/S' S' P/S'
+Radhe Radhe Radhe Radhe, Shyam Radhe Ra         dhe
+
+---- version 4v2 ----
+
+S'    g'    S'     n      D     n    S' P/S' S' P/S' S' P/S' S' P/S' P/S' P/S'
+Radhe Radhe Radhe Radhe, Shyam Radhe Ra         dhe
+
+---- version 4v3 ----
+
+S'    g'    S'     n      D     n    S' P/S' S' P/S' S' P/S'
+Radhe Radhe Radhe Radhe, Shyam Radhe Ra         dhe
+
+---- version 5 ----
+
+ D     n    S' P/S' S' P/S'  n     D n  S'  n D P
+Radhe Radhe Ra         dhe, Shyam Ra   dhe Ra     dhe
+
+---- version 5v2 ----
+
+ D     n    S' P/S'      S'  n     D  n S' n D   P
+Radhe Radhe Ra      dhe,    Shyam Radhe Ra     dhe
+
+---- version 6 ----
+
+ m        g  mP       m  g  m  P  g R   S
+Radhe Radhe Ra  dhe, Shyam Radhe Ra   dhe
+
+---- version 6v2 ----
+
+ m        g  m  P   m  g  m  P  g R   S
+Radhe Radhe Radhe, Shyam Radhe Ra   dhe
+
+---- version 3v2 ----
+
+ S     g     S    'n      'P   'n     S
+Radhe Radhe Radhe Radhe, Shyam Radhe Radhe
+
+---- version 3v3 ----
+
+ S     g     S    'n      'D   'n     S
+Radhe Radhe Radhe Radhe, Shyam Radhe Radhe
+
+---- version 1v4 ----
+
+ S     g  m    P S/P S S/m  m  g  m  P  g R S
+Radhe Radhe Ra   dhe,      Shyam Radhe Ra     dhe
+  
+---- version 1v5 ----
+
+ S     g  m    P S/P S S/m  m  g  m  P  g R    S
+Radhe Radhe Ra   dhe,      Shyam Radhe Ra   dhe
+  
+---- version 2v3 ----
+
+ P     n    S' P/S' S'  n  D  n S'  n D   P
+Radhe Radhe Ra dhe,    Shyam Radhe Ra   dhe
+
+---- version 2v4 ----
+
+ P     n    S' P/S' S'  n  D  n S'  n D P
+Radhe Radhe Ra dhe,    Shyam Radhe Ra      dhe
+
+---- version 4v4 ----
+
+S'    g'    S'    n         D     n    S' P/S'
+Radhe Radhe Radhe   Radhe, Radhe Radhe Ra      dhe
+
+---- version 4v5 ----
+
+S'    g'    S'     n     D        n    S' P/S'
+Radhe Radhe Radhe Radhe,   Shyam Radhe Ra      dhe
+
+---- version 4v6 ----
+
+S'    g'    S'     n      D     n    S' P/S' S' P/S' S' P/S' 
+Radhe Radhe Radhe Radhe, Shyam Radhe Ra         dhe
+
+---- version 4v7 ----
+
+S'    g'    S'     n     D         n    S'
+Radhe Radhe Radhe Radhe,    Shyam Radhe Radhe
+
+-> S/S'
+
+---- version 1v6 ----
+
+ S     g  m    P      m     g  m  P  g R S     'P/S
+Radhe Radhe Ra   dhe,   Shyam Radhe Ra     dhe
+
+---- version 1v7 ----
+
+ S     g  m    P S/P S S/m  m  g  m  P  g R S     'P/S
+Radhe Radhe Ra   dhe,      Shyam Radhe Ra     dhe
+
+---- version 1v8 ----
+
+ S     g  m  P S/P  S S/m  m  g  m  P  g R S     'P/S
+Radhe Radhe Ra dhe,       Shyam Radhe Ra     dhe
+
+
+--- Finish ---
+
+'P/S                       S (release S)
+Bo   lo Radharani ki jaya!
