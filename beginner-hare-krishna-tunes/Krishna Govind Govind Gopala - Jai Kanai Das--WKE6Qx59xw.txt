@@ -1,0 +1,57 @@
+ R/m       m P D  Pmg       m g R
+Kri  shna Govind Go   vind Gopala
+
+ R       m P D  Pmg       m g R
+Krishna Govind Go   vind Gopala
+
+-> R/R'
+
+R/R'      R'  g' R'S'n  DP  D S' n D D/R'
+Kri  shna murali mano  har nand lala
+
+D/R'   R'     g' R'S'n  DP  D S' nD
+Kri  shna murali mano  har nand la  la
+
+-> R/D
+
+ R       m P D  Pmg       m g R
+Krishna Govind Go   vind Gopala
+
+ R       m P D  Pmg       m gR
+Krishna Govind Go   vind Gopa  la
+
+-> R/R'
+
+ R'  D/R' R'     g' R'S'n  DP  D S' n D D/R'
+Krishna      murali mano  har nand lala
+
+D/R'     R'     g' R'S'n  DP  D S' n D
+Kri shna    murali mano  har nand lala
+
+-> R/D
+
+ R    m P D  Pmg       m g R
+Bolo Govind Go   vind Gopala
+
+ R    m P D  Pm  g    m g R
+Bolo Govind Go  vind Gopala
+
+-> R/R'
+
+R' D/R' R'g' R' S'n  D P  DS'  n D
+Bo lo   Govind  Go  vind Go   pala
+
+D/R' R' g' R' S'n  D P  DS'  n D
+Go      vind  Go  vind Go   pala
+
+-> R/D
+
+R/D    R  m PD   Pmg       m g R
+Kri shna Govind Go   vind Gopala
+
+  R      m PD   Pmg      m    gR
+Krishna Govind Go   vind   Gopa  la
+
+-> 'D/R
+
+Bolo murali manohar nandlala
