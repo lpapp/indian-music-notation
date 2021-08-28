@@ -3,25 +3,118 @@
  G            S    R  'D  S   S/G
 Govinda Bolo Hari Gopala Bolo
 
- G            S    R   'D/R 'D 'D/S S    S/G G
-Govinda Bolo Hari Gopa      la Bo     lo
+ G            S    R   'D/R 'D  S   G
+Govinda Bolo Hari Gopa      la Bolo
 
-   G/P   P            D     G/D G G/P P    G/P G
-Ra     dha Raman Hari   Govin   d Bo    lo
+ G  P            D      G  P   G
+Radha Raman Hari   Govind Bolo
 
-   G/P   P            D     G/D G G/P P    G/P G
-Ra     dha Raman Hari   Govin   d Bo    lo
+   G/P   P            D      G  P   G
+Ra     dha Raman Hari   Govind Bolo
+
+---
+
+ G            S    R  'D  S   S/G
+Govinda Bolo Hari Gopala Bolo
+
+ G            S    R  'D  S   G
+Govinda Bolo Hari Gopala Bolo
+
+ G  P            D      G  P   G
+Radha Raman Hari   Govind Bolo
+
+    P            D      G  P
+Radha Raman Hari   Govind Bolo
+
+Four keys: 'D S R G
+
+---
+
+ G G/P    P        D  G   P
+Radha  Raman Hari Govind Bolo
+
+Three keys: G P D
+
+---
+
+ G            S    R  'D  S   S/G
+Govinda Bolo Hari Gopala Bolo
+
+ G            S    R  'D  S   S/G
+Govinda Bolo Hari Gopala Bolo
+
+ G  P             D   G  P   G
+Radha Raman Hari Govind Bolo
+
+    P             D   G  P
+Radha Raman Hari Govind Bolo
 
 ========== Part 2 ==========
 
- G G/P P D     D/S'    S'           R   'D/R 'D 'D/S' S'   G/S' G
-Go         vin     da    Bolo Hari Gopa      la       Bolo
+ G P D    S'           R'   D S'   G
+Go     vinda Bolo Hari Gopala Bolo
 
- G G/P P D     D/S'    S'          R      'D/R 'D 'D/S' S'   G/S' G
-Go         vin     da    Bolo Hari   Gopa      la       Bolo
+ G P  D  S'           R'      D S'   G
+Go   vinda  Bolo Hari    Gopala Bolo
 
-S' D/S'  D  P G/P  G       G/D  DP G/P  G  R    S   S/S'
-Ra     dha Ra     man Hari     Go      vin   d Bolo
+Keys: G P D S' R'
 
-S' D/S'  D  P G/P  G       G/D  DP G/P  G  R    S
-Ra     dha Ra     man Hari     Go      vin   d Bolo
+---
+
+ G P  D S'           R'      D S'
+Go   vinda Bolo Hari    Gopala Bolo
+
+S'  D  P G        DP  G R  S   S/S'
+Radha Raman Hari Go  vind Bolo
+
+S'  D  P G        DP  G R  S   S/S'
+Radha Raman Hari Go  vind Bolo
+
+---
+
+S'  D  P G        DP  G R  S   S/S'
+Radha Raman Hari Go  vind Bolo
+
+S'  D  P G        DP  G R  S
+Radha Raman Hari Go  vind Bolo
+
+-> S/G
+
+---
+
+ G            S    R  'D  S   S/G
+Govinda Bolo Hari Gopala Bolo
+
+ G            S    R  'D  S   S/G
+Govinda Bolo Hari Gopala Bolo
+
+ G  P             D   G  P   G/P
+Radha Raman Hari Govind Bolo
+
+ G  P            D      G  P
+Radha Raman Hari   Govind Bolo
+
+---
+
+ G P  D S'           R'   D S'   G
+Go   vinda Bolo Hari Gopala Bolo
+
+ G P  D  S'           R'   D S'   G
+Go   vinda  Bolo Hari Gopala Bolo
+ 
+S'  D  P G        DP  G R  S   S/S'
+Radha Raman Hari Go  vind Bolo
+
+S'  D  P G        DP  G R  S
+Radha Raman Hari Go  vind Bolo
+
+-> S/G
+
+ G           S       R  'D  S   S/G
+Govinda Bolo   Hari Gopala Bolo
+
+ G            S    R  'D  S   S/G
+Govinda Bolo Hari Gopala Bolo
+
+ G           S      R    'D  S      S/G
+Govinda Bolo   Hari   Gopala   Bolo
