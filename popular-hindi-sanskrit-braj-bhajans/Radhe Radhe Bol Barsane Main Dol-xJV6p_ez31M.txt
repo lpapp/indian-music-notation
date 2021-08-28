@@ -1,86 +1,181 @@
 Lyrics:
 
- R  G        G/M  M      G/M  G R       G        G/M   M     G/M  G R
-Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
+ R  G     M    G R        G     M    G R
+Radhe Radhe bo     l, Radhe Radhe bo     l
 
- G      R R/M  M  G/M  G R 'n /R 'n       'n /G     G      G/M  M     G/M   G    R      ('D/R)
-Barsane   me      i     Do            l,        ke mukh se      Radhe      Radhe   Bol
+ G      R  MG  R 'N        G       M     G     R
+Barsane   mei Do    l, ke mukh se Radhe Radhe Bol
 
- R  G        G/M  M      G/M  G R       G        G/M   M     G/M  G R
-Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
+ R  G     M    G R        G    M     G R
+Radhe Radhe bo     l, Radhe Radhe bo      l
 
- G      R R/M  M  G/M  G R 'n /R 'n       'n /G     G      G/M  M     G/M   G    R     ('D/R)
-Barsane   me      i     Do            l,        ke mukh se      Radhe      Radhe   Bol
+ G      R  MG  R 'N    'N /G     G       M     G     R
+Barsane   mei Do    l,       ke mukh se Radhe Radhe Bol
 
-R/M  M  G/M   G    R        G     G/M  M       G/M   G       R       R/P
-Ra      dhe  Radhe   Radhe Radhe, Ra       dhe      Jai Shri   Radhe
+ M     G     R     G      M     G        R    R/P
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
 
- P              D     P  M     G/M  G        R  G G/M  M      R/M
-Radhe Radhe Radhe Radhe, Radhe        Jai Shri Ra         dhe
+ P              D     P   M     G     R  G  M
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
 
- R  G        G/M  M      G/M  G R       G        G/M   M     G/M  G R
-Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
+ P              D     P   M     G     R  G  M
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
 
- G      R R/M  M  G/M  G R 'N/R 'N     'N/G     G      G/M  M     G/M   G    R      ('D/R)
-Barsane   me      i     Do          l,      ke mukh se      Radhe      Radhe   Bol
+-> R/M
 
+ R  G     M    G R     R  G     M    G R
+Radhe Radhe bo     l, Radhe Radhe bo     l
 
-(INTERLUDE)
-
-   D       N    D M /D M     G/M  G   R G     G/M  M  M /D
-Shri Barsa   no           Dhaa     m Ra   ngi      lo
-
-   D       N    D M /D M     G/M  G   R  G G/M  M  M /D
-Shri Barsa   no           Dhaa     m Rangi      lo
-
-  D       N         D M /D  M  G/M  G  R  G G/M  M  G/M  G
-Dhaam Ran   gilo Braj      dha      m Rangi      lo
-
-        R R/M  M  G/M  G  R 'N/R 'N    'N/G     G      G/M  M     G/M   G    R     G
-Radhe hai A       n      mo         l,      ke mukh se      Radhe      Radhe   Bol
-
-        R R/M  M  G/M  G  R 'N/R 'N    'N/G     G      G/M  M     G/M   G    R     G
-Radhe hai A       n      mo         l,      ke mukh se      Radhe      Radhe   Bol
-
- R  G        G/M  M      G/M  G R       G        G/M   M     G/M  G R
-Ra    dhe Ra      dhe bo          l, Ra   dhe Ra      dhe bo          l
-
- G      R R/M  M  G/M  G R 'N/R 'N     'N/G     G      G/M  M     G/M   G    R     R/M
-Barsane   me      i     Do          l,      ke mukh se      Radhe      Radhe   Bol
-
-R/M  M  G/M   G    R        G     G/M  M       G/M   G       R       R/P
-Ra      dhe  Radhe   Radhe Radhe, Ra       dhe      Jai Shri   Radhe
-
- P              D     P  M     G/M  G        R  G G/M  M      R/M
-Radhe Radhe Radhe Radhe, Radhe        Jai Shri Ra         dhe
+ G      R  MG  R 'N   'N/G        G     M     G     R 'D/R
+Barsane   mei Do    l,      ke mukh se Radhe Radhe Bol
 
 
 (INTERLUDE)
 
+   D       N D M     G  R  G M/D
+Shri Barsano     Dhaam Rangilo
 
+   D       N    D M     G  R  G M M/D
+Shri Barsa   no     Dhaam Rangilo
+
+  D         N    D   MG  R  G M  G
+Dhaam Rangilo Braj dham Rangilo
+
+        R MG R 'N        G       M     G     R  G
+Radhe hai Anmo    l, ke mukh se Radhe Radhe Bol
+
+        R MG  R 'N        G       M     G     R  G
+Radhe hai Anmo     l, ke mukh se Radhe Radhe Bol
+
+ R  G     M    G R        G     M    G R
+Radhe Radhe bo     l, Radhe Radhe bo     l
+
+ G      R  MG  R 'N             G  M     G     R
+Barsane   mei Do    l, ke mukh se Radhe Radhe Bol
+
+ M     G     R     G      M     G        R     R/P
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+R/P   P           D     P   M     G     R  G  M M/P
+Ra  dhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+ P              D     P   M     G     R  G  M
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+-> R/M
+
+(INTERLUDE)
+
+  D      N  D  M   G R   G  M M/D
 Brahmachal Parvat Mann Bhaayo
 
+  D         ND M   G R   G  M G/M
 Brahmachal Parvat Mann Bhaayo
 
-Radhe Karat Kilol, Ki Mukh Se Radhe Radhe Bol
+ G       RM  G R 'N             G  M     G     R
+Radhe Karat Kilo    l, Ki Mukh Se Radhe Radhe Bol
 
-Radhe Radhe bol, Radhe Radhe bol
-Barsane mei Dol, ke mukh se Radhe Radhe Bol
+ G       RM  G R 'N             G  M     G     R
+Radhe Karat Kilo    l, Ki Mukh Se Radhe Radhe Bol
+
+ R  G     M    GR        G     M    GR
+Radhe Radhe bo    l, Radhe Radhe bo    l
+
+ G      R  MG  R 'N             G  M     G     R  R/M
+Barsane   mei Do    l, ke mukh se Radhe Radhe Bol
+
+---
+
+ M     G     R     G      M     G        R     R/P
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+R/P   P           D     P   M     G     R  G  M R/M
+Ra  dhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+ R  G     M    GR        G     M    GR
+Radhe Radhe bo    l, Radhe Radhe bo    l
+
+ G      R  MG  R 'N             G  M     G     R  'D/R
+Barsane   mei Do    l, ke mukh se Radhe Radhe Bol
 
 (INTERLUDE)
 
+  D         N  D  M GR   G M   M/D
 Braji Ki Galiyan Mohan Khelein
-Mohan Khelein Sanwaariya Khelein
-Aur Gwalan Ko Tol
+
+  D         N  D  M GR   G M   M/D
+Braji Ki Galiyan Mohan Khelein
+
+ D        N      D   M    GR   G M   G/M
+Mohan Khelein Sa   nwaariya  Khelein
+ 
+G        R  MG  R 'N 
+Aur Gwalan Ko  To    l
+
+         G  M     G     R
 Ki Mukh Se Radhe Radhe Bol
-Radhe Radhe bol, Radhe Radhe bol
-Barsane mei Dol, ke mukh se Radhe Radhe Bol
+
+G        R  MG  R 'N 
+Aur Gwalan Ko  To    l
+
+         G  M     G     R
+Ki Mukh Se Radhe Radhe Bol
+
+    G     M    GR        G     M    GR
+Radhe Radhe bo    l, Radhe Radhe bo    l
+
+ G      R  MG  R 'N             G  M     G     R  R/D
+Barsane   mei Do    l, ke mukh se Radhe Radhe Bol
+
+---
+
+ M     G     R     G      M     G        R     R/P
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+R/P   P           D     P   M     G     R  G  M R/M
+Ra  dhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+-> M/D
 
 (INTERLUDE)
 
-Gahvar Van Ki Lata Patan Mein
-Gahvar Van Ki Lata Patan Mein
-Pakshi Bolein Radhe Bol
+ D       N    D  M   G  R G   M   M/D
+Gahvar Van Ki   Lata   Patan Mein
+
+ D       N    D  M   G  R G   M   R/M
+Gahvar Van Ki   Lata   Patan Mein
+
+ G        R    M  G  R 'N
+Pakshi Bolein Radhe Bo    l
+
+         G  M     G     R
 Ki Mukh Se Radhe Radhe Bol
-Radhe Radhe bol, Radhe Radhe bol
-Barsane mei Dol, ke mukh se Radhe Radhe Bol
+
+ R  G     M    GR        G     M    GR
+Radhe Radhe bo    l, Radhe Radhe bo    l
+
+ G      R  MG  R 'N             G  M     G     R
+Barsane   mei Do    l, ke mukh se Radhe Radhe Bol
+
+---
+
+ M     G     R     G      M     G        R     R/P
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+R/P   P           D     P   M     G     R  G  M M/P
+Ra  dhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+ P              D     P   M     G     R  G  M R/M
+Radhe Radhe Radhe Radhe, Radhe Jai Shri Radhe
+
+ R  G     M    GR        G     M    GR
+Radhe Radhe bo    l, Radhe Radhe bo    l
+
+ G      R  MG  R 'N             G  M     G     R  'D/R
+Barsane   mei Do    l, ke mukh se Radhe Radhe Bo       l
+
+->
+
+
+'D/R  R  (release R)
+     Jai Shri        Radhe 
