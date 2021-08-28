@@ -1,28 +1,87 @@
 ========== Part 1 ==========
 
-  S     S/m m       g    S 'n   S
+  S     S/m m        g   S 'n   S
 Sriman Na     rayan Naraya n   Hari Hari
 
-  S    S/m m       g    S 'n   S        S/m
+  S    S/m    m   g   S 'n   S        S/m
+Swami Na   rayan Naraya n   Hari Hari
+
+   m              g  m  g  m g 'n S           S/m
+Teri Leela Sabse Pyari Pyari        Hari Hari
+
+               m  g  m  g  m g 'n  S           S/m
+Teri Leela Sabse Pyari Pyari      Hari Hari
+     
+ m           d m  m/S'    S' n  d      m          g  m  g  m g 'n S            S/m
+Teri Mahima,           Te   ri    Mahi    ma hai pyari pyari         hari hari
+
+ m           d m  m/S'    S' n  d    m        g  m  g  m g 'n S            S/m
+Teri Mahima,           Te   ri    Mahima hai pyari pyari         hari hari
+
+S/m m           d m  m/S' S' n d    m        g  m  g  m g 'n S            S/m
+Te    ri Mahima,          Teri   Mahima hai pyari pyari         hari hari
+
+  S     S/m  m     g   S 'n   S
+Sriman Na   rayan Naraya n   Hari Hari
+
+  S    S/m m        g   S 'n   S        S/m
 Swami Na     rayan Naraya n   Hari Hari
-
-   m             g     g /m m g  g /m m g  'n /g  'n  S           S/m
-Teri Leela Sabse    Pyari     Pyari                     Hari Hari
-
-               m g     g /m m g  g /m m g  'n /g  'n  S           S/m
-Teri Leela Sabse    Pyari     Pyari                     Hari Hari
-
- m           m/d  d  m/d  m    m/S'   S' n  d    m/d  m         g  g /m m  g  g /m m g  'n /g  'n /S S            S/m
-Teri Mahima,                        Te   ri    Mahi     ma hai pya ri     pya ri                       hari hari
 
 ========== Part 2 ==========
 
- S   S/d    d         P    G/P  G m P      m      P m d  P m    G         S/G  S   r       r /m  m G r   S
-Hari      O    m Namo   Na     rayanaya, O   m Namo   Na     ra   yanaya,     Hari Om Namo      Na   ra    yana   ya
+ S   S/d    d          P G m P      m      P m  d P m    G         S/G  S   r        m G  r  S
+Hari      O    m Namo Narayanaya, O   m Namo   Na     ra   yanaya,     Hari Om Namo Na   ra yanaya
 
- S   r       r /m  m G r   S
-Hari Om Namo      Na   ra    yana   ya (x2)
+ S   r        m G  r  S
+Hari Om Namo Na   ra yanaya (x2)
 
+---
 
+ S   S/d d         P G m P      m      P m  d P m    G         S/G  S   r        m G  r  S
+Hari O     m Namo Narayanaya, O   m Namo   Na     ra   yanaya,     Hari Om Namo Na   ra yanaya
 
-This one is better than the other variation (starting with Dha,/A,) unless someone has a deep voice.
+ S   r        m G  r  S
+Hari Om Namo Na   ra yanaya (x2)
+
+-----
+
+  S     S/m m        g   S 'n   S
+Sriman Na     rayan Naraya n   Hari Hari
+
+  S     S/m m        g   S 'n   S        S/m
+Sriman Na     rayan Naraya n   Hari Hari
+
+ m               g     m  g  m g 'n S           S/m
+Teri Leela Sabse   Pyari Pyari        Hari Hari
+
+               m g     m  g  m g 'n  S           S/m
+Teri Leela Sabse   Pyari Pyari      Hari Hari
+     
+S/m            m d m m/S'    S' n  d    m        g  m  g  m g 'n S            S/m
+Te  ri Mahima,            Te   ri    Mahima hai pyari pyari         hari hari
+
+S/m  m         d m m/S' S' n  d   m         g  m  g  m g 'n  S        S/m
+Te  ri Mahima,          Teri Mahi   ma hai pyari pyari      hari hari
+
+  S     S/m  m     g   S 'n  S
+Sriman Na   rayan Naraya n  Hari Hari
+
+---
+
+ S   S/d d         P G m P      m      P m  d P m    G      S/G  S   r        m G  r  S
+Hari O     m Namo Narayanaya, O   m Namo   Na     rayanaya,     Hari Om Namo Na   ra yanaya
+
+ S   r        m G  r  S
+Hari Om Namo Na   ra yanaya (x2)
+
+---
+
+  S     S/m  m     g   S 'n   S
+Sriman Na   rayan Naraya n   Hari Hari
+
+  S    S/m  m     g   S 'n   S        S/m
+Swami Na   rayan Naraya n   Hari Hari
+
+---
+
+This one is better than the other variation (starting with 'D) unless someone has a deep voice.
