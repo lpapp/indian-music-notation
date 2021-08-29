@@ -1,0 +1,41 @@
+
+'D         S  R  G   'D/G G  P   G   R          S  R  GR  S  'D
+A  yodhya vaasi Ram,        Ram Ram Ram, Dasarath nandan Ram
+
+'D         S  R  G    PG        R          S  R  GR  S 'D
+A  yodhya vaasi Ram, Ra  m Ram Ram, Dasarath nandan Ra    m
+
+-----
+
+'D         S  R G       P   G   R          S  R  GR  S 'D
+A  yodhya vaasi   Ram, Ram Ram Ram, Dasarath nandan Ra    m
+ 
+Keys: 'D S R G P
+
+'D         S  R  G    P   G   R          S  R  GR  S 'D
+A  yodhya vaasi Ram, Ram Ram Ram, Dasarath nandan Ra    m
+
+===== Part 2 =====
+
+ P   G  P      D   P  GR           S  R G R  S 'D
+Patita Pavana Janaki Ji  vana Sita   Mohana Ra    m
+
+ P   G  P   G  D   P  GR           S  R G R  S 'D
+Patita Pavana Janaki Ji  vana Sita   Mohana Ra    m
+
+ P   G  P   G  D   P  GR           S R    G R  S 'D
+Patita Pavana Janaki Ji  vana Sita     Mohana Ra    m
+
+ P   G  P   G  D   P  GR           S  R G R  S 'D
+Patita Pavana Janaki Ji  vana Sita   Mohana Ra    m
+
+-----
+
+'D         S  R  G 'D/G    G P    G      R               S  R  GR  S 'D
+A  yodhya vaasi Ra      m,     Ra   m Ra   m Ram, Dasarath nandan Ra    m
+
+-> 'D/P
+
+ P   G  P   G  D   P G   R        S  R G R  S 'D
+Patita Pavana Janaki  Jivana Sita   Mohana Ra    m
+
