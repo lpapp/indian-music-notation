@@ -3,24 +3,26 @@
  P    m  G  S G  m  P
 hare kṛṣṇa hare kṛṣṇa
 
- P     m  G  S'n  D P
+ P     m  G  S'n 'D'P
 kṛṣṇa kṛṣṇa hare hare
 
  P    m G  S G  m P
 hare rāma hare rāma
 
- P    m G  S'n  D P
+ P    m G  S'n 'D'P
 rāma rāma hare hare
+
+-> 'P/D
 
 ========= Part 2 ==========
 
- D         n     D  P
+ D          n    D  P
 hare kṛṣṇa hare kṛṣṇa
 
  P     m  G  S G  m P D
 kṛṣṇa kṛṣṇa hare hare
 
- D        n     D P
+ D         n    D P
 hare rāma hare rāma
 
  P    m G  S G  m P D
@@ -68,6 +70,8 @@ hare rāma hare rāma
  S    G    m    P
 rāma rāma hare hare
 
+===========================
+        Single-time
 ========= Part 6 ==========
 
 m/D        m/n     D  P
