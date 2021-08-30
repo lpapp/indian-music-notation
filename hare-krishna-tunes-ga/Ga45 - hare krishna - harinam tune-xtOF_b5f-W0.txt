@@ -1,46 +1,60 @@
 ========== Part 1 ==========
 
-g n     d r N       n d M d
-hare kṛṣṇa    hare kṛṣṇa
+ g n     d r' N         n   d M d
+hare kṛṣṇa      hare kṛ   ṣṇa
 
-r      d M d n       d n
+ r  d     M d n       d n
 kṛṣṇa kṛṣṇa     hare hare
 
-g n    d r N       n d M d
-hare rāma     hare rāma
+ g n    d r' N         n  d M d
+hare rāma      hare rā   ma
 
-r    d M d n       d n
+ r d    M d n       d n
+rāma rāma     hare hare
+
+========= Part 1v2 =========
+
+ g n       r' N         n   d M d
+hare kṛṣṇa      hare kṛ   ṣṇa
+
+ r  d     M d n       d n
+kṛṣṇa kṛṣṇa     hare hare
+
+ g n      r' N         n  d M d
+hare rāma      hare rā   ma
+
+ r d    M d n       d n
 rāma rāma     hare hare
 
 ========== Part 2 ==========
 
-g'   r'     Nn d  n
-hare kṛṣṇa hare  kṛṣṇa
+g'   r'     N n d  n
+hare kṛṣṇa hare   kṛṣṇa
 
-g'    r'     Nn d  n
+g'    r'     N n d  n
 kṛṣṇa kṛṣṇa hare   hare
 
-g n    d r N      n d M d
-hare rāma    hare rāma
+ g n    d r' N         n  d M d
+hare rāma      hare rā   ma
 
-r    d M d n      d n
-rāma rāma    hare hare
+ r d    M d n       d n
+rāma rāma     hare hare
 
 ============================
          Double-time
 ========== Part 3 ==========
 
-g     n          d r'
+ g    n          d r'
 hare kṛṣṇa hare kṛṣṇa
 
- N            n  d M
+ N             n  d M
 kṛṣṇa kṛṣṇa hare hare
 
-d              M d
-hare rāma hare rāma
+ d              M d
+hare rāma hare rā   ma
 
-n    d n
-rāma rāma hare hare
+ n      d     n
+rāma rā   ma hare hare
 
 ========== Part 4 ==========
 
@@ -53,6 +67,6 @@ kṛṣṇa kṛṣṇa hare hare
 g'        r'
 hare rāma hare rāma
 
- N   n d  n
+ N    n d  n
 rāma rāma hare hare
 

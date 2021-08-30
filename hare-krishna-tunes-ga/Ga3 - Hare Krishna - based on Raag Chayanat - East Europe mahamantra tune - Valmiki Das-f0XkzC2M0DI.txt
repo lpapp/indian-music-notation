@@ -3,19 +3,19 @@
 G/D  G/N G/d  G/D G/D  G/N G/d  G/D
 hare kṛṣ ṇa       hare kṛṣ ṇa
 
-   M /D        R/M /D    G/d /N G/N    G/D
-kṛṣṇa   kṛṣṇa  ha     re ha         re
+   M/D        R/M/D    G/d/N G/N    G/D
+kṛṣṇa  kṛṣṇa  ha    re ha        re
 
 G/D  G/N G/d  G/D G/D  G/N G/d  G/D
 hare rā  ma       hare rā  ma
 
-  M /D      R/M /D    G/d /N G/N    G/D
-rāma   rāma ha     re ha         re
+  M/D      R/M /D    G/d /N G/N    G/D
+rāma  rāma ha     re ha         re
 
 ========= Part 2 ==========
 
-G/D  G/N G/d        G/D M /D
-hare kṛṣ ṇa   ha re kṛṣ ṇa
+G/D  G/N G/d       G/D M /D
+hare kṛṣ ṇa   hare kṛṣ ṇa
 
        R/D        G/D
 kṛṣṇa kṛṣ ṇa hare ha re
@@ -31,13 +31,13 @@ rāma rā ma hare ha re
 G/D             G/N G/d
 hare kṛṣṇa hare kṛṣ ṇa
 
-                     G/D
-kṛṣṇa kṛṣ ṇa hare ha re
+                   G/D
+kṛṣṇa kṛṣṇa hare hare
 
-M /D
-hare rā  ma   hare rā  ma
+M/D
+hare rāma hare rā  ma
 
 R/D
-rāma rā ma hare ha re
+rāma rāma hare hare
 
 =========  End   ==========
