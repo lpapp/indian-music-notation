@@ -42,6 +42,6 @@ rāma rāma hare hare
 
 ============================
 
-Am: A, C E
-F: F, A, C
-G: G, B, D 
+Am: 'A C E (Swar: 'D S G)
+F: 'F 'A C (Swar: 'm 'D S)
+G: 'G 'B D (Swar: 'P 'N R)
