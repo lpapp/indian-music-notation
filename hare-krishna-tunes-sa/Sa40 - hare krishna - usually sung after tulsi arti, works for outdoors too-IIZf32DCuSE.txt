@@ -14,16 +14,16 @@ rāma rāma ha  re ha re
 
 ========= Part 2 ==========
 
-S'         n  D P S'     n   D
-hare kṛṣṇa        ha re kṛṣ ṇa
+S'         n  D P S'     n D
+hare kṛṣṇa        hare kṛṣṇa
 
-S'           n  D P S'   n   D
-kṛṣṇa kṛṣ ṇa        hare ha re
+S'           n  D P S'    n D
+kṛṣṇa kṛṣ ṇa        hare hare
 
  P     m P D  P     m P D
 hare rā ma   hare rā ma
 
- m P  D n   D P m  G  m
-rāma rā ma ha  re ha re
+ m P  D n  D P m  G m
+rāma rāma ha  re hare
 
 =========  End   ==========

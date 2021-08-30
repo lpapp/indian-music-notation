@@ -26,6 +26,8 @@ hare rāma hare  rā ma
  P        mP DP  mG R
 rāma rāma hare  ha re
 
+===========================
+       Double-time
 ========= Part 3 ==========
 
  m    G  R  S   'n    S
@@ -43,13 +45,13 @@ rāma rāma hare hare
 ========= Part 4 ==========
 
 R/D
-hare kṛṣṇa hare kṛṣṇa
+ha  re kṛṣṇa hare kṛṣṇa
 
-n      D  P  m    P
+ n     D  P  m    P
 kṛṣṇa kṛṣṇa hare hare
 
 R/P
-hare rāma hare rā ma
+ha  re rāma hare rāma
 
  m P  D P  m G  R
 rāma rāma hare hare
